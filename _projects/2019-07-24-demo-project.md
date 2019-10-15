@@ -10,6 +10,7 @@ accent_color: "#4C60E6"
 gallery_images:
 - logo-short-blu.png
 - copertina.png
+published: false
 
 ---
 This page is a demo that shows everything you can do inside portfolio and blog posts.
