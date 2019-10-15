@@ -5,7 +5,7 @@ date: 2019-07-24T00:00:00.000+00:00
 description: This is a demo post that shows what you can do inside portfolio and blog
   posts. We’ve included everything you need to create engaging posts and case studies
   to show off your work in a beautiful way.
-featured_image: demo.jpg
+featured_image: copertina.png
 accent_color: "#4C60E6"
 gallery_images:
 - demo.jpg
@@ -17,9 +17,7 @@ This page is a demo that shows everything you can do inside portfolio and blog p
 
 We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
 
-![](/images/demo.jpg)
-
-![](/images/copertina.png)**Obviously,** we’ve styled up _all the basic_ text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+![](/images/demo.jpg)**Obviously,** we’ve styled up _all the basic_ text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 You can create lists:
 
