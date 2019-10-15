@@ -8,8 +8,7 @@ description: Fudeo è una piattaforma di corsi online in italiano sulle ultime t
 featured_image: Fudeo.jpg
 accent_color: "#4C60E6"
 gallery_images:
-- logo-short-blu.png
 - copertina.png
 
 ---
-Fudeo nasce 
+Fudeo nasce
