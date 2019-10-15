@@ -5,7 +5,7 @@ date: 2019-07-24T00:00:00.000+00:00
 description: This is a demo post that shows what you can do inside portfolio and blog
   posts. We’ve included everything you need to create engaging posts and case studies
   to show off your work in a beautiful way.
-featured_image: copertina.png
+featured_image: demo.jpg
 accent_color: "#4C60E6"
 gallery_images:
 - demo.jpg
