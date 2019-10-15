@@ -8,9 +8,8 @@ description: This is a demo post that shows what you can do inside portfolio and
 featured_image: Fudeo.jpg
 accent_color: "#4C60E6"
 gallery_images:
-- demo.jpg
-- demo.jpg
-- demo.jpg
+- logo-short-blu.png
+- copertina.png
 
 ---
 This page is a demo that shows everything you can do inside portfolio and blog posts.
