@@ -1,11 +1,11 @@
 ---
 title: YouRemind
 subtitle: Servizio di self-publishing per comunità.
-date: 2019-07-24T00:00:00.000+00:00
+date: 2019-07-24 00:00:00
 description: Descrizione di YouRemind
-featured_image: youremind.png
-accent_color: "#4C60E6"
+featured_image: /images/youremind.png
+accent_color: '#fff700'
 gallery_images: []
-
 ---
-YouRemind è stato il primo progetto.
+
+YouRemind &egrave; stato il primo progetto.
