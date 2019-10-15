@@ -1,5 +1,5 @@
 ---
-title: '#1. YouRemind'
+title: '#1 YouRemind'
 subtitle: Servizio di self-publishing per comunità.
 date: 2019-07-24 00:00:00
 description: Descrizione di YouRemind
