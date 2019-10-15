@@ -28,7 +28,7 @@ sections:
 - type: directory
   path: ''
   label: Config
-  create: documents
+  create: all
   match: "**/*"
 upload_dir: images/projects
 public_path: ".."
