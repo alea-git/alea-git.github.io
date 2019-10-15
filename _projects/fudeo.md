@@ -7,6 +7,7 @@ featured_image: "/images/copertina.png"
 accent_color: ''
 gallery_images:
 - "/images/logo-short-blu.png"
+published: false
 
 ---
 Testo del progetto?
