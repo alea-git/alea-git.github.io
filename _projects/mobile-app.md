@@ -1,5 +1,5 @@
 ---
-title: '#3 - Fudeo'
+title: '#3. Fudeo'
 subtitle: >-
   Piattaforma di corsi online, ha convertito il primo cliente dopo sette giorni
   dalla prima ads.
