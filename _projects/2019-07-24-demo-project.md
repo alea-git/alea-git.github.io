@@ -7,9 +7,7 @@ description: This is a demo post that shows what you can do inside portfolio and
   to show off your work in a beautiful way.
 featured_image: Fudeo.jpg
 accent_color: "#4C60E6"
-gallery_images:
-- logo-short-blu.png
-- copertina.png
+gallery_images: []
 published: false
 
 ---
