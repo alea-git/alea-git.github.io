@@ -1,7 +1,7 @@
 ---
-title: '#1 YouRemind'
+title: YouRemind
 subtitle: Servizio di self-publishing per comunità.
-date: 2019-07-24 00:00:00
+date: 2019-10-13 00:00:00
 description: Descrizione di YouRemind
 featured_image: screenyouremind.png
 accent_color: '#236b90'
