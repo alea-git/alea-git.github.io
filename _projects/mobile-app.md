@@ -1,6 +1,6 @@
 ---
 title: Fudeo
-subtitle: High-fidelity mobile app designs for a super awesome social media company.
+subtitle: Corsi online in italiano per developers.
 date: 2019-07-24T00:00:00.000+00:00
 description: Fudeo è una piattaforma di corsi online in italiano sulle ultime tecnologie
   per developers.
