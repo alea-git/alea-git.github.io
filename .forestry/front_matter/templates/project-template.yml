@@ -1,0 +1,25 @@
+---
+label: Project template
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: datetime
+  name: date
+  label: date
+- type: textarea
+  name: description
+  label: description
+- type: file
+  name: featured_image
+  label: featured_image
+- type: text
+  name: accent_color
+  label: accent_color
+- type: image_gallery
+  name: gallery_images
+  label: gallery_images
