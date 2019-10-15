@@ -15,10 +15,14 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
-  match: "**/*"
 - type: directory
   path: _pages
   label: Pages
+  create: all
+  match: "**/*"
+- type: directory
+  path: _includes
+  label: Includes
   create: all
   match: "**/*"
 upload_dir: images/projects
