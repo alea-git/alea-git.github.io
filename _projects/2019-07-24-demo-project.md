@@ -82,7 +82,12 @@ Here's another gallery with only one column, which creates a carousel slide-show
 
 A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
 
-{% include post-components/gallery.html columns = 1 full_width = true images = "/images/logo-short-blu.png,/images/copertina.png " %}
+{% include post-components/gallery.html
+columns = 1
+full_width = true
+images = "/images/demo.jpg,/images/demo.jpg,/images/demo.jpg
+"
+%}
 
 #### What about videos?
 
