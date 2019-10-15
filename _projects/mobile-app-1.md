@@ -4,7 +4,7 @@ subtitle: Servizio di self-publishing per comunità.
 date: 2019-07-24 00:00:00
 description: Descrizione di YouRemind
 featured_image: /images/youremind.png
-accent_color: '#fff700'
+accent_color: '#236b90'
 gallery_images: []
 ---
 
