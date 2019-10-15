@@ -6,7 +6,6 @@ description: Descrizione di YouRemind
 featured_image: youremind.png
 accent_color: "#4C60E6"
 gallery_images: []
-published: false
 
 ---
 YouRemind è stato il primo progetto.
