@@ -7,7 +7,6 @@ featured_image: "../Fudeo.png"
 accent_color: ''
 gallery_images:
 - "../projects/copertina.png"
-- "/images/logo-short-blu.png"
 published: false
 
 ---
