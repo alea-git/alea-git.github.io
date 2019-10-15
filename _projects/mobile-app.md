@@ -1,6 +1,7 @@
 ---
 title: Fudeo
-subtitle: Corsi online in italiano per developers.
+subtitle: Piattaforma di corsi online, ha convertito il primo cliente dopo sette giorni
+  dalla prima ads.
 date: 2019-07-24T00:00:00.000+00:00
 description: Fudeo è una piattaforma di corsi online in italiano sulle ultime tecnologie
   per developers.
