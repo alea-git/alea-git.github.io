@@ -25,6 +25,11 @@ sections:
   label: Includes
   create: all
   match: "**/*"
+- type: directory
+  path: ''
+  label: Config
+  create: documents
+  match: "**/*"
 upload_dir: images/projects
 public_path: ".."
 front_matter_path: ''
