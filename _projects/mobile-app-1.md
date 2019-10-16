@@ -23,8 +23,8 @@ In October 2018, YouRemind is selected for the semi-finals of Idee Vincenti, a c
 
 In January 2019 we publish apps for iOS and Android.
 
-In April 2019 we decide to suspend the service: in the end, we realized that YouRemind was a fantastic gym, thanks to which we discovered and made our own a type of common mentality in the world of startups, based on experimentation, on failure and on learning.
+In April 2019 we decide to suspend the service: in the end, we realized that YouRemind was a fantastic gym, thanks to which we discovered and made our own a type of common mindset in the world of startups, based on experimentation, failure and learning.
 
-Stopping for a moment to look back, we've probably done all the classic mistakes you can make when you're not experienced: for example, focusing only on developing new features, leaving out communication and, most important of all, creating the solution first and then create a problem around us.
+Stopping for a moment to look back, we've probably done all the classic mistakes you can make when you're not experienced: for example, focusing only on developing new features, leaving out communication and, most important of all, creating the solution first and then create a problem around it.
 
-After all these years, being able to suspend YouRemind was, perhaps, the gesture of final maturity that predisposed us to move towards the establishment of Alea Makers.
+After all these years, being able to suspend YouRemind was, perhaps, the gesture of final maturity that predisposed us to move towards the creation of Alea Makers.
