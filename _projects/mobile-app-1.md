@@ -1,8 +1,8 @@
 ---
 title: YouRemind
-subtitle: Servizio di self-publishing per comunità.
+subtitle: Community self-publishing service.
 date: 2019-10-13 00:00:00
-description: Descrizione di YouRemind
+description: 'Our first project, definitely something too far from us.'
 featured_image: screenyouremind.png
 accent_color: '#236b90'
 gallery_images:
@@ -25,6 +25,6 @@ In January 2019 we publish apps for iOS and Android.
 
 In April 2019 we decide to suspend the service: in the end, we realized that YouRemind was a fantastic gym, thanks to which we discovered and made our own a type of common mindset in the world of startups, based on experimentation, failure and learning.
 
-Stopping for a moment to look back, we've probably done all the classic mistakes you can make when you're not experienced: for example, focusing only on developing new features, leaving out communication and, most important of all, creating the solution first and then create a problem around it.
+Stopping for a moment to look back, we've probably done all the classic mistakes you can make when you're not experienced: for example, focusing only on developing new features, leaving out communication; dealing with a sector (mainly the world of associations) far from our interests (neither of us attends an association) and, most important of all, creating the solution first and then create a problem around it.
 
 After all these years, being able to suspend YouRemind was, perhaps, the gesture of final maturity that predisposed us to move towards the creation of Alea Makers.
