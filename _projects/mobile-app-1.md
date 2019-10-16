@@ -29,4 +29,8 @@ Even though the project was born in 2015, we can say that we started to work on 
 
 Stopping for a moment to look back, we've probably done all the classic mistakes you can make when you're not experienced: for example, focusing only on developing new features, leaving out communication; dealing with a sector (mainly the world of associations) far from our interests (neither of us attends an association) and, most important of all, creating the solution first and then create a problem around it.
 
+We are happy to have worked at YouRemind and, despite being a big failure, we want to include it in Alea Makers' projects because it is thanks to all these mistakes that we have grown: we exposed ourselves, opening ourselves to opportunities that we could not have grasped if we didn't we had tried (interacting with potential customers, learning to deal with issues not belonging to your studies, the course for the development of early-stage entrepreneurial ideas organized by EIC of Politecnico di Torino and ICRIOS of Universit&agrave; Bocconi).
+
 After all these years, being able to suspend YouRemind was, perhaps, the gesture of final maturity that predisposed us to move towards the creation of Alea Makers.
+
+&nbsp;
