@@ -3,7 +3,7 @@ title: YouRemind
 subtitle: Community self-publishing service.
 date: 2019-10-13 00:00:00
 description: 'Our first project, definitely something too far from us.'
-featured_image: screenyouremind.png
+featured_image: copertinayr.png
 accent_color: '#236b90'
 gallery_images:
   - screenyouremind.png
