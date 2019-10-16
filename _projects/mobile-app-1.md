@@ -9,22 +9,22 @@ gallery_images:
   - screenyouremind.png
 ---
 
-YouRemind nasce durante l'ultimo periodo di scuola superiore, come progetto personale di Alessandro (2015). L'idea iniziale era la creazione di una piattaforma che permettesse di raccontare la propria quotidianit&agrave; all'interno di un diario digitale, con la particolarit&agrave; di poter scegliere uno o pi&ugrave; ereditieri a cui lasciare, in automatico, una copia di quanto scritto in formato ebook, nel momento in cui non si accedeva alla piattaforma per un predeterminato numero di giorni. Dunque, i concetti su cui si basava il progetto erano lo storytelling, la legacy e la privacy.
+YouRemind was born during the last high school period, as a personal project of Alessandro (2015). The initial idea was the creation of a platform that would allow us to tell our everyday life in a digital diary, with the particularity of being able to choose one or more heiresses to leave, automatically, a copy of what is written in ebook format , when the platform was not accessed for a predetermined number of days. Therefore, the concepts on which the project was based were storytelling, legacy and privacy.
 
-Terminata la scuola superiore, Gabriel decide di accettare la proposta di collaborazione fatta da Alessandro, iniziando cos&igrave; un periodo di sviluppo. YouRemind viene accettato in Teatrabit, il programma di supporto per startup digitali dell'Incubare del Politecnico di Torino: periodo in cui si inizia ad approcciarsi e studiare la metodologia del Lean Startup. Il risultato &egrave; un cambio di rotta: essendo economicamente troppo dispendioso rivolgersi ai consumatori, si decide per un cambio di rotta, indirizzando il servizio verso le comunit&agrave;.&nbsp;
+After completing high school, Gabriel decides to accept the collaboration proposal made by Alessandro, thus starting a period of development. YouRemind is accepted in Teatrabit, the support program for digital startups of the Politecnico di Torino Incubare: period in which we begin to approach and study the Lean Startup methodology. The result is a change of course: being economically too expensive to turn to consumers, it is decided to change course, directing the service towards the communities.
 
-YouRemind diventa, quindi, una piattaforma in cui un gruppo di persone, come una associazione o una azienda, pu&ograve; riunirsi per raccontare qualcosa che gli accomuna, producendone poi, in automatico, un ebook.&nbsp;
+YouRemind becomes, therefore, a platform in which a group of people, like an association or a company, can come together to tell something they have in common, then automatically producing an ebook.
 
-Verso la fine del 2017, inizia una collaborazione con il Comune di Moncalieri (provincia di Torino) e con Libera Piemonte, l'associazione antimafia pi&ugrave; importante in Italia.
+Towards the end of 2017, a collaboration begins with the Municipality of Moncalieri (province of Turin) and with Libera Piemonte, the most important anti-mafia association in Italy.
 
-Con i test svolti, inizia un lungo periodo di modifiche e implementazioni.&nbsp;
+With the tests carried out, a long period of changes and implementations begins.
 
-Nell'ottobre del 2018, YouRemind viene selezionato per la semifinale di Idee Vincenti, call promossa da Lottomatica e Polihub.
+In October 2018, YouRemind is selected for the semi-finals of Idee Vincenti, a call promoted by Lottomatica and Polihub.
 
-Nel gennaio del 2019 pubblichiamo le app per iOs e Android.
+In January 2019 we publish apps for iOS and Android.
 
-Nell'aprile del 2019 decidiamo di sospendere il servizio: alla fine, ci siamo resi conto che YouRemind &egrave; stata una fantastica palestra, grazie alla quale abbiamo scoperto e fatto nostra un tipo di mentalit&agrave; comune nel mondo delle startup, basata sulla sperimentazione, sul fallimento e sull'apprendimento.
+In April 2019 we decide to suspend the service: in the end, we realized that YouRemind was a fantastic gym, thanks to which we discovered and made our own a type of common mentality in the world of startups, based on experimentation, on failure and on learning.
 
-Fermandoci un attimo per guardarci indietro, probabilmente abbiamo fatto tutti i classici errori che si possono fare quando non si ha esperienza: il pi&ugrave; importante fra tutti, creare prima la soluzione e poi crearci attorno un problema.
+Stopping for a moment to look back, we've probably done all the classic mistakes you can make when you're not experienced: for example, focusing only on developing new features, leaving out communication and, most important of all, creating the solution first and then create a problem around us.
 
-Non aveva pi&ugrave; senso&nbsp;
+After all these years, being able to suspend YouRemind was, perhaps, the gesture of final maturity that predisposed us to move towards the establishment of Alea Makers.
