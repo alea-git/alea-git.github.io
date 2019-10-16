@@ -13,7 +13,7 @@ menu_settings:
 footer_settings:
   logo_image:
   logo_width: '100'
-  tagline: 'We growth. We make. We share.'
+  tagline: 'We grow. We make. We share.'
 hero_settings:
   background_image: /images/backgrounds/background-hero.svg
 post_settings:
