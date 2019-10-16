@@ -25,6 +25,8 @@ In January 2019 we publish apps for iOS and Android.
 
 In April 2019 we decide to suspend the service: in the end, we realized that YouRemind was a fantastic gym, thanks to which we discovered and made our own a type of common mindset in the world of startups, based on experimentation, failure and learning.
 
+Even though the project was born in 2015, we can say that we started to work on it consistently in 2017. In all these years, we have invested a lot of personal money (unfortunately I haven't kept the count) and we have never collected even one euro. We have acquired some registered users, limited however to specific tests, no return on the platform. Moreover, we have never used any type of communication channel, other than the classic Facebook page.
+
 Stopping for a moment to look back, we've probably done all the classic mistakes you can make when you're not experienced: for example, focusing only on developing new features, leaving out communication; dealing with a sector (mainly the world of associations) far from our interests (neither of us attends an association) and, most important of all, creating the solution first and then create a problem around it.
 
 After all these years, being able to suspend YouRemind was, perhaps, the gesture of final maturity that predisposed us to move towards the creation of Alea Makers.
