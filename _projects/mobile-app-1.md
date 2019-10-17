@@ -25,7 +25,7 @@ In October 2018, **YouRemind was selected for the semi-finals of Idee Vincenti**
 
 {% include post-components/gallery.html columns = 1 full_width = true images = "/images/projects/PitchDeck1.png " %}
 
-BBBB
+CCCCC
 
 In January 2019 we published apps for iOS and Android.
 
