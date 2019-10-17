@@ -15,7 +15,7 @@ After completing high school, Gabriel decided to accept the collaboration propos
 
 YouRemind became, therefore, a platform where groups of people, like associations or companies, could come together to tell something they have in common, and automatically have YouRemind make ebooks.
 
-{% include post-components/gallery.html columns = 2 full_width = true images = "/images/projects/mcyr1.png,/images/projects/mcyr2.png,/images/projects/mcyr5.png,/images/projects/mcyr6.png " %}
+{% include post-components/gallery.html columns = 2 full_width = true images = "/images/projects/mcyr1.png,/images/projects/mcyr2.png,/images/projects/mcyr5.png,/images/projects/mcyr6.jpg " %}
 
 &nbsp;
 
