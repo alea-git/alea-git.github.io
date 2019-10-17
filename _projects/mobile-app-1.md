@@ -25,8 +25,6 @@ In October 2018, **YouRemind was selected for the semi-finals of Idee Vincenti**
 
 {% include post-components/gallery.html columns = 1 full_width = true images = "/images/projects/PitchDeck1.png,/images/projects/PitchDeck2.png,/images/projects/PitchDeck3.png,/images/projects/PitchDeck4.png,/images/projects/PitchDeck5.png,/images/projects/PitchDeck6.png,/images/projects/PitchDeck7.png,/images/projects/PitchDeck8.png,/images/projects/PitchDeck9.png,/images/projects/PitchDeck10.png,/images/projects/PitchDeck11.png,/images/projects/PitchDeck12.png,/images/projects/PitchDeck12.png,/images/projects/PitchDeck14.png " %}&nbsp;*Italian Pitch Deck*
 
-&nbsp;
-
 In January 2019 we published apps for iOS and Android.
 
 In April 2019 **we decide to suspend the service**\: in the end, we realized that YouRemind has been an awesome gym, thanks to which we discovered and made our own the startup mindset, and all this solely **based on our experimentation, failure, learning and hard-working**.
