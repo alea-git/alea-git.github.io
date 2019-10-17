@@ -23,7 +23,7 @@ With the validation carried out, a long period of changes and implementations be
 
 In October 2018, **YouRemind was selected for the semi-finals of Idee Vincenti**, a call promoted by Lottomatica and Polihub.
 
-{% include post-components/gallery.html columns = 1 full_width = true images = "projects/PitchDeck1.png " %}
+{% include post-components/gallery.html columns = 1 full_width = true images = "/images/projects/PitchDeck1.png " %}
 
 BBBB
 
