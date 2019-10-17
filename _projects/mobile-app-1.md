@@ -9,7 +9,7 @@ gallery_images:
   - screenyouremind.png
 ---
 
-YouRemind was born during the last high school period, as a personal project of Alessandro (2015). The initial idea was the creation of a platform that would allow us to tell our everyday life in a digital diary, with the particularity of being able to choose one or more heiresses to leave, automatically, a copy of what is written in ebook format , when the platform was not accessed for a predetermined number of days. Therefore, the concepts on which the project was based were storytelling, legacy and privacy.
+YouRemind was born during the last high school period, as a personal project of Alessandro (2015). The initial idea was the creation of a platform that would allow us to tell our everyday life in a digital diary, with the peculiarity of being able to choose one or more heiresses and leave them automatically a copy of what is written, through an ebook, when the platform is not being accessed for a predetermined number of days. Therefore, the concepts on which the project was based were storytelling, legacy and privacy.
 
 After completing high school, Gabriel decides to accept the collaboration proposal made by Alessandro, thus starting a period of development. In April 2017, YouRemind is accepted in Teatrabit, the support program for digital startups of the incubator of Politecnico di Torino: period in which we begin to approach and study the Lean Startup methodology. The result is a change of course: being economically too expensive to turn to consumers, it is decided to change course, directing the service towards the communities.
 
