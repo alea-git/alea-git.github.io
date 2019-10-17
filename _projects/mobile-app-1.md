@@ -15,9 +15,9 @@ After completing high school, Gabriel decided to accept the collaboration propos
 
 YouRemind became, therefore, a platform where groups of people, like associations or companies, could come together to tell something they have in common, and automatically have YouRemind make ebooks.
 
-{% include post-components/gallery.html columns = 2 full_width = true images = "/images/projects/mcyr1.png,/images/projects/mcyr2.png,/images/demo.jpg,/images/demo.jpg, " %}
+{% include post-components/gallery.html columns = 2 full_width = true images = "/images/projects/mcyr1.png,/images/projects/mcyr5.png,/images/projects/mcyr2.png,/images/projects/mcyr6.png, " %}
 
-ABABA
+&nbsp;
 
 Towards the end of 2017, **a collaboration began** with the Municipality of Moncalieri (province of Turin) and with Libera Piemonte, **the most important anti-mafia association** in Italy.
 
@@ -25,9 +25,9 @@ With the validation carried out, a long period of changes and implementations be
 
 In October 2018, **YouRemind was selected for the semi-finals of Idee Vincenti**, a call promoted by Lottomatica and Polihub.
 
-{% include post-components/gallery.html columns = 1 full_width = true images = "/images/projects/PitchDeck1.png " %}
+{% include post-components/gallery.html columns = 1 full_width = true images = "/images/projects/PitchDeck1.png,/images/projects/PitchDeck2.png " %}
 
-CCCCC
+&nbsp;
 
 In January 2019 we published apps for iOS and Android.
 
