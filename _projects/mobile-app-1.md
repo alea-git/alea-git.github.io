@@ -15,6 +15,8 @@ After completing high school, Gabriel decided to accept the collaboration propos
 
 YouRemind became, therefore, a platform where groups of people, like associations or companies, could come together to tell something they have in common, and automatically have YouRemind make ebooks.
 
+{% include post-components/gallery.html columns = 2 full_width = true images = "/images/projects/mcyr1.png,/images/demo.jpg,/images/demo.jpg,/images/demo.jpg, " %}
+
 Towards the end of 2017, **a collaboration began** with the Municipality of Moncalieri (province of Turin) and with Libera Piemonte, **the most important anti-mafia association** in Italy.
 
 With the validation carried out, a long period of changes and implementations began.
