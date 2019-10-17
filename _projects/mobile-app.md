@@ -19,7 +19,7 @@ We started working on it in April 2019, choosing to debut with a course on Flutt
 
 After choosing to take a course and the subject to be discussed, we asked ourselves what could be the best platform to distribute it. We evaluated all the most famous and it simply did not seem worth it: it is much better to spend some time and make a small investment to develop our own platform, rather than giving most of the revenue in fees.
 
-We spent about a month planning and developing the platform, at the end of June, the platform was ready. We used the YouTube player, which then allowed anyone who purchased the course to click on the title of the video inserted in our platform, open it on YouTube, copy and share the link with anyone they wanted.
+We spent about a month planning and developing the platform. We used the YouTube player, which then allowed anyone who purchased the course to click on the title of the video embedded in our platform, open it on YouTube, copy and share the link with anyone.
 
 It was good anyway, our goal was to test the market, to see if it made sense to invest money and time in the development of Fudeo. Before we started writing the code, we decided to sponsor a Facebook post to generate leads. The result was about twenty emails in a few days. It could have been enough.
 
