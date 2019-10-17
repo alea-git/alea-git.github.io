@@ -35,6 +35,6 @@ Stopping now for a moment and looking back, **we've probably done all the typica
 
 After all these years, **being able to suspend YouRemind** was, perhaps, the gesture of final maturity that predisposed us to move towards the **creation of Alea Makers**.
 
-{% include post-components/video.html url ="https://player.vimeo.com/video/367036511" full_width = true %}
+{% include post-components/video.html url ="https://player.vimeo.com/video/367038258" full_width = true %}
 
 &nbsp;
