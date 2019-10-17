@@ -13,30 +13,30 @@ gallery_images:
   - screenfudeo.png
 ---
 
-Fudeo &egrave; una piattaforma di corsi online in italiano specializzata sulle ultime tecnologie per developers.
+Fudeo is a platform of online Italian courses specialized on the latest technologies for developers.
 
-Abbiamo iniziato a lavorarci nell'aprile 2019, scegliendo di debuttare con un corso su Flutter, completamente in italiano. Abbiamo scelto il framework di Google (serve per sviluppare app native Android e iOs con un solo codice), poich&eacute; ci siamo resi conto che, dal momento in cui Gabriel inser&igrave; questa competenza sul suo profilo LinkedIn, inizi&ograve; a ricevere diverse proposte di lavoro. C'&egrave; sembrato palese che ci fosse una forte richiesta sul mercato del lavoro e una scarsa offerta da parte dei devs, in particolare in Italia.
+We started working on it in April 2019, choosing to debut with a course on Flutter, completely in Italian. We chose the Google framework (used to develop native Android and iOS apps with a single code), since we realized that, since Gabriel entered this competence on his LinkedIn profile, he began to receive various job offers. It seemed clear to us that there was a strong demand on the labor market and a lack of supply from the devs, particularly in Italy.
 
-Dopo aver scelto di fare un corso e l'argomento da trattare, ci siamo interrogati su quale potesse essere la piattaforma migliore per distribuirlo. Abbiamo valutato tutte le pi&ugrave; famose e, semplicemente, non ci sembrava ne valesse la pena: molto meglio spendere un po' di tempo e fare un piccolo investimento per sviluppare una nostra piattaforma, piuttosto che dare la maggior parte delle entrate in fees.&nbsp;
+After choosing to take a course and the subject to be discussed, we asked ourselves what could be the best platform to distribute it. We evaluated all the most famous and it simply did not seem worth it: it is much better to spend some time and make a small investment to develop our own platform, rather than giving most of the revenue in fees.
 
-Abbiamo impiegato circa un mese per progettare e sviluppare la piattaforma, a fine giugno, la piattaforma era pronta. Utilizzavamo il player di YouTube, che permetteva, quindi, a chiunque acquistasse il corso, di cliccare sul titolo del video inserito nella nostra piattaforma, aprirlo su YouTube, copiare e condividere il link con chiunque volesse.
+We spent about a month planning and developing the platform, at the end of June, the platform was ready. We used the YouTube player, which then allowed anyone who purchased the course to click on the title of the video inserted in our platform, open it on YouTube, copy and share the link with anyone they wanted.
 
-Ci andava comunque bene, il nostro obiettivo era testare il mercato, capire se aveva senso investire soldi e tempo nello sviluppo di Fudeo. Prima di iniziare a scrivere il codice, decidemmo di sponsorizzare un post Facebook per generare contatti. Il risultato fu di una ventina di email in qualche giorno. Poteva essere abbastanza.
+It was good anyway, our goal was to test the market, to see if it made sense to invest money and time in the development of Fudeo. Before we started writing the code, we decided to sponsor a Facebook post to generate leads. The result was about twenty emails in a few days. It could have been enough.
 
-Quindi, ecco la strategia: registrare le prime tre video-lezioni su le quindici previste, creare la piattaforma e renderle accessibili gratuitamente in cambio della email. Verso fine maggio era tutto pronto. Pubblichiamo la piattaforma e iniziamo la sponsorizzazione su Facebook.
+So, here's the strategy: record the first three video lessons on the fifteen planned, create the platform and make them accessible for free in exchange for the email. Everything was ready by the end of May. We publish the platform and start the sponsorship on Facebook.
 
-Dopo una settimana circa, arriva una chiamata sul telefono personale di Alessandro: il numero era stato preso dal checkout di Stripe, indicato per l'assistenza.
+After about a week, a call arrives on Alessandro's personal phone: the number was taken from the Stripe checkout, indicated for assistance.
 
-Avevamo fatto la prima vendita e l'acquirente era preoccupato perch&eacute;, oltre le prime tre, non vedeva nessun'altra lezione. In quell'esatto momento, capimmo che il "fake it until you make it" &egrave; pericoloso per un prodotto. Rimborsammo l'intera cifra e gli dammo un codice sconto del 50% che poteva utilizzare quando saremmo arrivati a pubblicare l'ottava lezione (giusto per essere chiari, gli abbiamo lasciato comunque l'accesso al corso). Il giorno dopo, la situazione si ripete: acquisto, rimborso, email di scuse.
+We had made the first sale and the buyer was worried because, beyond the first three, he saw no other lesson. At that exact moment, we realized that the "fake it until you make it" is dangerous for a product. We reimbursed the entire amount and gave him a 50% discount code that he could use when we arrived to publish the eighth lesson (just to be clear, we left him access to the course anyway). The next day, the situation repeats itself: purchase, refund, e-mail apology.
 
-Decidemmo, quindi, di registrare le altre video-lezioni e di segnalare in tutto il sito, anche pi&ugrave; volte, che eravamo in fase di pre-lancio e quindi le lezioni non erano ancora state registrare tutte.
+We decided, therefore, to record the other video-lessons and to signal throughout the site, even more times, that we were in the pre-launch phase and therefore the lessons had not yet been recorded all.
 
-Aggiornammo la strategia: registrare e pubblicare almeno due video-lezioni a settimana, comunicando a tutti i contatti della newsletter (che intanto cresceva) delle novit&agrave; allegando anche un buono sconto. In pratica, ogni settimana uscivano delle video-lezioni e, quindi, lo sconto diminuiva (la prima settimana del 50%, poi del 35%, ecc).
+We updated the strategy: record and publish at least two video-lessons a week, communicating to all the contacts of the newsletter (which meanwhile was growing) some news, including a discount voucher. In practice, every week video-lessons were published and, therefore, the discount decreased (the first week by 50%, then by 35%, etc.).
 
-Dopo due settimane dal lancio, Fudeo si ripagava i propri costi da solo: era auto-sostenibile. Tutti i soldi incassati sono sempre stati reinvestiti per migliorare la piattaforma: uno dei pi&ugrave; importanti &egrave; stato la sostituzione del video player (da YouTube a Vimeo Pro).
+Two weeks after its launch, Fudeo paid its own costs: it was self-sustainable. All the money collected has always been reinvested to improve the platform: one of the most important was the replacement of the video player (from YouTube to Vimeo Pro).
 
-Siamo molto attenti alla risoluzione dei problemi, &egrave; stata una nostra caratteristica sin dalla prima vendita. Rispondiamo entro 10 minuti a praticamente tutte le richieste che ci arrivano.&nbsp;
+We are very attentive to the resolution of problems, it has been our characteristic since the first sale. We respond within 10 minutes to virtually all requests that come to us.
 
-Ad inizio ottobre 2019, abbiamo lanciato Fudeo 2.0, con una grafica completamente ridisegnata, nuove funzionalit&agrave; e video-lezioni di approfondimento aggiuntive.&nbsp;
+At the beginning of October 2019, we launched Fudeo 2.0, with completely redesigned graphics, new features and additional in-depth video lessons.
 
 &nbsp;
