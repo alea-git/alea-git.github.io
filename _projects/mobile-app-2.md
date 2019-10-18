@@ -1,6 +1,6 @@
 ---
 title: Proance
-subtitle: High-fidelity mobile app designs for a super awesome social media company.
+subtitle: 'We want to be an Open Startup from day one: every step is shared.'
 date: 2019-10-15 00:00:00
 description: >-
   App for financial management made for digital entrepreneurs in the initial
