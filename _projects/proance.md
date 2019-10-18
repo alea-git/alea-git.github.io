@@ -1,10 +1,10 @@
 ---
 title:
 subtitle: 'Our first project, definitely something too far from us.'
-date: 2019-10-13 00:00:00
+date: 2019-10-17 00:00:00
 description: Community self-publishing service.
 featured_image: copertinapro.png
-accent_color: '#236b90'
+accent_color: '#4c60e6'
 gallery_images:
   - copertinapro.png
 ---
