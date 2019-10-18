@@ -1,18 +1,17 @@
 ---
 title: Fudeo
-subtitle: >-
-  Online course platform, converted the first customer four days after the first
-  ads.
-date: 2019-10-14 00:00:00
-description: >-
-  Fudeo is a platform of online courses in Italian on the latest technologies
+subtitle: Online course platform, converted the first customer four days after the
+  first ads.
+date: 2019-10-14T00:00:00.000+00:00
+description: Fudeo is a platform of online courses in Italian on the latest technologies
   for developers.
 featured_image: screenfudeo2.png
-accent_color: '#20497a'
+accent_color: "#20497a"
 gallery_images:
-  - screenfudeo.png
----
+- screenfudeo.png
+published: false
 
+---
 Fudeo is a platform of online Italian courses specialized on the latest technologies for developers.
 
 We started working on it in April 2019, choosing to debut with a course on Flutter, completely in Italian. We chose the Google framework (used to develop native Android and iOS apps with a single code), since we realized that, since Gabriel entered this competence on his LinkedIn profile, he began to receive various job offers. It seemed clear to us that there was a strong demand on the labor market and a lack of supply from the devs, particularly in Italy.
