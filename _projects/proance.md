@@ -1,8 +1,10 @@
 ---
-title:
-subtitle: 'Our first project, definitely something too far from us.'
+title: Proance
+subtitle: 'We want to be an Open Startup from day one: every step is shared.'
 date: 2019-10-17 00:00:00
-description: Community self-publishing service.
+description: >-
+  App for financial management made for digital entrepreneurs in the initial
+  phase of their project.
 featured_image: copertinapro.png
 accent_color: '#4c60e6'
 gallery_images:
