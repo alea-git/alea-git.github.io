@@ -3,7 +3,7 @@ basic_settings:
   favicon_image: /images/favicon.png
 header_settings:
   logo_image: /images/projects/logoAleaMakers.png
-  logo_width: '250'
+  logo_width: '150'
 menu_settings:
   menu_items:
     - title: Projects
@@ -12,7 +12,7 @@ menu_settings:
       url: /blog/
 footer_settings:
   logo_image: /images/projects/logoAleaMakers.png
-  logo_width: '250'
+  logo_width: '150'
   tagline: 'We grow. We make. We share.'
 hero_settings:
   background_image: /images/backgrounds/background-hero.svg
