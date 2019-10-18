@@ -5,7 +5,7 @@ date: 2019-10-15 00:00:00
 description: >-
   App for financial management made for digital entrepreneurs in the initial
   phase of their project.
-featured_image: /images/projects/Copia di copertinapro.png
+featured_image: copertinapro.png
 accent_color: '#4c60e6'
 gallery_images:
   - {}
