@@ -23,3 +23,5 @@ fields:
 - type: image_gallery
   name: gallery_images
   label: gallery_images
+pages:
+- _posts/tesssttt.md
