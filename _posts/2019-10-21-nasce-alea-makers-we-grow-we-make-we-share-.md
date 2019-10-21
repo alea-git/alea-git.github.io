@@ -29,7 +29,7 @@ Per concludere, i canali che utilizzeremo saranno molto specifici:
 * Canale YouTube per le dirette streaming dello sviluppo;
 * Profilo Twitter per pubblicare i nostri dati da Open Startup;
 * Profilo Instagram utilizzato principalmente per le stories, per un racconto pi&ugrave; informale;
-* Profilo LinkeIn per aggiornare chi ci seguir&agrave; della pubblicazione di un nuovo articolo.
+* Profilo LinkedIn per aggiornare chi ci seguir&agrave; della pubblicazione di un nuovo articolo.
 
 Al momento non &egrave; prevista la pagina Facebook. Se vi interessa ci&ograve; che stiamo seguendo, seguiteci e scriveteci\!<br>&nbsp;
 
