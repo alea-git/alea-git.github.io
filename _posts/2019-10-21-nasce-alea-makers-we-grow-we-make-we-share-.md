@@ -1,7 +1,9 @@
 ---
-title: Open Startup
+title: 'Nasce Alea Makers: We grow, we make, we share.'
 date: 2019-10-21 00:00:00
-description: Descrizione
+description: >-
+  Presentazione di Alea Makers, del movimento Open Startup e dei valori che li
+  accomunano.
 featured_image: /uploads/begin.jpg
 ---
 
