@@ -2,7 +2,7 @@
 title: Open Startup
 date: 2019-10-21 00:00:00
 description: Descrizione
-featured_image:
+featured_image: /uploads/begin.jpg
 ---
 
 Condividere pubblicamente gli incassi giornalieri e la storia dello sviluppo del proprio progetto, senza alcun tipo di segreto aziendale: questa &egrave; l’essenza del movimento Open Startup.
