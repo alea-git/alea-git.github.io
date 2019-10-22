@@ -25,8 +25,7 @@ contact_settings:
   email_subject: Contact form submission
   send_button_text: Get in Touch
 social_settings:
-  facebook_url: 'https://www.facebook.com/jekyllthemes/'
-  twitter_url: 'https://twitter.com/jekyllthemesio'
+  twitter_url: 'https://twitter.com/AleaMakers'
   instagram_url: 'http://instagram.com'
   youtube_url:
   github_url: 'https://github.com/'
