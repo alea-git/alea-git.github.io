@@ -2,7 +2,7 @@
 title: YouRemind
 subtitle: 'Our first project, definitely something too far from us.'
 date: 2019-10-13 00:00:00
-description: Community self-publishing service.
+description: Community self-publishing service.Community self-publishing service.
 featured_image: copertinayr.png
 accent_color: '#236b90'
 gallery_images:
