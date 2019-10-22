@@ -7,7 +7,7 @@ description: >-
 featured_image: /uploads/begin.jpg
 ---
 
-Condividere pubblicamente gli incassi giornalieri. le metriche sugli utenti e la storia dello sviluppo del proprio progetto, senza alcun tipo di segreto aziendale: questa &egrave; l’essenza del movimento **Open Startup**.
+**Condividere pubblicamente gli incassi giornalieri. le metriche sugli utenti**&nbsp;e la storia dello sviluppo del proprio progetto, senza alcun tipo di segreto aziendale: questa &egrave; l’essenza del movimento **Open Startup**.
 
 Quando capisci che **non &egrave; l’idea che conta** e che l**a vera differenza la fai con l’esecuzione**, allora, farne parte, non &egrave; pi&ugrave; cos&igrave; sconvolgente. Perch&eacute;, in effetti, per arrivare al punto di creare Alea Makers con l’obiettivo di divulgare questo movimento in Italia, non &egrave; stato facile.&nbsp;
 
