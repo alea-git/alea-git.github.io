@@ -11,7 +11,7 @@ featured_image: screenfudeo2.png
 accent_color: '#20497a'
 gallery_images:
   - screenfudeo.png
-  - screenfudeo.png
+  - screenfudeo2.png
 ---
 
 Fudeo is a platform of online Italian courses specialized on the latest technologies for developers.
