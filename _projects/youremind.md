@@ -7,7 +7,7 @@ featured_image: copertinayr.png
 accent_color: '#236b90'
 gallery_images:
   - screenyouremind.png
-  - copertina.png
+  - copertinayr.png
 ---
 
 [YouRemind](http://youremind.net){: target="_blank"} was born during the last high school period, as a personal project of Alessandro (2015). The initial idea was the creation of a platform that would allow us to tell our everyday life in a digital diary, with the peculiarity of being able to **choose one or more heiresses and leave them automatically a copy of what is written**, through an ebook, when the platform is not being accessed for a predetermined number of days. Therefore, the concepts on which the project was based were **storytelling, legacy and privacy**.
