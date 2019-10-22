@@ -7,7 +7,7 @@ description: >-
 featured_image: /uploads/begin.jpg
 ---
 
-Condividere pubblicamente gli incassi giornalieri e la storia dello sviluppo del proprio progetto, senza alcun tipo di segreto aziendale: questa &egrave; l’essenza del movimento **Open Startup**.
+Condividere pubblicamente gli incassi giornalieri. le metriche sugli utenti e la storia dello sviluppo del proprio progetto, senza alcun tipo di segreto aziendale: questa &egrave; l’essenza del movimento **Open Startup**.
 
 Quando capisci che **non &egrave; l’idea che conta** e che l**a vera differenza la fai con l’esecuzione**, allora, farne parte, non &egrave; pi&ugrave; cos&igrave; sconvolgente. Perch&eacute;, in effetti, per arrivare al punto di creare Alea Makers con l’obiettivo di divulgare questo movimento in Italia, non &egrave; stato facile.&nbsp;
 
@@ -17,7 +17,7 @@ Innanzi tutto, il gruppo &egrave; formato da chi sta scrivendo (mi chiamo Alessa
 
 Questo post vuole essere un’introduzione ad Alea Makers, quindi non entro nel dettaglio del nostro passato; arriviamo ad oggi, fine ottobre 2019.<br>Durante lo sviluppo di Fudeo, ci siamo resi conto che, per gestire i conti di cassa (entrate e uscite), il foglio di calcolo creato su Drive ci faceva perdere pi&ugrave; tempo di quanto fossimo disposti a concedergli.<br>Abbiamo provato ad integrare Zapier, per automatizzare alcuni processi (come l’aggiunta di una riga con l’importo incassato ad ogni vendita registrata da Stripe) ed &egrave; risultato, oltre che costoso, anche scomodo (non il servizio in s&eacute;, che &egrave; ottimo; non amiamo dover aprire Google Drive ogni volta che vogliamo aggiornare i conti).<br>Dunque, abbiamo deciso di crearci la nostra soluzione e capire se altri makers (o startupper/digital entrepreneurs, sono tutti sinonimi) avessero bisogno di utilizzarla.<br>Cos&igrave; nasce l’idea di **Proance**, l’app per gestire le finanze per progetti in fase early-stage.&nbsp;<br>Che si venda un servizio, un prodotto digitale o uno fisico, vogliamo semplificare e automatizzare il pi&ugrave; possibile ogni transazione.
 
-E qui arriva l’**Open Startup**.<br>&Egrave; un periodo nel quale stiamo seguendo diversi appartenenti alla comunit&agrave; internazionale di indie-makers: uno tra tutti &egrave; **Pieter Levels**, creatore di NomadList e colui che ha resto popolare questo movimento all’interno dei makers. Infatti, andando su www.nomadlist.com/open, &egrave; possibile guardare tutte le sue metriche in tempo reale.
+E qui arriva l’**Open Startup**.<br>&Egrave; un periodo nel quale stiamo seguendo diversi appartenenti alla comunit&agrave; internazionale di indie-makers: uno tra tutti &egrave; **Pieter Levels**, creatore di NomadList e colui che ha reso popolare questo movimento all’interno dei makers. Infatti, andando su www.nomadlist.com/open, &egrave; possibile guardare tutte le sue metriche in tempo reale.
 
 > Essendo anche noi interessati a creare dei servizi, ci&ograve; che abbiamo maggiormente apprezzato, &egrave; la possibilit&agrave; di guardare crescere un progetto e, immedesimandoci in lui, di provarne la sua soddisfazione. Semplicemente, ci piace osservare la crescita e l’evoluzione di un progetto.<br>Io e Gabriel ci siamo interrogati sulla possibilit&agrave; di farlo anche noi e, alla fine, ci siamo detti “perch&eacute; no?”.
 
