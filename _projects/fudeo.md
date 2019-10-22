@@ -40,6 +40,6 @@ We are very attentive to the resolution of problems, it has been our characteris
 
 At the beginning of October 2019, we launched Fudeo 2.0, with completely redesigned graphics, new features and additional in-depth video lessons.
 
-{% include post-components/gallery.html columns = 2 full_width = true images = "/images/projects/animation.mp4" %}
+{% include post-components/video.html url = "/images/projects/animation.mp4" full_width = true %}
 
 Consistent with the values of Alea Makers, we are working to launch Fudeo in the world of Open Startups: soon we will publish our metrics (cash flow and user metrics) that can be viewed in real time.
