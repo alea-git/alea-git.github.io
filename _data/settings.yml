@@ -26,10 +26,10 @@ contact_settings:
   send_button_text: Get in Touch
 social_settings:
   twitter_url: 'https://twitter.com/AleaMakers'
-  instagram_url: 'http://instagram.com'
-  youtube_url:
+  instagram_url: 'https://www.instagram.com/aleamakers'
+  youtube_url: 'https://www.youtube.com/channel/UC7BUiOq_5c8tfCUDfyhephA'
   github_url: 'https://github.com/'
-  spotify_url:
+  spotify_url: 'https://open.spotify.com/playlist/4SEypIEJUx6jv2Hars1KE4?si=SViORDQsSJubFeq-DiwQIA'
   linkedin_url: 'https://www.linkedin.com/company/aleamakers'
 color_settings:
   background_color: '#ffffff'
