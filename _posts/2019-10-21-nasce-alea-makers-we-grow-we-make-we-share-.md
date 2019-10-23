@@ -35,8 +35,6 @@ Al momento non &egrave; prevista la pagina Facebook.
 
 Se ti interessa ci&ograve; che stiamo facendo, seguici e interagisci con noi sul canale di comunicazione che preferisci\!
 
-## &nbsp;
-
 ## **Alea iacta est.**
 
 &nbsp;
