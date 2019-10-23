@@ -20,9 +20,9 @@ post_settings:
   grid_spacing: '10'
 contact_settings:
   email_address: 'info@aleamakers.com'
-  form_action: 'https://formspree.io/hello@jekyllthemes.io'
+  form_action: 'https://formspree.io/xeqjelyj'
   confirmation_url: /thanks
-  email_subject: Contact form submission
+  email_subject: 'Contact form submission'
   send_button_text: Get in Touch
 social_settings:
   twitter_url: 'https://twitter.com/AleaMakers'
