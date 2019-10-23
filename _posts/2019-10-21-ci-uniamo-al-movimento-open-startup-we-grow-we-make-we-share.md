@@ -1,5 +1,5 @@
 ---
-title: 'Sbarca in Italia l''Open Startup: we grow, we make, we share'
+title: 'Ci uniamo al movimento Open Startup: we grow, we make, we share'
 date: 2019-10-21 00:00:00
 description: >-
   Presentazione di Alea Makers, del movimento Open Startup e dei valori che ci
