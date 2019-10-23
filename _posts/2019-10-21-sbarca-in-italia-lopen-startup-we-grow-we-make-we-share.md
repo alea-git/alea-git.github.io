@@ -26,9 +26,9 @@ Dopodich&eacute; abbiamo fatto qualcosa che da troppo tempo rimandavamo: ci siam
 Per concludere, i canali che utilizzeremo saranno molto specifici:
 
 * [www.aleamakers.com](https://www.aleamakers.com) per la pubblicazione di articoli sul blog;
-* Canale YouTube per le dirette streaming dello sviluppo;
+* [Canale YouTube](https://www.youtube.com/channel/UC7BUiOq_5c8tfCUDfyhephA){: target="_blank"} per le dirette streaming dello sviluppo;
 * [Profilo Twitter](https://twitter.com/AleaMakers){: target="_blank"} per pubblicare i nostri dati da Open Startup;
-* Profilo Instagram utilizzato principalmente per le stories, per un racconto pi&ugrave; informale;
+* [Profilo Instagram](https://www.instagram.com/aleamakers){: target="_blank"} utilizzato principalmente per le stories, per un racconto pi&ugrave; informale;
 * [Profilo LinkedIn](https://www.linkedin.com/company/aleamakers){: target="_blank"} per aggiornare chi ci seguir&agrave; della pubblicazione di un nuovo articolo.
 
 Al momento non &egrave; prevista la pagina Facebook.
