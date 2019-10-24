@@ -39,6 +39,6 @@ Ovviamente, **invitiamo chiunque fosse interessato a questo tema di seguirci** e
 
 ## **Alea iacta est.**
 
-{% include post-components/video.html url = "https://www.youtube.com/embed/nQmeYi2QJsg" full_width = true %}
+{% include post-components/video.html url = "https://www.youtube.com/embed/Sp2VZq-sp5k" full_width = true %}
 
 &nbsp;
