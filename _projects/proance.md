@@ -1,15 +1,14 @@
 ---
 title: Proance
 subtitle: 'We want to be an Open Startup from day one: every step is shared.'
-date: 2019-10-17T00:00:00.000+00:00
-description: App for financial management made for digital entrepreneurs in the initial
-  phase of their project.
+date: 2019-10-17 00:00:00
+description: 'Finance app for early stage projects, developed for digital entrepreneurs.'
 featured_image: copertinapro.png
-accent_color: "#4c60e6"
+accent_color: '#4c60e6'
 gallery_images:
-- copertinapro.png
-
+  - copertinapro.png
 ---
+
 &nbsp;
 
 Proance stems from the need to replace spreadsheets on Google Drive, where we keep the financial flows of our various projects. We want a tool that can be used in any circumstance, therefore mobile, and that simplifies the most common accounts: updating the cash at every sale, keeping track of the partitions of money among the "founders" of the project, keeping an eye on the most important indicators .
