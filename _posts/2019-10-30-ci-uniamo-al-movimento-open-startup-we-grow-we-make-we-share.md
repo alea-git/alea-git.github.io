@@ -1,6 +1,6 @@
 ---
 title: 'Ci uniamo al movimento Open Startup: we grow, we make, we share'
-date: 2019-10-21 00:00:00
+date: 2019-10-30 00:00:00
 description: >-
   Presentazione di Alea Makers, del movimento Open Startup e dei valori che ci
   accomunano.
