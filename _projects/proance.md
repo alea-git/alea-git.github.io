@@ -17,10 +17,8 @@ Our target is digital entrepreneurs and makers in the first phase of their proje
 
 It is the first project officially created under Alea Makers, and, for this reason, it inherits its principles and values: we want to share every step of the development of the app on our blog and make direct streaming during the actual development of the code. When we will ready to launch the first version, the cash flows and user metrics will be open.
 
-Let's start with the photos of the first blackboards: we started to think about how we imagined the project and, taking the necessary time, we investigated every aspect.
+Follow the development of the app in live streaming on our YouTube channel\!&nbsp;
 
-{% include post-components/gallery.html columns = 1 full_width = true images = "/images/projects/board1.jpeg,/images/projects/board2.jpeg,/images/projects/board3.jpeg,/images/projects/board4.jpeg,/images/projects/board5.jpeg,/images/projects/board6.jpeg " %}&nbsp;
-
-Follow our blog to learn the reasoning during the various development steps, we will update this page every time we make important progress.
+We will update this page every time we make important progress.
 
 &nbsp;
