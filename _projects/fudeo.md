@@ -36,6 +36,8 @@ We decided, therefore, to record the other video-lessons and to signal throughou
 
 **We updated the strategy**\: record and publish at least two video-lessons a week, communicating to all the contacts of the newsletter (which meanwhile was growing) some news, including a discount voucher. In practice, every week video-lessons were published and, therefore, the discount decreased (the first week by 50%, then by 35%, etc.).
 
+![Mailchimp's audience growth](/uploads/audience-growth.png "Mailchimp's audience growth"){: width="2504" height="1348"}*Mailchimp's audience growth&nbsp;*
+
 Two weeks after its launch, Fudeo paid its own costs: **it was self-sustainable**. All the money collected has always been reinvested to improve the platform: one of the most important was the replacement of the video player (from YouTube to Vimeo Pro, although, unfortunately, Vimeo isn't very suitable for course platforms).
 
 We are very attentive to the resolution of problems, it has been our characteristic since the first sale. We respond within 10 minutes to virtually all requests that come to us.
