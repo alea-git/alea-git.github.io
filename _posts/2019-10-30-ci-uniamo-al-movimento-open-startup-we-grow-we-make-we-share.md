@@ -1,12 +1,12 @@
 ---
 title: 'Ci uniamo al movimento Open Startup: we grow, we make, we share'
-date: 2019-10-30 00:00:00
-description: >-
-  Presentazione di Alea Makers, del movimento Open Startup e dei valori che ci
-  accomunano.
-featured_image: /uploads/begin.jpg
----
+date: 2019-10-30T00:00:00.000+00:00
+description: Presentazione di Alea Makers, del movimento Open Startup e dei valori
+  che ci accomunano.
+featured_image: "/uploads/begin.jpg"
+author: Alessandro Trezza
 
+---
 **Condividere pubblicamente gli incassi giornalieri, le metriche sugli utenti**&nbsp;e la storia dello sviluppo del proprio progetto, senza alcun tipo di **segreto aziendale**\: questa &egrave; l’essenza del movimento **Open Startup**.
 
 Quando capisci che **non &egrave; l’idea che conta** e che l**a vera differenza la fai con l’esecuzione**, allora, farne parte, non &egrave; pi&ugrave; cos&igrave; sconvolgente. Perch&eacute;, in effetti, per arrivare al punto di creare Alea Makers con l’obiettivo di divulgare questo movimento in Italia, non &egrave; stato facile.&nbsp;
