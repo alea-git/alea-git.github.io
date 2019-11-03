@@ -26,9 +26,9 @@ It was good anyway, our goal was to test the market, to see if it made sense to 
 
 So, here's the strategy: record the first three video lessons on the fifteen planned, create the platform and make them accessible for free in exchange for the email. Everything was ready by the end of May. We publish the platform and start the sponsorship on Facebook.
 
-After about a week, a call arrives on Alessandro's personal phone: the number was taken from the Stripe checkout, indicated for assistance.
+After about a week, a call arrives on Alessandro's personal phone: the number was taken from the Stripe checkout, indicated for assistance.We had made the first sale and the buyer was worried because, beyond the first three, he saw no other lesson.
 
-We had made the first sale and the buyer was worried because, beyond the first three, he saw no other lesson. At that exact moment, we realized that the "fake it until you make it" is dangerous for a product. We reimbursed the entire amount and gave him a 50% discount code that he could use when we arrived to publish the eighth lesson (just to be clear, we left him access to the course anyway). The next day, the situation repeats itself: purchase, refund, e-mail apology.
+> At that exact moment, we realized that the "fake it until you make it" is dangerous for a product. We reimbursed the entire amount and gave him a 50% discount code that he could use when we arrived to publish the eighth lesson (just to be clear, we left him access to the course anyway). The next day, the situation repeats itself: purchase, refund, e-mail apology.
 
 We decided, therefore, to record the other video-lessons and to signal throughout the site, even more times, that we were in the pre-launch phase and therefore the lessons had not yet been recorded all.
 
