@@ -15,6 +15,8 @@ Proance stems from the need to replace spreadsheets on Google Drive, where we ke
 
 Our target is digital entrepreneurs and makers in the first phase of their project, a period in which they begin to have accounts to manage but not enough to be able to purchase professional management.
 
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/707697430&color=%230066cc&auto\_play=false&hide\_related=false&show\_comments=true&show\_user=true&show\_reposts=false&show\_teaser=true"&gt;&lt;/iframe&gt;
+
 For the MVP we are developing, we have decided to start by including revenue / expense management (already integrating Stripe) and a first version of analytics. With time, if the response from our target audience is positive, we will also implement the other features in the program: If you want to use Proance, go to the Proance site ([www.proance.app](www.proance.app){: target="_blank"}) and enter your email to be notified when we will be ready to launch the beta (we will decide if the beta will be open to all or closed, therefore only accessible to those who have entered their email)
 
 It is the first project officially created under Alea Makers, and, for this reason, it inherits its principles and values: we want to share every step of the development of the app on our blog and make direct streaming during the actual development of the code. When we will ready to launch the first version, the cash flows and user metrics will be open.
