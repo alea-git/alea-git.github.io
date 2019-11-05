@@ -7,6 +7,7 @@ featured_image: copertinapro.png
 accent_color: '#4c60e6'
 gallery_images:
   - copertinapro.png
+  - copertinapro2.png
 ---
 
 &nbsp;
