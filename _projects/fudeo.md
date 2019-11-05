@@ -14,33 +14,33 @@ gallery_images:
   - screenfudeo2.png
 ---
 
-Fudeo is a platform of online Italian courses specialized on the latest technologies for developers.
+Fudeo is a learning-platform for the Italian market, with courses on the latest technologies, aimed at developers.
 
-We started working on it in April 2019, choosing to debut with a course on Flutter, completely in Italian. We chose the Google framework (used to develop native Android and iOS apps with a single code), since we realized that, since Gabriel entered this competence on his LinkedIn profile, he began to receive various job offers. It seemed clear to us that there was a strong demand on the labor market and a lack of supply from the devs, particularly in Italy.
+We started working on it in April 2019, debuting with a course on Flutter. This choose was after Gabriel put this skill on his LinkedIn profile, and he started receiving multiple job offers. It was clear to us that there was a strong demand from the market in terms of jobs, and a lack of supply of developers, particularly in Italy.
 
-After choosing to take a course and the subject to be discussed, we asked ourselves what could be the best platform to distribute it. We evaluated all the most famous and it simply did not seem worth it: it is much better to spend some time and make a small investment to develop our own platform, rather than giving most of the revenue in fees.
+Our first move has been&nbsp;**testing the market fit**, to see if it made sense to invest money and time in the development of this platform. Before we started writing code, we decided to sponsor a Facebook post to generate leads. The result was about twenty emails in a few days. It was enough.
 
-We spent about a month planning and developing the platform. We used the YouTube player, which then allowed anyone who purchased the course to click on the title of the video embedded in our platform, open it on YouTube, copy and share the link with anyone.
+After taking some time to analyze in detail the idea, we asked ourselves what could be the best distribution platform. We evaluated the most famous ones and they simply did not seem worth it: it was clear that a better idea was to spend time and some initial money (around 10 bucks) to develop our own platform, rather than giving away most of the revenues in fees.
 
-It was good anyway, our goal was to **test the market**, to see if it made sense to invest money and time in the development of Fudeo. Before we started writing the code, we decided to sponsor a Facebook post to generate leads. The result was about twenty emails in a few days. It could have been enough.
+We spent about a month planning and developing the platform. Initially we were&nbsp; using the YouTube player to serve our videos, which unfortunately allowed also anyone who purchased the course to click on the title of the video embedded in our platform, open it on YouTube, copy and share the link with anyone. It has been a good decision looking back, it allowed us to move fast and not pay for a more premium service.
 
-So, **here's the strategy**\: record the first three video lessons on the fifteen planned, create the platform and make them accessible for free in exchange for the email. Everything was ready by the end of May. We publish the platform and start the sponsorship on Facebook.
+So, **here was the validation strategy**\: record the first three video lessons of the fifteen planned and make them accessible for free in exchange for the email. Everything was ready by the end of May. We published the platform and started the sponsorship on Facebook.
 
-After about a week, a call arrives on Alessandro's personal phone: the number was taken from the Stripe checkout, indicated for assistance.
+After about a week, a call arrived to Alessandro's personal phone: the number was taken from the Stripe checkout, there for assistance purposes.
 
-We had made the **first sale** and the buyer was worried because, beyond the first three, he saw no other lesson.
+We had made the **first sale** and the buyer was worried because, after the first three lessons, he saw nothing else.
 
 > At that exact moment, we realized that the "fake it until you make it" method is dangerous for a product. We reimbursed the entire amount and gave him a 50% discount code that he could use when we arrived to publish the eighth lesson (just to be clear, we left him access to the course anyway). The next day, the situation repeats itself: purchase, refund, e-mail apology.
 
-We decided, therefore, to record the other video-lessons and to signal throughout the site, even more times, that we were in the pre-launch phase and therefore the lessons had not yet been recorded all.
+We decided, therefore, to record the other video-lessons and to post throughout the site, that we were in the pre-launch phase and therefore some lessons were still missing.
 
-**We updated the strategy**\: record and publish at least two video-lessons a week, communicating to all the contacts of the newsletter (which meanwhile was growing) some news, including a discount voucher. In practice, every week video-lessons were published and, therefore, the discount decreased (the first week by 50%, then by 35%, etc.).
+**We updated the strategy**\: we decided to record and publish at least two video-lessons a week, communicating to all the contacts of the newsletter (which meanwhile was growing) news about the newly released videos and giving them a discount code with a small time-window to make the purchase.
 
 ![Mailchimp's audience growth](/uploads/audience-growth.png "Mailchimp's audience growth"){: width="2504" height="1348"}
 
-Two weeks after its launch, Fudeo paid its own costs: **it was self-sustainable**. All the money collected has always been reinvested to improve the platform: one of the most important was the replacement of the video player (from YouTube to Vimeo Pro, although, unfortunately, Vimeo isn't very suitable for course platforms).
+Two weeks after its launch, Fudeo paid its own costs: **it was self-sustainable**. All the money collected had always been reinvested to improve the platform: one of the most important was the replacement of the video player, from YouTube to Vimeo Pro.
 
-We are very attentive to the resolution of problems, it has been our characteristic since the first sale. We respond within 10 minutes to virtually all requests that come to us.
+One of our main characteristics that allowed us to keep a good reputation has been paying lot of attention to problem resolution. We respond within 10 minutes to all requests / bug reports that came to us.
 
 At the beginning of October 2019, we launched Fudeo 2.0, with completely redesigned graphics, new features and additional in-depth video lessons.
 
