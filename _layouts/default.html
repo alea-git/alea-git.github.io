@@ -85,7 +85,7 @@
 </head>
 
 
-<body class="loading{% if site.data.settings.advanced_settings.ajax_loading == true %} {% endif %}"
+<body class="loading{% if site.data.settings.advanced_settings.ajax_loading == true %} ajax-loading{% endif %}"
 	data-site-url="{{ site.url }}" data-page-url="{{ page.url | replace: 'index.html', '' }}">
 
 <!-- Google Tag Manager (noscript) -->
@@ -151,12 +151,13 @@
 	{{ site.data.settings.advanced_settings.footer_js }}
 	{% endif %}
 	
-    
-</body>
     <script type="text/javascript"> 
-        var addthis_config = {
-             data_track_clickback: false 
-        } 
+    var addthis_config = {
+         data_track_clickback: false 
+    } 
     </script>
     <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5db6ef4db7a97d5c"></script>
+
+</body>
+
 </html>
