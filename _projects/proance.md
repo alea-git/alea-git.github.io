@@ -1,7 +1,7 @@
 ---
 title: Proance
 subtitle: 'We want to be an Open Startup from day one: every step is shared.'
-date: 2019-10-17 00:00:00
+date: 2019-11-06 00:00:00
 description: 'Finance app for early stage projects, developed for digital entrepreneurs.'
 featured_image: copertinapro2.png
 accent_color: '#3c47d6'
