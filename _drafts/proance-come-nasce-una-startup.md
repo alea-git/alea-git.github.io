@@ -7,11 +7,11 @@ description: In questo articolo troverai come siamo arrivati ad ideare Proance e
 featured_image: ''
 
 ---
-Una startup di successo nasce sempre dalla volontà di risolvere un problema. Succede che si incontra una difficoltà mentre si sta facendo un qualcosa e si intuisce che, grazie alle proprie competenze, si è in grado di aiutare le altre persone ad evitare le stesse complicazioni. È così che, da qualche mese, io e Gabriel siamo entrati nell’ottica di creare più side-project, anche contemporaneamente ([_sul nostro sito_](https://www.aleamakers.com "Homepage Alea Makers") _abbiamo pubblicato i tre più significativ_i). 
+Una startup di successo nasce sempre dalla volontà di risolvere un problema. Succede che si incontra una difficoltà mentre si sta facendo un qualcosa e si intuisce che, grazie alle proprie competenze, si è in grado di aiutare le altre persone ad evitare le stesse complicazioni. È così che, da qualche mese, io e Gabriel siamo entrati nell’ottica di creare più side-project, anche contemporaneamente ([_sul nostro sito_](https://www.aleamakers.com "Homepage Alea Makers") abbiamo pubblicato i tre più significativi).
 
-Questa è una premessa necessaria per introdurre la nascita di Proance. 
+Questa è una premessa necessaria per introdurre la nascita di Proance.
 
-Per entrare nel vivo dell’articolo, tutto è iniziato quando ci siamo ritrovati ad avere dei conti da gestire: segnarci tutte l’entrate, uscite, quanti soldi personali avessimo investito, capire il margine per ogni conversione in relazione alle spese effettuate. Avere sotto controllo questo tipo di informazioni è importante per chiunque faccia impresa; per chi lavora nel mondo digital come noi, che ogni giorno si sforza di essere data driven, ovvero di basare le proprie scelte strategiche sui dati ricevuti dai test effettuati ciclicamente, lo è in modo particolare. 
+Per entrare nel vivo dell’articolo, tutto è iniziato quando ci siamo ritrovati ad avere dei conti da gestire: segnarci tutte l’entrate, uscite, quanti soldi personali avessimo investito, capire il margine per ogni conversione in relazione alle spese effettuate. Avere sotto controllo questo tipo di informazioni è importante per chiunque faccia impresa; per chi lavora nel mondo digital come noi, che ogni giorno si sforza di essere data driven, ovvero di basare le proprie scelte strategiche sui dati ricevuti dai test effettuati ciclicamente, lo è in modo particolare.
 
 Quasi d’impulso, per risolvere questa necessità, ho iniziato ad utilizzare il classico foglio di calcolo stile Excel, su Google Drive. Richiede un po’ di tempo per impostare tutte le formule, però è gratuito, personalizzabile e svolge bene il suo dovere.
 
@@ -35,19 +35,19 @@ _Ci tengo a far notare che, se non avessimo abbracciato il movimento Open Startu
 
 Ci siamo trovati d’accordo sul fatto che dovesse essere un servizio immediato, dunque, un’app mobile. Abbiamo comunque valutato la versione desktop e web, trovandole sconvenienti in questa prima fase del progetto, sopratutto tenendo presente che Gabriel è specializzato in Flutter (_framework creato da Google che permette di sviluppare app native per Android e iOs con un unico codice_).
 
-Dopodiché, abbiamo definito il target: startuppers, makers, ma anche chi vende online prodotti non digitali. In una parola, digital entrepreneurs. 
+Dopodiché, abbiamo definito il target: startuppers, makers, ma anche chi vende online prodotti non digitali. In una parola, digital entrepreneurs.
 
 Per essere più specifici, poiché non avrebbe senso creare un’app per gestire le finanze di grosse aziende dato che esistono software strutturati e molto complessi che già soddisfano i loro bisogni, vogliamo rivolgerci in particolare ad imprenditori digitali con progetti in fase iniziale, gli early stage project. Vogliamo che sia un servizio utilizzabile anche gratuitamente se l’ammontare delle transazioni rientra in un certo limite, proprio per essere utili a chi dovesse trovarsi nella situazione che ho descritto nell’introduzione di questo articolo.
 
 Determinata la piattaforma e il nostro pubblico, abbiamo iniziato a definire le macro-funzionalità del servizio, suddividendoli in due categorie: gestore finanze e analytics.
 
-La prima è la classica app bancaria, con cui controllare le entrate/uscite, mentre la seconda riguarda tutta la parte di elaborazione dati, con cui creare grafici e indicatori utili all’imprenditore per capire l’andamento del proprio progetto. 
+La prima è la classica app bancaria, con cui controllare le entrate/uscite, mentre la seconda riguarda tutta la parte di elaborazione dati, con cui creare grafici e indicatori utili all’imprenditore per capire l’andamento del proprio progetto.
 
 In generale, in questa prima lavagna, è uscito il concetto di un’app che potesse diventare il centro di controllo sul proprio progetto, con tutti i dati utili e necessari in primo piano.
 
 ![](../board2.jpeg)
 
-Nella seconda lavagna, abbiamo iniziato ad analizzare il gestore delle finanze, cercando gli attributi necessari per avere i dati giusti da poter elaborare nell’analytics. 
+Nella seconda lavagna, abbiamo iniziato ad analizzare il gestore delle finanze, cercando gli attributi necessari per avere i dati giusti da poter elaborare nell’analytics.
 
 La base degli attributi sono i tag, alcuni obbligatori (come il customer) e altri facoltativi e personalizzabili (molte di quelle chiavi, allo stato attuale, non sono state implementate perché ritenute, in un secondo momento, superflue).
 
@@ -65,7 +65,7 @@ Abbiamo anche definito la necessità di gestire i prodotti venduti, così da pot
 
 Nella quarta lavagna, forse la più importante, abbiamo definito la value proposition, ovvero ciò che offriamo e che ci contraddistingue sul mercato. Il nostro approccio è stato quello di esplorare più possibilità, scegliendo poi, alla fine, quella a noi più congeniale.
 
-La prima proposta è stata quella di offrire l’integrazione con i servizi più utilizzati da chi vende online,  come Stripe e Shopify, in modo da permettere l’importazione automatica dei propri dati. 
+La prima proposta è stata quella di offrire l’integrazione con i servizi più utilizzati da chi vende online,  come Stripe e Shopify, in modo da permettere l’importazione automatica dei propri dati.
 
 Un’altra strada potrebbe essere quella di predisporre il servizio all’Open Startup, così da offrire un servizio specifico per una particolare nicchia facente parte del nostro target.
 
@@ -77,7 +77,7 @@ Dopo aver scritto tutte le proposte, che saranno tutte implementate in futuro, a
 
 ![](../board5.jpeg)
 
-Inizia il caos. Quando ci si trova sulla stessa lunghezza d’onda e delle cose interessanti iniziano a venire a galla, succede che si parla di più argomenti insieme. 
+Inizia il caos. Quando ci si trova sulla stessa lunghezza d’onda e delle cose interessanti iniziano a venire a galla, succede che si parla di più argomenti insieme.
 
 In questa lavagna si è cercato di entrare nel dettaglio sui tabs da inserire all’interno dell’app, iniziando ad abbozzare un principio di grafica, per farci un’idea. Intanto, si è parlato del business model (in alto a destra), di quali grafici dovesse avere il compare (l’analytics) e quali informazioni chiedere durante la creazione di un nuovo account.
 
@@ -85,7 +85,7 @@ In questa lavagna si è cercato di entrare nel dettaglio sui tabs da inserire al
 
 ![](../board6.jpeg)
 
-Come da titolo, abbiamo approfondito il tab del monitor, scegliendo quali informazioni inserire e in che ordine. È stato definito il concept grafico della schermata principale, scegliendo di inserire in alto uno spazio riservato alla cassa, poi quattro tasti per le shortcuts (di cui uno per iniziare una chat per inviare richieste/feedback) e sotto i diversi grafici delle voci scelte e riportate sulla sinistra della lavagna. 
+Come da titolo, abbiamo approfondito il tab del monitor, scegliendo quali informazioni inserire e in che ordine. È stato definito il concept grafico della schermata principale, scegliendo di inserire in alto uno spazio riservato alla cassa, poi quattro tasti per le shortcuts (di cui uno per iniziare una chat per inviare richieste/feedback) e sotto i diversi grafici delle voci scelte e riportate sulla sinistra della lavagna.
 
 Nella parte centrale inferiore è accennato un piccolo algoritmo di prova per l’assistente personale.
 
