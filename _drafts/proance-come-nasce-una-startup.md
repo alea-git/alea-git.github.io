@@ -27,7 +27,7 @@ In realtà non è stata una scelta così sequenziale come potrebbe sembrare: per
 
 ***
 
-_Piccola curiosità aggiuntiva, più che altro perché mi diverte: la prima volta in cui si è parlato di ciò che poi sarebbe diventato Proance è stato in un messaggio vocale mandato a Gabriel. Che trovi qui di seguito (se non è trasparenza questa!_ 😂_)._ 
+_Piccola curiosità aggiuntiva, più per divertimento: la prima volta in assoluto in cui si è parlato di ciò che poi sarebbe diventato Proance è stato in un messaggio vocale mandato a Gabriel. Che trovi qui di seguito (se non è trasparenza questa!_ 😂_)._ 
 
 <audio controls>  
 <source src="/images/projects/vocale_proance.wav" type="audio/wav">  
