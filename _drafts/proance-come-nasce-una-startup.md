@@ -4,7 +4,7 @@ title: 'Come nasce una startup: il caso Proance'
 date: 2019-11-13 09:00:00 +0000
 description: In questo articolo troverai come siamo arrivati ad ideare Proance e il
   racconto del primissimo giorno in cui abbiamo iniziato a lavorarci.
-featured_image: "../startae-team-7tXA8xwe4W4-unsplash.jpg"
+featured_image: "../whiteboard.jpg"
 
 ---
 Una startup di successo nasce sempre dalla volontà di **risolvere un problema**. Succede che si incontra una difficoltà mentre si sta facendo un qualcosa e si intuisce che, grazie alle proprie competenze, si è in grado di aiutare le altre persone ad evitare le stesse complicazioni. È così che, da qualche mese, io e Gabriel siamo entrati nell’ottica di creare più side-project, anche contemporaneamente ([_sul nostro sito_](https://www.aleamakers.com "Homepage Alea Makers") abbiamo pubblicato i tre più significativi).
