@@ -7,11 +7,11 @@ description: In questo articolo troverai come siamo arrivati ad ideare Proance e
 featured_image: ''
 
 ---
-Una startup di successo nasce sempre dalla volontà di risolvere un problema. Succede che si incontra una difficoltà mentre si sta facendo un qualcosa e si intuisce che, grazie alle proprie competenze, si è in grado di aiutare le altre persone ad evitare le stesse complicazioni. È così che, da qualche mese, io e Gabriel siamo entrati nell’ottica di creare più side-project, anche contemporaneamente ([_sul nostro sito_](https://www.aleamakers.com "Homepage Alea Makers") abbiamo pubblicato i tre più significativi).
+Una startup di successo nasce sempre dalla volontà di **risolvere un problema**. Succede che si incontra una difficoltà mentre si sta facendo un qualcosa e si intuisce che, grazie alle proprie competenze, si è in grado di aiutare le altre persone ad evitare le stesse complicazioni. È così che, da qualche mese, io e Gabriel siamo entrati nell’ottica di creare più side-project, anche contemporaneamente ([_sul nostro sito_](https://www.aleamakers.com "Homepage Alea Makers") abbiamo pubblicato i tre più significativi).
 
 Questa è una premessa necessaria per introdurre la nascita di Proance.
 
-Per entrare nel vivo dell’articolo, tutto è iniziato quando ci siamo ritrovati ad avere dei conti da gestire: segnarci tutte l’entrate, uscite, quanti soldi personali avessimo investito, capire il margine per ogni conversione in relazione alle spese effettuate. Avere sotto controllo questo tipo di informazioni è importante per chiunque faccia impresa; per chi lavora nel mondo digital come noi, che ogni giorno si sforza di essere data driven, ovvero di basare le proprie scelte strategiche sui dati ricevuti dai test effettuati ciclicamente, lo è in modo particolare.
+Per entrare nel vivo dell’articolo, tutto è iniziato quando ci siamo ritrovati ad avere dei **conti da gestire**: segnarci tutte l’entrate, uscite, quanti soldi personali avessimo investito, capire il margine per ogni conversione in relazione alle spese effettuate. Avere sotto controllo questo tipo di informazioni è importante per chiunque faccia impresa; per chi lavora nel mondo digital come noi, che ogni giorno si sforza di essere data driven, ovvero di basare le proprie scelte strategiche sui dati ricevuti dai test effettuati ciclicamente, lo è in modo particolare.
 
 Quasi d’impulso, per risolvere questa necessità, ho iniziato ad utilizzare il classico foglio di calcolo stile Excel, su Google Drive. Richiede un po’ di tempo per impostare tutte le formule, però è gratuito, personalizzabile e svolge bene il suo dovere.
 
