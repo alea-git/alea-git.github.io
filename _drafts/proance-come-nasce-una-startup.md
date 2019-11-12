@@ -25,7 +25,7 @@ Tutto è filato liscio finché, un bel giorno, il periodo di prova gratuita di Z
 
 In realtà non è stata una scelta così sequenziale come potrebbe sembrare: per diverse settimane mi sono portato dentro **una sensazione di insoddisfazione**, finché, in modo del tutto inaspettato, è uscita fuori l’idea di un servizio che potesse risolvere questo problema a noi e a chiunque altro si fosse trovato nella stessa situazione.
 
-Piccola curiosità aggiuntiva, un po' per essere super trasparente e un po' perché mi diverte: la prima volta in cui si è parlato di ciò che poi sarebbe diventato Proance è stato in un messaggio vocale mandato a Gabriel. Che trovi qui di seguito. <audio controls>  
+Piccola curiosità aggiuntiva, più che altro perché mi diverte: la prima volta in cui si è parlato di ciò che poi sarebbe diventato Proance è stato in un messaggio vocale mandato a Gabriel. Che trovi qui di seguito (se non è trasparenza questa!). <audio controls>  
 <source src="/images/projects/vocale_proance.wav" type="audio/wav">  
 <source src="/images/projects/vocale_proance.mp3” type="audio/mp3”>  
 Your browser does not support the audio element.  
