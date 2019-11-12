@@ -1,7 +1,7 @@
 ---
 author: Alessandro Trezza
 title: "[Proance] Come nasce una startup"
-date: 
+date: 2019-11-13 09:00:00 +0000
 description: In questo articolo troverai come siamo arrivati ad ideare Proance e il
   racconto del primissimo giorno in cui abbiamo iniziato a lavorarci.
 featured_image: ''
