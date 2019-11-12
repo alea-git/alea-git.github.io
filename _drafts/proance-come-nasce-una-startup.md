@@ -21,11 +21,11 @@ Ho iniziato a fare delle ricerche sui servizi già presenti sul mercato, fino a 
 
 Tutto è filato liscio finché, un bel giorno, il periodo di prova gratuita di Zapier è scaduto. È un servizio necessario perché permette di risparmiare molto tempo, quindi decido di volerlo utilizzare, anche pagando. Scopro, però, che le automatizzazioni che avevo creato, nonostante fossero basilari, mi sarebbero costate almeno € 20 al mese. Sicuramente l’avrei acquistato se avessi avuto delle entrate fisse maggiori; per gestire un piccolo side-project, però, non mi è sembrato il caso spendere quella cifra.
 
-Un breve riepilogo per tirare le somme: dobbiamo gestire abbastanza informazioni economico/finanziare da rendere opportuna l’aggiornamento automatico dei dati ma non a sufficienza da poter investire la cifra richiesta dai servizi già presenti sul mercato. Con queste premesse, abbiamo deciso di iniziare a lavorare su Proance.
+**Un breve riepilogo** per tirare le somme: dobbiamo gestire abbastanza informazioni economico/finanziare da rendere opportuna l’aggiornamento automatico dei dati ma non a sufficienza da poter investire la cifra richiesta dai servizi già presenti sul mercato. Con queste premesse, abbiamo deciso di iniziare a lavorare su Proance.
 
-In realtà non è stata una scelta così sequenziale come potrebbe sembrare: per diverse settimane mi sono portato dentro una sensazione di insoddisfazione, finché, in modo del tutto inaspettato, è uscita fuori l’idea di un servizio che potesse risolvere questo problema a noi e a chiunque altro si fosse trovato nella stessa situazione.
+In realtà non è stata una scelta così sequenziale come potrebbe sembrare: per diverse settimane mi sono portato dentro **una sensazione di insoddisfazione**, finché, in modo del tutto inaspettato, è uscita fuori l’idea di un servizio che potesse risolvere questo problema a noi e a chiunque altro si fosse trovato nella stessa situazione.
 
-Dopo le prime impressioni tramite diverse telefonate e scambi di messaggi su Telegram, ci siamo riuniti e abbiamo iniziato a parlarne davanti ad una lavagna bianca attaccata al muro del nostro (temporaneo e ormai ex) ufficio.
+Dopo le prime impressioni tramite diverse telefonate e scambi di messaggi su Telegram, ci siamo riuniti e abbiamo iniziato a parlarne davanti ad una **lavagna bianca** attaccata al muro del nostro (temporaneo e ormai ex) ufficio.
 
 Per prima cosa, ci siamo raccontati, senza interromperci, come ci immaginavamo il servizio, per capire se ci fossero dei punti in comune, dopodiché abbiamo iniziato a scrivere.
 
