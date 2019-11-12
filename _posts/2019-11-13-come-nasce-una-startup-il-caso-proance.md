@@ -40,7 +40,7 @@ Per prima cosa, ci siamo raccontati, senza interromperci, come ci immaginavamo i
 
 > Ci tengo a far notare che, se non avessimo abbracciato il movimento Open Startup, per me sarebbe stato impensabile riportare le lavagne, peraltro con l’aggiunta della spiegazione. Di seguito, non solo racconter&ograve; l’idea ma anche tutti ragionamenti che abbiamo fatto, cos&igrave; da poter seguire il filo logico che porta alle nostre scelte. Questo &egrave; possibile per via dei principi introdotti nel [primo articolo del nostro blog](https://www.aleamakers.com/blog/ci-uniamo-al-movimento-open-startup-we-grow-we-make-we-share "Articolo &quot;Ci uniamo al movimento Open Startup&quot; dal blog di Alea Makers"), che ti invito a leggere.
 
-&lt;img src="/images/projects/board1.jpeg" alt="prima lavagna"&gt;
+&lt;img src="/images/projects/board1.jpeg" alt="prima lavagna"&gt;&lt;/img&gt;
 
 Ci siamo trovati d’accordo sul fatto che dovesse essere un servizio immediato, dunque, un’app mobile. Abbiamo comunque valutato la versione desktop e web, trovandole sconvenienti in questa prima fase del progetto, sopratutto tenendo presente che Gabriel &egrave; specializzato in Flutter (*framework creato da Google che permette di sviluppare app native per Android e iOs con un unico codice*).
 
