@@ -25,6 +25,12 @@ Tutto è filato liscio finché, un bel giorno, il periodo di prova gratuita di Z
 
 In realtà non è stata una scelta così sequenziale come potrebbe sembrare: per diverse settimane mi sono portato dentro **una sensazione di insoddisfazione**, finché, in modo del tutto inaspettato, è uscita fuori l’idea di un servizio che potesse risolvere questo problema a noi e a chiunque altro si fosse trovato nella stessa situazione.
 
+<audio controls>  
+ <source src="horse.ogg" type="audio/ogg">  
+ <source src="horse.mp3" type="audio/mpeg">  
+Your browser does not support the audio element.  
+</audio>
+
 Dopo le prime impressioni tramite diverse telefonate e scambi di messaggi su Telegram, ci siamo riuniti e abbiamo iniziato a parlarne davanti ad una **lavagna bianca** attaccata al muro del nostro (temporaneo e ormai ex) ufficio.
 
 Per prima cosa, ci siamo raccontati, senza interromperci, come ci immaginavamo il servizio, per capire se ci fossero dei punti in comune, dopodiché abbiamo iniziato a scrivere.
