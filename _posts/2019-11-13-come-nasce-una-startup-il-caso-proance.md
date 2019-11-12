@@ -38,9 +38,9 @@ Dopo le prime impressioni tramite diverse telefonate e scambi di messaggi su Tel
 
 Per prima cosa, ci siamo raccontati, senza interromperci, come ci immaginavamo il servizio, per capire se ci fossero dei punti in comune, dopodich&eacute; abbiamo iniziato a scrivere.
 
-> Ci tengo a far notare che, se non avessimo abbracciato il movimento Open Startup, per me sarebbe stato impensabile riportare le lavagne, peraltro con l’aggiunta della spiegazione.
+> Ci tengo a far notare che, se non avessimo abbracciato il movimento Open Startup, per me sarebbe stato impensabile riportare le lavagne, peraltro con l’aggiunta della spiegazione. Di seguito, non solo racconter&ograve; l’idea ma anche tutti ragionamenti che abbiamo fatto, cos&igrave; da poter seguire il filo logico che porta alle nostre scelte.
 
-Di seguito, non solo racconter&ograve; l’idea ma anche tutti ragionamenti che abbiamo fatto, cos&igrave; da poter seguire il filo logico che porta alle nostre scelte. Questo &egrave; possibile per via dei principi introdotti nel [primo articolo del nostro blog](https://www.aleamakers.com/blog/ci-uniamo-al-movimento-open-startup-we-grow-we-make-we-share "Articolo &quot;Ci uniamo al movimento Open Startup&quot; dal blog di Alea Makers"), che ti invito a leggere.
+Questo &egrave; possibile per via dei principi introdotti nel [primo articolo del nostro blog](https://www.aleamakers.com/blog/ci-uniamo-al-movimento-open-startup-we-grow-we-make-we-share "Articolo &quot;Ci uniamo al movimento Open Startup&quot; dal blog di Alea Makers"), che ti invito a leggere.
 
 {% include post-components/gallery.html columns = 1 full_width = false images = "/images/projects/board1.jpeg " %}
 
