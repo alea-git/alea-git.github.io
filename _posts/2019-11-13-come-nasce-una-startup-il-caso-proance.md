@@ -44,17 +44,17 @@ Questo &egrave; possibile per via dei principi introdotti nel [primo articolo de
 
 {% include post-components/gallery.html columns = 1 full_width = false images = "/images/projects/board1.jpeg " %}
 
-Ci siamo trovati d’accordo sul fatto che dovesse essere un servizio immediato, dunque, un’app mobile. Abbiamo comunque valutato la versione desktop e web, trovandole sconvenienti in questa prima fase del progetto, sopratutto tenendo presente che Gabriel &egrave; specializzato in Flutter (*framework creato da Google che permette di sviluppare app native per Android e iOs con un unico codice*).
+Ci siamo trovati d’accordo sul fatto che dovesse essere un **servizio immediato**, dunque, un’app mobile. Abbiamo comunque valutato la versione desktop e web, trovandole sconvenienti in questa prima fase del progetto, sopratutto tenendo presente che Gabriel &egrave; specializzato in Flutter (*framework creato da Google che permette di sviluppare app native per Android e iOs con un unico codice*).
 
-Dopodich&eacute;, abbiamo definito il target: startuppers, makers, ma anche chi vende online prodotti non digitali. In una parola, digital entrepreneurs.
+Dopodich&eacute;, abbiamo **definito il target**\: startuppers, makers, ma anche chi vende online prodotti non digitali. In una parola, digital entrepreneurs.
 
-Per essere pi&ugrave; specifici, poich&eacute; non avrebbe senso creare un’app per gestire le finanze di grosse aziende dato che esistono software strutturati e molto complessi che gi&agrave; soddisfano i loro bisogni, vogliamo rivolgerci in particolare ad imprenditori digitali con progetti in fase iniziale, gli early stage project. Vogliamo che sia un servizio utilizzabile anche gratuitamente se l’ammontare delle transazioni rientra in un certo limite, proprio per essere utili a chi dovesse trovarsi nella situazione che ho descritto nell’introduzione di questo articolo.
+Per essere pi&ugrave; specifici, poich&eacute; non avrebbe senso creare un’app per gestire le finanze di grosse aziende dato che esistono software strutturati e molto complessi che gi&agrave; soddisfano i loro bisogni, vogliamo rivolgerci in particolare ad imprenditori digitali con progetti in fase iniziale, gli **early stage project**. Vogliamo che sia un servizio utilizzabile anche gratuitamente se l’ammontare delle transazioni rientra in un certo limite, proprio per essere utili a chi dovesse trovarsi nella situazione che ho descritto nell’introduzione di questo articolo.
 
 Determinata la piattaforma e il nostro pubblico, abbiamo iniziato a definire le macro-funzionalit&agrave; del servizio, suddividendoli in due categorie: gestore finanze e analytics.
 
 La prima &egrave; la classica app bancaria, con cui controllare le entrate/uscite, mentre la seconda riguarda tutta la parte di elaborazione dati, con cui creare grafici e indicatori utili all’imprenditore per capire l’andamento del proprio progetto.
 
-In generale, in questa prima lavagna, &egrave; uscito il concetto di un’app che potesse diventare il centro di controllo sul proprio progetto, con tutti i dati utili e necessari in primo piano.
+In generale, in questa prima lavagna, &egrave; uscito il concetto di un’app che potesse diventare il **centro di controllo** sul proprio progetto, con tutti i dati utili e necessari in primo piano.
 
 {% include post-components/gallery.html columns = 1 full_width = false images = "/images/projects/board2.jpeg " %}
 
@@ -74,15 +74,15 @@ Abbiamo anche definito la necessit&agrave; di gestire i prodotti venduti, cos&ig
 
 {% include post-components/gallery.html columns = 1 full_width = false images = "/images/projects/board4.jpeg " %}
 
-Nella quarta lavagna, forse la pi&ugrave; importante, abbiamo definito la value proposition, ovvero ci&ograve; che offriamo e che ci contraddistingue sul mercato. Il nostro approccio &egrave; stato quello di esplorare pi&ugrave; possibilit&agrave;, scegliendo poi, alla fine, quella a noi pi&ugrave; congeniale.
+Nella quarta lavagna, forse la pi&ugrave; importante, abbiamo definito la **value proposition**, ovvero ci&ograve; che offriamo e che ci contraddistingue sul mercato. Il nostro approccio &egrave; stato quello di esplorare pi&ugrave; possibilit&agrave;, scegliendo poi, alla fine, quella a noi pi&ugrave; congeniale.
 
-La prima proposta &egrave; stata quella di offrire l’integrazione con i servizi pi&ugrave; utilizzati da chi vende online, come Stripe e Shopify, in modo da permettere l’importazione automatica dei propri dati.
+La prima proposta &egrave; stata quella di offrire l’**integrazione** con i servizi pi&ugrave; utilizzati da chi vende online, come Stripe e Shopify, in modo da permettere l’importazione automatica dei propri dati.
 
 Un’altra strada potrebbe essere quella di predisporre il servizio all’Open Startup, cos&igrave; da offrire un servizio specifico per una particolare nicchia facente parte del nostro target.
 
 Una necessit&agrave; che ho riscontrato personalmente &egrave; quella di avere uno strumento che aiuti nella gestione dei conti tra i fondatori di un progetto, per capire quanti soldi personali sono stati investiti da ognuno e tutti i dati che ne conseguono nel momento della suddivisione di eventuali utili.
 
-In fine, un assistente personale che riesca a dare dei consigli in base all’andamento del progetto e la possibilit&agrave; di creare e gestire dei budget, ad esempio per il marketing o per lo sviluppo di un prodotto.
+In fine, un **assistente personale** che riesca a dare dei consigli in base all’andamento del progetto e la possibilit&agrave; di creare e gestire dei budget, ad esempio per il marketing o per lo sviluppo di un prodotto.
 
 Dopo aver scritto tutte le proposte, che saranno tutte implementate in futuro, abbiamo scelto quelle da inserire nell’MVP, ovvero l’integrazione con Stripe e una versione base dell’assistente personale.
 
@@ -100,7 +100,7 @@ Come da titolo, abbiamo approfondito il tab del monitor, scegliendo quali inform
 
 Nella parte centrale inferiore &egrave; accennato un piccolo algoritmo di prova per l’assistente personale.
 
-La sensazione che si prova durante questi momenti iniziali &egrave; uno dei motivi per cui, molto probabilmente, le persone come noi continuano a sfornare progetti. Amiamo il processo di creazione, &egrave; uno stimolo fortissimo alla propria creativit&agrave; e intraprendenza ed &egrave; ci&ograve; che principalmente vorrei comunicare con il blog di Alea Makers.
+> La sensazione che si prova durante questi momenti iniziali &egrave; uno dei motivi per cui, molto probabilmente, le persone come noi continuano a sfornare progetti. Amiamo il processo di creazione, &egrave; uno stimolo fortissimo alla propria creativit&agrave; e intraprendenza ed &egrave; ci&ograve; che principalmente vorrei comunicare con il blog di Alea Makers.
 
 Nel prossimo articolo approfondir&ograve; la strategia di comunicazione, basandomi sull’ultima lavagna fatta in questo giorno.
 
