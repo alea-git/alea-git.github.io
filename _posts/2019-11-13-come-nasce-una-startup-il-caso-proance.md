@@ -38,7 +38,7 @@ Dopo le prime impressioni tramite diverse telefonate e scambi di messaggi su Tel
 
 Per prima cosa, ci siamo raccontati, senza interromperci, come ci immaginavamo il servizio, per capire se ci fossero dei punti in comune, dopodich&eacute; abbiamo iniziato a scrivere.
 
-> Ci tengo a far notare che, se non avessimo abbracciato il movimento Open Startup, per me sarebbe stato impensabile riportare le lavagne, peraltro con l’aggiunta della spiegazione. Di seguito, non solo racconter&ograve; l’idea ma anche tutti ragionamenti che abbiamo fatto, cos&igrave; da poter seguire il filo logico che porta alle nostre scelte.
+> Ci tengo a far notare che, se non avessimo abbracciato il movimento Open Startup, per me sarebbe stato impensabile riportare le lavagne, peraltro con l’aggiunta della spiegazione. Di seguito, non solo racconter&ograve; l’idea ma anche tutti i ragionamenti che abbiamo fatto, cos&igrave; da poter seguire il filo logico che porta alle nostre scelte.
 
 Questo &egrave; possibile per via dei principi introdotti nel [primo articolo del nostro blog](https://www.aleamakers.com/blog/ci-uniamo-al-movimento-open-startup-we-grow-we-make-we-share "Articolo &quot;Ci uniamo al movimento Open Startup&quot; dal blog di Alea Makers"), che ti invito a leggere.
 
@@ -66,7 +66,7 @@ L’appunto in alto a sinistra sull’account, indica che un progetto pu&ograve;
 
 {% include post-components/gallery.html columns = 1 full_width = false images = "/images/projects/board3.jpeg " %}
 
-Nel terza lavagna abbiamo cercato di identificare e definire quali indicatori inserire nel monitor, ovvero il gestore delle finanze, e nell’analytics.
+Nella terza lavagna abbiamo cercato di identificare e definire quali indicatori inserire nel monitor, ovvero il gestore delle finanze, e nell’analytics.
 
 Nel monitor sono presenti i dati grezzi mentre nell’analytics forniamo grafici sulla base di informazioni elaborate (come elencato sulla lavagna).
 
