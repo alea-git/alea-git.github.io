@@ -20,5 +20,6 @@ fields:
   name: featured_image
   label: featured_image
 pages:
+- _posts/comunicazione.md
 - _posts/2019-10-30-ci-uniamo-al-movimento-open-startup-we-grow-we-make-we-share.md
 - _posts/2019-10-30-ci-uniamo-al-movimento-open-startup-we-grow-we-make-we-share.md
