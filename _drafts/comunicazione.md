@@ -32,6 +32,4 @@ Leggendo la lavagna, sono segnati i primi tre articoli da produrre: introduzione
 
 Per la strategia in inglese, il nostro focus è completamente rivolto su Proance, dato che è più semplice intercettare coloro che appartengono al nostro target, gli imprenditori digitali con progetti in early stage. 
 
-Cercheremo di coinvolgere le community presenti su Reddit, IndieHackers e ProductHunt per validare l'idea e trovare dei beta tester.
-
-Abbiamo già provato a postare sui primi due, raccogliendo qualche email (non ci riteniamo soddisfatti dell'esperimento, probabilmente abbiamo sbagliato sia l'orario in cui abbiamo postato che il tipo di testo, troppo pubblicitario per quel tipo di community; certamente riproveremo), mentre per ProductHunt, essendo il più importante, vogliamo utilizzarlo esclusivamente per il lancio della beta.
+Cercheremo di coinvolgere le community presenti su Reddit, IndieHackers e ProductHunt per validare l'idea e trovare dei beta tester. Abbiamo già provato a postare sui primi due, raccogliendo qualche email (non ci riteniamo soddisfatti dell'esperimento, probabilmente abbiamo sbagliato sia l'orario in cui abbiamo postato che il tipo di testo, troppo pubblicitario per quel tipo di community; certamente riproveremo), mentre per ProductHunt, essendo il più importante, vogliamo utilizzarlo esclusivamente per il lancio della beta.
