@@ -35,3 +35,7 @@ Per la strategia in inglese, il nostro focus è completamente rivolto su Proance
 Cercheremo di coinvolgere le community presenti su Reddit, IndieHackers e ProductHunt per validare l'idea e trovare dei beta tester. Abbiamo già provato a postare sui primi due, raccogliendo qualche email (non ci riteniamo soddisfatti dell'esperimento, probabilmente abbiamo sbagliato sia l'orario in cui abbiamo postato che il tipo di testo, troppo pubblicitario per quel tipo di community; certamente riproveremo), mentre per ProductHunt, essendo il più importante, vogliamo utilizzarlo esclusivamente per il lancio della beta.
 
 In più, sulla base dei principi dell'Open Startup, abbiamo deciso di creare il canale YouTube di Alea Makers con il quale registrare in diretta lo sviluppo dell'app di Proance. Per il breve termine è un qualcosa che incuriosisce, mentre, per il futuro, crediamo possa essere interessante far scoprire i primi giorni di creazione dell'app, nel caso in cui riusciremo a rendere finanziariamente sostenibile il progetto.
+
+Per quanto riguarda i social, come anticipato, abbiamo LinkedIn, utilizzato per divulgare gli articoli di questo blog ed eventuali altri aggiornamenti; Instagram, per condividere in presa diretta il dietro le quinte del nostro lavoro, tramite le stories; Twitter, per la pubblicazione futura delle metriche Open Startup (incassi, utenti, ecc.).
+
+Facebook non rientra nelle nostre necessità, richiederebbe del tempo e non credo ci possa aiutare a raggiungere il nostro target (valuteremo in futuro).
