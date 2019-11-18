@@ -30,6 +30,8 @@ La diffusione di Alea Makers rientra nella strategia in italiano, poiché potrem
 
 Leggendo la lavagna, sono segnati i primi tre articoli da produrre: introduzione all'Open Startup, com'è nato Proance e come stiamo validando l'idea. In realtà, l'articolo che stai leggendo si è inserito tra il secondo e il terzo, poiché, in corso d'opera, mi è sembrata la continuazione logica di quello precedente.
 
-Il focus per la strategia in inglese è completamente rivolto su Proance. I canali dai quali ci aspettiamo più traffico sono Reddit, IndieHackers e ProductHunt. 
+Per la strategia in inglese, il nostro focus è completamente rivolto su Proance, dato che è più semplice intercettare coloro che appartengono al nostro target, i digital entrepreneurs con progetti in early stage. 
+
+Cercheremo di coinvolgere le community presenti su Reddit, IndieHackers e ProductHunt per validare l'idea e trovare dei beta tester.
 
 Abbiamo già provato a postare sui primi due, raccogliendo qualche email (non ci riteniamo soddisfatti dell'esperimento, probabilmente abbiamo sbagliato sia l'orario in cui abbiamo postato che il tipo di testo, troppo pubblicitario per quel tipo di community; certamente riproveremo), mentre per ProductHunt, essendo il più importante, vogliamo utilizzarlo esclusivamente per il lancio della beta.
