@@ -30,7 +30,7 @@ La diffusione di Alea Makers rientra nella strategia in italiano, poiché potrem
 
 Leggendo la lavagna, sono segnati i primi tre articoli da produrre: introduzione all'Open Startup, com'è nato Proance e come stiamo validando l'idea. In realtà, l'articolo che stai leggendo si è inserito tra il secondo e il terzo, poiché, in corso d'opera, mi è sembrata la continuazione logica di quello precedente.
 
-Per la strategia in inglese, il nostro focus è completamente rivolto su Proance, dato che è più semplice intercettare coloro che appartengono al nostro target, i digital entrepreneurs con progetti in early stage. 
+Per la strategia in inglese, il nostro focus è completamente rivolto su Proance, dato che è più semplice intercettare coloro che appartengono al nostro target, gli imprenditori digitali con progetti in early stage. 
 
 Cercheremo di coinvolgere le community presenti su Reddit, IndieHackers e ProductHunt per validare l'idea e trovare dei beta tester.
 
