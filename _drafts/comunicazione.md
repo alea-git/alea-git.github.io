@@ -1,8 +1,9 @@
 ---
 author: Alessandro Trezza
-title: Comunicazione
+title: La strategia di comunicazione definita per Proance
 date: 2019-11-20 09:00:00 +0000
-description: ''
+description: Il nostro approccio alla strategia di comunicazione per Proance, gli
+  obiettivi definiti e come intendiamo raggiungerli.
 featured_image: ''
 
 ---
