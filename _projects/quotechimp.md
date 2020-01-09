@@ -8,8 +8,8 @@ description: >-
 featured_image: quotechimp1.png
 accent_color: '#062d38'
 gallery_images:
-  - quotechimp4.png
   - quotechimp2.png
+  - quotechimp4.png
 ---
 
 One day in mid-December 2019, we receive a request for a quote for the development of an app on our Fudeo mailbox. As usual, we call the potential customer for a telephone interview, to deepen the project and define the requests well.
