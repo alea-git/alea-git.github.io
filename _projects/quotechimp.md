@@ -2,7 +2,9 @@
 title: Quotechimp
 subtitle: A tool developed in 18 days
 date: 2020-01-09 23:00:00
-description: Personalized forms for dynamic quotes and reservations
+description: >-
+  Let customers pick their choices in your personalized quotes and reservations
+  through dynamic forms with live final price calculation.
 featured_image: quotechimp1.png
 accent_color: '#062d38'
 gallery_images:
