@@ -12,8 +12,6 @@ gallery_images:
   - quotechimp2.png
 ---
 
-Quotechimp is a platform to personalized forms for dynamic quotes and reservations.
-
 One day in mid-December 2019, we receive a request for a quote for the development of an app on our Fudeo mailbox. As usual, we call the potential customer for a telephone interview, to deepen the project and define the requests well.
 
 A few days pass, in which Gabriel elaborates the prices on the basis of what came out of the chat.
