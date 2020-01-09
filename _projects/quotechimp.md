@@ -1,15 +1,15 @@
 ---
 title: Quotechimp
 subtitle: A tool developed in 18 days
-date: 2020-01-09 23:00:00 +0000
+date: 2020-01-09 23:00:00
 description: Personalized forms for dynamic quotes and reservations
-featured_image: "../quotechimp1.png"
-accent_color: "#062d38"
+featured_image: quotechimp1.png
+accent_color: '#062d38'
 gallery_images:
-- "../quotechimp2.png"
-- "../quotechimp3.png"
-
+  - ../quotechimp2.png
+  - ../quotechimp3.png
 ---
+
 Quotechimp is a platform to personalized forms for dynamic quotes and reservations.
 
 One day in mid-December 2019, we receive a request for a quote for the development of an app on our Fudeo mailbox. As usual, we call the potential customer for a telephone interview, to deepen the project and define the requests well.
