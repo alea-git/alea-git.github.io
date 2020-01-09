@@ -3,9 +3,11 @@ title: Quotechimp
 subtitle: A tool developed in 18 days
 date: 2020-01-09 23:00:00 +0000
 description: Personalized forms for dynamic quotes and reservations
-featured_image: ''
+featured_image: "../quotechimp1.png"
 accent_color: "#062d38"
-gallery_images: []
+gallery_images:
+- "../quotechimp2.png"
+- "../quotechimp3.png"
 published: false
 
 ---
