@@ -7,7 +7,7 @@ featured_image: quotechimp1.png
 accent_color: '#062d38'
 gallery_images:
   - quotechimp2.png
-  - quotechimp3.png
+  - quotechimp4.png
 ---
 
 Quotechimp is a platform to personalized forms for dynamic quotes and reservations.
