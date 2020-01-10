@@ -32,6 +32,6 @@ To understand if the idea could also be useful to someone else besides us, we op
 
 However, we decide to start the development, since it would have been useful primarily for our internal use.
 
-{% include post-components/gallery.html columns = 2 full_width = true images = "/images/projects/quotechimp2.png,/images/projects/quotechimp3.png,/images/projects/quotechimp4.png " %}
+{% include post-components/gallery.html columns = 2 full_width = true images = "/images/projects/quotechimp2.png,/images/projects/quotechimp3.png,/images/projects/quotechimp4.png,/images/projects/quotechimp5.png " %}
 
 On January 10, 2020 we publish the first beta, inviting those who had shown interest on Product Hunt to register.
