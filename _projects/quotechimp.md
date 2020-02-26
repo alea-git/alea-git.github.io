@@ -13,6 +13,8 @@ gallery_images:
 published: true
 ---
 
+Homepage @ [https://www.quotechimp.net](https://www.quotechimp.net "Quotechimp Homepage"){: target="_blank"}
+
 One day in mid-December 2019 we received an email with a quote request for a mobile app.
 
 As usual we called the potential customer to deepen the project and define the requests,and then Gabriel took some days to come up with a quote for him. A few days later, on December 23, me and Gabriel met as usual at a coworking/costudying place to talk about Proance, and like each other time, we've started by organizing the tasks and deciding what to do first, in order to maximize our productivity for the day.Long story short, all of the tasks were about Proance, except for the quote, so we've decided to focus on the latter first. But unfortunately the potential customer didn't had a clear vision of all the features he wanted, so we had to understand on which options to focus first, and of course each one of them had a different development cost.
@@ -23,8 +25,8 @@ Therefore we've decided to look for a tool that would allow us to create a quota
 
 what we found. Thus was born the idea of creating a service that allows you to create quotation forms and give the customer, in real time, a price estimate of what was going to be the final price.
 
-To understand if the idea could be useful to someone else as well we opened up an [Upcoming page](https://www.producthunt.com/upcoming/quotechimp "Quotechimp's Upcoming page") on ProductHunt, where slowly (it was the days between Christmas and New Year's Eve) we've started collecting some users.
+To understand if the idea could be useful to someone else as well we opened up an [Upcoming page](https://www.producthunt.com/upcoming/quotechimp "Quotechimp's Upcoming page"){: target="_blank"} on ProductHunt, where slowly (it was the days between Christmas and New Year's Eve) we've started collecting some users.
 
 Based on these data and on our necessity to deliver a good quote, we've decided to start developing, and in the worst case it would have been a learning-lesson and resolved our internal needs.
 
-On january 10, 2020, we released the first beta on ProductHunt ([https://www.quotechimp.net](https://www.quotechimp.net "Quotechimp Homepage")) and invited those who had shown interest on our Upcoming page.
+On january 10, 2020, we released the first beta on ProductHunt ([https://www.quotechimp.net](https://www.quotechimp.net "Quotechimp Homepage"){: target="_blank"}) and invited those who had shown interest on our Upcoming page.
