@@ -10,7 +10,7 @@ accent_color:
 gallery_images:
   - quotechimp4.png
   - quotechimp3.png
-published: false
+published: true
 ---
 
 One day in mid-December 2019 we received an email with a quote request for a mobile app.
