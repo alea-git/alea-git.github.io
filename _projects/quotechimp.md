@@ -1,14 +1,16 @@
 ---
 title: Quotechimp
-subtitle: Quotechimp helps you create personalized forms for dynamic quotes and reservations.
-date: 2020-01-09 23:00:00 +0000
-description: ''
-featured_image: ''
-accent_color: ''
-gallery_images: []
+subtitle: >-
+  Quotechimp helps you create personalized forms for dynamic quotes and
+  reservations.
+date: 2020-01-09 23:00:00
+description:
+featured_image: quotechimp4.png
+accent_color:
+gallery_images:
 published: false
-
 ---
+
 One day in mid-December 2019 we received an email with a quote request for a mobile app.
 
 As usual we called the potential customer to deepen the project and define the requests,and then Gabriel took some days to come up with a quote for him. A few days later, on December 23, me and Gabriel met as usual at a coworking/costudying place to talk about Proance, and like each other time, we've started by organizing the tasks and deciding what to do first, in order to maximize our productivity for the day.Long story short, all of the tasks were about Proance, except for the quote, so we've decided to focus on the latter first. But unfortunately the potential customer didn't had a clear vision of all the features he wanted, so we had to understand on which options to focus first, and of course each one of them had a different development cost.
