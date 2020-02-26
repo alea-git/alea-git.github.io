@@ -25,4 +25,6 @@ To understand if the idea could be useful to someone else as well we opened up a
 
 Based on these data and on our necessity to deliver a good quote, we've decided to start developing, and in the worst case it would have been a learning-lesson and resolved our internal needs.
 
+{% include post-components/gallery.html columns = 2 full_width = true images = "/images/projects/quotechimp1.png,/images/projects/quotechimp2.png,/images/projects/quotechimp3.png,/images/projects/quotechimp4.png " %} *Mockup and some screens of the first web app versions.*
+
 On january 10, 2020, **we released the first beta** on ProductHunt ([https://www.quotechimp.net](https://www.quotechimp.net "Quotechimp Homepage"){: target="_blank"}) and invited those who had shown interest on our Upcoming page.
