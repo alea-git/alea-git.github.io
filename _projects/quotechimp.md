@@ -5,9 +5,9 @@ date: 2020-01-09 23:00:00
 description: >-
   Quotechimp helps you create personalized forms for dynamic quotes and
   reservations.
-featured_image: quotechimp4.png
+featured_image: quotechimp.png
 accent_color:
-gallery_images:
+gallery_images: quotechimp4.png
 published: false
 ---
 
