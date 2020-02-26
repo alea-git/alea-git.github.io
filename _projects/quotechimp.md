@@ -6,7 +6,7 @@ description: >-
   Quotechimp helps you create personalized forms for dynamic quotes and
   reservations.
 featured_image: 'quotechimp1.png '
-accent_color: '#fbd38d'
+accent_color: '#062d38'
 gallery_images:
   - quotechimp4.png
   - quotechimp3.png
