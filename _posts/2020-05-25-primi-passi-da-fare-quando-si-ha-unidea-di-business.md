@@ -194,7 +194,9 @@ Parlandone con gli utenti o, in alcuni casi, osservandone i comportamenti.
 
 Abbiamo tre opzioni a disposizione:
 
-**interviste:** il metodo pi&ugrave; efficace e veloce per ottenere informazioni dettagliate su problema e cliente&nbsp;<br>**osservazioni:** quando le informazioni sul reale comportamento sono pi&ugrave; importanti dell’opinione dell’utente&nbsp;<br>**rievocazioni:** quando un’esperienza &egrave; difficilmente descrivibile e/o rara&nbsp;
+1. **interviste:** il metodo pi&ugrave; efficace e veloce per ottenere informazioni dettagliate su problema e cliente;&nbsp;
+2. **osservazioni:** quando le informazioni sul reale comportamento sono pi&ugrave; importanti dell’opinione dell’utente;&nbsp;
+3. **rievocazioni:** quando un’esperienza &egrave; difficilmente descrivibile e/o rara.&nbsp;
 
 &nbsp;
 
