@@ -56,7 +56,7 @@ Se ti sembra una banalit&agrave;, sappi che, statisticamente, il 42% delle start
 
 ![](/images/stats.jpg){: width="612" height="394"}
 
-Non importa quanto tu sia sicuro della validit&agrave; della tua idea, dovrai prima capire se il problema che intendi risolvere &egrave; effettivamente un problema per i tuoi potenziali clienti.&nbsp;
+> Non importa quanto tu sia sicuro della validit&agrave; della tua idea, dovrai prima capire se il problema che intendi risolvere &egrave; effettivamente un problema per i tuoi potenziali clienti.&nbsp;
 
 Per fare ci&ograve;, **devi comprendere il mercato.**
 
