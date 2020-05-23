@@ -402,7 +402,7 @@ E molto spesso, se questo avviene, inizierai a fare i primi cambiamenti, magari 
 
 &nbsp;
 
-Il consiglio &egrave; di compilare un business model Canvas, da controllare con cadenza periodica e, nel caso, aggiornare.
+Il consiglio &egrave; di compilare un business model canvas, da controllare con cadenza periodica e, nel caso, aggiornare.
 
 &nbsp;
 
