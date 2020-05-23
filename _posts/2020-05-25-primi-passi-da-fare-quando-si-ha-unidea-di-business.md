@@ -386,11 +386,11 @@ Semplicemente, durante la rievocazione, si prendono appunti (o si registra un vi
 
 ![](/images/schema.png){: width="1730" height="972"}
 
-Dopo aver concluso le interviste ed elaborato tutti i dati, ti renderai conto che, tra le mani, non hai pi&ugrave; una semplice idea.
+Dopo aver concluso le interviste ed elaborato tutti i dati, ti renderai conto di non avere pi&ugrave; una semplice idea tra le mani.
 
 &nbsp;
 
-Hai dati, sei in grado di affermare qual &egrave; il problema e se &egrave; sentito o meno dai tuoi potenziali clienti.
+**Hai dati, sei in grado di affermare qual &egrave; il problema e se &egrave; sentito o meno dai tuoi potenziali clienti.**
 
 &nbsp;
 
@@ -398,7 +398,7 @@ Hai dati, sei in grado di affermare qual &egrave; il problema e se &egrave; sent
 
 &nbsp;
 
-E molto spesso, se questo avviene, inizierai a fare i primi cambiamenti, magari cambiando la value proposition o il target di riferimento.
+E molto spesso, se questo avviene, inizierai a fare i primi cambiamenti, magari cambiando la value proposition o il target di riferimento *(ovvero, ci&ograve; che viene definito pivot)*.
 
 &nbsp;
 
@@ -414,6 +414,24 @@ Tutto ci&ograve; ha portato i progetti di Alea Makers ad un altro livello.<br>Ri
 
 &nbsp;
 
-Conclusa la fase di problem validation, manca ancora l’offert validation e la solution validation, che servono per capire se il target si attiva di fronte all’offerta di una soluzione proposta su un determinato canale di acquisizione e se il target usa la soluzione al prezzo stabilito , verificando anche se la soluzione offerta crea il valore presupposto.
+Conclusa la fase di problem validation, **manca ancora l’offert validation e la solution validation**, che servono per capire se il target si attiva di fronte all’offerta di una soluzione proposta su un determinato canale di acquisizione e se il target usa la soluzione al prezzo stabilito, verificando anche se la soluzione offerta crea il valore presupposto.
+
+&nbsp;
 
 Se necessario, approfondir&ograve; queste tematiche in altri articoli.
+
+&nbsp;
+
+Arrivati a questo punto, che tu sia un mio conoscente o meno, ti auguro buon lavoro.
+
+&nbsp;
+
+Nel caso avessi domande sull'argomento ti invito a contattarmi via email, ti risponder&ograve; quanto prima.
+
+&nbsp;
+
+Un saluto,
+
+Alessandro.
+
+**PS:**&nbsp;Ho dedicato parecchio tempo alla stesura di questo articolo; se l'hai trovato interessante, condividilo con i tuoi amici/colleghi o sui tuoi social :)
