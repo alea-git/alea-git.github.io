@@ -34,7 +34,7 @@ Principalmente per passarlo agli amici o amici di amici che, da quando sono in A
 
 Anticipo il concetto di base di ci&ograve; che andrai a leggere: **nessuno pu&ograve; valutare un’idea basandosi unicamente sul proprio istinto e fiuto imprenditoriale.&nbsp;**<br>Servono dati, serve validare l’idea e capire cosa ne pensa il mercato di riferimento.
 
-*In sintesi, il mio parere personale servirebbe solo ad appagare il tuo ego.&nbsp;*
+*In sintesi, quando chiedi un parere personale ad una persona sull'idea, sappi che lo stai facendo principalmente per il tuo ego.&nbsp;*
 
 Prima di andare a sviscerare il come e cosa fare, per&ograve;, per chi non mi conoscesse, &egrave; giusto raccontare brevemente la mia esperienza lavorativa.
 
