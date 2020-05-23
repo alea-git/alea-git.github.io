@@ -10,15 +10,27 @@ featured_image: /images/primipassi.jpg
 
 Ogni volta che ho il presentimento di avere qualcosa di importante tra le mani, l’idea giusta, provo una sensazione di **puro entusiasmo**.<br>Uno strano formicolio che parte dagli avambracci e si dirada verso le mani ed una scarica di ottimismo incontenibile che parte dal centro del petto.
 
+&nbsp;
+
 Succede spesso che, lasciandosi trasportare da questa propulsione di positivit&agrave;, si perda la lucidit&agrave; per capire se l’idea ha realmente delle fondamenta sul quale costruirci un business oppure sarebbe meglio lasciarla tra le fantasie passeggere.
+
+&nbsp;
 
 Con questo articolo voglio proprio aiutare coloro che si trovano in questa primissima fase: se hai un’idea imprenditoriale in ambito digitale, prima di fare qualsiasi altra cosa, continua a leggere.
 
+&nbsp;
+
 Mostrer&ograve; nel modo pi&ugrave; semplice e chiaro possibile i passaggi che bisogna fare prima di spendere anche un solo euro nello sviluppo del prodotto o servizio.
+
+&nbsp;
 
 Questi passaggi ti permetteranno di ottimizzare al massimo il rischio d’impresa.&nbsp;
 
+&nbsp;
+
 **Lo scopo &egrave; proprio questo: capire se ne vale la pena investire quantit&agrave; importanti di tempo e soldi.&nbsp;**
+
+&nbsp;
 
 Insomma, fare impresa non deve essere come giocare d’azzardo, &egrave; necessario dominare l’incertezza.
 
@@ -33,6 +45,8 @@ da *The Role of Economic Uncertainty* d*i Frank Knight e The Chicago School&nbsp
 &nbsp;
 
 Principalmente per passarlo agli amici o amici di amici che, da quando sono in Alea Makers, mi propongono le loro idee chiedendomi cosa ne penso e se voglio collaborare.
+
+&nbsp;
 
 Anticipo il concetto di base di ci&ograve; che andrai a leggere: **nessuno pu&ograve; valutare un’idea basandosi unicamente sul proprio istinto e fiuto imprenditoriale.&nbsp;**<br>Servono dati, serve validare l’idea e capire cosa ne pensa il mercato di riferimento.
 
@@ -54,7 +68,11 @@ Dal 2015, da studente prossimo alla maturit&agrave;, mi sono addentrato nel mond
 
 YouRemind &egrave; stata la nave scuola che mi ha permesso di mettermi in gioco in prima persona ([clicca qu](/project/youremind){: target="_blank"}i per approfondirne la storia). Ad esempio, ho avuto la possibilit&agrave; di fare un percorso di pre-incubazione con l’I3P, di provare l’emozione di presentare davanti ad una schiera di investitori e, sopratutto, di partecipare a The Startup Lab *(un corso organizzato da Entrepreneurship and Innovation Center del Politecnico di Torino ed ICRIOS dell’Universit&agrave; Bocconi)*&nbsp;in cui, in sostanza, ci hanno insegnato la **metodologia lean startup**.
 
+&nbsp;
+
 Questo articolo si baser&agrave; principalmente sugli appunti e sui concetti appresi durante quel corso, in aggiunta all’esperienza personale.
+
+&nbsp;
 
 Bene, dopo aver fatto tutte le premesse del caso, iniziamo ad addentrarci nell’argomento.
 
@@ -86,9 +104,15 @@ Si tratta di prendere l’idea e suddividerla in tre parti:
 * **Offer validation**
 * **Solution validation**
 
+&nbsp;
+
 In questo articolo analizzeremo il primo delle tre fasi.
 
+&nbsp;
+
 ***Iniziamo**, seguimi nel ragionamento.*
+
+&nbsp;
 
 Il problem validation consiste nel **comprendere ci&ograve; che fanno gli utenti al momento attuale**, ricostruendone il percorso di interazione.
 
@@ -100,11 +124,19 @@ Il problem validation consiste nel **comprendere ci&ograve; che fanno gli utenti
 
 Prendiamo come esempio Proance, un’app che abbiamo sviluppato per aiutare coloro che avviano un nuovo progetto &nbsp;e vogliono tenere traccia delle spese e dei ricavi.
 
+&nbsp;
+
 Ci siamo chiesti: *adesso che Proance non esiste, le persone che avviano un nuovo progetto digitale come gestiscono i propri flussi economici?*
+
+&nbsp;
 
 Basandoci su ci&ograve; che sappiamo del cliente di riferimento e sul problema che affronta, **si procede con una ricostruzione del percorso che fa quando interagisce con un prodotto o un servizio gi&agrave; presente**, per capire il suo ‘pain point’.&nbsp;
 
-Nell’esempio di Proance, abbiamo scoperto che il servizio pi&ugrave; utilizzato per la gestione del bilancio economico nelle prime fasi di un progetto &egrave; il classico foglio di calcolo.<br>Quindi, ci siamo immedesimati in loro per trovarne tutti i punti deboli ([clicca qui](/blog/come-nasce-una-startup-il-caso-proance) per approfondire ci&ograve; che abbiamo fatto con Proance).
+&nbsp;
+
+Nell’esempio di Proance, abbiamo scoperto che il servizio pi&ugrave; utilizzato per la gestione del bilancio economico nelle prime fasi di un progetto &egrave; il classico foglio di calcolo.Quindi, ci siamo immedesimati in loro per trovarne tutti i punti deboli ([clicca qui](/blog/come-nasce-una-startup-il-caso-proance) per approfondire ci&ograve; che abbiamo fatto con Proance).
+
+&nbsp;
 
 &Egrave; importante **adottare la prospettiva dei tuoi futuri clienti**, mettendoti nei loro panni per comprendere il loro punto di vista.
 
@@ -122,11 +154,15 @@ Durante la ricerca della risposta, &egrave; utile sapere che **i problemi posson
 * **di soddisfazione:** il prodotto/servizio non sempre funziona bene&nbsp;
 * **ostacoli:** il prodotto/servizio &egrave; costoso, richiede tempi lunghi&nbsp;
 
+&nbsp;
+
 Dopo aver individuato il problema, &egrave; necessario **controllare le informazioni raccolte effettuando delle interviste.**
 
 > **Ecco il punto di svolta: fare qualche ricerca dei competitor su Google non &egrave; sufficiente.**
 
 Questo passaggio &egrave; tanto importante quanto sottovalutato.<br>Un errore comune &egrave; proprio quello di partire prematuramente con lo sviluppo del prodotto/servizio, senza avere la certezza di lavorare ad una soluzione di cui le persone sentono (o potrebbero sentire) la necessit&agrave;.
+
+&nbsp;
 
 Tieni presente che **l’insoddisfazione ed i bisogni possono essere:**
 
@@ -148,6 +184,8 @@ Il prossimo step sar&agrave; verificare se quello che hai pensato corrisponde al
 
 Parlandone con gli utenti o, in alcuni casi, osservandone i comportamenti.
 
+&nbsp;
+
 Abbiamo tre opzioni a disposizione:
 
 **interviste:** il metodo pi&ugrave; efficace e veloce per ottenere informazioni dettagliate su problema e cliente&nbsp;<br>**osservazioni:** quando le informazioni sul reale comportamento sono pi&ugrave; importanti dell’opinione dell’utente&nbsp;<br>**rievocazioni:** quando un’esperienza &egrave; difficilmente descrivibile e/o rara&nbsp;
@@ -162,7 +200,11 @@ Abbiamo tre opzioni a disposizione:
 
 L’intervista pu&ograve; essere fatta in diversi modi e servendosi anche di strumenti.
 
+&nbsp;
+
 Il pi&ugrave; consigliato, nonch&eacute; pi&ugrave; efficace e veloce, &egrave; quello di fare **interviste faccia a faccia con i clienti o potenziali tali**.
+
+&nbsp;
 
 &Egrave; una delle pratiche pi&ugrave; elementari e di pi&ugrave; difficile attuazione del Customer Development.&nbsp;<br>Non sapendo come fare spesso si tende a considerare come uno spreco di tempo e poco produttive le conversazioni con i clienti e si ricorre quindi a strumenti come email, questionari, forum di discussione, blog di prodotti, solo per evitare di dover parlare direttamente ai clienti.&nbsp;
 
@@ -178,7 +220,11 @@ Il pi&ugrave; consigliato, nonch&eacute; pi&ugrave; efficace e veloce, &egrave; 
 
 Ad esempio, vuoi sviluppare una piattaforma per il settore immobiliare o per quello dei viaggi?
 
+&nbsp;
+
 Tra i passanti, identifica le persone che corrispondono al tuo target in base a genere, et&agrave;, stili di vita e altri parametri simili e inizia a fermarli.&nbsp;
+
+&nbsp;
 
 Preparati un discorso e fai attenzione a non influenzare le risposte.
 
@@ -192,7 +238,11 @@ Preparati un discorso e fai attenzione a non influenzare le risposte.
 
 Con YouRemind, da una certa fase in poi abbiamo iniziato a rivolgerci alle associazioni culturali.
 
+&nbsp;
+
 Grazie al dialogo ed ai feedback che chiedevo durante le presentazioni di persona abbiamo potuto sviluppare moltissime funzioni di cui ignoravamo totalmente l’esistenza.
+
+&nbsp;
 
 Se l’avessimo fatto prima di iniziare lo sviluppo del servizio, probabilmente l’intero progetto avrebbe avuto un epilogo differente.
 
@@ -219,6 +269,8 @@ Il punto &egrave; che bisogna essere presenti nel luogo, virtuale o meno, in cui
 &nbsp;
 
 Non esiste un numero magico: solitamente si consiglia di **smettere nel momento in cui non emergono informazioni nuove**, essendo inutile continuare a condurre nuove interviste.
+
+&nbsp;
 
 Durante il corso di Startup Lab mi &egrave; stata mostrata **una mini-guida da seguire per impostare l’intervista**, molto utile, che riporto di seguito:
 
@@ -260,6 +312,8 @@ Chiedi all’intervistato se ha domande per te/voi e ringrazialo per il tempo e 
 
 Il tempo d’esecuzione &egrave; fondamentale: cerca di stare sui **due minuti per punto, andando dai 15 ai 20 minuti per la parte centrale dello script.**
 
+&nbsp;
+
 Non &egrave; consigliato improvvisare: cerca di fare delle simulazioni prima di iniziare a fermare le persone ed allenati ad **utilizzare la tua empatia** per approfondire eventuali aneddoti, cercandone di identificarne il significato.
 
 &nbsp;
@@ -276,35 +330,57 @@ Non &egrave; consigliato improvvisare: cerca di fare delle simulazioni prima di 
 
 Condurre in coppia risulta pi&ugrave; professionale, efficace ed oggettivo.<br>Uno potrebbe condurre l’intervista, empatizzare ed ascoltare, mentre l’altro, intanto, prende nota, organizza le risposte, stila una prima sintesi e tiene sotto controllo il tempo.
 
+&nbsp;
+
 Parlare con i clienti &egrave; una forma di apprendimento qualitativa: a meno che non siate particolarmente obiettivi, &egrave; facile essere tratti in inganno e convincersi dopo poco di essere sulla strada giusta avendo raccolto abbastanza risposte.&nbsp;<br>Una pratica efficace per ridurre questo rischio &egrave; quello di annotare i risultati subito dopo ogni intervista, e pi&ugrave; tardi rielaborarli.&nbsp;
 
 ### OSSERVAZIONI
 
 Nelle osservazioni, i criteri sono simili a quelli delle interviste.<br>L’obiettivo, in questo caso, &egrave; di **capire cosa fanno gli utenti** tramite osservazioni dettagliate (dal vivo o per via di una registrazione video).
 
+&nbsp;
+
 Si descrive ci&ograve; che succede, distinguendolo con l’interpretazione di quello che l’utente fa.
+
+&nbsp;
 
 L’esempio con il quale mi era stato spiegato questo metodo, era l’osservazione di una startup italiana delle casse automatiche nei supermercati.
 
+&nbsp;
+
 Per due ore consecutive, in pi&ugrave; volte e in diversi luoghi, le due persone che hanno svolto il test sono state ad osservare le persone nell’intento di utilizzare la cassa automatica, annotando tutti i passaggi che gli utenti svolgevano.
 
+&nbsp;
+
 &Egrave; fondamentale, quindi, riportare tutti gli eventi con molta accuratezza.<br>Per questi motivi, anche in questo caso &egrave; consigliato lavorare in coppia, cos&igrave; da confrontare prospettive ed opinioni diverse.
+
+&nbsp;
 
 ### RIEVOCAZIONI
 
 L’obiettivo della rievocazione &egrave; di **riprodurre quello che gli utenti fanno**. Viene chiesto all’utente di pensare a voce alta in modo da catturare sia le azioni che i pensieri (si pu&ograve; riprendere con una telecamera) .
 
+&nbsp;
+
 Si osservano nei dettagli i comportamenti degli utenti che altrimenti non verrebbero osservati e per rendere espliciti i pensieri che gli utenti hanno nel compiere certe azioni.&nbsp;
+
+&nbsp;
 
 Le azioni che compiamo quando usiamo la nostra cucina, per esempio, sono automatiche e difficili da descrivere tramite interviste.&nbsp;
 
+&nbsp;
+
 In questo modo possiamo osservare quello che le persone fanno e pensano in certi contesti, altrimenti difficili da osservare.
+
+&nbsp;
 
 Semplicemente, durante la rievocazione, si prendono appunti (o si registra un video della sessione).
 
 ![](/images/schema.png){: width="1730" height="972"}
 
 Dopo aver concluso le interviste ed elaborato tutti i dati, ti renderai conto che, tra le mani, non hai pi&ugrave; una semplice idea.
+
+&nbsp;
 
 Hai dati, sei in grado di affermare qual &egrave; il problema e se &egrave; sentito o meno dai tuoi potenziali clienti.
 
@@ -316,7 +392,11 @@ Hai dati, sei in grado di affermare qual &egrave; il problema e se &egrave; sent
 
 E molto spesso, se questo avviene, inizierai a fare i primi cambiamenti, magari cambiando la value proposition o il target di riferimento.
 
+&nbsp;
+
 Il consiglio &egrave; di compilare un business model Canvas, da controllare con cadenza periodica e, nel caso, aggiornare.
+
+&nbsp;
 
 Tutto ci&ograve; ha portato i progetti di Alea Makers ad un altro livello.<br>Riusciamo a dedicare ad un nuovo progetto il tempo che si merita, senza sprecare risorse importanti.<br>Questo ci permette di essere molto pi&ugrave; produttivi ed efficaci.
 
