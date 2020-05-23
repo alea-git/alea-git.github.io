@@ -3,8 +3,8 @@ author: Alessandro Trezza
 title: Primi passi da fare quando si ha un’idea di business nel digitale
 date: 2020-05-25 00:00:00
 description: >-
-  Guida pratica al problem validation: identificare e comprendere il problema ed
-  intervista del target di riferimento
+  Guida pratica al problem validation: identificare e comprendere il problema e
+  verificare le informazioni attraverso l'intervista
 featured_image: /images/primipassi.jpg
 ---
 
