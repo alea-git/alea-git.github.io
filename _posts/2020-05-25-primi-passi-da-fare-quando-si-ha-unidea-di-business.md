@@ -26,6 +26,8 @@ Insomma, fare impresa non deve essere come giocare d’azzardo, &egrave; necessa
 
 da *The Role of Economic Uncertainty* d*i Frank Knight e The Chicago School&nbsp;*
 
+&nbsp;
+
 *Perch&eacute; dedicare parecchie ore della mia vita alla stesura di questo articolo?&nbsp;*
 
 Principalmente per passarlo agli amici o amici di amici che, da quando sono in Alea Makers, mi propongono le loro idee chiedendomi cosa ne penso e se voglio collaborare.
