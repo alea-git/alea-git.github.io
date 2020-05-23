@@ -8,7 +8,7 @@ description: >-
 featured_image: /images/primipassi.jpg
 ---
 
-Ogni volta che ho il presentimento di avere qualcosa di importante tra le mani, l’idea giusta, provo una sensazione di **puro entusiasmo**.<br>Uno strano formicolio che parte dagli avambracci e si dirada verso le mani ed una scarica di ottimismo incontenibile che parte dal centro del petto.
+Ogni volta che ho il presentimento di avere qualcosa di importante tra le mani, l’idea giusta, provo una sensazione di **puro entusiasmo**.<br>Posso descriverla come uno strano formicolio che parte dagli avambracci e si dirada verso le mani, in contemporanea ad una scarica di ottimismo incontenibile che parte dal centro del petto.
 
 &nbsp;
 
