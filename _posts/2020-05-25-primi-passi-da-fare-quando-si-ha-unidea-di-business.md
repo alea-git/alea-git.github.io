@@ -22,7 +22,9 @@ Questi passaggi ti permetteranno di ottimizzare al massimo il rischio d’impres
 
 Insomma, fare impresa non deve essere come giocare d’azzardo, &egrave; necessario dominare l’incertezza.
 
-> “Se non si sa con certezza cosa succeder&agrave;, ma si conoscono le probabilit&agrave;, questo &egrave; un rischio… Se non sai nemmeno le probabilit&agrave;, questa &egrave; incertezza” da The Role of Economic Uncertainty di Frank Knight e The Chicago School&nbsp;
+> “Se non si sa con certezza cosa succeder&agrave;, ma si conoscono le probabilit&agrave;, questo &egrave; un rischio… Se non sai nemmeno le probabilit&agrave;, questa &egrave; incertezza”&nbsp;
+
+da *The Role of Economic Uncertainty* d*i Frank Knight e The Chicago School&nbsp;*
 
 *Perch&eacute; dedicare parecchie ore della mia vita alla stesura di questo articolo?&nbsp;*
 
