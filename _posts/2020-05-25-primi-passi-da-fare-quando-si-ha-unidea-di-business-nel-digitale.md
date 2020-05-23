@@ -16,7 +16,7 @@ Succede spesso che, lasciandosi trasportare da questa propulsione di positivit&a
 
 &nbsp;
 
-Con questo articolo voglio proprio aiutare coloro che si trovano in questa primissima fase: se hai un’idea imprenditoriale in ambito digitale, prima di fare qualsiasi altra cosa, continua a leggere.
+Con questo articolo voglio proprio aiutare coloro che si trovano in questa primissima fase: **se hai un’idea imprenditoriale in ambito digitale, prima di fare qualsiasi altra cosa, continua a leggere.**
 
 &nbsp;
 
