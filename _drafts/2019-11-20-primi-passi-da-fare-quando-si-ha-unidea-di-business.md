@@ -5,7 +5,7 @@ date: 2019-11-20 00:00:00
 description: >-
   Il nostro approccio alla strategia di comunicazione per Proance, gli obiettivi
   definiti e come intendiamo raggiungerli.
-featured_image:
+featured_image: /images/primipassi.jpg
 ---
 
 Ogni volta che ho il presentimento di avere qualcosa di importante tra le mani, l’idea giusta, provo una sensazione di puro entusiasmo.<br>Uno strano formicolio che parte dagli avambracci e si dirada verso le mani ed una scarica di ottimismo incontenibile che parte dal centro del petto.
