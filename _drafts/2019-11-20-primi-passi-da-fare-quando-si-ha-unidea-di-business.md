@@ -1,13 +1,12 @@
 ---
 author: Alessandro Trezza
 title: Primi passi da fare quando si ha un’idea di business
-date: 2019-11-20 00:00:00
-description: >-
-  Il nostro approccio alla strategia di comunicazione per Proance, gli obiettivi
-  definiti e come intendiamo raggiungerli.
-featured_image:
----
+date: 2019-11-20T00:00:00.000+00:00
+description: Il nostro approccio alla strategia di comunicazione per Proance, gli
+  obiettivi definiti e come intendiamo raggiungerli.
+featured_image: 
 
+---
 \# Primi passi da fare quando si ha un’idea di business
 
 Ogni volta che ho il presentimento di avere qualcosa di importante tra le mani, l’idea giusta, provo una sensazione di puro entusiasmo.<br>Uno strano formicolio che parte dagli avambracci e si dirada verso le mani ed una scarica di ottimismo incontenibile che parte dal centro del petto.
