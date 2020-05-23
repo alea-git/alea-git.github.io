@@ -134,6 +134,8 @@ Tieni presente che **l’insoddisfazione ed i bisogni possono essere:**
 * **sociali:** riferiti all’apparire, al confronto con gli altri, alla percezione sociale (essere alla moda, essere considerato competente, o autorevole);
 * **emotivi:** riferiti alla ricerca di uno stato emotivo (Sentirsi al sicuro in un investimento, o nella propria casa, sentirsi libero).
 
+&nbsp;
+
 Bene, a questo punto dovresti saper descrivere il problema che pensi di risolvere e dovresti anche avere un’idea di quello che l’utente fa attualmente.
 
 Il prossimo step sar&agrave; verificare se quello che hai pensato corrisponde all’esperienza dell’utente e se &egrave; un problema reale effettivamente sentito dalle persone, nonostante le soluzioni esistenti.
@@ -220,15 +222,21 @@ Non esiste un numero magico: solitamente si consiglia di **smettere nel momento 
 
 Durante il corso di Startup Lab mi &egrave; stata mostrata **una mini-guida da seguire per impostare l’intervista**, molto utile, che riporto di seguito:
 
+&nbsp;
+
 1. **Benvenuto/intro**
 
 * chi siete
 * qual &egrave; lo scopo dell’intervista
 * in che modo verranno usati i risultati
 
+&nbsp;
+
 &nbsp;2. **Verifica del prospect**
 
 Accertati di avere a che fare con la persona che pensavi di avere davanti: verifica la corrispondenza demografica tra il profilo dell’utente che avete in mente come potenziale cliente e il profilo dell’intervistato.&nbsp;<br>Se non corrisponde, non interrompere l’intervista ma tieni in gran conto questa non corrispondenza in fase di analisi.&nbsp;<br>Se i segnali di validazione sono molto positivi, per esempio, &egrave; importante sapere da chi provengono e cercare conferme/ approfondire con persone con caratteristiche simili.<br>Raccogli i dati dell’intervistato per verificare ed arricchire il profilo del prospect.
+
+&nbsp;
 
 3\.&nbsp;**Storytelling / Acquisizione esperienza del prospect sul problema ipotizzato**
 
@@ -236,17 +244,25 @@ In questa fase &egrave; importante **non influenzare le risposte**.<br>Ad esempi
 
 Meglio usare<br>*Cosa ne pensi di..?<br>Qual &egrave; il tuo approccio verso la prototipazione?*
 
+&nbsp;
+
 4\. **Richiesta referenze**
 
 Chiedi all’intervistato se pu&ograve; indicarti/vi altre persone di sua conoscenza, la cui esperienza possa essere significativa per l’intervista&nbsp;
+
+&nbsp;
 
 5\. **Grazie, passo e chiudo**
 
 Chiedi all’intervistato se ha domande per te/voi e ringrazialo per il tempo e l’attenzione che vi ha dedicato.&nbsp;
 
+&nbsp;
+
 Il tempo d’esecuzione &egrave; fondamentale: cerca di stare sui **due minuti per punto, andando dai 15 ai 20 minuti per la parte centrale dello script.**
 
 Non &egrave; consigliato improvvisare: cerca di fare delle simulazioni prima di iniziare a fermare le persone ed allenati ad **utilizzare la tua empatia** per approfondire eventuali aneddoti, cercandone di identificarne il significato.
+
+&nbsp;
 
 * Se una risposta suscita una nuova domanda, ponila. Poi torna alla tua serie di domande.
 * Se una risposta contiene un argomento inaspettato ma interessante, seguilo con le domande che ti vengono spontanee. Poi torna alla tua serie di domande.
