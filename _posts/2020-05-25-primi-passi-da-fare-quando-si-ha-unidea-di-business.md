@@ -30,17 +30,27 @@ da *The Role of Economic Uncertainty* d*i Frank Knight e The Chicago School&nbsp
 
 *Perch&eacute; dedicare parecchie ore della mia vita alla stesura di questo articolo?&nbsp;*
 
+&nbsp;
+
 Principalmente per passarlo agli amici o amici di amici che, da quando sono in Alea Makers, mi propongono le loro idee chiedendomi cosa ne penso e se voglio collaborare.
 
 Anticipo il concetto di base di ci&ograve; che andrai a leggere: **nessuno pu&ograve; valutare un’idea basandosi unicamente sul proprio istinto e fiuto imprenditoriale.&nbsp;**<br>Servono dati, serve validare l’idea e capire cosa ne pensa il mercato di riferimento.
 
+&nbsp;
+
 *In sintesi, quando chiedi un parere personale ad una persona sull'idea, sappi che lo stai facendo principalmente per il tuo ego.&nbsp;*
+
+&nbsp;
 
 Prima di andare a sviscerare il come e cosa fare, per&ograve;, per chi non mi conoscesse, &egrave; giusto raccontare brevemente la mia esperienza lavorativa.
 
 Dal 2015, da studente prossimo alla maturit&agrave;, mi sono addentrato nel mondo startup da completo ignorante in materia, con l’obiettivo di sviluppare YouRemind. Ho fatto tutti gli errori ormai stereotipati che un neofita pu&ograve; fare, tanto che quel servizio non ha mai raggiunto il mercato.
 
+&nbsp;
+
 *E allora perch&eacute; dovrei leggere questo articolo?*
+
+&nbsp;
 
 YouRemind &egrave; stata la nave scuola che mi ha permesso di mettermi in gioco in prima persona ([clicca qu](/project/youremind){: target="_blank"}i per approfondirne la storia). Ad esempio, ho avuto la possibilit&agrave; di fare un percorso di pre-incubazione con l’I3P, di provare l’emozione di presentare davanti ad una schiera di investitori e, sopratutto, di partecipare a The Startup Lab *(un corso organizzato da Entrepreneurship and Innovation Center del Politecnico di Torino ed ICRIOS dell’Universit&agrave; Bocconi)*&nbsp;in cui, in sostanza, ci hanno insegnato la **metodologia lean startup**.
 
@@ -48,7 +58,11 @@ Questo articolo si baser&agrave; principalmente sugli appunti e sui concetti app
 
 Bene, dopo aver fatto tutte le premesse del caso, iniziamo ad addentrarci nell’argomento.
 
+&nbsp;
+
 *Hai la tua idea e hai voglia approfondire la questione, quindi che fare?*
+
+&nbsp;
 
 Il tuo primo obiettivo deve essere quello di i**dentificare e comprendere il problema che l’idea andrebbe a risolvere**.
 
@@ -94,7 +108,11 @@ Nell’esempio di Proance, abbiamo scoperto che il servizio pi&ugrave; utilizzat
 
 &Egrave; importante **adottare la prospettiva dei tuoi futuri clienti**, mettendoti nei loro panni per comprendere il loro punto di vista.
 
+&nbsp;
+
 La domanda da porsi &egrave;: *per ogni attivit&agrave; dell’utente, possono esserci dei problemi che affronta?&nbsp;*
+
+&nbsp;
 
 Durante la ricerca della risposta, &egrave; utile sapere che **i problemi possono essere:**
 
@@ -124,6 +142,8 @@ Il prossimo step sar&agrave; verificare se quello che hai pensato corrisponde al
 
 *Come verificare le informazioni raccolte?*
 
+&nbsp;
+
 Parlandone con gli utenti o, in alcuni casi, osservandone i comportamenti.
 
 Abbiamo tre opzioni a disposizione:
@@ -134,7 +154,9 @@ Abbiamo tre opzioni a disposizione:
 
 *Non lasciare proprio adesso, ormai siamo nel vivo del discorso: analizziamo ogni punto.*
 
-## L’INTERVISTA
+&nbsp;
+
+### L’INTERVISTA
 
 L’intervista pu&ograve; essere fatta in diversi modi e servendosi anche di strumenti.
 
@@ -144,7 +166,11 @@ Il pi&ugrave; consigliato, nonch&eacute; pi&ugrave; efficace e veloce, &egrave; 
 
 > Tieni a mente che le persone non sanno quello che vogliono, in compenso, per&ograve;, sono molto esperte del problema che sentono.&nbsp;<br>Ed &egrave; proprio ci&ograve; di cui abbiamo bisogno.
 
+&nbsp;
+
 *Come faccio a fare delle interviste, se i clienti ancora non li ho?*
+
+&nbsp;
 
 **Esci dal tuo appartamento o ufficio e ferma le persone che incroci.**
 
@@ -154,9 +180,13 @@ Tra i passanti, identifica le persone che corrispondono al tuo target in base a 
 
 Preparati un discorso e fai attenzione a non influenzare le risposte.
 
+&nbsp;
+
 *Tra poco entrer&ograve; pi&ugrave; nello specifico.*
 
-Prima per&ograve;, voglio accennarti quella che &egrave; stata la mia esperienza.
+*Prima per&ograve;, voglio accennarti quella che &egrave; stata la mia esperienza.*
+
+&nbsp;
 
 Con YouRemind, da una certa fase in poi abbiamo iniziato a rivolgerci alle associazioni culturali.
 
@@ -164,15 +194,27 @@ Grazie al dialogo ed ai feedback che chiedevo durante le presentazioni di person
 
 Se l’avessimo fatto prima di iniziare lo sviluppo del servizio, probabilmente l’intero progetto avrebbe avuto un epilogo differente.
 
+&nbsp;
+
 *Purtroppo, per&ograve;, all’epoca non sapevo nulla di validazione.*
+
+&nbsp;
 
 Per Proance abbiamo preferito utilizzare dei post su Reddit, IndieHackers e Product Hunt per capire se il problema da noi individuato fosse realmente sentito.
 
+&nbsp;
+
 ***Fish where fish swims***
+
+&nbsp;
 
 Il punto &egrave; che bisogna essere presenti nel luogo, virtuale o meno, in cui puoi intercettare il tuo cliente di riferimento. Se ti trovassi nell’indecisione di scegliere tra mondo reale o virtuale, prediligi il faccia a faccia.
 
+&nbsp;
+
 *Ok, ma quante persone servono?*
+
+&nbsp;
 
 Non esiste un numero magico: solitamente si consiglia di **smettere nel momento in cui non emergono informazioni nuove**, essendo inutile continuare a condurre nuove interviste.
 
@@ -210,13 +252,17 @@ Non &egrave; consigliato improvvisare: cerca di fare delle simulazioni prima di 
 * Se una risposta contiene un argomento inaspettato ma interessante, seguilo con le domande che ti vengono spontanee. Poi torna alla tua serie di domande.
 * Se non capisci una risposta, potresti usare questa formula: “Non ho capito. Pu&ograve; spiegarsi meglio per favore?”&nbsp;
 
+&nbsp;
+
 *Ultimi aspetti sull’intervista, siamo quasi alla fine.*
+
+&nbsp;
 
 Condurre in coppia risulta pi&ugrave; professionale, efficace ed oggettivo.<br>Uno potrebbe condurre l’intervista, empatizzare ed ascoltare, mentre l’altro, intanto, prende nota, organizza le risposte, stila una prima sintesi e tiene sotto controllo il tempo.
 
 Parlare con i clienti &egrave; una forma di apprendimento qualitativa: a meno che non siate particolarmente obiettivi, &egrave; facile essere tratti in inganno e convincersi dopo poco di essere sulla strada giusta avendo raccolto abbastanza risposte.&nbsp;<br>Una pratica efficace per ridurre questo rischio &egrave; quello di annotare i risultati subito dopo ogni intervista, e pi&ugrave; tardi rielaborarli.&nbsp;
 
-## OSSERVAZIONI
+### OSSERVAZIONI
 
 Nelle osservazioni, i criteri sono simili a quelli delle interviste.<br>L’obiettivo, in questo caso, &egrave; di **capire cosa fanno gli utenti** tramite osservazioni dettagliate (dal vivo o per via di una registrazione video).
 
@@ -228,7 +274,7 @@ Per due ore consecutive, in pi&ugrave; volte e in diversi luoghi, le due persone
 
 &Egrave; fondamentale, quindi, riportare tutti gli eventi con molta accuratezza.<br>Per questi motivi, anche in questo caso &egrave; consigliato lavorare in coppia, cos&igrave; da confrontare prospettive ed opinioni diverse.
 
-## RIEVOCAZIONI
+### RIEVOCAZIONI
 
 L’obiettivo della rievocazione &egrave; di **riprodurre quello che gli utenti fanno**. Viene chiesto all’utente di pensare a voce alta in modo da catturare sia le azioni che i pensieri (si pu&ograve; riprendere con una telecamera) .
 
@@ -246,7 +292,11 @@ Dopo aver concluso le interviste ed elaborato tutti i dati, ti renderai conto ch
 
 Hai dati, sei in grado di affermare qual &egrave; il problema e se &egrave; sentito o meno dai tuoi potenziali clienti.
 
+&nbsp;
+
 *Inizia a concretizzarsi qualcosa.*
+
+&nbsp;
 
 E molto spesso, se questo avviene, inizierai a fare i primi cambiamenti, magari cambiando la value proposition o il target di riferimento.
 
@@ -254,7 +304,11 @@ Il consiglio &egrave; di compilare un business model Canvas, da controllare con 
 
 Tutto ci&ograve; ha portato i progetti di Alea Makers ad un altro livello.<br>Riusciamo a dedicare ad un nuovo progetto il tempo che si merita, senza sprecare risorse importanti.<br>Questo ci permette di essere molto pi&ugrave; produttivi ed efficaci.
 
+&nbsp;
+
 ***Attenzione:*** *non &egrave; finita qui.*
+
+&nbsp;
 
 Conclusa la fase di problem validation, manca ancora l’offert validation e la solution validation, che servono per capire se il target si attiva di fronte all’offerta di una soluzione proposta su un determinato canale di acquisizione e se il target usa la soluzione al prezzo stabilito , verificando anche se la soluzione offerta crea il valore presupposto.
 
