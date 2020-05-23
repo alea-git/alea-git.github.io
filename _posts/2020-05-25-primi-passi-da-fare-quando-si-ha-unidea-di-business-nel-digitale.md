@@ -398,7 +398,7 @@ Dopo aver concluso le interviste ed elaborato tutti i dati, ti renderai conto di
 
 &nbsp;
 
-E molto spesso, se questo avviene, inizierai a fare i primi cambiamenti, magari cambiando la value proposition o il target di riferimento *(ovvero, ci&ograve; che viene definito pivot)*.
+E molto spesso, se questo avviene, inizierai a fare i primi cambiamenti, magari cambiando la value proposition o il target di riferimento *(ovvero, ci&ograve; che viene definito **pivot**)*.
 
 &nbsp;
 
@@ -422,11 +422,15 @@ Se necessario, approfondir&ograve; queste tematiche in altri articoli.
 
 &nbsp;
 
-Arrivati a questo punto, che tu sia un mio conoscente o meno, ti auguro buon lavoro.
+Arrivati a questo punto, che tu sia un mio conoscente o meno, ti auguro sinceramente il meglio.
 
 &nbsp;
 
-Nel caso avessi domande sull'argomento ti invito a contattarmi via email, ti risponder&ograve; quanto prima.
+Nel caso avessi domande sull'argomento ti invito a contattarmi via [email](mailto:info@aleamakers.com), ti risponder&ograve; quanto prima.
+
+&nbsp;
+
+In bocca al lupo\!
 
 &nbsp;
 
@@ -434,4 +438,4 @@ Un saluto,
 
 Alessandro.
 
-**PS:**&nbsp;Ho dedicato diverse ore alla stesura di questo articolo; se l'hai trovato interessante, condividilo con i tuoi amici/colleghi o sui tuoi social :)
+**PS:**&nbsp;Ho dedicato diverse ore alla stesura di questo articolo; se l'hai trovato interessante, **condividilo con i tuoi amici/colleghi o sui tuoi social** :)
