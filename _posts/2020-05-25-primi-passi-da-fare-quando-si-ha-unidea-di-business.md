@@ -434,4 +434,4 @@ Un saluto,
 
 Alessandro.
 
-**PS:**&nbsp;Ho dedicato parecchio tempo alla stesura di questo articolo; se l'hai trovato interessante, condividilo con i tuoi amici/colleghi o sui tuoi social :)
+**PS:**&nbsp;Ho dedicato diverse ore alla stesura di questo articolo; se l'hai trovato interessante, condividilo con i tuoi amici/colleghi o sui tuoi social :)
