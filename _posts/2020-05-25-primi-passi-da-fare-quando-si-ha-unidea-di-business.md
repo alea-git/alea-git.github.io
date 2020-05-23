@@ -82,7 +82,7 @@ Bene, dopo aver fatto tutte le premesse del caso, **iniziamo ad addentrarci nell
 
 &nbsp;
 
-Il tuo primo obiettivo deve essere quello di i**dentificare e comprendere il problema che l’idea andrebbe a risolvere**.
+Il tuo primo obiettivo deve essere quello di **identificare e comprendere il problema che l’idea andrebbe a risolvere**.
 
 Se ti sembra una banalit&agrave;, sappi che, statisticamente, il 42% delle startup fallisce perch&eacute; non risolve un problema o bisogno importante per il mercato.
 
@@ -134,7 +134,7 @@ Basandoci su ci&ograve; che sappiamo del cliente di riferimento e sul problema c
 
 &nbsp;
 
-Nell’esempio di Proance, abbiamo scoperto che il servizio pi&ugrave; utilizzato per la gestione del bilancio economico nelle prime fasi di un progetto &egrave; il classico foglio di calcolo.Quindi, ci siamo immedesimati in loro per trovarne tutti i punti deboli ([clicca qui](/blog/come-nasce-una-startup-il-caso-proance) per approfondire ci&ograve; che abbiamo fatto con Proance).
+Nell’esempio di Proance, abbiamo scoperto che il servizio pi&ugrave; utilizzato per la gestione del bilancio economico nelle prime fasi di un progetto &egrave; il classico foglio di calcolo. Quindi, ci siamo immedesimati in loro per trovarne tutti i punti deboli ([clicca qui](/blog/come-nasce-una-startup-il-caso-proance) per approfondire ci&ograve; che abbiamo fatto con Proance).
 
 &nbsp;
 
@@ -160,7 +160,11 @@ Dopo aver individuato il problema, &egrave; necessario **controllare le informaz
 
 > **Ecco il punto di svolta: fare qualche ricerca dei competitor su Google non &egrave; sufficiente.**
 
-Questo passaggio &egrave; tanto importante quanto sottovalutato.<br>Un errore comune &egrave; proprio quello di partire prematuramente con lo sviluppo del prodotto/servizio, senza avere la certezza di lavorare ad una soluzione di cui le persone sentono (o potrebbero sentire) la necessit&agrave;.
+Questo passaggio &egrave; tanto importante quanto sottovalutato.
+
+&nbsp;
+
+<br>**Un errore comune &egrave; proprio quello di partire prematuramente con lo sviluppo del prodotto/servizio, senza avere la certezza di lavorare ad una soluzione di cui le persone sentono (o potrebbero sentire) la necessit&agrave;.**
 
 &nbsp;
 
