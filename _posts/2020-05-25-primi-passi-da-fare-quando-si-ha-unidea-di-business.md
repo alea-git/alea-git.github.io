@@ -60,7 +60,11 @@ Se ti sembra una banalit&agrave;, sappi che, statisticamente, il 42% delle start
 
 Per fare ci&ograve;, **devi comprendere il mercato.**
 
+&nbsp;
+
 *&Egrave; un metodo ben strutturato e collaudato, devi semplicemente farlo tuo e seguirlo.*
+
+&nbsp;
 
 Si tratta di prendere l’idea e suddividerla in tre parti:
 
@@ -74,7 +78,11 @@ In questo articolo analizzeremo il primo delle tre fasi.
 
 Il problem validation consiste nel **comprendere ci&ograve; che fanno gli utenti al momento attuale**, ricostruendone il percorso di interazione.
 
+&nbsp;
+
 *Provo a spiegarmi meglio.*
+
+&nbsp;
 
 Prendiamo come esempio Proance, un’app che abbiamo sviluppato per aiutare coloro che avviano un nuovo progetto &nbsp;e vogliono tenere traccia delle spese e dei ricavi.
 
@@ -111,6 +119,8 @@ Tieni presente che **l’insoddisfazione ed i bisogni possono essere:**
 Bene, a questo punto dovresti saper descrivere il problema che pensi di risolvere e dovresti anche avere un’idea di quello che l’utente fa attualmente.
 
 Il prossimo step sar&agrave; verificare se quello che hai pensato corrisponde all’esperienza dell’utente e se &egrave; un problema reale effettivamente sentito dalle persone, nonostante le soluzioni esistenti.
+
+&nbsp;
 
 *Come verificare le informazioni raccolte?*
 
