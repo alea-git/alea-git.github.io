@@ -178,6 +178,8 @@ Tieni presente che **l’insoddisfazione ed i bisogni possono essere:**
 
 Bene, a questo punto dovresti saper descrivere il problema che pensi di risolvere e dovresti anche avere un’idea di quello che l’utente fa attualmente.
 
+&nbsp;
+
 Il prossimo step sar&agrave; verificare se quello che hai pensato corrisponde all’esperienza dell’utente e se &egrave; un problema reale effettivamente sentito dalle persone, nonostante le soluzioni esistenti.
 
 &nbsp;
