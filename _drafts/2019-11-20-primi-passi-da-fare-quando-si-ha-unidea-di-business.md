@@ -202,7 +202,7 @@ Parlare con i clienti &egrave; una forma di apprendimento qualitativa: a meno ch
 
 ## OSSERVAZIONI
 
-Nelle osservazioni, i criteri sono simili a quelli delle interviste.<br>L’obiettivo, in questo caso, &egrave; di capire cosa fanno gli utenti tramite osservazioni dettagliate (dal vivo o per via di una registrazione video).
+Nelle osservazioni, i criteri sono simili a quelli delle interviste.<br>L’obiettivo, in questo caso, &egrave; di **capire cosa fanno gli utenti** tramite osservazioni dettagliate (dal vivo o per via di una registrazione video).
 
 Si descrive ci&ograve; che succede, distinguendolo con l’interpretazione di quello che l’utente fa.
 
@@ -212,9 +212,9 @@ Per due ore consecutive, in pi&ugrave; volte e in diversi luoghi, le due persone
 
 &Egrave; fondamentale, quindi, riportare tutti gli eventi con molta accuratezza.<br>Per questi motivi, anche in questo caso &egrave; consigliato lavorare in coppia, cos&igrave; da confrontare prospettive ed opinioni diverse.
 
-RIEVOCAZIONI
+## RIEVOCAZIONI
 
-L’obiettivo della rievocazione &egrave; di riprodurre quello che gli utenti fanno. Viene chiesto all’utente di pensare a voce alta in modo da catturare sia le azioni che i pensieri (si pu&ograve; riprendere con una telecamera) .
+L’obiettivo della rievocazione &egrave; di **riprodurre quello che gli utenti fanno**. Viene chiesto all’utente di pensare a voce alta in modo da catturare sia le azioni che i pensieri (si pu&ograve; riprendere con una telecamera) .
 
 Si osservano nei dettagli i comportamenti degli utenti che altrimenti non verrebbero osservati e per rendere espliciti i pensieri che gli utenti hanno nel compiere certe azioni.&nbsp;
 
