@@ -52,7 +52,7 @@ Anticipo il concetto di base di ci&ograve; che andrai a leggere: **nessuno pu&og
 
 &nbsp;
 
-*In sintesi, quando chiedi un parere personale ad una persona sull'idea, sappi che lo stai facendo principalmente per il tuo ego.&nbsp;*
+*In sintesi, quando chiedi un parere personale ad una persona sulla tua idea, sappi che la maggior parte delle volte &egrave; utile solo per soddisfare il tuo ego.&nbsp;*
 
 &nbsp;
 
