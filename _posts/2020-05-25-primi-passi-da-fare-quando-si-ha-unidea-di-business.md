@@ -66,7 +66,7 @@ Dal 2015, da studente prossimo alla maturit&agrave;, mi sono addentrato nel mond
 
 &nbsp;
 
-YouRemind &egrave; stata la nave scuola che mi ha permesso di mettermi in gioco in prima persona ([clicca qu](/project/youremind){: target="_blank"}i per approfondirne la storia). Ad esempio, ho avuto la possibilit&agrave; di fare un percorso di pre-incubazione con l’I3P, di provare l’emozione di presentare davanti ad una schiera di investitori e, sopratutto, di partecipare a The Startup Lab *(un corso organizzato da Entrepreneurship and Innovation Center del Politecnico di Torino ed ICRIOS dell’Universit&agrave; Bocconi)*&nbsp;in cui, in sostanza, ci hanno insegnato la **metodologia lean startup**.
+YouRemind &egrave; stata la nave scuola che mi ha permesso di mettermi in gioco in prima persona ([clicca qu](/project/youremind){: target="_blank"}[i](__notset__) per approfondirne la storia). Ad esempio, ho avuto la possibilit&agrave; di fare un percorso di pre-incubazione con l’I3P, di provare l’emozione di presentare davanti ad una schiera di investitori e, sopratutto, di partecipare a The Startup Lab *(un corso organizzato da Entrepreneurship and Innovation Center del Politecnico di Torino ed ICRIOS dell’Universit&agrave; Bocconi)*&nbsp;in cui, in sostanza, ci hanno insegnato la **metodologia lean startup**.
 
 &nbsp;
 
