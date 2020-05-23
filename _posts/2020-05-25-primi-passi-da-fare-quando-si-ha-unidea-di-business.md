@@ -64,9 +64,9 @@ Per fare ci&ograve;, **devi comprendere il mercato.**
 
 Si tratta di prendere l’idea e suddividerla in tre parti:
 
-* Problem validation
-* Offer validation
-* Solution validation
+* **Problem validation**
+* **Offer validation**
+* **Solution validation**
 
 In questo articolo analizzeremo il primo delle tre fasi.
 
