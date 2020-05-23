@@ -38,7 +38,7 @@ Anticipo il concetto di base di ci&ograve; che andrai a leggere: **nessuno pu&og
 
 Prima di andare a sviscerare il come e cosa fare, per&ograve;, per chi non mi conoscesse, &egrave; giusto raccontare brevemente la mia esperienza lavorativa.
 
-Dal 2014, da studente prossimo alla maturit&agrave;, mi sono addentrato nel mondo startup da completo ignorante in materia, con l’obiettivo di sviluppare YouRemind. Ho fatto tutti gli errori ormai stereotipati che un neofita pu&ograve; fare, tanto che quel servizio non ha mai raggiunto il mercato.
+Dal 2015, da studente prossimo alla maturit&agrave;, mi sono addentrato nel mondo startup da completo ignorante in materia, con l’obiettivo di sviluppare YouRemind. Ho fatto tutti gli errori ormai stereotipati che un neofita pu&ograve; fare, tanto che quel servizio non ha mai raggiunto il mercato.
 
 *E allora perch&eacute; dovrei leggere questo articolo?*
 
@@ -46,7 +46,7 @@ YouRemind &egrave; stata la nave scuola che mi ha permesso di mettermi in gioco 
 
 Questo articolo si baser&agrave; principalmente sugli appunti e sui concetti appresi durante quel corso, in aggiunta all’esperienza personale.
 
-Bene, dopo aver fatto tutte le premesse del caso, iniziato ad addentrarci nell’argomento.
+Bene, dopo aver fatto tutte le premesse del caso, iniziamo ad addentrarci nell’argomento.
 
 *Hai la tua idea e hai voglia approfondire la questione, quindi che fare?*
 
