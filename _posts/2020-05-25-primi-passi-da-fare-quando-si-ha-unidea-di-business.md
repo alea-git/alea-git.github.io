@@ -8,7 +8,7 @@ description: >-
 featured_image: /images/primipassi.jpg
 ---
 
-Ogni volta che ho il presentimento di avere qualcosa di importante tra le mani, l’idea giusta, provo una sensazione di puro entusiasmo.<br>Uno strano formicolio che parte dagli avambracci e si dirada verso le mani ed una scarica di ottimismo incontenibile che parte dal centro del petto.
+Ogni volta che ho il presentimento di avere qualcosa di importante tra le mani, l’idea giusta, provo una sensazione di **puro entusiasmo**.<br>Uno strano formicolio che parte dagli avambracci e si dirada verso le mani ed una scarica di ottimismo incontenibile che parte dal centro del petto.
 
 Succede spesso che, lasciandosi trasportare da questa propulsione di positivit&agrave;, si perda la lucidit&agrave; per capire se l’idea ha realmente delle fondamenta sul quale costruirci un business oppure sarebbe meglio lasciarla tra le fantasie passeggere.
 
