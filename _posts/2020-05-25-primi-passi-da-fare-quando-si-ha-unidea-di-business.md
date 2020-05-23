@@ -3,8 +3,8 @@ author: Alessandro Trezza
 title: Primi passi da fare quando si ha un’idea di business
 date: 2020-05-25 00:00:00
 description: >-
-  Il nostro approccio alla strategia di comunicazione per Proance, gli obiettivi
-  definiti e come intendiamo raggiungerli.
+  Guida pratica al problem validation: identificare e comprendere il problema ed
+  intervista del target di riferimento
 featured_image: /images/primipassi.jpg
 ---
 
