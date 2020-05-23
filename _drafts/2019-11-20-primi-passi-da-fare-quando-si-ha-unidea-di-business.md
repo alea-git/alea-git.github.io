@@ -50,7 +50,7 @@ Il tuo primo obiettivo deve essere quello di i**dentificare e comprendere il pro
 
 Se ti sembra una banalit&agrave;, sappi che, statisticamente, il 42% delle startup fallisce perch&eacute; non risolve un problema o bisogno importante per il mercato.
 
-\[IMMAGINE STATISTICA\]
+![](/images/stats.jpg){: width="612" height="394"}
 
 Non importa quanto tu sia sicuro della validit&agrave; della tua idea, dovrai prima capire se il problema che intendi risolvere &egrave; effettivamente un problema per i tuoi potenziali clienti.&nbsp;
 
@@ -224,7 +224,7 @@ In questo modo possiamo osservare quello che le persone fanno e pensano in certi
 
 Semplicemente, durante la rievocazione, si prendono appunti (o si registra un video della sessione).
 
-IMMAGINE SISTEMA DI CLASSIFICAZIONE
+![](/images/schema.png){: width="1730" height="972"}
 
 Dopo aver concluso le interviste ed elaborato tutti i dati, ti renderai conto che, tra le mani, non hai pi&ugrave; una semplice idea.
 
