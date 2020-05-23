@@ -98,15 +98,15 @@ Durante la ricerca della risposta, &egrave; utile sapere che **i problemi posson
 
 Dopo aver individuato il problema, &egrave; necessario **controllare le informazioni raccolte effettuando delle interviste.**
 
-**Ecco il punto di svolta: fare qualche ricerca dei competitor su Google non &egrave; sufficiente.**
+> **Ecco il punto di svolta: fare qualche ricerca dei competitor su Google non &egrave; sufficiente.**
 
 Questo passaggio &egrave; tanto importante quanto sottovalutato.<br>Un errore comune &egrave; proprio quello di partire prematuramente con lo sviluppo del prodotto/servizio, senza avere la certezza di lavorare ad una soluzione di cui le persone sentono (o potrebbero sentire) la necessit&agrave;.
 
 Tieni presente che **l’insoddisfazione ed i bisogni possono essere:**
 
-* **Funzionali:** risolvere un problema, eseguire un compito, raggiungere un risultato (es. comprare casa, mangiare sano, aumentare il profitto dei clienti, risparmiare);
-* **Sociali:** riferiti all’apparire, al confronto con gli altri, alla percezione sociale (essere alla moda, essere considerato competente, o autorevole);
-* **Emotivi:** riferiti alla ricerca di uno stato emotivo (Sentirsi al sicuro in un investimento, o nella propria casa, sentirsi libero).
+* **funzionali:** risolvere un problema, eseguire un compito, raggiungere un risultato (es. comprare casa, mangiare sano, aumentare il profitto dei clienti, risparmiare);
+* **sociali:** riferiti all’apparire, al confronto con gli altri, alla percezione sociale (essere alla moda, essere considerato competente, o autorevole);
+* **emotivi:** riferiti alla ricerca di uno stato emotivo (Sentirsi al sicuro in un investimento, o nella propria casa, sentirsi libero).
 
 Bene, a questo punto dovresti saper descrivere il problema che pensi di risolvere e dovresti anche avere un’idea di quello che l’utente fa attualmente.
 
@@ -119,6 +119,8 @@ Parlandone con gli utenti o, in alcuni casi, osservandone i comportamenti.
 Abbiamo tre opzioni a disposizione:
 
 **interviste:** il metodo pi&ugrave; efficace e veloce per ottenere informazioni dettagliate su problema e cliente&nbsp;<br>**osservazioni:** quando le informazioni sul reale comportamento sono pi&ugrave; importanti dell’opinione dell’utente&nbsp;<br>**rievocazioni:** quando un’esperienza &egrave; difficilmente descrivibile e/o rara&nbsp;
+
+&nbsp;
 
 *Non lasciare proprio adesso, ormai siamo nel vivo del discorso: analizziamo ogni punto.*
 
