@@ -74,7 +74,7 @@ Questo articolo si baser&agrave; principalmente sugli appunti e sui concetti app
 
 &nbsp;
 
-Bene, dopo aver fatto tutte le premesse del caso, iniziamo ad addentrarci nell’argomento.
+Bene, dopo aver fatto tutte le premesse del caso, **iniziamo ad addentrarci nell’argomento.**
 
 &nbsp;
 
