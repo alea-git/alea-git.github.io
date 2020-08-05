@@ -5,7 +5,7 @@ date: 2020-05-01 23:00:00
 description: >-
   Stop wasting time managing Projects —  Open in editor, instantly track Issues,
   collect Notes, Assets and Bookmarks with DevSpace.
-featured_image: /images/devspace-landing.png
+featured_image: devspace-landing.png
 accent_color: '#062d38'
 gallery_images:
   - /images/devspace-app.png
