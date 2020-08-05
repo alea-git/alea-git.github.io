@@ -28,3 +28,17 @@ Based on these data and on our necessity to deliver a good quote, we've decided 
 {% include post-components/gallery.html columns = 2 full_width = true images = "/images/projects/quotechimp1.png,/images/projects/quotechimp2.png,/images/projects/quotechimp3.png,/images/projects/quotechimp4.png " %} *Homepage and dashboard of the first web app version.*
 
 On january 10, 2020, **we released the first beta** on ProductHunt ([https://www.quotechimp.net](https://www.quotechimp.net "Quotechimp Homepage"){: target="_blank"}) and invited those who had shown interest on our Upcoming page.
+
+*(updated August 5, 2020):*
+
+This brought us some users, which signed up happy to try out our tool, and created various forms, spacing from "app customisation" to "jewish wedding"\!
+
+The problem came later on: after 1 week, we did not had any new signup, and all previous users, captured thanks to the ProductHunt launch, were not active anymore. This lead us to put aside Quotechimp and focus on the other projects.
+
+In retrospective, I don't yet know if this has been a good idea. I just know I would've never expected what happened later.
+
+In early march we received a contact request from an investor, interested in Quotechimp. One month later, we received another contact request on LinkedIn, this time from a business agency founder, which was interested in Quotechimp to collect inbound leads globally.
+
+This new wave of freshness and interest brought our interest in Quotechimp up again, after about 3 months of inactivity.
+
+This lead us to the decision to give it another try, so we initially redesigned the platform and added new features, and later on came up with a totally new concept of how to interact with forms (ie: thanks to videos), and that lead us to Vique. Which is an entire new product by itself, that originated from a long story of indecisions and doubts about a project that we thought almost dead.
