@@ -10,7 +10,7 @@ accent_color: '#062d38'
 gallery_images:
   - /images/devspace-app.png
   - /images/devspace-landing.png
-published: true
+published: false
 ---
 
 DevSpace has been Gabriel's side project for quite a while (something like 2 months), and now it's joining the Alea Makers family, with all the other projects we've been developing so far\!
