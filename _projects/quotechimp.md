@@ -29,7 +29,7 @@ Based on these data and on our necessity to deliver a good quote, we've decided 
 
 On january 10, 2020, **we released the first beta** on ProductHunt ([https://www.quotechimp.net](https://www.quotechimp.net "Quotechimp Homepage"){: target="_blank"}) and invited those who had shown interest on our Upcoming page.
 
-*(updated August 5, 2020):*
+***(updated August 5, 2020):***
 
 This brought us some users, which signed up happy to try out our tool, and created various forms, spacing from "app customisation" to "jewish wedding"\!
 
