@@ -1,10 +1,10 @@
 ---
 title: DevSpace
 subtitle: Rethink how you organize your local projects
-date: 2020-01-09 23:00:00
+date: 2020-05-01 23:00:00
 description: >-
-  Quotechimp helps you create personalized forms for dynamic quotes and
-  reservations.
+  Stop wasting time managing Projects —  Open in editor, instantly track Issues,
+  collect Notes, Assets and Bookmarks with DevSpace.
 featured_image: devspace-landing.png
 accent_color: '#062d38'
 gallery_images:
