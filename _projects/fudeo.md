@@ -46,7 +46,7 @@ At the beginning of October 2019, we launched Fudeo 2.0, with completely redesig
 
 {% include post-components/gif.html url = "/images/projects/animation.mp4" full_width = true %}
 
-***Update August 5, 2020***
+***(updated August 5, 2020):***
 
 During the last week of April, in full Italian lockdown, we launched a Facebook campaign with our course on discount.
 
