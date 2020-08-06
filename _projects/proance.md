@@ -20,10 +20,12 @@ Of course, like every Agile project that is borning, we've decided to start with
 
 {% include post-components/gallery.html columns = 1 full_width = false images = "/images/projects/copertinapro3.png " %}&nbsp;*App showcases.*
 
-Proance is also the first project officially created under Alea Makers, and, for this reason, it inherits its principles and values: we want to share every step of the development on our blog and live stream it on our YouTube channel. But we don't want to share only the development phase, cash flows and user metrics will be open for everyone as well.
+***Update August 5, 2020***
 
-Follow the live development on our YouTube channel\!&nbsp;
+We have suspended the development of Proance so we can concentrate on the other projects.
 
-Note: We will update this page every time we make important progress. Stay tuned\!
+The reason is that, in our growth phase, we prefer to focus on more profitable targets.
+
+Probably, if we decide to continue, we will make important changes to the fundamental structure of the service.
 
 &nbsp;
