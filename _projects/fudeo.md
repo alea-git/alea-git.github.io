@@ -46,4 +46,24 @@ At the beginning of October 2019, we launched Fudeo 2.0, with completely redesig
 
 {% include post-components/gif.html url = "/images/projects/animation.mp4" full_width = true %}
 
-Consistent with the values of Alea Makers, we are working to launch Fudeo in the world of Open Startups: soon we will publish our metrics (cash flow and user metrics) that can be viewed in real time.
+***Update August 5, 2020***
+
+During the last week of April, in full Italian lockdown, we launched a Facebook campaign with our course on discount.
+
+From that moment everything changed.
+
+In the first seven days, we quadrupled visits to the site and increased sales by + 100% compared to the previous month.
+
+In May, revenues grew 250%, forcing us to rethink our entire organisation.
+
+First of all, it seemed the right time to gather all the requests from our students about the course, and group them in a new, more advanced one.
+
+Taking advantage of the opportunity, we wanted to update the entire platform to version 3:
+
+In reality it was a matter of rewriting the entire project from scratch, to adapt it to new needs.
+
+The most important novelty was the predisposition of the platform to host other teachers, thus making Fudeo's entry into the e-learning platform market officially.
+
+In addition, we have also updated the communication strategy, trying to create a product more attractive to our target, namely companies and professional developers.
+
+July 8 was the day of the launch of the advanced Flutter course and the new version of Fudeo.
