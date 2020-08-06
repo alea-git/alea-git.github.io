@@ -20,7 +20,7 @@ Of course, like every Agile project that is borning, we've decided to start with
 
 {% include post-components/gallery.html columns = 1 full_width = false images = "/images/projects/copertinapro3.png " %}&nbsp;*App showcases.*
 
-***Update August 5, 2020***
+***(updated August 5, 2020):***
 
 We have suspended the development of Proance so we can concentrate on the other projects.
 
