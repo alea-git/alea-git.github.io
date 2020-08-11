@@ -7,11 +7,11 @@ date: 2019-10-14 00:00:00
 description: >-
   Fudeo is a platform of online courses in Italian on the latest technologies
   for developers.
-featured_image: screenfudeo2.png
+featured_image: fudeo-video.png
 accent_color: '#20497a'
 gallery_images:
-  - screenfudeo.png
-  - screenfudeo2.png
+  - fudeo-landing.png
+  - fudeo-corsi.png
 ---
 
 Fudeo is a learning-platform for the Italian market, with courses on the latest technologies, aimed at developers.
