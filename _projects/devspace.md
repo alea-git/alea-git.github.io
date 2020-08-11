@@ -21,6 +21,8 @@ DevSpace is born with the intent of helping busy and prolific developers organiz
 
 But, even though DevSpace was originally Gabriel's side project, we saw some potential in it, and decided to give it a "promotion" and try to focus on this project for some weeks, so that we could gather more informations, get some initial beta users and then publish it as a paid app.
 
+![](/images/projects/devspace-tracking.png){: width="2086" height="1149"}
+
 The validation has been a quick & dirt process, we just wanted to make sure there would be at least some traction, and what we got we considered it enough to justify dedicating 2 weeks to it:
 
 * [https://www.reddit.com/r/programming/comments/fygg8k/developers\_wanting\_to\_organize\_their\_local\_coding/](https://www.reddit.com/r/programming/comments/fygg8k/developers_wanting_to_organize_their_local_coding/)
