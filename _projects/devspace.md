@@ -3,8 +3,8 @@ title: DevSpace
 subtitle: Rethink how you organize your local projects
 date: 2020-05-01 23:00:00
 description: >-
-  Stop wasting time managing Projects —  Open in editor, instantly track Issues,
-  collect Notes, Assets and Bookmarks with DevSpace.
+  DevSpace is born with the intent of helping busy and prolific developers
+  organize all their things together, and never lose track of important things.
 featured_image: devspace-app.png
 accent_color: '#062d38'
 gallery_images:
