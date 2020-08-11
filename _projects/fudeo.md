@@ -46,7 +46,7 @@ At the beginning of October 2019, we launched Fudeo 2.0, with completely redesig
 
 {% include post-components/gif.html url = "/images/projects/animation.mp4" full_width = true %}
 
-{% include post-components/gallery.html columns = 1 full_width = true images = "/images/projects/screenfudeo2.png,/images/projects/screenfudeo.png " %}&nbsp;*Fudeo v. 2*
+{% include post-components/gallery.html columns = 1 full_width = true images = "/images/projects/screenfudeo.png,/images/projects/screenfudeo2.png " %}&nbsp;*Fudeo v. 2*
 
 ***(updated August 5, 2020):***
 
