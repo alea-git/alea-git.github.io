@@ -56,7 +56,9 @@ From that moment everything changed.
 
 In the first seven days, we quadrupled visits to the site and increased sales by + 100% compared to the previous month.
 
-In May, revenues grew 250%, forcing us to rethink our entire organisation.
+In May, revenues grew 250%, forcing us to rethink our entire organization.
+
+![Audience Change  (360 days)](/images/projects/mailchimp.png){: width="1466" height="764"}
 
 First of all, it seemed the right time to gather all the requests from our students about the course, and group them in a new, more advanced one.
 
