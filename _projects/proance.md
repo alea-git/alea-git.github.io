@@ -7,7 +7,6 @@ featured_image: copertinapro2.png
 accent_color: '#3c47d6'
 gallery_images:
   - proance-homepage.png
-  - copertinapro2.png
 ---
 
 &nbsp;
