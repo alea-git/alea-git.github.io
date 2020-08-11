@@ -66,6 +66,8 @@ In reality it was a matter of rewriting the entire project from scratch, to adap
 
 The most important novelty was the predisposition of the platform to host other teachers, thus making Fudeo's entry into the e-learning platform market officially.
 
+![Fudeo v3](/images/projects/fudeo-video.png){: width="2992" height="1716"}
+
 In addition, we have also updated the communication strategy, trying to create a product more attractive to our target, namely companies and professional developers.
 
 July 8 was the day of the launch of the advanced Flutter course and the new version of Fudeo.
