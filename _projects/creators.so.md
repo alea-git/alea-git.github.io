@@ -4,7 +4,7 @@ subtitle: Born from the roots of Fudeo, ready to go international
 date: 2020-09-30T11:00:00.000+00:00
 description: The platform to sell online courses suitable for creators who love their
   community
-featured_image: "/images/projects/creators_platform_fudeo.png"
+featured_image: "../projects/creators_platform_fudeo.png"
 accent_color: "#6c2bd9"
 gallery_images:
 - "../projects/creators_landing.png"
