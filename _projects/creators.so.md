@@ -1,7 +1,7 @@
 ---
 title: Creators.so
 subtitle: Born from the roots of Fudeo, ready to go international
-date: 2020-09-29T22:00:00.000+00:00
+date: 2020-09-30 11:00:00 +0000
 description: The platform to sell online courses suitable for creators who love their
   community
 featured_image: ''
@@ -9,7 +9,6 @@ accent_color: "#6c2bd9"
 gallery_images:
 - "../projects/creators_platform_fudeo.jpg"
 - "../projects/creators_index.png"
-published: false
 
 ---
 Creators.so is the natural evolution of Fudeo, so we suggest you to take a look at the history of Fudeo before continuing to read (click here).
