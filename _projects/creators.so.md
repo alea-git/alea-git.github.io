@@ -6,9 +6,7 @@ description: The platform to sell online courses suitable for creators who love 
   community
 featured_image: ''
 accent_color: "#6c2bd9"
-gallery_images:
-- "../projects/creators_platform_fudeo.jpg"
-- "../projects/creators_index.png"
+gallery_images: []
 
 ---
 Creators.so is the natural evolution of Fudeo, so we suggest you to take a look at the history of Fudeo before continuing to read (click here).
