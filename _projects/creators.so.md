@@ -1,17 +1,16 @@
 ---
 title: Creators.so
-subtitle: 'Born from the roots of Fudeo, ready to go international'
-date: 2020-09-30 11:00:00
-description: >-
-  The platform to sell online courses suitable for creators who love their
+subtitle: Born from the roots of Fudeo, ready to go international
+date: 2020-09-30T11:00:00.000+00:00
+description: The platform to sell online courses suitable for creators who love their
   community
-featured_image: creators_platform_fudeo.png
-accent_color: '#6c2bd9'
+featured_image: ''
+accent_color: "#6c2bd9"
 gallery_images:
-  - ../projects/creators_landing.png
-  - ../projects/creators_platform_fudeo.png
----
+- "../projects/creators_landing.png"
+- "../projects/creators_platform_fudeo.png"
 
+---
 Creators.so is the natural evolution of Fudeo, so we suggest you to take a look at the history of Fudeo before continuing to read (click here).
 
 With version 3 of Fudeo we've added the possibility to let other teachers use our platform to sell their courses.
@@ -30,7 +29,7 @@ By integrating spaces within the platform, we're not only solving this problem, 
 
 Just imagine you have some courses that deal with financial education and bitcoin and, in addition to selling courses, you could also have a virtual place, completely customised with your brand, where your community meets to exchange advice and personal experiences.
 
-Branded platform \* (selling courses + community)= reliable brand and long lasting business
+Branded platform * (selling courses + community)= reliable brand and long lasting business
 
 This has been one of the main reasons we've started working on v4 just after one month from the release of v3.
 
@@ -58,4 +57,4 @@ The needs of Profession AI, together with those of Fudeo, allowed us to develop 
 
 We know we're moving in a crowded sector, but we strongly believe there's a lot of room for movement, given the dissatisfaction of many teachers with the current offering.
 
-If you are interesting in learning more why we think so, we're intentioned to write more about it in our blog.
+If you are interesting in learning more why we think so, we're intentioned to write more about it in our blog. 
