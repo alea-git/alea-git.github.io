@@ -46,13 +46,13 @@ So, Fudeo has now officially become "just" a brand producing online courses in I
 
 **We've chosen this name to be in close relationship with our main target, creators**\: people that produce digital content (such as marketers, youtubers, instagrammers, etc.) and want to sell online courses, taking care and growing their community, with a strong focus on brand positioning.
 
-> We love our target, made up of interesting and enterprising people, allowing us to work on something we like, with amazing people, and learn a ton about other sectors in the meantime.
+> We love our target, made up of interesting and enterprising people, allowing us to work on something we like, with amazing human beings, and learn a ton about other sectors in the meantime.
 
 For this reason we're pretty picky on selecting creators to whom we propose our service and we evaluate each proposal received: **we are interested in creating a long lasting collaboration with the creators**, so as to trigger a virtuous exchange of opinions and skills and offer a high quality service both for them and for their students.
 
 Since the launch day, **we're very happy to have with us Profession AI**, the creator behind the best selling online courses on Artifical Intelligence in Italy, with over 10k students.
 
-![](/images/projects/creators_platform_profession_ai.png){: width="2880" height="1670"}
+![](/images/demo-platform-profession-ai.gif){: width="1476" height="788"}
 
 It is a practical example of the virtuosity we are so interested in: every call becomes an opportunity to exchange opinions and advices.
 
