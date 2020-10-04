@@ -1,15 +1,15 @@
 ---
 title: Creators.so
-subtitle: Born from the roots of Fudeo, ready to go international
-date: 2020-09-30T11:00:00.000+00:00
-description: The platform to sell online courses suitable for creators who love their
+subtitle: 'Born from the roots of Fudeo, ready to go international'
+date: 2020-09-30 11:00:00
+description: >-
+  The platform to sell online courses suitable for creators who love their
   community
-featured_image: ''
-accent_color: "#6c2bd9"
+featured_image: /images/projects/creators_platform_fudeo.png
+accent_color: '#6c2bd9'
 gallery_images:
-- "../projects/creators_landing.png"
-- "../projects/creators_platform_fudeo.png"
-
+  - ../projects/creators_landing.png
+  - ../projects/creators_platform_fudeo.png
 ---
 
 Creators.so is the natural evolution of Fudeo, so we suggest you to take a look at the history of Fudeo before continuing to read ([click here](/project/fudeo){: target="_blank" rel="noopener"}).
@@ -46,7 +46,7 @@ So, Fudeo has now officially become "just" a brand producing online courses in I
 
 **We've chosen this name to be in close relationship with our main target, creators**\: people that produce digital content (such as marketers, youtubers, instagrammers, etc.) and want to sell online courses, taking care and growing their community, with a strong focus on brand positioning.
 
-> We love our target, made up of interesting and enterprising people, allowing us to work on something we like, with amazing human beings, and learn a ton about other sectors in the meantime.
+> We love our target, made up of interesting and enterprising people, allowing us to work on something we like with amazing human beings and learn a ton about other sectors in the meantime.
 
 For this reason we're pretty picky on selecting creators to whom we propose our service and we evaluate each proposal received: **we are interested in creating a long lasting collaboration with the creators**, so as to trigger a virtuous exchange of opinions and skills and offer a high quality service both for them and for their students.
 
