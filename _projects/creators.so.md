@@ -5,7 +5,7 @@ date: 2020-09-30 11:00:00
 description: >-
   The platform to sell online courses suitable for creators who love their
   community
-featured_image: /images/projects/creators_platform_fudeo.png
+featured_image: creators_platform_fudeo.png
 accent_color: '#6c2bd9'
 gallery_images:
   - ../projects/creators_landing.png
@@ -56,7 +56,7 @@ Since the launch day, **we're very happy to have with us Profession AI**, the cr
 
 It is a practical example of the virtuosity we are so interested in: every call becomes an opportunity to exchange opinions and advices.
 
-The needs of Profession AI, together with those of Fudeo, allowed us to develop a mature platform, with advanced functionality and a well-thought design, almost ready to compete on an international market.
+The needs of Profession AI, together with those of Fudeo, allowed us **to develop a mature platform, with advanced functionality and a well-thought design, almost ready to compete on an international market**.
 
 We know we're moving in a crowded sector, but we strongly believe there's a lot of room for movement, given the dissatisfaction of many teachers with the current offering.
 
