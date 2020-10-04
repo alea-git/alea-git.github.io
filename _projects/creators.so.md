@@ -1,12 +1,14 @@
 ---
 title: Creators.so
 subtitle: Born from the roots of Fudeo, ready to go international
-date: 2020-09-29 22:00:00 +0000
+date: 2020-09-29T22:00:00.000+00:00
 description: The platform to sell online courses suitable for creators who love their
   community
 featured_image: ''
 accent_color: "#6c2bd9"
-gallery_images: []
+gallery_images:
+- "../projects/creators_platform_fudeo.jpg"
+- "../projects/creators_index.png"
 published: false
 
 ---
