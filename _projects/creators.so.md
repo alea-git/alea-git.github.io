@@ -5,7 +5,7 @@ date: 2020-09-30 11:00:00
 description: >-
   The platform to sell online courses suitable for creators who love their
   community
-featured_image: creators_platform_fudeo.png
+featured_image: demo-platform-fudeo.gif
 accent_color: '#6c2bd9'
 gallery_images:
   - ../projects/creators_landing.png
@@ -42,7 +42,7 @@ In fact, until that moment, Fudeo was both a course brand and a platform to mana
 
 This has always created a lot of confusion, both to the people we talked to and to us.
 
-So, Fudeo has now officially become "just" a brand producing online courses in Italian, with a special focus on Flutter; Creators.so, this is the name chosen for the new service, deals with offering a customised platform to creators who want to grow their brand in their field with the help of online training.
+So, **Fudeo** has now officially become "just" a **brand producing online courses in Italian**, with a special focus on Flutter; **Creators.so**, this is the name chosen for the new service, deals with **offering a customised platform to creators who want to grow their brand in their field with the help of online training.**
 
 **We've chosen this name to be in close relationship with our main target, creators**\: people that produce digital content (such as marketers, youtubers, instagrammers, etc.) and want to sell online courses, taking care and growing their community, with a strong focus on brand positioning.
 
