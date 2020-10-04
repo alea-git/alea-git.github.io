@@ -29,7 +29,7 @@ By integrating spaces within the platform, we're not only solving this problem, 
 
 Just imagine you have some courses that deal with financial education and bitcoin and, in addition to selling courses, you could also have a virtual place, completely customised with your brand, where your community meets to exchange advice and personal experiences.
 
-Branded platform \* (selling courses + community)= reliable brand and long lasting business
+Branded platform * (selling courses + community)= reliable brand and long lasting business
 
 This has been one of the main reasons we've started working on v4 just after one month from the release of v3.
 
@@ -57,4 +57,4 @@ The needs of Profession AI, together with those of Fudeo, allowed us to develop 
 
 We know we're moving in a crowded sector, but we strongly believe there's a lot of room for movement, given the dissatisfaction of many teachers with the current offering.
 
-If you are interesting in learning more why we think so, we're intentioned to write more about it in our blog.
+If you are interesting in learning more why we think so, we're intentioned to write more about it in our blog. 
