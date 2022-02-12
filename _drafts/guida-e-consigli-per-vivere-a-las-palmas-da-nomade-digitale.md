@@ -5,7 +5,7 @@ description: Vivere da nomade digitale a Las Palmas, Gran Canaria
 featured_image: /uploads/begin.jpg
 author: Alessandro Trezza; Gabriel Gatu
 ---
-> <br>Disclaimer<br>Le nostre guide sono pensate per essere utili ad altri nomadi digitali, che, come noi, hanno gi&agrave; un proprio lavoro e vogliono vivere in un posto diverso da quello di residenza. Questo significa che non troverai info su come cambiare cittadinanza o trasferirti nel posto.
+> **Disclaimer**<br>Le nostre guide sono pensate per essere utili ad altri nomadi digitali, che, come noi, hanno gi&agrave; un proprio lavoro e vogliono vivere in un posto diverso da quello di residenza. Questo significa che non troverai info su come cambiare cittadinanza o trasferirti nel posto.
 
 Finalmente iniziamo la nostra avventura da nomadi digitali.&nbsp;
 
@@ -13,9 +13,9 @@ Dopo anni passati a lavorare in remoto dalla provincia di Torino, finalmente pot
 
 lavorare viaggiando.
 
-Come prima destinazione abbiamo scelto Las Palmas de Gran Canaria (d’ora in poi solo Las Palmas), Isole Canarie.&nbsp;
+Come prima destinazione abbiamo scelto Las Palmas de Gran Canaria *(d’ora in poi solo Las Palmas)*, Isole Canarie.&nbsp;
 
-Esattamente di fianco al Marocco, le Isole Canarie si trovano nell’Oceano Atlantico, al largo dell’Africa nord-occidentale.
+Esattamente di fianco al Marocco, le Isole Canarie si trovano nell’Oceano Atlantico, a largo dell’Africa nord-occidentale.
 
 Nonostante la posizione, &egrave; una comunit&agrave; autonoma della Spagna, dunque Unione Europea.
 
@@ -23,27 +23,31 @@ Questo é il principale motivo per cui l’abbiamo scelta come prima destinazion
 
 ha il clima mite e i paesaggi di un posto africano, pur mantenendo tutti i privilegi di cui si gode essendo un cittadino europeo.
 
-Per privilegi si intende la sanit&agrave;, la libera circolazione e la possibilit&agrave; di permanenza illimitata.
+*Per privilegi si intende la sanit&agrave;, la libera circolazione e la possibilit&agrave; di permanenza illimitata.*
 
-Siamo stati dal 10 ottobre sino al 19 dicembre 2021, due mesi e mezzo (scampati al freddo dell’autunno/inverno italiano).
+Siamo stati dal 10 ottobre sino al 19 dicembre 2021, due mesi e mezzo scampati dal freddo dell’autunno/inverno italiano.
 
 Se hai intenzione di trasferirti a Las Palmas per lavorare da remoto, continua a leggere questo articolo, ti daremo tutti i consigli possibili basati sulla nostra esperienza diretta.
 
-\#\# Sicurezza e dove vivere<br>Las Palmas é un posto sicuro. Almeno, questa &egrave; stata l’impressione che ci ha dato durante tutta la permanenza.
+## Sicurezza e dove vivere
 
-La nostra casa si trovava a Guanarteme, vicino all’Auditorio Alfredo Kraus, quindi una zona tra l’hipster e il turistico, vicino allo spot dei surfisti.
+Las Palmas é un posto sicuro. Almeno, questa &egrave; stata l’impressione che ci ha dato durante tutta la permanenza.
 
-Non sappiamo in zone pi&ugrave; urbane come sia la situazione non avendola frequentata molto, comunque sia non ci siamo mai sentiti in pericolo, né di giorno in posti desolati né tantomeno di notte.
+La nostra casa si trovava a Guanarteme, vicino all’Auditorio Alfredo Kraus, quindi una zona tra l’hipster e il turistico, vicino allo spot pi&ugrave; frequentato dai surfisti.
+
+Non sappiamo in zone pi&ugrave; urbane come sia la situazione, non avendola frequentata molto, comunque sia non ci siamo mai sentiti in pericolo, né di giorno in posti desolati né tantomeno di notte.
 
 A proposito di Guanarteme, é sicuramente un quartiere che consigliamo per viverci:
 
-&Eacute; vicino alle scuole da surf, a tutti i negozi pi&ugrave; grandi ed &egrave; ben servita dal trasporto pubblico.
+é vicino alle scuole da surf, a tutti i negozi pi&ugrave; grandi ed &egrave; ben servita dal trasporto pubblico.
 
-<br>\#\# Costo della vita e Airbnb<br>La vita a Las Palmas costa poco meno che in Italia.
+## <br>Costo della vita e Airbnb
+
+La vita a Las Palmas costa poco meno che in Italia.
 
 C’&egrave; un grandissimo risparmio per quanto riguarda i profumi e, in modo pi&ugrave; contenuto, sull’elettronica (per via dell’IVA inferiore), per&ograve;, per quanto riguarda la spesa di tutti i giorni, i prezzi sono grossomodo allineati con quelli italiani, soprattutto se sceglierete di andare al Carrefour come abbiamo fatto noi.
 
-Si pu&ograve; risparmiare in modo importante sulla spesa di alimenti andando in catene come Despar o Dino, che sono i discount dell’isola e sono ovunque, per&ograve; abbiamo notato che é molto pi&ugrave; difficile continuare un’alimentazione simile a quella che &egrave; possibile fare in Italia perché tanti prodotti non si trovano. Al contrario, al Carrefour si trova qualsiasi cosa.
+Si pu&ograve; risparmiare un po' di pi&ugrave; sulla spesa di alimenti andando in catene come Despar o Dino, che sono i discount dell’isola e sono ovunque, per&ograve; abbiamo notato che é molto pi&ugrave; difficile continuare un’alimentazione simile a quella che &egrave; possibile fare in Italia perché tanti prodotti non si trovano. Al contrario, al Carrefour si trova qualsiasi cosa.
 
 \[The Couple - Men&ugrave; digitale\](https://qr641.buenacarta.com)
 
@@ -53,19 +57,29 @@ Un caff&egrave; circa €1, un cappuccino €2, un americano €1,5.
 
 COSTO NEI BAR/RISTORANTI<br>COSTO AIRBNB
 
-\#\# Moneta locale<br>La moneta locale é l’euro. Il pagamento con le carte di credito/debito viene accettato ovunque, tanto da non aver mai utilizzato il contante (se non per il biglietto sulla guagua locale).
+## Moneta locale
 
-\#\# Lingua e livello di inglese<br>La lingua ufficiale é lo spagnolo. Nei locali, negozi e supermercati &egrave; difficile trovare persone che parlino l’inglese. Se non sai lo spagnolo fai prima a parlare in italiano, in qualche modo vi capirete.
+La moneta locale é l’euro. Il pagamento con le carte di credito/debito viene accettato ovunque, tanto da non aver mai utilizzato il contante (se non per il biglietto sulla guagua locale, come loro chiamano il pullman).
+
+## Lingua e livello di inglese
+
+La lingua ufficiale é lo spagnolo. Nei locali, negozi e supermercati &egrave; difficile trovare persone che parlino l’inglese. Se non sai lo spagnolo fai prima a parlare in italiano, in qualche modo vi capirete.
 
 Ci sono molti italiani sull'isola.
 
-\#\# Telefonia e wifi<br>Essendo in Europa, abbiamo continuato ad utilizzare il nostro numero italiano, anche perché la promozione Vodafone attiva funzionava allo stesso modo anche a Las Palmas. Stessi minuti, sms e internet che ho normalmente in Italia.
+## Telefonia e wifi
+
+Essendo in Europa, abbiamo continuato ad utilizzare il nostro numero italiano, anche perché la promozione Vodafone attiva funzionava allo stesso modo anche a Las Palmas. Stessi minuti, sms e internet che ho normalmente in Italia.
+
+Con provider low cost, come Ho Mobile e Illiad, i giga sono tendenzialmente un decimo di quelli che si hanno in Italia. SMS e chiamate sono sempre illimitate.
 
 La copertura del 4G era ottima e presente in tutti i posti in cui siamo andanti, anche nell’entroterra. Non siamo mai rimasti senza copertura del segnale.
 
 Il wifi é presente praticamente in tutti i bar, alcuni hanno anche la banda larga, quindi connessioni veloci.
 
-<br>\#\# Trasporti a Buenos Aires<br>Il pullman, o guagua come viene chiamata a Las Palmas, é molto efficiente e puntale. Semplicemente utilizzando Google Maps siamo riusciti a raggiungere sia Maspalomas, a sud dell’isola, che il Roque Nublo, nell’entroterra.&nbsp;
+## <br>Trasporti a Las Palmas
+
+Il pullman, o guagua come viene chiamata a Las Palmas, é molto efficiente e puntale. Semplicemente utilizzando Google Maps siamo riusciti a raggiungere sia Maspalomas, a sud dell’isola, che il Roque Nublo, nell’entroterra.&nbsp;
 
 Il biglietto si compra direttamente dall’autista, in quelli urbani si paga solo in contanti, in quelli extraurbani si pu&ograve; utilizzare la carta di debito/credito.
 
@@ -75,7 +89,9 @@ Ci sono due tipi di guagua:<br>\-quello giallo??, che serve la zona urbana e cos
 
 Un modo pi&ugrave; veloce per spostarsi in citt&agrave; sono i taxi, molto meno costosi rispetto all’Italia, l’abbiamo preso diverse volte, quando la guagua non era comoda.
 
-\#\# Clima<br>Il clima dell’isola di Gran Canaria é molto particolare perché si differenzia in modo netto tra nord e sud.
+## Clima
+
+Il clima dell’isola di Gran Canaria é molto particolare perché si differenzia in modo netto tra nord e sud.
 
 A nord, quindi Las Palmas, il cielo é per la maggior parte dei giorni coperto da nuvole.
 
@@ -85,7 +101,9 @@ per questo motivo Las Palmas risulta essere una delle citt&agrave; con i miglior
 
 Se invece si vuole godere di un sole pieno e di temperature pi&ugrave; alte, &egrave; sufficiente spostarsi di una cinquantina di chilometri a sud dell’isola, a Maspalomas.
 
-\#\# Posti un cui lavorare<br>Sono presenti diversi co-working a Las Palmas e alcuni di questi sono anche molto belli.&nbsp;
+## Posti un cui lavorare
+
+Sono presenti diversi co-working a Las Palmas e alcuni di questi sono anche molto belli.&nbsp;
 
 Dato che abbiamo valutato di frequentarne uno, abbiamo investito un po’ di tempo per informarci sulla soluzione migliore. Alla fine abbiamo optato per lavorare dai bar e da casa, dato che avevamo un’ottima connessione e due belle postazioni.
 
@@ -97,27 +115,37 @@ Di seguito riportiamo quelli in cui ci siamo trovati meglio, tenendo conto dell�
 
 Piccolo consiglio: prima di sederci in un locale per lavorare, solitamente chiediamo se hanno le prese elettriche. Nel caso non sapessi come si chiede, le parole magiche da imparare sono:&nbsp;
 
-“tienes enchufe?”.&nbsp;
+> “tienes enchufe?”.&nbsp;
 
-The couple<br>Sul Paseo las Canteras, questo piccolo bar (gestito da italiani) &egrave; stato il nostro posto preferito.
+##### The couple
+
+Sul Paseo las Canteras, questo piccolo bar (gestito da italiani) &egrave; stato il nostro posto preferito.
 
 Ha le prese, un buon wifi, prezzi normali e, soprattutto, una vista mare davvero molto bella, in particolare al tramonto. Probabilmente &egrave; il nostro preferito perché &egrave; l’unico posto in cui ci si sente davvero su un’isola, ogni volta provavamo un senso di gratitudine nel poter lavorare in remoto grazie a questo posto.&nbsp;
 
-Maripili<br>Situato in Plaza del Pilar, questo bar é davvero un bel posto.
+##### Maripili
+
+Situato in Plaza del Pilar, questo bar é davvero un bel posto.
 
 Si nota subito l’attenzione ad ogni dettaglio, dai bicchieri alle finiture del locale, tutto &egrave; ben curato. L’atmosfera che si crea &egrave; molto suggestiva, accompagnata da un’ottima cucina semplice e salutare.
 
 Il wifi funziona bene, i prezzi sono nella media e sono presenti le prese di corrente.&nbsp;
 
-The block<br>Il bar dei surfisti, situato nella parte pi&ugrave; a sud del Paseo Las Canteras.
+##### The Block
+
+Il bar dei surfisti, situato nella parte pi&ugrave; a sud del Paseo Las Canteras.
 
 Proprio sopra la Cicer, la spiaggia del surf, questo locale ha solo posti all’aperto, dunque non sono presenti le prese elettriche. Questa mancanza viene ripagata dalla vista sull’Oceano Atlantico.
 
-Roka Café<br>Non troppo lontano dal Paseo las Canteras, questo bar offre un buon ambiente in stile moderno per lavorare.
+##### Roka Café
+
+Non troppo lontano dal Paseo las Canteras, questo bar offre un buon ambiente in stile moderno per lavorare.
 
 Non é molto spazioso ma c’&egrave; tutto, prezzi nella media, prese elettriche e wifi. Inoltre i proprietari sono italiani.
 
-<br>\#\# Cosa visitare<br>Uno degli aspetti pi&ugrave; belli del vivere a Las Palmas &egrave; che si pu&ograve; godere delle comodit&agrave; di una citt&agrave;, non dovendo comunque rinunciare all’esplorazione e al contatto con la natura.
+## <br>Cosa visitare
+
+Uno degli aspetti pi&ugrave; belli del vivere a Las Palmas &egrave; che si pu&ograve; godere delle comodit&agrave; di una citt&agrave;, non dovendo comunque rinunciare all’esplorazione e al contatto con la natura.
 
 Infatti, nel giro di massimo un’ora &egrave; possibile arrivare a Maspalomas, la parte opposta a Las Palmas, a sud dell’isola, utilizzando la guagua. Con la macchina sono circa 40 minuti.
 
@@ -129,13 +157,17 @@ Nel caso fossi interessato ad affittarne una, ti consigliamo di andare da Autos 
 
 Di seguito una lista di posti da visitare a Las Palmas:
 
-\#\#\# Playa del Conf&iacute;tal<br>Situata a nella parte nord-ovest di Las Palmas, é uno dei posti naturali pi&ugrave; belli che si possano raggiungere a piedi dalla citt&agrave;.
+##### Playa del Conf&iacute;tal
+
+Situata a nella parte nord-ovest di Las Palmas, é uno dei posti naturali pi&ugrave; belli che si possano raggiungere a piedi dalla citt&agrave;.
 
 &Eacute; una spiaggia poco frequentata rispetto a Playa de Las Canteras e pi&ugrave; selvaggia, in cui ci si &nbsp;pu&ograve; anche fare running o rilassare sulle panche in legno davanti al fantastico tramonto.
 
-Alessandro:&nbsp;<br>Pi&ugrave; volte sono andato nel pomeriggio per leggere e lavorare, in assoluto il mio posto preferito.
+> Alessandro:&nbsp;<br>Pi&ugrave; volte sono andato nel pomeriggio per leggere e lavorare, in assoluto il mio posto preferito.
 
-\#\#\# Playa de Las Canteras e la Cicer:<br>La Playa del las Canteras é la spiaggia principale di Las Palmas, situata nel lato ovest della citt&agrave;, di conseguenza la pi&ugrave; frequentata.
+##### Playa de Las Canteras e la Cicer
+
+La Playa del las Canteras é la spiaggia principale di Las Palmas, situata nel lato ovest della citt&agrave;, di conseguenza la pi&ugrave; frequentata.
 
 La sabbia é dorata (portata artificialmente) e nella parte centrale é possibile anche affittare dei lettini (€3 per un pomeriggio). &nbsp;
 
@@ -145,7 +177,9 @@ Pi&ugrave; a sud, vicino all’Auditorio Alfredo Kraus, si trova la Cicer, la sp
 
 &Eacute; caratterizzata da una sabbia di origine vulcanica di colore nera.
 
-\#\#\# Vegueta<br>&Eacute; la parte storica della citt&agrave;, situata a sud-est della citt&agrave;, in cui si respira ancora un po’ di aria colonialista d’un tempo.
+##### Vegueta
+
+&Eacute; la parte storica della citt&agrave;, situata a sud-est della citt&agrave;, in cui si respira ancora un po’ di aria colonialista d’un tempo.
 
 Si trovano diversi musei e punti culturali, come la cattedrale, la piazza di Sant’Anna, il museo Canario, il museo Perez Galdos, il teatro, la casa museo di Cristoforo Colombo e tanto altro.
 
@@ -153,7 +187,9 @@ Si trovano diversi musei e punti culturali, come la cattedrale, la piazza di San
 
 Posti da visitare sull’isola di Gran Canaria:
 
-\#\#\# Roque Nublo<br>Situato al centro dell’isola, é uno dei monumenti naturali pi&ugrave; significativi di Gran Canaria, al terzo posto per altitudine con i suoi 80m .
+##### Roque Nublo
+
+Situato al centro dell’isola, é uno dei monumenti naturali pi&ugrave; significativi di Gran Canaria, al terzo posto per altitudine con i suoi 80m .
 
 Siamo riusciti a raggiungerlo con la guagua in due orette di viaggio:
 
@@ -163,9 +199,11 @@ Appena arrivati c’&egrave; anche un piccolo bar/ristorante che si chiama Los P
 
 Super consigliati.
 
-Inoltre, la signora del posto é stata molto gentile nel mostrarci la via per raggiungere a piedi il Roque Nublo. Sono circa TOT ore di passeggiata in mezzo alla natura, &egrave; sicuramente un’esperienza da fare (é per tutti, non serve avere chiss&agrave; quale preparazione; durante la scarpinata abbiamo visto persone in infradito o con neonati in braccio andare su).&nbsp;
+Inoltre, la signora del posto é stata molto gentile nel mostrarci la via per raggiungere a piedi il Roque Nublo. Sono circa 3 ore di passeggiata in mezzo alla natura, &egrave; sicuramente un’esperienza da fare (é per tutti, non serve avere chiss&agrave; quale preparazione; durante la scarpinata abbiamo visto persone in infradito o con neonati in braccio andare su).&nbsp;
 
-\#\#\# Caldera de Bandama<br>La Caldera de Bandama &egrave; il risultato di una enorme esplosione avvenuta nel cono vulcanico Bandama circa 1975 anni fa (periodo desunto attraverso la datazione del carbone presente sotto la colata) nell’isola di Gran Canaria.
+##### Caldera de Bandama
+
+La Caldera de Bandama &egrave; il risultato di una enorme esplosione avvenuta nel cono vulcanico Bandama circa 1975 anni fa (periodo desunto attraverso la datazione del carbone presente sotto la colata) nell’isola di Gran Canaria.
 
 Raggiungibile anch’esso con la guagua, é possibile scendere all’interno della caldera, in cui &egrave; presente un piccolo casolare abbandonato.
 
@@ -173,7 +211,7 @@ Scarpinata molto pi&ugrave; faticosa rispetto al Roque Nublo, comunque fattibile
 
 Esperienza molto bella che offre panorami super suggestivi, ne consigliamo la visita.
 
-\#\#\# Cueva Pintada di G&aacute;ldar + Galdar
+##### Cueva Pintada di G&aacute;ldar + Galdar
 
 Molto vicino alla citt&agrave; di Las Palmas &egrave; possibile visitare il parco archeologico Cueva Pintada, nella citt&agrave; di Galdar.
 
@@ -181,29 +219,44 @@ Molto vicino alla citt&agrave; di Las Palmas &egrave; possibile visitare il parc
 
 Lo consigliamo solo se appassionati del genere, non ci ha particolarmente entusiasmato, comunque una bella testimonianza storica.
 
-\#\#\# Firgas<br>Raggiungibile in un’ora con la guagua, &egrave; un piccolo paese conosciuto per la produzione dell’omonima acqua minerale e per la caratteristica scalinata decorata che attraversa parte del paese, il Paseo de Canarias.
+##### Firgas
+
+Raggiungibile in un’ora con la guagua, &egrave; un piccolo paese conosciuto per la produzione dell’omonima acqua minerale e per la caratteristica scalinata decorata che attraversa parte del paese, il Paseo de Canarias.
 
 Se passate da quelle parti, consigliamo di pranzare al bar La Fuente, piccolo ristorante con piatti tipici dell’isola.&nbsp;
 
-\#\#\# Maspalomas
+##### Maspalomas
 
 Il posto pi&ugrave; a sud dell’isola e anche il punto pi&ugrave; turistico, &egrave; perfetto per prendere un po’ di sole e staccare un po’ la spina.
 
-&Eacute; raggiungibile anche con la guagua con due ore di viaggio, al costo di €TOT circa.
+&Eacute; raggiungibile anche con la guagua con due ore di viaggio, al costo di €15 circa.
 
 Impossibile andare a Maspalomas senza visitare le Dune, un piccolo deserto di 25 km&sup2; che regala un’esperienza unica, in particolare al tramonto.
 
 Per il resto é un classico posto di mare pieno di hotel e bungalow fatti per turisti inglesi, quindi non molto emozionante.
 
-\#\#\# Altro&nbsp;
+##### Altro&nbsp;
 
 Ci sono altri posti importanti da esplorare sull’isola di Gran Canaria che per&ograve; non abbiamo avuto modo di visitare neanche noi (alcuni di questi sono raggiungibili solo in macchina). Per questo motivo li riportiamo come una semplice lista:
 
-Pico de las Nieves (punto pi&ugrave; alto dell’isola, non raggiungibile con la guagua)<br>Mirador del balcon<br>Osservazione delle stelle a Roque Saucillo<br>Teror (di domenica c’&egrave; il mercato caratteristico)<br>Bufadero de la Garita<br>Arguinegu&iacute;n (marted&igrave;)<br>Barranco de Guayadeque<br>Fataga<br>Mogan Yellow Submarine<br>Tutte le viarie spiagge nella zona sud-ovest.
+* Pico de las Nieves (punto pi&ugrave; alto dell’isola, non raggiungibile con la guagua)
+* Mirador del balcon
+* Osservazione delle stelle a Roque Saucillo
+* Teror (di domenica c’&egrave; il mercato caratteristico)
+* Bufadero de la Garita
+* Arguinegu&iacute;n (marted&igrave;)
+* Barranco de Guayadeque
+* Fataga
+* Mogan Yellow Submarine
+* Tutte le viarie spiagge nella zona sud-ovest.
 
-\#\# Posti in cui mangiare<br>Toglierei questa sezione
+## Posti in cui mangiare
 
-\#\# Attivit&agrave; fisica<br>Andare a Las Palmas e non fare surf é come andare a Roma e non passare dal Colosseo.
+Ci sono tanti localini, a mangiare spesso fuori si spende tanto, quindi abbiamo preferito mangiare a casa.
+
+## Attivit&agrave; fisica
+
+Andare a Las Palmas e non fare surf é come andare a Roma e non passare dal Colosseo.
 
 Non essendo abituati a vivere in un posto in cui é possibile praticare questo sport, abbiamo perso il primo mese tra running e palestra, anche perché le lezioni ci sembravano troppo costose.
 
@@ -221,9 +274,11 @@ Per quanto riguarda le palestre, invece, ci sono opzioni per tutte le tasche.
 
 La nostra prima scelta era stata la Go Fit, che si trova proprio sul Paseo de las Cantera; purtroppo, per&ograve;, &egrave; necessario avere un conto spagnolo per iscriversi.
 
-Quindi abbiamo optato per la palestra all’interno del centro commerciale Las Arenas, al costo di TOT al mese.
+Quindi abbiamo optato per la palestra all’interno del centro commerciale Las Arenas, al costo di €30 al mese + €20 per fare la carta d'accesso.
 
-\#\# Dove fare la spesa<br>Scegliere dove fare la spesa &egrave; un’altra di quelle sfere molto soggettive.&nbsp;
+## Dove fare la spesa
+
+Scegliere dove fare la spesa &egrave; un’altra di quelle sfere molto soggettive.&nbsp;
 
 Inizialmente facevamo rifornimento di generi alimentari da Spar e Dino, che sono una sorta di discount molti diffusi ovunque sull’isola.
 
@@ -233,7 +288,9 @@ Alla fine abbiamo optato per il Carrefour presente all’interno del centro comm
 
 C’&egrave; praticamente tutto e i prezzi di molti prodotti sono comunque pi&ugrave; bassi rispetto all’equivalente in Italia.
 
-\#\# Fare amicizie offline e online<br>Hai presente l’idea di rilassatezza associata al vivere su un’isola? A Las Palmas la si pu&ograve; leggere sulla faccia delle persone che camminano sul Paseo Las Canteras.
+## Fare amicizie offline e online
+
+Hai presente l’idea di rilassatezza associata al vivere su un’isola? A Las Palmas la si pu&ograve; leggere sulla faccia delle persone che camminano sul Paseo Las Canteras.
 
 Almeno, la nostra sensazione era che tutte le persone che incrociavamo fossero in qualche modo in uno stato di spensieratezza.
 
@@ -247,7 +304,9 @@ Al sud abbiamo notato che sono presenti parecchie ragazze del nord Europa che si
 
 Il fatto che ci siano molti giovani viaggiatori implica una concorrenza parecchio agguerrita sulle app di dating, come Tinder e Bumble. Insomma, essere un nomade digitale che lavora e viaggia per il mondo, a Las Palmas, non &egrave; nulla di speciale.
 
-\#\# Conclusioni<br>Se ti piace uno stile di vita lento, rilassato, a contatto con la natura, Las Palmas &egrave; sicuramente un posto in cui ti piacer&agrave; vivere.
+## Conclusioni
+
+Se ti piace uno stile di vita lento, rilassato, a contatto con la natura, Las Palmas &egrave; sicuramente un posto in cui ti piacer&agrave; vivere.
 
 &Eacute; presente la parte di citt&agrave; fatta di palazzi e cemento, per&ograve;, solitamente chi ama pi&ugrave; la parte urbana ha anche necessit&agrave; di avere molti musei e eventi, cose che non sono cos&igrave; diffuse a Las Palmas. &Eacute; comunque un ottimo compromesso per chi non viaggia da solo ed &egrave; in un gruppo formato da amanti della vita lenta e amanti dell’urbano.&nbsp;
 
