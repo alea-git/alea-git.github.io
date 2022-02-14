@@ -127,6 +127,8 @@ Sul Paseo las Canteras, questo piccolo bar (gestito da italiani) &egrave; stato 
 
 Ha le prese, un buon wifi, prezzi normali e, soprattutto, una vista mare davvero molto bella, in particolare al tramonto. Probabilmente &egrave; il nostro preferito perché &egrave; l’unico posto in cui ci si sente davvero su un’isola, ogni volta provavamo un senso di gratitudine nel poter lavorare in remoto grazie a questo posto.&nbsp;
 
+<iframe src="https://player.vimeo.com/video/677381041?h=379a2d60e1" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 ##### Maripili
 
 Situato in Plaza del Pilar, questo bar é davvero un bel posto.
