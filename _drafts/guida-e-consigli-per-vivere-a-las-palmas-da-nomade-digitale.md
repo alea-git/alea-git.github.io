@@ -83,7 +83,7 @@ Il wifi é presente praticamente in tutti i bar, alcuni hanno anche la banda lar
 
 Il pullman, o guagua come viene chiamata a Las Palmas, é molto efficiente e puntale. Semplicemente utilizzando Google Maps siamo riusciti a raggiungere sia Maspalomas, a sud dell’isola, che il Roque Nublo, nell’entroterra.&nbsp;
 
-![](/uploads/alessandro-sulla-guagua.webp){: width="854" height="698"}
+![](/uploads/alessandro-sulla-guagua.webp){: width="654" height="498"}
 
 Il biglietto si compra direttamente dall’autista, in quelli urbani si paga solo in contanti, in quelli extraurbani si pu&ograve; utilizzare la carta di debito/credito.
 
@@ -101,7 +101,6 @@ Di conseguenza, difficilmente si patisce il caldo:
 
 per questo motivo Las Palmas risulta essere una delle citt&agrave; con i migliori climi al mondo, con 20 gradi di temperatura media durante tutto l’anno.
 
-![](/uploads/4116b4d1052640ecab2695f95d4a22fc.MOV){: width="512" height="1016"}
 
 Se invece si vuole godere di un sole pieno e di temperature pi&ugrave; alte, &egrave; sufficiente spostarsi di una cinquantina di chilometri a sud dell’isola, a Maspalomas.
 
