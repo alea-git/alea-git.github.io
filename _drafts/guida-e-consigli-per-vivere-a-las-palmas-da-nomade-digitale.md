@@ -17,6 +17,8 @@ Come prima destinazione abbiamo scelto Las Palmas de Gran Canaria *(d’ora in p
 
 Esattamente di fianco al Marocco, le Isole Canarie si trovano nell’Oceano Atlantico, a largo dell’Africa nord-occidentale.
 
+![](/uploads/schermata-2022-02-14-alle-15-03-57.png){: width="1716" height="1146"}
+
 Nonostante la posizione, &egrave; una comunit&agrave; autonoma della Spagna, dunque Unione Europea.
 
 Questo é il principale motivo per cui l’abbiamo scelta come prima destinazione:
@@ -40,6 +42,8 @@ Non sappiamo in zone pi&ugrave; urbane come sia la situazione, non avendola freq
 A proposito di Guanarteme, é sicuramente un quartiere che consigliamo per viverci:
 
 é vicino alle scuole da surf, a tutti i negozi pi&ugrave; grandi ed &egrave; ben servita dal trasporto pubblico.
+
+## MAPPA
 
 ## <br>Costo della vita e Airbnb
 
