@@ -101,7 +101,7 @@ Di conseguenza, difficilmente si patisce il caldo:
 
 per questo motivo Las Palmas risulta essere una delle citt&agrave; con i migliori climi al mondo, con 20 gradi di temperatura media durante tutto l’anno.
 
-<iframe src="https://player.vimeo.com/video/677352440?h=2328e468b7&muted=0" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/677352440?h=2328e468b7" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 Se invece si vuole godere di un sole pieno e di temperature pi&ugrave; alte, &egrave; sufficiente spostarsi di una cinquantina di chilometri a sud dell’isola, a Maspalomas.
 
