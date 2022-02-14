@@ -53,7 +53,7 @@ C’&egrave; un grandissimo risparmio per quanto riguarda i profumi e, in modo p
 
 Si pu&ograve; risparmiare un po' di pi&ugrave; sulla spesa di alimenti andando in catene come Despar o Dino, che sono i discount dell’isola e sono ovunque, per&ograve; abbiamo notato che é molto pi&ugrave; difficile continuare un’alimentazione simile a quella che &egrave; possibile fare in Italia perché tanti prodotti non si trovano. Al contrario, al Carrefour si trova qualsiasi cosa.
 
-![](/uploads/petto-di-pollo-dino-las-palmas.webp "Petto di pollo ad un prezzo decisamente più basso rispetto all'Italia"){: width="512" height="1016"}
+![](/uploads/petto-di-pollo-dino-las-palmas.webp "Petto di pollo ad un prezzo decisamente più basso rispetto all'Italia"){: width="320" height="569"}
 
 Per quanto riguarda i bar e i ristoranti, i prezzi sono quelli a cui siamo abituati in Italia.&nbsp;
 
@@ -137,7 +137,7 @@ Si nota subito l’attenzione ad ogni dettaglio, dai bicchieri alle finiture del
 
 Il wifi funziona bene, i prezzi sono nella media e sono presenti le prese di corrente.&nbsp;
 
-![](/uploads/maripili.webp){: width="3024" height="4032"}
+![](/uploads/maripili.webp){: width="320" height="569"}
 
 ##### The Block
 
@@ -145,7 +145,7 @@ Il bar dei surfisti, situato nella parte pi&ugrave; a sud del Paseo Las Canteras
 
 Proprio sopra la Cicer, la spiaggia del surf, questo locale ha solo posti all’aperto, dunque non sono presenti le prese elettriche. Questa mancanza viene ripagata dalla vista sull’Oceano Atlantico.
 
-![](/uploads/the-block.webp){: width="3024" height="4032"}
+![](/uploads/the-block.webp){: width="320" height="569"}
 
 ##### Roka Café
 
@@ -153,7 +153,7 @@ Non troppo lontano dal Paseo las Canteras, questo bar offre un buon ambiente in 
 
 Non é molto spazioso ma c’&egrave; tutto, prezzi nella media, prese elettriche e wifi. Inoltre i proprietari sono italiani.
 
-![](/uploads/roka.webp){: width="2160" height="3840"}
+![](/uploads/roka.webp){: width="320" height="569"}
 
 ## <br>Cosa visitare
 
