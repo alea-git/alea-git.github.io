@@ -43,7 +43,7 @@ A proposito di Guanarteme, é sicuramente un quartiere che consigliamo per viver
 
 é vicino alle scuole da surf, a tutti i negozi pi&ugrave; grandi ed &egrave; ben servita dal trasporto pubblico.
 
-## MAPPA
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-15.496992518892514%2C28.112574525528323%2C-15.386614253511654%2C28.166462708284296&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=14/28.1395/-15.4418">Visualizza mappa ingrandita</a></small>
 
 ## <br>Costo della vita e Airbnb
 
