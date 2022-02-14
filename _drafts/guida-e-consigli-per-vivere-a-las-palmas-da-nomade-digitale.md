@@ -121,7 +121,7 @@ Piccolo consiglio: prima di sederci in un locale per lavorare, solitamente chied
 
 > “tienes enchufe?”.&nbsp;
 
-##### The couple
+##### The Couple
 
 Sul Paseo las Canteras, questo piccolo bar (gestito da italiani) &egrave; stato il nostro posto preferito.
 
@@ -176,6 +176,8 @@ Situata a nella parte nord-ovest di Las Palmas, é uno dei posti naturali pi&ugr
 &Eacute; una spiaggia poco frequentata rispetto a Playa de Las Canteras e pi&ugrave; selvaggia, in cui ci si &nbsp;pu&ograve; anche fare running o rilassare sulle panche in legno davanti al fantastico tramonto.
 
 > Alessandro:&nbsp;<br>Pi&ugrave; volte sono andato nel pomeriggio per leggere e lavorare, in assoluto il mio posto preferito.
+
+<iframe src="https://player.vimeo.com/video/677388067?h=6ba11f3ced" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ##### Playa de Las Canteras e la Cicer
 
