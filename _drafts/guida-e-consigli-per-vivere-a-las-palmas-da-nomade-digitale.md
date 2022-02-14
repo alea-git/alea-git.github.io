@@ -53,7 +53,7 @@ C’&egrave; un grandissimo risparmio per quanto riguarda i profumi e, in modo p
 
 Si pu&ograve; risparmiare un po' di pi&ugrave; sulla spesa di alimenti andando in catene come Despar o Dino, che sono i discount dell’isola e sono ovunque, per&ograve; abbiamo notato che é molto pi&ugrave; difficile continuare un’alimentazione simile a quella che &egrave; possibile fare in Italia perché tanti prodotti non si trovano. Al contrario, al Carrefour si trova qualsiasi cosa.
 
-![](/uploads/petto-di-pollo-dino-las-palmas.webp "Petto di pollo ad un prezzo decisamente più basso rispetto all'Italia"){: width="1024" height="2032"}
+![](/uploads/petto-di-pollo-dino-las-palmas.webp "Petto di pollo ad un prezzo decisamente più basso rispetto all'Italia"){: width="512" height="1016"}
 
 Per quanto riguarda i bar e i ristoranti, i prezzi sono quelli a cui siamo abituati in Italia.&nbsp;
 
