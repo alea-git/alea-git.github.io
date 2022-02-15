@@ -372,6 +372,6 @@ Lavorare da remoto a Las Palmas é una goduria e vivere la natura dell’isola �
 
 In conclusione, per noi &egrave; stata un’esperienza fantastica, anche se, con gli stessi soldi spesi avremmo potuto vivere per il doppio del tempo in un paese meno frequentato.
 
-![](/uploads/team.webp){: width="4032" height="3024"}
+&nbsp;
 
-<br>&nbsp;
+![](/uploads/team-1.webp){: width="4032" height="3024"}<br>&nbsp;
