@@ -181,7 +181,7 @@ Situata a nella parte nord-ovest di Las Palmas, é uno dei posti naturali pi&ugr
 
 <iframe src="https://player.vimeo.com/video/677388067?h=6ba11f3ced" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
-*Video registrato il 9 novembre.*
+*Video registrato il 9 novembre 2021.*
 
 ##### Playa de Las Canteras e la Cicer
 
@@ -197,7 +197,7 @@ Pi&ugrave; a sud, vicino all’Auditorio Alfredo Kraus, si trova la Cicer, la sp
 
 <iframe src="https://player.vimeo.com/video/677794189?h=54939f42b5" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-*Video registrato il 9 novembre.*
+*Video registrato il 16 dicembre 2021.*
 
 ##### Vegueta
 
@@ -211,7 +211,7 @@ Posti da visitare sull’isola di Gran Canaria:
 
 <iframe src="https://player.vimeo.com/video/677801532?h=bf1a3aa829" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-*Video registrato il 9 novembre.*
+*Video registrato il 16 ottobre 2021.*
 
 ##### Roque Nublo
 
@@ -229,7 +229,7 @@ Inoltre, la signora del posto é stata molto gentile nel mostrarci la via per ra
 
 <iframe src="https://player.vimeo.com/video/677801402?h=cad4a9345e" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-*Video registrato il 9 novembre.*
+*Video registrato il 1 novembre 2021.*
 
 ##### Caldera de Bandama
 
@@ -243,7 +243,7 @@ Esperienza molto bella che offre panorami super suggestivi, ne consigliamo la vi
 
 <iframe src="https://player.vimeo.com/video/677801124?h=a23d5dc1b1" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-*Video registrato il 9 novembre.*
+*Video registrato il 8 novembre 2021.*
 
 ##### Cueva Pintada di G&aacute;ldar + Galdar
 
@@ -253,15 +253,19 @@ Molto vicino alla citt&agrave; di Las Palmas &egrave; possibile visitare il parc
 
 Lo consigliamo solo se appassionati del genere, non ci ha particolarmente entusiasmato, comunque una bella testimonianza storica.
 
+<iframe src="https://player.vimeo.com/video/677801016?h=93c1acb99a" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+*Video registrato il 30 novembre 2021.*
+
 ##### Firgas
 
 Raggiungibile in un’ora con la guagua, &egrave; un piccolo paese conosciuto per la produzione dell’omonima acqua minerale e per la caratteristica scalinata decorata che attraversa parte del paese, il Paseo de Canarias.
 
 Se passate da quelle parti, consigliamo di pranzare al bar La Fuente, piccolo ristorante con piatti tipici dell’isola.&nbsp;
 
-<iframe src="https://player.vimeo.com/video/677801016?h=93c1acb99a" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/677804414?h=c5726bb5b0" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-*Video registrato il 9 novembre.*
+*Video registrato il 6 dicembre 2021.*
 
 ##### Maspalomas
 
@@ -272,6 +276,10 @@ Il posto pi&ugrave; a sud dell’isola e anche il punto pi&ugrave; turistico, &e
 Impossibile andare a Maspalomas senza visitare le Dune, un piccolo deserto di 25 km&sup2; che regala un’esperienza unica, in particolare al tramonto.
 
 Per il resto é un classico posto di mare pieno di hotel e bungalow fatti per turisti inglesi, quindi non molto emozionante.
+
+<iframe src="https://player.vimeo.com/video/677804100?h=ccb943f45f" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+*Video registrato il 17 ottobre 2021.*
 
 ##### Altro&nbsp;
 
