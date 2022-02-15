@@ -1,7 +1,7 @@
 ---
 title: Guida e consigli per vivere a Las Palmas da nomade digitale
 date: 2021-12-19 08:00:00
-description: Dove lavorare, cosa fare e altri consigli per vivere da nomade digitale a Las Palmas, Gran Canaria.
+description: Dove lavorare, cosa fare e altri consigli utili per vivere da nomade digitale a Las Palmas, Gran Canaria.
 featured_image: /uploads/las-palmas-sunset.webp
 author: Alessandro Trezza; Gabriel Gatu
 ---
