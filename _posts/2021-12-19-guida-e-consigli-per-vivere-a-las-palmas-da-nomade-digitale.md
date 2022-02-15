@@ -35,7 +35,7 @@ Se hai intenzione di trasferirti a Las Palmas per lavorare da remoto, continua a
 
 Las Palmas é un posto sicuro. Almeno, questa è stata l’impressione che ci ha dato durante tutta la permanenza.
 
-La nostra casa si trovava a Guanarteme, vicino all’Auditorio Alfredo Kraus, quindi una zona tra l’hipster e il turistico, vicino allo spot più frequentato dai surfisti.
+La nostra casa si trovava a Guanarteme, vicino all’Auditorio Alfredo Kraus, una zona tra l’hipster e il turistico, vicino allo spot più frequentato dai surfisti.
 
 Non sappiamo in zone più urbane come sia la situazione, non avendola frequentata molto, comunque sia non ci siamo mai sentiti in pericolo, né di giorno in posti desolati né tantomeno di notte.
 
@@ -49,7 +49,7 @@ A proposito di Guanarteme, é sicuramente un quartiere che consigliamo per viver
 
 La vita a Las Palmas costa poco meno che in Italia.
 
-C’è un grandissimo risparmio per quanto riguarda i profumi e, in modo più contenuto, sull’elettronica (per via dell’IVA inferiore), però, per quanto riguarda la spesa di tutti i giorni, i prezzi sono grossomodo allineati con quelli italiani, soprattutto se sceglierete di andare al Carrefour come abbiamo fatto noi.
+C’è un grandissimo risparmio per quanto riguarda i profumi e, in modo più contenuto, sull’elettronica (per via dell’IVA inferiore), però, per quanto riguarda la spesa di tutti i giorni i prezzi sono grossomodo allineati con quelli italiani, soprattutto se sceglierai di andare al Carrefour come abbiamo fatto noi.
 
 Si può risparmiare un po' di più sulla spesa di alimenti andando in catene come Despar o Dino, che sono i discount dell’isola e sono ovunque, però abbiamo notato che é molto più difficile continuare un’alimentazione simile a quella che è possibile fare in Italia perché tanti prodotti non si trovano. Al contrario, al Carrefour si trova qualsiasi cosa.
 
@@ -113,7 +113,7 @@ Dato che abbiamo valutato di frequentarne uno, abbiamo investito un po’ di tem
 
 Comunque sia, nel caso ti interessasse, avremmo scelto senza dubbio The House o Talleres Palermo.
 
-Per quanto riguarda i locali, erano tutti più o meno nella zona est di Las Palmas, ovvero vicini al nostro Airbnb.
+Per quanto riguarda i locali, erano tutti più o meno nella zona ovest di Las Palmas, ovvero vicini al nostro Airbnb.
 
 Di seguito riportiamo quelli in cui ci siamo trovati meglio, tenendo conto dell’ambiente, della velocità/presenza del wifi e dei prezzi sul menù.
 
@@ -125,7 +125,7 @@ Piccolo consiglio: prima di sederci in un locale per lavorare, solitamente chied
 
 Sul Paseo las Canteras, questo piccolo bar (gestito da italiani) è stato il nostro posto preferito.
 
-Ha le prese, un buon wifi, prezzi normali e, soprattutto, una vista mare davvero molto bella, in particolare al tramonto. Probabilmente è il nostro preferito perché è l’unico posto in cui ci si sente davvero su un’isola, ogni volta provavamo un senso di gratitudine nel poter lavorare in remoto grazie a questo posto.
+Ha le prese, un buon wifi, prezzi normali e, soprattutto, una vista mare davvero molto bella, in particolare al tramonto. Probabilmente è il nostro preferito perché è l’unico in cui ci si sente davvero su un’isola, ogni volta provavamo un senso di gratitudine nel poter lavorare in remoto grazie a questo posto.
 
 <iframe src="https://player.vimeo.com/video/677381041?h=379a2d60e1" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
@@ -207,11 +207,12 @@ Si trovano diversi musei e punti culturali, come la cattedrale, la piazza di San
 
 É una zona da non perdere.
 
-Posti da visitare sull’isola di Gran Canaria:
-
 <iframe src="https://player.vimeo.com/video/677801532?h=bf1a3aa829" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
 *Video registrato il 16 ottobre 2021.*
+
+
+Posti da visitare sull’isola di Gran Canaria:
 
 ##### Roque Nublo
 
@@ -219,7 +220,7 @@ Situato al centro dell’isola, é uno dei monumenti naturali più significativi
 
 Siamo riusciti a raggiungerlo con la guagua in due orette di viaggio:
 
-É sufficiente impostare come destinazione La Culata su Google Maps e vedere gli orari del trasporto pubblico.
+é sufficiente impostare come destinazione La Culata su Google Maps e vedere gli orari del trasporto pubblico.
 
 Appena arrivati c’è anche un piccolo bar/ristorante che si chiama Los Pasitos in cui é possibile farsi fare dei panini caserecci.
 
@@ -296,10 +297,6 @@ Ci sono altri posti importanti da esplorare sull’isola di Gran Canaria che per
 * Mogan Yellow Submarine
 * Tutte le viarie spiagge nella zona sud-ovest.
 
-## Posti in cui mangiare
-
-Ci sono tanti localini, a mangiare spesso fuori si spende tanto, quindi abbiamo preferito mangiare a casa.
-
 ## Attività fisica
 
 Andare a Las Palmas e non fare surf é come andare a Roma e non passare dal Colosseo.
@@ -330,7 +327,7 @@ Il Paseo de las Canteras si estende a ovest con il Monumento el Atlante (che ter
 
 Per quanto riguarda le palestre, invece, ci sono opzioni per tutte le tasche.
 
-La nostra prima scelta era stata la Go Fit, che si trova proprio sul Paseo de las Cantera; purtroppo, però, è necessario avere un conto spagnolo per iscriversi.
+La nostra prima scelta era stata la Go Fit, che si trova proprio sul Paseo de las Canteras; purtroppo, però, è necessario avere un conto spagnolo per iscriversi.
 
 Quindi abbiamo optato per la palestra all’interno del centro commerciale Las Arenas, al costo di €30 al mese + €20 per fare la carta d'accesso.
 
@@ -344,7 +341,7 @@ Il problema era che non trovavamo tutto ciò che ci serviva, anche se i prezzi s
 
 Alla fine abbiamo optato per il Carrefour presente all’interno del centro commerciale Las Arenas:
 
-C’è praticamente tutto e i prezzi di molti prodotti sono comunque più bassi rispetto all’equivalente in Italia.
+c’è praticamente tutto e i prezzi di molti prodotti sono comunque più bassi rispetto all’equivalente in Italia.
 
 ## Fare amicizie offline e online
 
