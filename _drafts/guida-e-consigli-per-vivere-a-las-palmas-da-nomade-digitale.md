@@ -310,7 +310,7 @@ Poi abbiamo scoperto che é possibile sottoscrivere una membership mensile che p
 
 &Eacute; stata la svolta. Ovviamente &egrave; fattibile solo per periodi prolungati sull’isola.
 
-<iframe src="https://player.vimeo.com/video/677810355?h=21bce39c3b" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
+<iframe src="https://player.vimeo.com/video/677867677?h=c2b37415d2" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
 *Video registrato il 16 dicembre 2021.*
 
