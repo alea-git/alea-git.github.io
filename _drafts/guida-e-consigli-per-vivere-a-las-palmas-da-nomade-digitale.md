@@ -320,9 +320,13 @@ Se anche tu ami comunque correre, il Paseo de las Canteras é il posto perfetto 
 
 Se per te &egrave; un problema, fai prima a provare una volta a correre nell’orario a te pi&ugrave; comodo, male che vada ti fermer&agrave; la polizia chiedendoti di cambiare percorso (&egrave; cos&igrave; che l’abbiamo scoperto, non abbiamo trovato l’informazione da nessuna parte su internet).
 
+![](/uploads/running-las-palmas.webp){: width="957" height="957"}
+
+Il Paseo de las Canteras si estende a ovest con il Monumento el Atlante (che termina con l'inizio dell'autostrada) e a nord verso Playa de Confital (delimitata dalla zona militare). Tra andata e ritorno &egrave; facile crearsi un tragitto di 15km praticamente tutto tra la natura o, comunque, senza l'intralcio delle macchine.&nbsp;
+
 <iframe src="https://player.vimeo.com/video/677814115?h=779bb99fef" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
-*Video registrato il 12 ottobre 2021.*
+*Video registrato il 12 ottobre 2021 a Playa del Confital.*
 
 Per quanto riguarda le palestre, invece, ci sono opzioni per tutte le tasche.
 
