@@ -51,7 +51,7 @@ La vita a Las Palmas costa poco meno che in Italia.
 
 C’&egrave; un grandissimo risparmio per quanto riguarda i profumi e, in modo pi&ugrave; contenuto, sull’elettronica (per via dell’IVA inferiore), per&ograve;, per quanto riguarda la spesa di tutti i giorni i prezzi sono grossomodo allineati con quelli italiani, soprattutto se sceglierai di andare al Carrefour come abbiamo fatto noi.
 
-Si pu&ograve; risparmiare un po' di pi&ugrave; sulla spesa di alimenti andando in catene come Despar o Dino, che sono i discount dell’isola e sono ovunque, per&ograve; abbiamo notato che é molto pi&ugrave; difficile continuare un’alimentazione simile a quella che &egrave; possibile fare in Italia perché tanti prodotti non si trovano. Al contrario, al Carrefour si trova qualsiasi cosa.
+Si pu&ograve; risparmiare un po' di pi&ugrave; sulla spesa di alimenti andando in catene come Spar o Dino, che sono i discount dell’isola e sono ovunque, per&ograve; abbiamo notato che é molto pi&ugrave; difficile continuare un’alimentazione simile a quella che &egrave; possibile fare in Italia perché tanti prodotti non si trovano. Al contrario, al Carrefour si trova qualsiasi cosa.
 
 ![](/uploads/petto-di-pollo-dino-las-palmas.webp "Petto di pollo ad un prezzo decisamente più basso rispetto all'Italia"){: width="320" height="569"}
 
