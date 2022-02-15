@@ -310,11 +310,19 @@ Poi abbiamo scoperto che é possibile sottoscrivere una membership mensile che p
 
 &Eacute; stata la svolta. Ovviamente &egrave; fattibile solo per periodi prolungati sull’isola.
 
+<iframe src="https://player.vimeo.com/video/677810355?h=21bce39c3b" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
+
+*Video registrato il 16 dicembre 2021.*
+
 La scuola scelta da noi é stata la Buen Surf, che consigliamo. Super disponibili e lezioni di gruppo non troppo affollate.
 
 Se anche tu ami comunque correre, il Paseo de las Canteras é il posto perfetto per le tue sessioni. L’unico problema &egrave; che, almeno per il periodo di nostra permanenza, non &egrave; permesso correre dalle 8 del mattino sino alle 10 di sera (credo per restrizioni Covid).&nbsp;
 
 Se per te &egrave; un problema, fai prima a provare una volta a correre nell’orario a te pi&ugrave; comodo, male che vada ti fermer&agrave; la polizia chiedendoti di cambiare percorso (&egrave; cos&igrave; che l’abbiamo scoperto, non abbiamo trovato l’informazione da nessuna parte su internet).
+
+<iframe src="https://player.vimeo.com/video/677814115?h=779bb99fef" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
+
+*Video registrato il 12 ottobre 2021.*
 
 Per quanto riguarda le palestre, invece, ci sono opzioni per tutte le tasche.
 
