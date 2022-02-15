@@ -103,7 +103,7 @@ per questo motivo Las Palmas risulta essere una delle citt&agrave; con i miglior
 
 <iframe src="https://player.vimeo.com/video/677352440?h=2328e468b7" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
-*Video registrato il 23 ottobre.*
+*Video registrato il 23 ottobre 2021.*
 
 Se invece si vuole godere di un sole pieno e di temperature pi&ugrave; alte, &egrave; sufficiente spostarsi di una cinquantina di chilometri a sud dell’isola, a Maspalomas.
 
@@ -195,7 +195,7 @@ Pi&ugrave; a sud, vicino all’Auditorio Alfredo Kraus, si trova la Cicer, la sp
 
 &Eacute; caratterizzata da una sabbia di origine vulcanica di colore nera.
 
-<iframe src="https://player.vimeo.com/video/677794189?h=54939f42b5" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/677794189?h=54939f42b5" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
 *Video registrato il 16 dicembre 2021.*
 
@@ -209,7 +209,7 @@ Si trovano diversi musei e punti culturali, come la cattedrale, la piazza di San
 
 Posti da visitare sull’isola di Gran Canaria:
 
-<iframe src="https://player.vimeo.com/video/677801532?h=bf1a3aa829" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/677801532?h=bf1a3aa829" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
 *Video registrato il 16 ottobre 2021.*
 
@@ -227,7 +227,7 @@ Super consigliati.
 
 Inoltre, la signora del posto é stata molto gentile nel mostrarci la via per raggiungere a piedi il Roque Nublo. Sono circa 3 ore di passeggiata in mezzo alla natura, &egrave; sicuramente un’esperienza da fare (é per tutti, non serve avere chiss&agrave; quale preparazione; durante la scarpinata abbiamo visto persone in infradito o con neonati in braccio andare su).&nbsp;
 
-<iframe src="https://player.vimeo.com/video/677801402?h=cad4a9345e" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/677801402?h=cad4a9345e" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
 *Video registrato il 1 novembre 2021.*
 
@@ -241,7 +241,7 @@ Scarpinata molto pi&ugrave; faticosa rispetto al Roque Nublo, comunque fattibile
 
 Esperienza molto bella che offre panorami super suggestivi, ne consigliamo la visita.
 
-<iframe src="https://player.vimeo.com/video/677801124?h=a23d5dc1b1" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/677801124?h=a23d5dc1b1" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
 *Video registrato il 8 novembre 2021.*
 
@@ -253,7 +253,7 @@ Molto vicino alla citt&agrave; di Las Palmas &egrave; possibile visitare il parc
 
 Lo consigliamo solo se appassionati del genere, non ci ha particolarmente entusiasmato, comunque una bella testimonianza storica.
 
-<iframe src="https://player.vimeo.com/video/677801016?h=93c1acb99a" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/677801016?h=93c1acb99a" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
 *Video registrato il 30 novembre 2021.*
 
@@ -263,7 +263,7 @@ Raggiungibile in un’ora con la guagua, &egrave; un piccolo paese conosciuto pe
 
 Se passate da quelle parti, consigliamo di pranzare al bar La Fuente, piccolo ristorante con piatti tipici dell’isola.&nbsp;
 
-<iframe src="https://player.vimeo.com/video/677804414?h=c5726bb5b0" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/677804414?h=c5726bb5b0" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
 *Video registrato il 6 dicembre 2021.*
 
@@ -277,7 +277,7 @@ Impossibile andare a Maspalomas senza visitare le Dune, un piccolo deserto di 25
 
 Per il resto é un classico posto di mare pieno di hotel e bungalow fatti per turisti inglesi, quindi non molto emozionante.
 
-<iframe src="https://player.vimeo.com/video/677804100?h=ccb943f45f" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/677804100?h=ccb943f45f" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
 *Video registrato il 17 ottobre 2021.*
 
