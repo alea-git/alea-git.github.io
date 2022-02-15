@@ -101,7 +101,7 @@ per questo motivo Las Palmas risulta essere una delle citt&agrave; con i miglior
 
 <iframe src="https://player.vimeo.com/video/677352440?h=2328e468b7" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
-*Video registrato il 23 ottobre 2021.*
+*Video registrato il 23 ottobre 2021 dal Mirador Norte de Las Coloradas*
 
 Se invece si vuole godere di un sole pieno e di temperature pi&ugrave; alte, &egrave; sufficiente spostarsi di una cinquantina di chilometri a sud dell’isola, a Maspalomas.
 
@@ -128,6 +128,8 @@ Sul Paseo las Canteras, questo piccolo bar (gestito da italiani) &egrave; stato 
 Ha le prese, un buon wifi, prezzi normali e, soprattutto, una vista mare davvero molto bella, in particolare al tramonto. Probabilmente &egrave; il nostro preferito perché &egrave; l’unico posto in cui ci si sente davvero su un’isola, ogni volta provavamo un senso di gratitudine nel poter lavorare in remoto grazie a questo posto.&nbsp;
 
 <iframe src="https://player.vimeo.com/video/677381041?h=379a2d60e1" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
+
+*Video registrato il 2 dicembre 2021.*
 
 ##### Maripili
 
@@ -241,7 +243,7 @@ Esperienza molto bella che offre panorami super suggestivi, ne consigliamo la vi
 
 <iframe src="https://player.vimeo.com/video/677801124?h=a23d5dc1b1" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
-*Video registrato il 8 novembre 2021.*
+*Video registrato l'8 novembre 2021.*
 
 ##### Cueva Pintada di G&aacute;ldar + Galdar
 
