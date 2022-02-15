@@ -103,6 +103,8 @@ per questo motivo Las Palmas risulta essere una delle citt&agrave; con i miglior
 
 <iframe src="https://player.vimeo.com/video/677352440?h=2328e468b7" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
+*Video registrato il 23 ottobre.*
+
 Se invece si vuole godere di un sole pieno e di temperature pi&ugrave; alte, &egrave; sufficiente spostarsi di una cinquantina di chilometri a sud dell’isola, a Maspalomas.
 
 ## Posti un cui lavorare
@@ -177,7 +179,9 @@ Situata a nella parte nord-ovest di Las Palmas, é uno dei posti naturali pi&ugr
 
 > Alessandro:&nbsp;<br>Pi&ugrave; volte sono andato nel pomeriggio per leggere e lavorare, in assoluto il mio posto preferito.
 
-<iframe src="https://player.vimeo.com/video/677388067?h=6ba11f3ced" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/677388067?h=6ba11f3ced" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
+
+*Video registrato il 9 novembre.*
 
 ##### Playa de Las Canteras e la Cicer
 
