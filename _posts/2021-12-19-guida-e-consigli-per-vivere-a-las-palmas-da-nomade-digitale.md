@@ -105,7 +105,7 @@ per questo motivo Las Palmas risulta essere una delle citt&agrave; con i miglior
 
 Se invece si vuole godere di un sole pieno e di temperature pi&ugrave; alte, &egrave; sufficiente spostarsi di una cinquantina di chilometri a sud dell’isola, a Maspalomas.
 
-## Posti un cui lavorare
+## Posti in cui lavorare
 
 Sono presenti diversi co-working a Las Palmas e alcuni di questi sono anche molto belli.
 
