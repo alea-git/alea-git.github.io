@@ -195,6 +195,10 @@ Pi&ugrave; a sud, vicino all’Auditorio Alfredo Kraus, si trova la Cicer, la sp
 
 &Eacute; caratterizzata da una sabbia di origine vulcanica di colore nera.
 
+<iframe src="https://player.vimeo.com/video/677794189?h=54939f42b5" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+*Video registrato il 9 novembre.*
+
 ##### Vegueta
 
 &Eacute; la parte storica della citt&agrave;, situata a sud-est della citt&agrave;, in cui si respira ancora un po’ di aria colonialista d’un tempo.
@@ -204,6 +208,10 @@ Si trovano diversi musei e punti culturali, come la cattedrale, la piazza di San
 &Eacute; una zona da non perdere.
 
 Posti da visitare sull’isola di Gran Canaria:
+
+<iframe src="https://player.vimeo.com/video/677801532?h=bf1a3aa829" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+*Video registrato il 9 novembre.*
 
 ##### Roque Nublo
 
@@ -219,6 +227,10 @@ Super consigliati.
 
 Inoltre, la signora del posto é stata molto gentile nel mostrarci la via per raggiungere a piedi il Roque Nublo. Sono circa 3 ore di passeggiata in mezzo alla natura, &egrave; sicuramente un’esperienza da fare (é per tutti, non serve avere chiss&agrave; quale preparazione; durante la scarpinata abbiamo visto persone in infradito o con neonati in braccio andare su).&nbsp;
 
+<iframe src="https://player.vimeo.com/video/677801402?h=cad4a9345e" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+*Video registrato il 9 novembre.*
+
 ##### Caldera de Bandama
 
 La Caldera de Bandama &egrave; il risultato di una enorme esplosione avvenuta nel cono vulcanico Bandama circa 1975 anni fa (periodo desunto attraverso la datazione del carbone presente sotto la colata) nell’isola di Gran Canaria.
@@ -228,6 +240,10 @@ Raggiungibile anch’esso con la guagua, é possibile scendere all’interno del
 Scarpinata molto pi&ugrave; faticosa rispetto al Roque Nublo, comunque fattibile per tutti.
 
 Esperienza molto bella che offre panorami super suggestivi, ne consigliamo la visita.
+
+<iframe src="https://player.vimeo.com/video/677801124?h=a23d5dc1b1" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+*Video registrato il 9 novembre.*
 
 ##### Cueva Pintada di G&aacute;ldar + Galdar
 
@@ -242,6 +258,10 @@ Lo consigliamo solo se appassionati del genere, non ci ha particolarmente entusi
 Raggiungibile in un’ora con la guagua, &egrave; un piccolo paese conosciuto per la produzione dell’omonima acqua minerale e per la caratteristica scalinata decorata che attraversa parte del paese, il Paseo de Canarias.
 
 Se passate da quelle parti, consigliamo di pranzare al bar La Fuente, piccolo ristorante con piatti tipici dell’isola.&nbsp;
+
+<iframe src="https://player.vimeo.com/video/677801016?h=93c1acb99a" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+*Video registrato il 9 novembre.*
 
 ##### Maspalomas
 
