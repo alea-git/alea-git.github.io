@@ -61,3 +61,9 @@ The needs of Profession AI, together with those of Fudeo, allowed us **to develo
 We know we're moving in a crowded sector, but we strongly believe there's a lot of room for movement, given the dissatisfaction of many teachers with the current offering.
 
 If you are interesting in learning more why we think so, we're intentioned to write more about it in our blog.
+
+***(updated January 2022):***
+
+So much has happened that we haven't had time to update this page.&nbsp;<br>As soon as we can, we'll chronicle all the changes that have happened over the past few months.
+
+Moving on, we are super focused on this service.
