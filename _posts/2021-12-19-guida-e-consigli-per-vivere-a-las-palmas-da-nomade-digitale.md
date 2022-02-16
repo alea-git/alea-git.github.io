@@ -314,7 +314,7 @@ Poi abbiamo scoperto che **é possibile sottoscrivere una membership mensile** c
 
 La scuola scelta da noi é stata la Buen Surf, che consigliamo. Super disponibili e lezioni di gruppo non troppo affollate.
 
-Se anche tu ami comunque correre, il Paseo de las Canteras é il posto perfetto per le tue sessioni. L’unico problema &egrave; che, almeno per il periodo di nostra permanenza, non &egrave; permesso correre dalle 8 del mattino sino alle 10 di sera (credo per restrizioni Covid).
+**Se anche tu ami comunque correre**, il Paseo de las Canteras é il posto perfetto per le tue sessioni. L’unico problema &egrave; che, almeno per il periodo di nostra permanenza, non &egrave; permesso correre dalle 8 del mattino sino alle 10 di sera (credo per restrizioni Covid).
 
 Se per te &egrave; un problema, fai prima a provare una volta a correre nell’orario a te pi&ugrave; comodo, male che vada ti fermer&agrave; la polizia chiedendoti di cambiare percorso (&egrave; cos&igrave; che l’abbiamo scoperto, non abbiamo trovato l’informazione da nessuna parte su internet).
 
@@ -326,7 +326,7 @@ Il Paseo de las Canteras si estende a ovest con il Monumento el Atlante (che ter
 
 *Video registrato il 12 ottobre 2021 a Playa del Confital.*
 
-Per quanto riguarda le palestre, invece, ci sono opzioni per tutte le tasche.
+**Per quanto riguarda le palestre**, invece, ci sono opzioni per tutte le tasche.
 
 La nostra prima scelta era stata la Go Fit, che si trova proprio sul Paseo de las Canteras; purtroppo, per&ograve;, &egrave; necessario avere un conto spagnolo per iscriversi.
 
