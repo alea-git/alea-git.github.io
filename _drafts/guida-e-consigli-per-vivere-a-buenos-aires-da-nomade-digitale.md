@@ -204,19 +204,77 @@ Bus, metro, Cabify, Uber, taxi, bici, monopattini,&nbsp;
 
 Nome: Padre Coffee Roasters<br>Velocit&agrave; Internet: PING 14 ms, Download 93.38 Mbps, Upload 28.29 Mbps.<br>Enchufe:<br>Prezzi: Espresso 150, T&egrave; 350, Coca Zero 200<br>Particolarit&agrave;:
 
-Nome:&nbsp;<br>Velocit&agrave; Internet: PING 10 ms, Download 10 Mbps, Upload 28 Mbps.<br>Enchufe:&nbsp;<br>Prezzi:&nbsp;<br>Particolarit&agrave;:
+&nbsp;
+
+Nome: Terra<br>Velocit&agrave; Internet: PING X ms, Download X Mbps, Upload X Mbps.<br>Enchufe:&nbsp;<br>Prezzi:&nbsp;<br>Particolarit&agrave;:
+
+Nome:&nbsp;<br>Velocit&agrave; Internet: PING X ms, Download X Mbps, Upload X Mbps.<br>Enchufe:&nbsp;<br>Prezzi:&nbsp;<br>Particolarit&agrave;:
 
 ## Cosa visitare
+
+##### &nbsp;
+
+##### La Viruta Club Tango
+
+&nbsp;
+
+##### Bosque de Palermo
+
+&nbsp;
 
 ## <br>Posti in cui mangiare
 
 Fare un pranzo o una cena fuori &egrave; molto economico.
 
-Chui
+##### Chu&igrave;
+
+&nbsp;
+
+##### Artemisia
+
+&nbsp;
+
+##### Club la Milanesa
+
+&nbsp;
+
+##### Bellagamba Bodeg&ograve;n&nbsp;
+
+##### &nbsp;
+
+##### Burger Joint
+
+&nbsp;
+
+##### Encuentro Nativo
+
+&nbsp;
 
 ## <br>Attivit&agrave; fisica
 
+##### &nbsp;
+
+##### Running in Buenos Aires
+
+&nbsp;
+
+##### Palestre di Buenos Aires
+
+&nbsp;
+
+##### Tango a Buenos Aires
+
 ## <br>Dove fare la spesa
+
+##### D&igrave;a
+
+&nbsp;
+
+##### Cotu&nbsp;
+
+&nbsp;
+
+##### Carrefour
 
 ## <br>Fare amicizie offline e online
 
