@@ -41,13 +41,42 @@ Quindi, iniziamo ad approfondire gli aspetti pi&ugrave; importanti da sapere se 
 
 ## <br>Sicurezza e dove vivere
 
-Appena si cercano informazioni sulla sicurezza di Buenos Aires, due aspetti sono comuni:<br>\-non uscire dal limite segnato dalla Ruta Nationl A001 e Rio Matanza-Riachuelo, ovvero l’autostrada e il fiume che segnano il confine tra Buenos Aires e la provincia;<br>\-non vestirsi in modo troppo appariscente, soprattutto indossando accessori costosi.
+Appena si cercano informazioni sulla sicurezza di Buenos Aires, che sia su internet o da persone che ci sono state, abbiamo notato due consigli in particolare erano spesso in comune:
+
+* non uscire dal limite segnato dalla Ruta Nationl A001 e Rio Matanza-Riachuelo, ovvero l’autostrada e il fiume che segnano il confine tra Buenos Aires e la provincia;
+* non vestirsi in modo troppo appariscente, soprattutto indossando accessori costosi.
 
 Per quanto riguarda la nostra esperienza personale
 
 Scegliere in quale quartiere vivere dipende anche dal tipo di permanenza che si desidera.
 
-Parlemo é&nbsp;
+##### Palermo (Soho)
+
+La maggior parte della nostra permanenza l'abbiamo trascorsa in un Airbnb in Palermo Soho.
+
+##### Recoleta
+
+&nbsp;
+
+##### Monserrat
+
+&nbsp;
+
+##### Puerto Madero
+
+&nbsp;
+
+##### San Telmo
+
+&nbsp;
+
+##### Boca
+
+&nbsp;
+
+##### Belgrano
+
+&nbsp;
 
 ## Costo della vita e Airbnb
 
