@@ -54,6 +54,10 @@ Scegliere in quale quartiere vivere dipende anche dal tipo di permanenza che si 
 
 La maggior parte della nostra permanenza l'abbiamo trascorsa in un Airbnb in Palermo Soho.
 
+##### Villa Crespo
+
+&nbsp;
+
 ##### Recoleta
 
 &nbsp;
@@ -205,6 +209,10 @@ Nome:&nbsp;<br>Velocit&agrave; Internet: PING 10 ms, Download 10 Mbps, Upload 28
 ## Cosa visitare
 
 ## <br>Posti in cui mangiare
+
+Fare un pranzo o una cena fuori &egrave; molto economico.
+
+Chui
 
 ## <br>Attivit&agrave; fisica
 
