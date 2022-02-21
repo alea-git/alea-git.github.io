@@ -39,6 +39,8 @@ Quindi, iniziamo ad approfondire gli aspetti pi&ugrave; importanti da sapere se 
 
 ## Assicurazione sanitaria&nbsp;
 
+&nbsp;
+
 ## <br>Sicurezza e dove vivere
 
 Appena si cercano informazioni sulla sicurezza di Buenos Aires, che sia su internet o da persone che ci sono state, abbiamo notato due consigli in particolare erano spesso in comune:
