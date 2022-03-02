@@ -39,7 +39,23 @@ Quindi, iniziamo ad approfondire gli aspetti pi&ugrave; importanti da sapere se 
 
 ## Assicurazione sanitaria&nbsp;
 
-&nbsp;
+Non sappiamo se l'assicurazione sanitaria é sempre stata necessaria per accedere in Argentina e se in questo momento esatto in cui stai leggendo questo articolo é ancora richiesto; il 14 gennaio 2022 era un requisito obbligatorio e pensiamo abbia senso condividere le nostre scelte, dato che questo passaggio ci ha fatto perdere parecchio tempo.
+
+In particolare, la richiesta era di un'assicurazione sanitaria con copertura contro il Covid-19. In ogni caso il consiglio é di controllare sempre la pagina ufficiale del Ministero degli Affari Esteri, che [linkiamo qui](https://www.viaggiaresicuri.it/country/ARG){: target="_blank" rel="noopener"}.
+
+*Ma andiamo subito al sodo.*
+
+Abbiamo optato per due assicurazioni mediche, XME Protezione della banca Intesa San Paolo e l'assicurazione specifica per nomadi digitali di Safety Wing.
+
+In realt&agrave; sarebbe stata sufficiente anche solo la prima, peccato che, a una settimana dalla partenza non avevamo ancora stipulato nessun contratto e quella di Intesa ha un periodo di decorrenza di 30 giorni, dunque saremmo stati scoperti.
+
+Abbiamo chiesto un preventivo alle maggiori compagnie assicurative e tutte quante erano allineate con prezzi intorno ai €500/annui, spesso con limiti sui giorni di permanenza accettati in uno stesso stato.
+
+XME Protezione Salute, con l'aggiunta del modulo che protegge i nostri device dai furti, ci costa €19 al mese.&nbsp;
+
+Safety Wing, forse l'assicurazione pi&ugrave; utilizzata dai nomadi digitali di tutto il mondo, costa $42 al mese, circa €.
+
+Ad essere sinceri, i controlli in dogana sono stati una pura formalit&agrave;; d'altronde i fogli di Intesa erano scritti in italiano e, per quanto tempo passassero a sfogliarli, non penso abbiano capito tutti i massimali previsti. Comunque é importante essere coperti da un'assicurazione sanitaria dato che i migliori ospedali argentini sono, ovviamente, privati.
 
 ## <br>Sicurezza e dove vivere
 
@@ -52,7 +68,7 @@ Per quanto riguarda la nostra esperienza personale
 
 Scegliere in quale quartiere vivere dipende anche dal tipo di permanenza che si desidera.
 
-##### Palermo (Soho)
+##### Palermo
 
 La maggior parte della nostra permanenza l'abbiamo trascorsa in un Airbnb in Palermo Soho.
 
@@ -96,7 +112,9 @@ Questo &egrave; possibile per via della forte inflazione, un problema molto grav
 
 Approfondiremo il cambio della moneta e come farlo nel prossimo paragrafo.
 
-Il nostro airbnb &egrave; costato intorno ai €1000 al mese; da considerare, per&ograve;, che era una casa con due camere da letto, due bagni, accessoriata di tutto e situata in Palermo Soho, uno dei migliori quartieri.
+Il nostro primo Airbnb &egrave; costato intorno ai €1000 al mese; da considerare, per&ograve;, che era una casa con due camere da letto, due bagni, accessoriata di tutto e situata in Palermo Soho, uno dei migliori quartieri.
+
+La seconda
 
 ## Moneta locale
 
@@ -196,9 +214,13 @@ Difficilmente abbiamo avuto problemi di connessione.
 
 &Eacute; presente la banda larga a Buenos Aires, quindi sia gli Airbnb che i locali potrebbero offrire sia la rete a 2.4 GHz che a 5.8 GHz.
 
+#### Kit di benvenuto per nomadi digitali
+
+https://baglobal.buenosaires.gob.ar/nomades-digitales
+
 ## Trasporti a Buenos Aires
 
-Bus, metro, Cabify, Uber, taxi, bici, monopattini,&nbsp;
+Bus, metro, Cabify, Uber, DiDi, taxi, bici, monopattini,&nbsp;
 
 ## <br>Clima
 
@@ -206,7 +228,7 @@ Bus, metro, Cabify, Uber, taxi, bici, monopattini,&nbsp;
 
 Nome: Padre Coffee Roasters<br>Velocit&agrave; Internet: PING 14 ms, Download 93.38 Mbps, Upload 28.29 Mbps.<br>Enchufe:<br>Prezzi: Espresso 150, T&egrave; 350, Coca Zero 200<br>Particolarit&agrave;:
 
-&nbsp;
+Nome: Mercato Soho<br>Velocit&agrave; Internet: PING X ms, Download X Mbps, Upload X Mbps.<br>Enchufe:&nbsp;<br>Prezzi:&nbsp;<br>Particolarit&agrave;:
 
 Nome: Terra<br>Velocit&agrave; Internet: PING X ms, Download X Mbps, Upload X Mbps.<br>Enchufe:&nbsp;<br>Prezzi:&nbsp;<br>Particolarit&agrave;:
 
@@ -227,6 +249,32 @@ Nome:&nbsp;<br>Velocit&agrave; Internet: PING X ms, Download X Mbps, Upload X Mb
 ## <br>Posti in cui mangiare
 
 Fare un pranzo o una cena fuori &egrave; molto economico.
+
+##### &nbsp;
+
+#### Street Food a Buenos Aires
+
+&nbsp;
+
+#### Rooftop e aperitivi a Buenos Aires
+
+&nbsp;
+
+##### Alvear Roof Bar
+
+&nbsp;
+
+##### Mercato Soho
+
+#### &nbsp;
+
+#### Pizzerie a Buenos Aires
+
+&nbsp;
+
+#### Ristoranti a Buenos Aires
+
+##### &nbsp;
 
 ##### Chu&igrave;
 
@@ -251,6 +299,16 @@ Fare un pranzo o una cena fuori &egrave; molto economico.
 ##### Encuentro Nativo
 
 &nbsp;
+
+#### Gelaterie a Buenos Aires
+
+## &nbsp;
+
+##### Rapa Nui
+
+&nbsp;
+
+##### Vegan Creamery by Haulani
 
 ## <br>Attivit&agrave; fisica
 
@@ -277,6 +335,14 @@ Fare un pranzo o una cena fuori &egrave; molto economico.
 &nbsp;
 
 ##### Carrefour
+
+&nbsp;
+
+##### Disco
+
+&nbsp;
+
+##### Jumbo
 
 ## <br>Fare amicizie offline e online
 
