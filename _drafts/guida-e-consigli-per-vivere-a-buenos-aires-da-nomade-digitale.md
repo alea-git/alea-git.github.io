@@ -51,7 +51,9 @@ In realt&agrave; sarebbe stata sufficiente anche solo la prima, peccato che, a u
 
 Abbiamo chiesto un preventivo alle maggiori compagnie assicurative e tutte quante erano allineate con prezzi intorno ai €500/annui, spesso con limiti sui giorni di permanenza accettati in uno stesso stato.
 
-XME Protezione Salute, con l'aggiunta del modulo che protegge i nostri device dai furti, ci costa €19 al mese.&nbsp;
+XME Protezione Salute, con l'aggiunta del modulo che protegge i nostri device dai furti, ci costa €19,07 al mese.&nbsp;
+
+*Ovviamente il premio da pagare varia in base a dei parametri personali, quali lavoro e storico sanitario.*
 
 Safety Wing, forse l'assicurazione pi&ugrave; utilizzata dai nomadi digitali di tutto il mondo, costa $42 al mese, circa €.
 
@@ -227,6 +229,8 @@ Bus, metro, Cabify, Uber, DiDi, taxi, bici, monopattini,&nbsp;
 ## <br>Posti un cui lavorare
 
 Nome: Padre Coffee Roasters<br>Velocit&agrave; Internet: PING 14 ms, Download 93.38 Mbps, Upload 28.29 Mbps.<br>Enchufe:<br>Prezzi: Espresso 150, T&egrave; 350, Coca Zero 200<br>Particolarit&agrave;:
+
+Nome: Paris Crepas (Gurruchaga)<br>Velocit&agrave; Internet: PING 18 ms, Download 315.92 Mbps, Upload 27,77 Mbps.<br>Enchufe: S&igrave;<br>Prezzi:&nbsp;<br>Particolarit&agrave;:
 
 Nome: Mercato Soho<br>Velocit&agrave; Internet: PING X ms, Download X Mbps, Upload X Mbps.<br>Enchufe:&nbsp;<br>Prezzi:&nbsp;<br>Particolarit&agrave;:
 
