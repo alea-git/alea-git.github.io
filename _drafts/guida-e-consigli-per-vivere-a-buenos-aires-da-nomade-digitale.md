@@ -236,7 +236,9 @@ https://baglobal.buenosaires.gob.ar/nomades-digitales
 
 Bus, metro, Cabify, Uber, DiDi, taxi, bici, monopattini,&nbsp;
 
-Abbiamo passato il primo mese e mezzo spostandoci solamente con Uber e Cabify, le due app pi&ugrave; famose per
+Abbiamo passato il primo mese e mezzo spostandoci solamente con Uber e Cabify, le due app pi&ugrave; famose di ridesharing.
+
+&nbsp;
 
 ## <br>Clima
 
