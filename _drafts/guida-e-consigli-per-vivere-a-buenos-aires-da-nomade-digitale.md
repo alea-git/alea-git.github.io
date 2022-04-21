@@ -55,13 +55,13 @@ XME Protezione Salute, con l'aggiunta del modulo che protegge i nostri device da
 
 *Ovviamente il premio da pagare varia in base a dei parametri personali, quali lavoro e storico sanitario.*
 
-Safety Wing, forse l'assicurazione pi&ugrave; utilizzata dai nomadi digitali di tutto il mondo, costa $42 al mese, circa €.
+Safety Wing, forse l'assicurazione pi&ugrave; utilizzata dai nomadi digitali di tutto il mondo, costa $42 al mese.
 
-Ad essere sinceri, i controlli in dogana sono stati una pura formalit&agrave;; d'altronde i fogli di Intesa erano scritti in italiano e, per quanto tempo passassero a sfogliarli, non penso abbiano capito tutti i massimali previsti. Comunque é importante essere coperti da un'assicurazione sanitaria dato che i migliori ospedali argentini sono, ovviamente, privati.
+Ad essere sinceri, i controlli in dogana sono stati una pura formalit&agrave;; d'altronde i fogli di Intesa erano scritti in italiano e, per quanto tempo passassero a sfogliarli, non penso abbiano capito tutti i massimali previsti. Comunque é importante essere coperti da un'assicurazione sanitaria dato che i migliori ospedali argentini sono privati.
 
 ## <br>Sicurezza e dove vivere
 
-Appena si cercano informazioni sulla sicurezza di Buenos Aires, che sia su internet o da persone che ci sono state, abbiamo notato due consigli in particolare erano spesso in comune:
+Appena si inizia a cercare informazioni sulla sicurezza di Buenos Aires, che sia su internet o da persone che ci sono state, abbiamo notato che due consigli in particolare erano ricorrenti:
 
 * non uscire dal limite segnato dalla Ruta Nationl A001 e Rio Matanza-Riachuelo, ovvero l’autostrada e il fiume che segnano il confine tra Buenos Aires e la provincia;
 * non vestirsi in modo troppo appariscente, soprattutto indossando accessori costosi.
@@ -116,7 +116,9 @@ Approfondiremo il cambio della moneta e come farlo nel prossimo paragrafo.
 
 Il nostro primo Airbnb &egrave; costato intorno ai €1000 al mese; da considerare, per&ograve;, che era una casa con due camere da letto, due bagni, accessoriata di tutto e situata in Palermo Soho, uno dei migliori quartieri.
 
-La seconda
+Anche il secondo Aibnb é costato sui €1000 per un mese, questa volta in zona San Telmo, vicino alla fermata della metro Belgrano.
+
+La terza e ultima casa, presa per dieci giorni, é costa TOT, in zona&nbsp;
 
 ## Moneta locale
 
@@ -132,33 +134,45 @@ Il motivo é semplice:
 
 Il Blue Dollar, almeno al momento in cui scriviamo, &egrave; quotato praticamente al doppio del cambio ufficiale. $214 contro i $111,94 del Banco Naci&oacute;n.
 
-E cambia anche in fretta. Il primo cambio l’abbiamo fatto a €236, dopo una settimana e mezzo ne abbiamo fatto un altro e un peso valeva €255.
+E cambia anche in fretta. Il primo cambio l’abbiamo fatto a €236, dopo una settimana e mezzo ne abbiamo fatto un altro e un peso valeva €255, per poi scendere sino a €204.
+
+Per essere pratici, questo significa che per i €400 cambiati a fine aprile ci hanno dato €50 in meno rispetto al cambio effettuato a gennaio.
+
+*Se ti sembra poco, ti assicuro che €50 a Buenos Aires fanno la differenza.*
 
 Prima di arrivare in Argentina abbiamo faticato parecchio per capire come accedere al cambio Blue, fortunatamente non ci siamo fermati alle prime risposte e abbiamo trovato un modo sicuro.
 
-Essendo una sorta di mercato nero, spesso i cambi si fanno per la strada. Il problema &egrave; che le banconote ricevute potrebbero essere false oppure la cifra potrebbe non corrispondere a quanto pattuito. Nei casi pi&ugrave; gravi, si rischia di essere derubati.
+Essendo una sorta di mercato nero, spesso i cambi si fanno per la strada.
 
-Insomma, non eravamo troppo tranquilli con queste premesse.
+*Solitamente nei dintorni di Plaza de Mayo.*
 
-La soluzione é Western union. Offre di default il cambio Blue, quindi puoi convertire da app o sito web i soldi che hai sulla tua carta in peso argentini e ritirarli in contanti presso uno sportello Western union.&nbsp;
+Il problema &egrave; che le banconote ricevute potrebbero essere false oppure la cifra potrebbe non corrispondere a quanto pattuito. Nei casi pi&ugrave; gravi, si rischia di essere derubati.
 
-L’unica pecca é che, nonostante siano ovunque le casse Western union, sono poche quelle che offrono un servizio professionale e sicuro.
+*Insomma, non eravamo troppo tranquilli con queste premesse.*
+
+La soluzione é Western Union:
+
+offre di default il cambio Blue, quindi puoi convertire da app o sito web i soldi che hai sulla tua carta europea direttamente in peso argentini e ritirarli in contanti presso uno sportello Western Union.&nbsp;
+
+L’unica pecca é che, nonostante siano ovunque le casse Western union, sono poche quelle che offrono un servizio professionale.
 
 Purtroppo l’abbiamo dovuto scoprire con l’esperienza:
 
-praticamente la ragazza che ci ha servito diceva di non avere cos&igrave; tanti contati, ovvero l’equivalente di €200, per&ograve; poteva cambiarci una cifra minore se pagavamo in euro contanti.
+il giorno stesso in cui siamo arrivati in citt&agrave; siamo andati nel WU pi&ugrave; vicino; la ragazza che ci ha servito diceva di non avere cos&igrave; tanti contati, ovvero l’equivalente di €200, per&ograve; poteva cambiarci una cifra minore se pagavamo in euro contanti.
 
 Avevamo bisogno di soldi per fare un minimo di spesa e comprare il numero argentino, quindi siamo stati costretti ad accettare.
 
-Ovviamente ci ha fatto un tasso inferiore al Blue.
+Ovviamente ci ha fatto un tasso parecchio inferiore al Blue.
 
 Detto questo, abbiamo diversi Western union da consigliare.
 
 ##### Wester Union consigliati a Buenos Aires
 
-Non pensare di andare a ritirare i soldi senza avere uno zaino o borsa in cui mettere i contanti, ti garantiamo che nel portafogli difficilmente riuscirai a mettere pi&ugrave; di €100.
+&nbsp;
 
-Se pensi di utilizzare Western union, ti lascio qui il link di affiliazione per creare il tuo account, il questo modo ci guadagneremo qualcosa entrambi:
+Consiglio: non pensare di andare a ritirare i soldi senza avere uno zaino o borsa in cui mettere i contanti, ti garantiamo che nel portafogli difficilmente riuscirai a mettere pi&ugrave; di €100.
+
+Se pensi di utilizzare Western Union, ti lascio qui il link di affiliazione per creare il tuo account, il questo modo ci guadagneremo qualcosa entrambi:
 
 LINK WESTERN
 
@@ -166,23 +180,25 @@ LINK WESTERN
 
 La lingua ufficiale é lo spagnolo. Si differenzia da quello parlato in Spagna dall’uso del voseo (l’uso del pronome di seconda persona plurale vos al posto del tu, che causa anche l’uso di differenti forme verbali).
 
-Un’altra importante differenza &egrave; sulla fonetica di alcune parole, come la pronuncia della doppia L, quindi parole come calle (via) e mascarilla (mascherina).&nbsp;
+Un’altra importante differenza &egrave; sulla fonetica di alcune parole, come la pronuncia della doppia L, quindi parole come *calle* (significa via, viene pronunciato *casce* invece del classico *caglie*) e *parrilla* (significa griglia, pronunciato *parriscia* invece di *parriglia*).&nbsp;
 
 Non siamo linguisti, quindi non approfondiamo oltre, é un qualcosa che comunque dovresti sapere prima di arrivare in Argentina.
 
 Nel caso cercassi una scuola di spagnolo, tieni a mente queste differenze perché ti marchieranno inevitabilmente in tutti i tuoi futuri viaggi in cui si parla spagnolo.
 
-Noi abbiamo deciso di frequentarne una, l’idea di imparare l’accento argentino non ci disturbava, anzi.
+Noi abbiamo deciso di frequentarne una, l’idea di imparare con l’accento argentino non ci disturbava, anzi.
 
 Per la ricerca della scuola di spagnolo a Buenos Aires, abbiamo valutato diverse opzioni.
 
-Alla fine abbiamo scelto Wanderlust perché vicino al nostro Airbnb e con prezzi tutto sommato buoni.&nbsp;
+Alla fine abbiamo scelto Wanderlust perché vicino al nostro primo Airbnb e con prezzi tutto sommato buoni.&nbsp;
 
-Un corso medio-intensivo, ovvero due ore ogni mattina per cinque giorni a settimana, per un mese, c’&egrave; costato 71500 ARS.
+Un corso medio-intensivo, ovvero due ore ogni mattina per cinque giorni a settimana, per un mese, c’&egrave; costato 71500 ARS (al cambio di quando abbiamo pagato, circa €300).
 
-INSERIRE RECENSIONE POST CORSO DI LINGUA
+Il corso é stato sicuramente utile, anche se non ci ha fatto impazzire il metodo applicato.
 
-Per quanto riguarda la lingua inglese, non aspettarti di parlarlo nei negozi, supermercati e locali. Insomma, non aspettarti di parlarlo.&nbsp;
+Sembrava non esserci un vero programma da seguire, le lezioni iniziavano con delle chiacchiere di circostanza, finché non uscivano richieste o argomenti abbastanza utili da poter approfondire.
+
+Per quanto riguarda la lingua inglese, non aspettarti di parlarlo nei negozi, supermercati e locali. Anzi, non aspettarti di parlarlo.&nbsp;
 
 ## Telefonia e wifi
 
@@ -192,27 +208,23 @@ Le compagnie pi&ugrave; quotate sono Personal, Movistar e Claro.&nbsp;
 
 Noi abbiamo optato per Claro:
 
-TOT giga per TOT costo
+4 giga per un mese a 850 pesos (al cambio del pagamento circa €4).
 
 Il procedimento é semplice.
 
-Innanzitutto devi sapere che quella che noi chiamiamo sim loro la chiamano cip mobil, giusto per capirsi.
+Innanzitutto devi sapere che quella che noi chiamiamo sim loro la chiamano *cip mobi*l, giusto per capirsi.
 
-Abbiamo trovato la nostra cip mobil prepago in uno dei molteplici kiosco che ci sono per le strade di Buenos Aires, ad esempio gli El Javi.
+Abbiamo trovato la nostra *cip mobil prepago* in uno dei molteplici kiosco che ci sono per le strade di Buenos Aires, ad esempio gli El Javi.
 
 Quella di Claro &egrave; costata TOT.
 
 Dopodiché devi semplicemente seguire la procedura indicata sulla carta per attivarla.
 
-Fai solo attenzione alle ricariche, noi abbiamo perso quasi una mattinata per raggiungere la cifra necessaria. A quanto pare ogni kiosco ha un limite sulla cifra che pu&ograve; ricaricare su un numero prepagato. Esaurita la cifra gli vengono accreditate nuove disponibilit&agrave; ogni 10 minuti (o qualcosa del genere), piano piano.
-
-Insomma, per caricare TOT ci abbiamo messo TOT.
-
 Per quanto riguarda la copertura del segnale, con Claro non ci possiamo lamentare. Non ci ha mai lasciato senza internet e sempre in 4G.
 
-Il wifi si trova in quasi tutti i locali, almeno per quanto riguarda la zona Palermo. Se cerchi posti in cui lavorare con il pc, abbiamo riservato una sezione apposita, includendo anche la presenza/potenza del wifi.
+Il wifi si trova in quasi tutti i locali. Se cerchi posti in cui lavorare con il pc, abbiamo riservato una sezione apposita, includendo anche la presenza/potenza del wifi.
 
-Difficilmente abbiamo avuto problemi di connessione.
+*Difficilmente abbiamo avuto problemi di connessione.*
 
 &Eacute; presente la banda larga a Buenos Aires, quindi sia gli Airbnb che i locali potrebbero offrire sia la rete a 2.4 GHz che a 5.8 GHz.
 
@@ -223,6 +235,8 @@ https://baglobal.buenosaires.gob.ar/nomades-digitales
 ## Trasporti a Buenos Aires
 
 Bus, metro, Cabify, Uber, DiDi, taxi, bici, monopattini,&nbsp;
+
+Abbiamo passato il primo mese e mezzo spostandoci solamente con Uber e Cabify, le due app pi&ugrave; famose per
 
 ## <br>Clima
 
