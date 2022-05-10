@@ -281,7 +281,7 @@ Il wifi si trova in quasi tutti i locali. Se cerchi posti in cui lavorare con il
 
 Bus, metro, Cabify, Uber, DiDi, taxi, bici, monopattini,&nbsp;
 
-Questa sezione é un'altra di quelle che avremmo voluto leggere prima di arrivare in citt&agrave;.
+Questa é un'altra di quelle sezioni che avremmo voluto leggere prima di arrivare in citt&agrave;.
 
 Infatti, abbiamo passato il primo mese e mezzo spostandoci solamente con Uber e Cabify, le due app pi&ugrave; famose di ridesharing.
 
