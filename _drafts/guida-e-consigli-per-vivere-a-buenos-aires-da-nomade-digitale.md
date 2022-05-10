@@ -9,17 +9,35 @@ author: Alessandro Trezza
 ---
 > **Disclaimer**<br>Le nostre guide sono pensate per essere utili ad altri nomadi digitali, che, come noi, hanno gi&agrave; un proprio lavoro e vogliono vivere in un posto diverso da quello di residenza. Questo significa che non troverai info su come cambiare cittadinanza o trasferirti nel posto.
 
-Dopo i due mesi e mezzo a Las Palmas, abbiamo deciso di trasferirci a Buenos Aires, Argentina.
+Buenos Aires é un posto fantastico.
+
+*Ma andiamo con ordine.*
+
+Dopo i due mesi e mezzo a Las Palmas *(da met&agrave; ottobre a dicembre 2021)*, abbiamo deciso di trasferirci a Buenos Aires, Argentina.
 
 Situata nella parte meridionale dell’America Latina, dicembre e gennaio sono i mesi estivi, in cui le temperature arrivano anche oltre i 40 gradi.
 
 Insomma, il tempo di festeggiare Natale in famiglia e siamo partiti verso il caldo, il 14 gennaio 2022.
 
+L'idea era di fare due mesi, alla fine abbiamo prolungato fino ad inizio maggio, praticamente quattro mesi.
+
+Con questa guida vorremmo racchiudere tutto ci&ograve; che abbiamo imparato sulla citt&agrave;, offrendo dei consigli sulla base della nostra esperienza diretta.
+
+*Come se stessimo chiacchierando al bar tra amici.*
+
+&nbsp;
+
+Abbiamo scelto di vivere a Buenos Aires per qualche mese perché &egrave; il posto pi&ugrave; caldo ed economico in cui lavorare durante i primi dell’anno, a parit&agrave; di confort con una citt&agrave; europea.
+
+Quindi, iniziamo ad approfondire gli aspetti pi&ugrave; importanti da sapere se anche tu stai valutando di passare un periodo da nomade digitale a Buenos Aires.
+
+## Il viaggio: raggiungere Buenos Aires
+
 Diciamocelo in modo schietto:&nbsp;
 
 **attraversare l’Oceano Atlantico costa.**
 
-Abbiamo preso il biglietto a inizio novembre 2021, al costo di €498,79 a persona.
+Abbiamo preso il biglietto di andata a inizio novembre 2021, al costo di €498,79 a persona.
 
 &Eacute; un prezzo molto basso rispetto alla media, che si aggira intorno ai €1000. Come abbiamo fatto? Pagando con il nostro tempo.
 
@@ -33,9 +51,9 @@ In tutto il viaggio, degna di nota &egrave; la sala lounge all’aeroporto di Sa
 
 il posto é tranquillo, c’&egrave; il wifi e cibo/bevande illimitate, per €15 pagati in contanti per persona.&nbsp;
 
-Abbiamo scelto di vivere a Buenos Aires per qualche mese perché, durante i primi dell’anno &egrave; il posto pi&ugrave; caldo ed economico in cui lavorare, a parit&agrave; di confort con una citt&agrave; europea.
+Per quanto riguarda il ritorno, abbiamo optato per un volo LATAM con scalo a San Paolo, cos&igrave; da prendere una camera in un hotel vicino all'aeroporto per alleggerire un po' il viaggio prima di prendere un altro LATAM per Milano Malpensa.
 
-Quindi, iniziamo ad approfondire gli aspetti pi&ugrave; importanti da sapere se anche tu stai valutando di passare un periodo da nomade digitale a Buenos Aires.
+Costo totale: €419,12.
 
 ## Assicurazione sanitaria&nbsp;
 
