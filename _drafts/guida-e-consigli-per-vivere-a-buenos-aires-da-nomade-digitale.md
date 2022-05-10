@@ -277,17 +277,61 @@ Il wifi si trova in quasi tutti i locali. Se cerchi posti in cui lavorare con il
 
 &Eacute; presente la banda larga a Buenos Aires, quindi sia gli Airbnb che i locali potrebbero offrire sia la rete a 2.4 GHz che a 5.8 GHz.
 
-#### Kit di benvenuto per nomadi digitali
-
-https://baglobal.buenosaires.gob.ar/nomades-digitales
-
 ## Trasporti a Buenos Aires
 
 Bus, metro, Cabify, Uber, DiDi, taxi, bici, monopattini,&nbsp;
 
-Abbiamo passato il primo mese e mezzo spostandoci solamente con Uber e Cabify, le due app pi&ugrave; famose di ridesharing.
+Questa sezione é un'altra di quelle che avremmo voluto leggere prima di arrivare in citt&agrave;.
 
-&nbsp;
+Infatti, abbiamo passato il primo mese e mezzo spostandoci solamente con Uber e Cabify, le due app pi&ugrave; famose di ridesharing.
+
+Poi, abbiamo scoperto che il trasporto pubblico a Buenos Aires é molto efficiente e tanto economico.
+
+*Insomma, pure chi non é propenso ad usare il pullman o la metro, a Buenos Aires potrebbe ricredersi.*
+
+##### *Trasporto pubblico a Buenos Aires*
+
+Partiamo dalle terminologie:
+
+* il pullman: colectivo;
+* la metro: subte;
+* la carta per il trasporto pubblico si chiama tarjeta Sube.
+
+Con la Sube hai accesso a tutti i mezzi pubblici, ovvero pullman, metro e treno. &Eacute; un sistema integrato, questo significa che, prendendo un pullman e subito dopo il treno, la seconda corsa avr&agrave; uno sconto automatico applicato.
+
+La carta Sube la puoi trovare nei Kiosco convenzionati oppure in una dei molteplici Loteria De La Ciudad ([qui il link](https://tarjetasube.sube.gob.ar/SubeWeb/WebForms/admin/views/mapa-sube.aspx?id=1){: target="_blank" rel="noopener"} per trovare il punto vendita pi&ugrave; vicino).
+
+&Eacute; costata 90 ARS (circa €0,4), pochissimo.
+
+##### Il pullman (colectivo)
+
+Oltre ad essere esteticamente molto belli e caratteristici, funzionano bene e sono molto economici.&nbsp;
+
+Devi sapere che, appena entrato sul pullman devi riferire al guidatore dove intendi scendere, in modo tale che possa applicarti la tariffa del viaggio in base alla tua destinazione.
+
+Dopodiché dovrai semplicemente appoggiare la tua carta Sube sul lettore per effettuare il pagamento.
+
+In media, una corsa costa 20/30 ARS.
+
+*Eh si, &egrave; davvero poco.*
+
+Passano spesso, pi&ugrave; o meno in orario, e si controllano facilmente con Google Maps.
+
+##### La metro (subte)
+
+Inaugurata nel 1913, é la prima metropolitana del Latino America e prima anche tra gli stati in lingua spagnola (quella di Madrid é attiva dal 1919).
+
+Sono sette linee che attraversano quasi ogni parte della citt&agrave;, &egrave; davvero comoda ed efficiente.
+
+Costa 30 ARS e si paga esclusivamente tramite carta Sube.
+
+##### Il treno
+
+Personalmente l'abbiamo utilizzato solo per raggiungere Tigre, una citt&agrave; nella provincia di Buenos Aires.
+
+Anche questo mezzo costa molto poco, anche per tratte lunghe.&nbsp;
+
+##### Il trasporto dall'aeroporto alla citt&agrave;
 
 ## <br>Clima
 
