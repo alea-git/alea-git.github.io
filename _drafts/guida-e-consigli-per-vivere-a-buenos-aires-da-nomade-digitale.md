@@ -71,7 +71,7 @@ Abbiamo chiesto un preventivo alle maggiori compagnie assicurative e tutte quant
 
 XME Protezione Salute, con l'aggiunta del modulo che protegge i nostri device dai furti, ci costa €19,07 al mese.&nbsp;
 
-*Ovviamente il premio da pagare varia in base a dei parametri personali, quali lavoro e storico sanitario.*
+*Ovviamente il premio da pagare varia in base a dei parametri personali, come la propria professione e storico sanitario.*
 
 Safety Wing, forse l'assicurazione pi&ugrave; utilizzata dai nomadi digitali di tutto il mondo, costa $42 al mese.
 
@@ -84,13 +84,21 @@ Appena si inizia a cercare informazioni sulla sicurezza di Buenos Aires, che sia
 * non uscire dal limite segnato dalla Ruta Nationl A001 e Rio Matanza-Riachuelo, ovvero l’autostrada e il fiume che segnano il confine tra Buenos Aires e la provincia;
 * non vestirsi in modo troppo appariscente, soprattutto indossando accessori costosi.
 
-Per quanto riguarda la nostra esperienza personale
+Sono consigli validi, anche se, a dire il vero, non ci siamo mai sentiti in pericolo.
+
+Ci sono delle zone in Buenos Aires in cui, semplicemente, non devi andarci, come INSERIRE ZONE PERICOLOSE
+
+Per il resto, sono posti in cui abbiamo avuto la parvenza di vita normale, con molta polizia che gira sia in macchina che a piedi.
+
+In particolare, Palermo é un posto davvero tranquillo in cui difficilmente avrai problemi.
 
 Scegliere in quale quartiere vivere dipende anche dal tipo di permanenza che si desidera.
 
 ##### Palermo
 
 La maggior parte della nostra permanenza l'abbiamo trascorsa in un Airbnb in Palermo Soho.
+
+Palermo si divide in sotto quartieri (Soho, Hollywood, Las Ca&ntilde;itas, Viejo), ognuno dei quali ha delle proprie caratteristiche. In generale, &egrave; senza ombra di dubbio il miglior quartiere per nomadi digitali, dato che é pieno di bar in cui poter lavorare, locali per divertirsi e ristoranti.&nbsp;
 
 ##### Villa Crespo
 
@@ -102,11 +110,11 @@ La maggior parte della nostra permanenza l'abbiamo trascorsa in un Airbnb in Pal
 
 ##### Monserrat
 
-&nbsp;
+Il centro della citt&agrave;, molto trafficata e rumorosa, essendo la zona degli uffici la sera si svuota e diventa anche un po' pi&ugrave; insicura. Ci abbiamo vissuto un mese e non ci sentiamo di consigliarla, nonostante sia stata una permanenza tutto sommato piacevole.
 
 ##### Puerto Madero
 
-&nbsp;
+Il centro finanziario della citt&agrave;, ci sono i locali e ristoranti pi&ugrave; costosi. Mal servita dalla metro, non la consigliamo per viverci.
 
 ##### San Telmo
 
@@ -126,25 +134,28 @@ Il costo della vita, per i nostri standard europei, &egrave; molto basso.
 
 &Eacute; un qualcosa che a noi ha colpito molto:
 
-una citt&agrave; con i servizi di un paese sviluppato, locali moderni e prodotti buoni, in cui puoi pagare un pranzo con meno di €2 o una corsa in taxi di 20 minuti con €3.
+in una citt&agrave; con i servizi di un paese sviluppato, locali moderni e prodotti ottimi, non ti aspetti di pagare un pranzo con meno di €2 o una corsa in taxi di 20 minuti con €3.
+
+*Insomma, poter vivere in una grande citt&agrave; come se fossimo in un paese di campagna di uno stato povero.*
 
 Questo &egrave; possibile per via della forte inflazione, un problema molto grave per il popolo argentino.
 
-Approfondiremo il cambio della moneta e come farlo nel prossimo paragrafo.
+*Approfondiremo il cambio della moneta e come farlo nel prossimo paragrafo.*
 
 Il nostro primo Airbnb &egrave; costato intorno ai €1000 al mese; da considerare, per&ograve;, che era una casa con due camere da letto, due bagni, accessoriata di tutto e situata in Palermo Soho, uno dei migliori quartieri.
 
-Anche il secondo Aibnb é costato sui €1000 per un mese, questa volta in zona San Telmo, vicino alla fermata della metro Belgrano.
+Anche il secondo Aibnb é costato sui €1000 per un mese, questa volta in zona San Telmo, vicino alla fermata della metro Belgrano.&nbsp;
 
-La terza e ultima casa, presa per dieci giorni, é costa TOT, in zona&nbsp;
+La terza e ultima casa, presa per dieci giorni, é costa €275, in zona Las Ca&ntilde;itas.
 
 ## Moneta locale
 
-In Argentina la moneta locale &egrave; il Peso Argentino (ARS) e viene gestito in modo particolare.
+In Argentina la moneta locale &egrave; il Peso Argentino (ARS) e viene gestita in modo particolare.
 
 Per via della forte inflazione, ha due tassi di cambio:
 
-\-Banco Naci&oacute;n, il cambio ufficiale;<br>\-Blue dollar, il cambio alternativo, tollerato dal governo.
+* Banco Naci&oacute;n, il cambio ufficiale;
+* Blue dollar, il cambio alternativo, tollerato dal governo.
 
 Ora, capire come gestire il cambio é il passaggio pi&ugrave; importante in assoluto, dato che ti cambier&agrave; in modo sostanziale la qualit&agrave; della tua permanenza.
 
@@ -162,7 +173,7 @@ Prima di arrivare in Argentina abbiamo faticato parecchio per capire come accede
 
 Essendo una sorta di mercato nero, spesso i cambi si fanno per la strada.
 
-*Solitamente nei dintorni di Plaza de Mayo.*
+*Solitamente nei dintorni di Plaza de Mayo, in particolare in Avenida Per&ugrave;.*
 
 Il problema &egrave; che le banconote ricevute potrebbero essere false oppure la cifra potrebbe non corrispondere a quanto pattuito. Nei casi pi&ugrave; gravi, si rischia di essere derubati.
 
@@ -170,15 +181,15 @@ Il problema &egrave; che le banconote ricevute potrebbero essere false oppure la
 
 La soluzione é Western Union:
 
-offre di default il cambio Blue, quindi puoi convertire da app o sito web i soldi che hai sulla tua carta europea direttamente in peso argentini e ritirarli in contanti presso uno sportello Western Union.&nbsp;
+offre di default il cambio Blue, quindi puoi convertire da app o sito web i soldi che hai sulla tua carta europea direttamente in peso argentino e ritirarli in contanti presso uno sportello Western Union.&nbsp;
 
-L’unica pecca é che, nonostante siano ovunque le casse Western union, sono poche quelle che offrono un servizio professionale.
+L’unica pecca é che, nonostante le casse Western Union siano ovunque, sono poche quelle che offrono un servizio professionale.
 
 Purtroppo l’abbiamo dovuto scoprire con l’esperienza:
 
 il giorno stesso in cui siamo arrivati in citt&agrave; siamo andati nel WU pi&ugrave; vicino; la ragazza che ci ha servito diceva di non avere cos&igrave; tanti contati, ovvero l’equivalente di €200, per&ograve; poteva cambiarci una cifra minore se pagavamo in euro contanti.
 
-Avevamo bisogno di soldi per fare un minimo di spesa e comprare il numero argentino, quindi siamo stati costretti ad accettare.
+Avevamo bisogno di soldi per fare un minimo di spesa e comprare la sim per il numero argentino, quindi siamo stati costretti ad accettare.
 
 Ovviamente ci ha fatto un tasso parecchio inferiore al Blue.
 
@@ -186,9 +197,13 @@ Detto questo, abbiamo diversi Western union da consigliare.
 
 ##### Wester Union consigliati a Buenos Aires
 
-&nbsp;
+Non sono i migliori in assoluto, sono i migliori tra quelli che abbiamo potuto provare. Un buon WU garantisce privacy e permette di ritirare somme cospicue di denaro.
 
-Consiglio: non pensare di andare a ritirare i soldi senza avere uno zaino o borsa in cui mettere i contanti, ti garantiamo che nel portafogli difficilmente riuscirai a mettere pi&ugrave; di €100.
+* Peru, San Nicol&aacute;s 139, 1067 Buenos Aires, Argentina
+* Armenia 2109, Buenos Aires, Argentina
+* QUELLO NEL CARREFOUR
+
+Consiglio: non pensare di andare a ritirare i soldi senza avere uno zaino o borsa in cui mettere i contanti, ti garantiamo che nel portafogli difficilmente riuscirai a mettere pi&ugrave; di €100. Inoltre, é sempre una buona idea andare intorno all'orario di apertura se hai intenzione di ritirare pi&ugrave; di €200.
 
 Se pensi di utilizzare Western Union, ti lascio qui il link di affiliazione per creare il tuo account, il questo modo ci guadagneremo qualcosa entrambi:
 
