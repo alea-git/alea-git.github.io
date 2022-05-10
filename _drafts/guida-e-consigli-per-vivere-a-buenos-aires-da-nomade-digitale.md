@@ -235,9 +235,21 @@ Sembrava non esserci un vero programma da seguire, le lezioni iniziavano con del
 
 Per quanto riguarda la lingua inglese, non aspettarti di parlarlo nei negozi, supermercati e locali. Anzi, non aspettarti di parlarlo.&nbsp;
 
+## Kit di benvenuto per nomadi digitali
+
+L'amministrazione di Buenos Aires ha iniziato ad incentivare il lavoro da remoto nella propria citt&agrave;, offrendo sconti e agevolazioni a chiunque ne faccia richiesta.
+
+In particolare, offrono gratuitamente un kit di benvenuto che comprende (al momento) uno sconto del 40% per lo shuttle che porta dall'aeroporto alla citt&agrave;, sconti per gli appartamenti e, forse la parte pi&ugrave; interessante, una sim prepagata e la carta per utilizzare il trasporto pubblico.&nbsp;
+
+&Eacute; possibile ritirarlo direttamente dall'aeroporto, &egrave; sufficiente prenotarlo dal sito ufficiale che lasciamo di seguito:
+
+[OTTIENI MAGGIORI INFO E PRENOTA IL KIT PER NOMADI DIGITALI](https://baglobal.buenosaires.gob.ar/nomades-digitales){: target="_blank" rel="noopener"}
+
+Purtroppo noi l'abbiamo scoperto dopo qualche tempo dal nostro arrivo e non abbiamo potuto provare il servizio in prima persona; peccato perché avere da subito la sim con numero argentino e la carta per il trasporto pubblico é un bella comodit&agrave;.
+
 ## Telefonia e wifi
 
-Appena dopo aver cambiato i primi euro in peso argentini, la prima cosa che abbiamo fatto é stata quella di comprarci una sim con numero argentino, cos&igrave; da avere internet sullo smartphone.
+Appena dopo aver cambiato i primi euro in ARS, la prima cosa che abbiamo fatto é stata quella di comprarci una sim con numero argentino, cos&igrave; da avere internet sullo smartphone.
 
 Le compagnie pi&ugrave; quotate sono Personal, Movistar e Claro.&nbsp;
 
@@ -247,15 +259,17 @@ Noi abbiamo optato per Claro:
 
 Il procedimento é semplice.
 
-Innanzitutto devi sapere che quella che noi chiamiamo sim loro la chiamano *cip mobi*l, giusto per capirsi.
+Innanzitutto devi sapere che quella che noi chiamiamo sim loro la chiamano *chip m**obile*, giusto per capirsi.
 
-Abbiamo trovato la nostra *cip mobil prepago* in uno dei molteplici kiosco che ci sono per le strade di Buenos Aires, ad esempio gli El Javi.
+Abbiamo trovato la nostra *chip mobile prepago* in uno dei molteplici kiosco che ci sono per le strade di Buenos Aires, ad esempio gli El Javi.
 
-Quella di Claro &egrave; costata TOT.
+Quella di Claro &egrave; costata pochissimo, sotto i 100 ARS (purtroppo non ci siamo segnati la cifra esatta).
 
 Dopodiché devi semplicemente seguire la procedura indicata sulla carta per attivarla.
 
 Per quanto riguarda la copertura del segnale, con Claro non ci possiamo lamentare. Non ci ha mai lasciato senza internet e sempre in 4G.
+
+##### Wifi a Buenos Aires
 
 Il wifi si trova in quasi tutti i locali. Se cerchi posti in cui lavorare con il pc, abbiamo riservato una sezione apposita, includendo anche la presenza/potenza del wifi.
 
