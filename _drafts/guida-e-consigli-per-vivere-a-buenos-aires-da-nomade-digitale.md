@@ -207,7 +207,7 @@ Consiglio: non pensare di andare a ritirare i soldi senza avere uno zaino o bors
 
 Se pensi di utilizzare Western Union, ti lascio qui il link di affiliazione per creare il tuo account, il questo modo ci guadagneremo qualcosa entrambi:
 
-LINK WESTERN
+[CLICCA QUI PER CREARE IL TUO ACCOUNT WESTERN UNION](https://ssqt.co/mQo2XDJ){: target="_blank" rel="noopener"}
 
 ## Lingua e livello di inglese
 
@@ -215,17 +215,19 @@ La lingua ufficiale é lo spagnolo. Si differenzia da quello parlato in Spagna 
 
 Un’altra importante differenza &egrave; sulla fonetica di alcune parole, come la pronuncia della doppia L, quindi parole come *calle* (significa via, viene pronunciato *casce* invece del classico *caglie*) e *parrilla* (significa griglia, pronunciato *parriscia* invece di *parriglia*).&nbsp;
 
+Inoltre, diverse parole italiane si utilizzano anche nel parlato argentino (come gamba in alternativa a pierna, per indicare l'arto inferiore).
+
 Non siamo linguisti, quindi non approfondiamo oltre, é un qualcosa che comunque dovresti sapere prima di arrivare in Argentina.
 
 Nel caso cercassi una scuola di spagnolo, tieni a mente queste differenze perché ti marchieranno inevitabilmente in tutti i tuoi futuri viaggi in cui si parla spagnolo.
 
 Noi abbiamo deciso di frequentarne una, l’idea di imparare con l’accento argentino non ci disturbava, anzi.
 
-Per la ricerca della scuola di spagnolo a Buenos Aires, abbiamo valutato diverse opzioni.
+Per la ricerca della scuola di spagnolo a Buenos Aires abbiamo valutato diverse opzioni:
 
-Alla fine abbiamo scelto Wanderlust perché vicino al nostro primo Airbnb e con prezzi tutto sommato buoni.&nbsp;
+alla fine abbiamo scelto Wanderlust perché vicino al nostro primo Airbnb e con prezzi tutto sommato buoni.&nbsp;
 
-Un corso medio-intensivo, ovvero due ore ogni mattina per cinque giorni a settimana, per un mese, c’&egrave; costato 71500 ARS (al cambio di quando abbiamo pagato, circa €300).
+Un corso medio-intensivo, ovvero due ore ogni mattina per cinque giorni a settimana, per un mese, &egrave; costato 71500 ARS (al cambio di quando abbiamo pagato, circa €300).
 
 Il corso é stato sicuramente utile, anche se non ci ha fatto impazzire il metodo applicato.
 
