@@ -331,7 +331,17 @@ Personalmente l'abbiamo utilizzato solo per raggiungere Tigre, una citt&agrave; 
 
 Anche questo mezzo costa molto poco, anche per tratte lunghe.&nbsp;
 
+*Un'ora di treno &egrave; costato circa 18 ARS.*
+
 ##### Il trasporto dall'aeroporto alla citt&agrave;
+
+Appena arrivati in citt&agrave;, senza ARS e senza internet sul telefono, abbiamo chiamato un taxi da uno degli stand presenti in aeroporto, pagando in euro.
+
+La destinazione era l'Airbnb in zona Palermo Soho, é costato € QUANTO.
+
+Per il ritorno, da Palermo zona Las Ca&ntilde;itas, utilizzando DiDi e potendo pagare in valuta locale, il costo della corsa é stato di 2041 ARS, ovvero circa € 9,50.
+
+Quindi cerca di organizzarti prima, in modo da avere internet per utilizzare le app di ridesharing e il contante in peso per pagare.
 
 ## <br>Clima
 
