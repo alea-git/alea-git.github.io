@@ -301,7 +301,7 @@ Con la Sube hai accesso a tutti i mezzi pubblici, ovvero pullman, metro e treno.
 
 La carta Sube la puoi trovare nei Kiosco convenzionati oppure in una dei molteplici Loteria De La Ciudad ([qui il link](https://tarjetasube.sube.gob.ar/SubeWeb/WebForms/admin/views/mapa-sube.aspx?id=1){: target="_blank" rel="noopener"} per trovare il punto vendita pi&ugrave; vicino).
 
-&Eacute; costata 90 ARS (circa €0,4), pochissimo.
+&Eacute; costata 90 ARS (circa €0,4), pochissimo, e il credito si ricarica direttamente dove di acquista.
 
 ##### Il pullman (colectivo)
 
