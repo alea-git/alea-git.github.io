@@ -333,6 +333,10 @@ Anche questo mezzo costa molto poco, anche per tratte lunghe.&nbsp;
 
 *Un'ora di treno &egrave; costato circa 18 ARS.*
 
+##### Ridesharing (Cabify, Uber, DiDi)
+
+Testo.
+
 ##### Il trasporto dall'aeroporto alla citt&agrave;
 
 Appena arrivati in citt&agrave;, senza ARS e senza internet sul telefono, abbiamo chiamato un taxi da uno degli stand presenti in aeroporto, pagando in euro.
