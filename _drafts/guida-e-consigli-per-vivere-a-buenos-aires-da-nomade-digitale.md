@@ -371,15 +371,64 @@ Quindi cerca di organizzarti prima, in modo da avere internet per utilizzare le 
 
 ## <br>Posti un cui lavorare
 
-Nome: Padre Coffee Roasters<br>Velocit&agrave; Internet: PING 14 ms, Download 93.38 Mbps, Upload 28.29 Mbps.<br>Enchufe:<br>Prezzi: Espresso 150, T&egrave; 350, Coca Zero 200<br>Particolarit&agrave;:
+&nbsp;
 
-Nome: Paris Crepas (Gurruchaga)<br>Velocit&agrave; Internet: PING 18 ms, Download 315.92 Mbps, Upload 27,77 Mbps.<br>Enchufe: S&igrave;<br>Prezzi:&nbsp;<br>Particolarit&agrave;:
+##### Padre Coffee Roasters
 
-Nome: Mercato Soho<br>Velocit&agrave; Internet: PING X ms, Download X Mbps, Upload X Mbps.<br>Enchufe:&nbsp;<br>Prezzi:&nbsp;<br>Particolarit&agrave;:
+* PING 14 ms,
+* Download 93.38 Mbps,
+* Upload 28.29 Mbps.
+* Prezzi: Espresso 150, T&egrave; 350, Coca Zero 200Particolarit&agrave;:
 
-Nome: Terra<br>Velocit&agrave; Internet: PING X ms, Download X Mbps, Upload X Mbps.<br>Enchufe:&nbsp;<br>Prezzi:&nbsp;<br>Particolarit&agrave;:
+##### Paris Crepas
 
-Nome:&nbsp;<br>Velocit&agrave; Internet: PING X ms, Download X Mbps, Upload X Mbps.<br>Enchufe:&nbsp;<br>Prezzi:&nbsp;<br>Particolarit&agrave;:
+* PING 18 ms,
+* Download 315.92 Mbps,
+* Upload 27,77 Mbps.
+* Enchufe: S&igrave;
+* Prezzi: il t&egrave; costa 200 (per il momento),
+
+##### BBlue
+
+* PING 16 ms,
+* Download 31,78 Mbps,
+* Upload 14.55 Mbps.
+* Enchufe: No
+* Particolarit&agrave;: posto piccolo e molto carino, bella atmosfera. Non so se &egrave; un plus o meno, abbiamo beccato il pomeriggio in cui hanno messo come sottofondo un intero album di Eros Ramazzotti.
+
+##### El Reloj
+
+* PING 17 ms,
+* Download 262,97 Mbps,
+* Upload 15,66 Mbps.
+* Enchufe: Non presenti nel rooftop
+* Prezzi: 200 un t&egrave;/caff&egrave;
+* Particolarit&agrave;: C’&egrave; un rooftop riparato dal vento e con ombrelli in cui si lavora bene, le sedie di tela non troppo comode ma c’&egrave; di peggio
+
+##### Cafe Martinez
+
+* PING 18 ms,
+* Download 100MBps,
+* Upload 20 Mbps
+* Enchufe: Si nei tavoli piccoli attaccati al muro
+* Prezzi: 300/400 per un americano
+* Particolarit&agrave;: posto abbastanza grande (quindi non hai la pressione di andare via), tavolo in legno molto grande per lavorare, ben illuminato con illuminazione artificiale e tranquillo
+
+##### Birkin
+
+* PING 6 ms,
+* Download 27Mbps,
+* Upload 23 Mbps
+* Enchufe: Si, in alcuni tavoli attaccati al muro
+* Prezzi: 230 per un americano, medio alti in generale
+* Particolarit&agrave;: posto con design moderno e luci soffuse, carino per lavorare, attenzione che si mangia anche quindi ci potrebbe essere odore di cibo. Durante orario di punta molto affollato.
+
+##### All Saints Cafe
+
+* Velocit&agrave; Internet: PING 20 ms, Download 109,92 Mbps, Upload 18,14 Mbps.
+* Enchufe: No
+* Prezzi: 300 pesos un te, 290 un espresso
+* Particolarit&agrave;: Bella l’atmosfera, in posizione centrale
 
 ## Cosa visitare
 
