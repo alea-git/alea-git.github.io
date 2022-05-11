@@ -353,13 +353,9 @@ Per darti un'idea, 4.63 km di percorso, fatti in 21 minuti con Cabify, &nbsp;son
 
 *Capisci che spesso passa la voglia di prendere un bus affollato.*
 
-L'app pi&ugrave; economica é DiDi, scaricabile solo cambiando il paese dell'app store su Argentina. Cabify e Uber sono pi&ugrave; o meno simili, anche se la prima é un pelo pi&ugrave; economica della seconda.<br><br>Di seguito vi lasciamo i link per scaricare le varie app con il nostro codice invito incluso, cos&igrave; da guadagnarci qualcosa entrambi:
+L'app pi&ugrave; economica é DiDi, scaricabile solo cambiando il paese dell'app store su Argentina. Cabify e Uber sono pi&ugrave; o meno simili, anche se la prima é un pelo pi&ugrave; economica della seconda.<br><br>Di seguito vi lasciamo i link per scaricare Cabify con il nostro codice invito incluso, cos&igrave; da guadagnarci qualcosa entrambi:
 
-CLICCA QUI PER SCARICARE CABIFY
-
-CLICCA QUI PER SCARICARE DIDI
-
-CLICCA QUI PER SCARICARE UBER
+[CLICCA QUI PER SCARICARE CABIFY](https://cabify.com/i/alessandrt1033){: target="_blank" rel="noopener"}
 
 ##### Il trasporto dall'aeroporto alla citt&agrave;
 
