@@ -21,11 +21,11 @@ Insomma, il tempo di festeggiare Natale in famiglia e siamo partiti verso il cal
 
 L'idea era di fare due mesi, alla fine abbiamo prolungato fino ad inizio maggio, praticamente quattro mesi.
 
+*S&igrave;, ci é piaciuta tanto.*
+
 Con questa guida vorremmo racchiudere tutto ci&ograve; che abbiamo imparato sulla citt&agrave;, offrendo dei consigli sulla base della nostra esperienza diretta.
 
 *Come se stessimo chiacchierando al bar tra amici.*
-
-&nbsp;
 
 Abbiamo scelto di vivere a Buenos Aires per qualche mese perché &egrave; il posto pi&ugrave; caldo ed economico in cui lavorare durante i primi dell’anno, a parit&agrave; di confort con una citt&agrave; europea.
 
@@ -148,6 +148,8 @@ Anche il secondo Aibnb é costato sui €1000 per un mese, questa volta in zona 
 
 La terza e ultima casa, presa per dieci giorni, é costa €275, in zona Las Ca&ntilde;itas.
 
+In generale, grazie al cambio Blue, tutto é molto economico (tranne l'abbigliamento) per chi ha uno stipendio in euro/dollari.
+
 ## Moneta locale
 
 In Argentina la moneta locale &egrave; il Peso Argentino (ARS) e viene gestita in modo particolare.
@@ -239,6 +241,14 @@ Per quanto riguarda la lingua inglese, non aspettarti di parlarlo nei negozi, su
 
 L'amministrazione di Buenos Aires ha iniziato ad incentivare il lavoro da remoto nella propria citt&agrave;, offrendo sconti e agevolazioni a chiunque ne faccia richiesta.
 
+Proprio appena dopo essere tornati dall'Argentina, il Ministero del Turismo ha annunciato l'attivazione di una visa specifica per i nomadi digitali, che permette una permanenza su tutto il suolo argentino per sei mesi invece dei tre previsti dalla visa turistica.
+
+Inoltre sono presenti una serie di agevolazioni che, non avendo avuto modo di provare in prima persona, non possiamo raccontare.
+
+[CLICCA QUI PER MAGGIORI INFO SULLA VISA DA NOMADI DIGITAL](https://www.argentina.travel/landing/digital-nomads/?utm_source=blog&amp;utm_medium=articolo&amp;utm_campaign=guidaBA&amp;utm_id=AleaMakers#/en){: target="_blank" rel="noopener"}I
+
+Gi&agrave; prima di questo annuncio erano presenti delle agevolazioni per nomadi.
+
 In particolare, offrono gratuitamente un kit di benvenuto che comprende (al momento) uno sconto del 40% per lo shuttle che porta dall'aeroporto alla citt&agrave;, sconti per gli appartamenti e, forse la parte pi&ugrave; interessante, una sim prepagata e la carta per utilizzare il trasporto pubblico.&nbsp;
 
 &Eacute; possibile ritirarlo direttamente dall'aeroporto, &egrave; sufficiente prenotarlo dal sito ufficiale che lasciamo di seguito:
@@ -259,7 +269,7 @@ Noi abbiamo optato per Claro:
 
 Il procedimento é semplice.
 
-Innanzitutto devi sapere che quella che noi chiamiamo sim loro la chiamano *chip m**obile*, giusto per capirsi.
+Innanzitutto devi sapere che quella che noi chiamiamo sim loro la chiamano *chip mobile*, giusto per capirsi.
 
 Abbiamo trovato la nostra *chip mobile prepago* in uno dei molteplici kiosco che ci sono per le strade di Buenos Aires, ad esempio gli El Javi.
 
@@ -335,7 +345,21 @@ Anche questo mezzo costa molto poco, anche per tratte lunghe.&nbsp;
 
 ##### Ridesharing (Cabify, Uber, DiDi)
 
-Testo.
+Come anticipato ad inizio sezione, la prima parte della nostra permanenza l'abbiamo passata spostandoci solamente con Cabify prima e DiDi dopo.&nbsp;
+
+Non conoscevamo quanto fosse efficiente il trasporto pubblico e i prezzi di una corsa in ridesharing é davvero molto basso, soprattutto se divisa in due persone.
+
+Per darti un'idea, 4.63 km di percorso, fatti in 21 minuti con Cabify, &nbsp;sono costati 380 ARS, circa €1,8.
+
+*Capisci che spesso passa la voglia di prendere un bus affollato.*
+
+L'app pi&ugrave; economica é DiDi, scaricabile solo cambiando il paese dell'app store su Argentina. Cabify e Uber sono pi&ugrave; o meno simili, anche se la prima é un pelo pi&ugrave; economica della seconda.<br><br>Di seguito vi lasciamo i link per scaricare le varie app con il nostro codice invito incluso, cos&igrave; da guadagnarci qualcosa entrambi:
+
+CLICCA QUI PER SCARICARE CABIFY
+
+CLICCA QUI PER SCARICARE DIDI
+
+CLICCA QUI PER SCARICARE UBER
 
 ##### Il trasporto dall'aeroporto alla citt&agrave;
 
