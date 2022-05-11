@@ -301,7 +301,7 @@ Poi, abbiamo scoperto che il trasporto pubblico a Buenos Aires é molto efficien
 
 ##### *Trasporto pubblico a Buenos Aires*
 
-Partiamo dalle terminologie:
+Partiamo dalla terminologia:
 
 * il pullman: colectivo;
 * la metro: subte;
