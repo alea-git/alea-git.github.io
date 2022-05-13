@@ -487,13 +487,27 @@ La carne argentina é veramente di una qualit&agrave; superiore. In media, persi
 
 Il ristorante Don Julio pare essere tra i 3 migliori al mondo per la qualit&agrave; di carne, ti consigliamo di passarci.
 
-Per quanto riguarda il fast food, é tipico il choripan, un panino con un chorizo (una salsiccia di maiale) e, al massimo, con un po' di salsa chimichurri.
+Per quanto riguarda il fast food, é tipico il choripan, un panino con un chorizo (salsiccia di maiale) e, al massimo, con un po' di salsa chimichurri. Assolutamente da provare.
 
-Mate e Fernet Cola
+##### Mate e Fernet Cola
+
+Vero simbolo degli argentini, il mate:
+
+é una bevanda ricavata dall'infusione dell'erba mate.
+
+Dal gusto amaro, la preparazione e il consumo é un vero e proprio rito.
+
+Tantissime persone lo consumano per strada, con la propria borraccia termina per l'acqua calda. Si offre come segno di ospitalit&agrave; esattamente come gli italiani fanno con il caff&egrave;; prima della pandemia, era tradizione condividere lo stesso mate con pi&ugrave; persone.
+
+Il Fernet Cola, ovvero met&agrave; Coca Cola e met&agrave; amaro Fernet Branca, invece, é il cocktail pi&ugrave; diffuso tra i giovani di Buenos Aires.&nbsp;
+
+Da italiano é strano vedere come il Fernet, un amaro quasi difficile da trovare in Italia perché legato a tradizioni del passato, sia cos&igrave; in voga.
+
+D'altra parte é bello vedere come l'influenza degli immigrati italiani sia ancora cos&igrave; forte nella cultura odierna argentina.
+
+##### Altri prodotti tipici
 
 &nbsp;
-
-Altri prodotti tipici
 
 Alfajores, empanadas
 
