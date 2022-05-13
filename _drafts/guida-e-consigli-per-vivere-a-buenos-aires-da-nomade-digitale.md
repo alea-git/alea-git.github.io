@@ -525,10 +525,10 @@ Dato che piace molto, alcuni locali lo hanno aggiunto nel proprio men&ugrave;, s
 
 #### Lista di ristoranti e locali consigliati Buenos Aires
 
-&nbsp;
+Senza dilungarci troppo nella descrizione dei posti, ti lasciamo una lista con i luoghi che abbiamo provato e ci sono particolarmente piaciuti.
 
-* Chu&igrave; (posto particolare)
-* Atis Bar (una delle milanesi pi&ugrave; buone, posto particolare)
+* Chu&igrave; (posto suggestivo)
+* Atis Bar (una delle milanesi pi&ugrave; buone, posto suggestivo)
 * Alvear Roof Bar (miglior rooftop della citt&agrave;)
 * Sacro (ambiente di lusso e cucina raffinata e di qualit&agrave;)
 * Artemisia (ottimo per i vegani)
