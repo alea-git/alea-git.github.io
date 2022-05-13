@@ -55,6 +55,16 @@ Per quanto riguarda il ritorno, abbiamo optato per un volo LATAM con scalo a San
 
 Costo totale: €419,12.
 
+##### Il trasporto dall'aeroporto alla citt&agrave;
+
+Appena arrivati in citt&agrave;, senza ARS e senza internet sul telefono, abbiamo chiamato un taxi da uno degli stand presenti in aeroporto, pagando in euro.
+
+La destinazione era l'Airbnb in zona Palermo Soho, é costato € 30.
+
+Per il ritorno, da Palermo zona Las Ca&ntilde;itas, utilizzando DiDi e potendo pagare in valuta locale, il costo della corsa é stato di 2041 ARS, ovvero circa € 9,50.
+
+Quindi cerca di organizzarti prima, in modo da avere internet per utilizzare le app di ridesharing e il contante in peso per pagare.
+
 ## Assicurazione sanitaria&nbsp;
 
 Non sappiamo se l'assicurazione sanitaria é sempre stata necessaria per accedere in Argentina e se in questo momento esatto in cui stai leggendo questo articolo é ancora richiesto; il 14 gennaio 2022 era un requisito obbligatorio e pensiamo abbia senso condividere le nostre scelte, dato che questo passaggio ci ha fatto perdere parecchio tempo.
@@ -356,16 +366,6 @@ Per darti un'idea, 4.63 km di percorso, fatti in 21 minuti con Cabify, &nbsp;son
 L'app pi&ugrave; economica é DiDi, scaricabile solo cambiando il paese dell'app store su Argentina. Cabify e Uber sono pi&ugrave; o meno simili, anche se la prima é un pelo pi&ugrave; economica della seconda.<br><br>Di seguito vi lasciamo i link per scaricare Cabify con il nostro codice invito incluso, cos&igrave; da guadagnarci qualcosa entrambi:
 
 [CLICCA QUI PER SCARICARE CABIFY](https://cabify.com/i/alessandrt1033){: target="_blank" rel="noopener"}
-
-##### Il trasporto dall'aeroporto alla citt&agrave;
-
-Appena arrivati in citt&agrave;, senza ARS e senza internet sul telefono, abbiamo chiamato un taxi da uno degli stand presenti in aeroporto, pagando in euro.
-
-La destinazione era l'Airbnb in zona Palermo Soho, é costato € QUANTO.
-
-Per il ritorno, da Palermo zona Las Ca&ntilde;itas, utilizzando DiDi e potendo pagare in valuta locale, il costo della corsa é stato di 2041 ARS, ovvero circa € 9,50.
-
-Quindi cerca di organizzarti prima, in modo da avere internet per utilizzare le app di ridesharing e il contante in peso per pagare.
 
 ## <br>Clima
 
