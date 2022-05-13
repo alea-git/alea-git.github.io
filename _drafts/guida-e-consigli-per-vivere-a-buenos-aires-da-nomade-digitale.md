@@ -7,11 +7,11 @@ description: >-
 featured_image: /uploads/begin.jpg
 author: Alessandro Trezza
 ---
-> **Disclaimer**<br>Le nostre guide sono pensate per essere utili ad altri nomadi digitali, che, come noi, hanno gi&agrave; un proprio lavoro e vogliono vivere in un posto diverso da quello di residenza. Questo significa che non troverai info su come cambiare cittadinanza o trasferirti nel posto.
+> **Disclaimer**<br>Le nostre guide sono pensate per essere utili ad altri nomadi digitali che, come noi, hanno gi&agrave; un proprio lavoro e vogliono vivere in un posto diverso da quello di residenza. Questo significa che non troverai info su come cambiare cittadinanza o trasferirti nel posto.
 
 Buenos Aires é un posto fantastico.
 
-*Ma andiamo con ordine.*
+*Ok, con calma ti racconteremo tutto.*
 
 Dopo i due mesi e mezzo a Las Palmas *(da met&agrave; ottobre a dicembre 2021)*, abbiamo deciso di trasferirci a Buenos Aires, Argentina.
 
@@ -27,9 +27,11 @@ Con questa guida vorremmo racchiudere tutto ci&ograve; che abbiamo imparato sull
 
 *Come se stessimo chiacchierando al bar tra amici.*
 
-Abbiamo scelto di vivere a Buenos Aires per qualche mese perché &egrave; il posto pi&ugrave; caldo ed economico in cui lavorare durante i primi dell’anno, a parit&agrave; di confort con una citt&agrave; europea.
+Se ti stai chiedendo perché abbiamo scelto di vivere a Buenos Aires, la risposta é semplice:
 
-Quindi, iniziamo ad approfondire gli aspetti pi&ugrave; importanti da sapere se anche tu stai valutando di passare un periodo da nomade digitale a Buenos Aires.
+c'&egrave; sembrato il posto pi&ugrave; caldo ed economico in cui lavorare durante i primi dell’anno, senza dover rinunciare ai confort di una citt&agrave; europea.
+
+Quindi, se anche tu stai valutando di passare un periodo da nomade digitale a Buenos Aires, continua a leggere, cercheremo di darti tutte le info di cui necessiti per goderti la permanenza al meglio.
 
 ## Il viaggio: raggiungere Buenos Aires
 
@@ -45,9 +47,9 @@ Abbiamo preso il biglietto di andata a inizio novembre 2021, al costo di €498,
 
 A parte le 11 ore di volo tra Madrid e Santa Cruz &egrave; stata tutta un’attesa, passata perlopi&ugrave; a lavorare al pc, magiare e dormicchiare su sedie e pavimenti.
 
-&Eacute; stato comunque piacevole, tra amici il tempo sembra scorrere pi&ugrave; velocemente.
+*&Eacute; stato comunque piacevole, tra amici il tempo sembra scorrere pi&ugrave; velocemente.*
 
-In tutto il viaggio, degna di nota &egrave; la sala lounge all’aeroporto di Santa Cruz, che consigliamo:
+In tutto il viaggio, degna di nota &egrave; la sala lounge all’aeroporto di Santa Cruz, che, nel caso passassi da quelle parti, consigliamo:
 
 il posto é tranquillo, c’&egrave; il wifi e cibo/bevande illimitate, per €15 pagati in contanti per persona.&nbsp;
 
@@ -57,19 +59,19 @@ Costo totale: €419,12.
 
 ##### Il trasporto dall'aeroporto alla citt&agrave;
 
-Appena arrivati in citt&agrave;, senza ARS e senza internet sul telefono, abbiamo chiamato un taxi da uno degli stand presenti in aeroporto, pagando in euro.
+Appena arrivati in citt&agrave;, senza ARS (la valuta locale, il peso argentino) e senza internet sul telefono, abbiamo chiamato un taxi da uno degli stand presenti in aeroporto, pagando in euro.
 
-La destinazione era l'Airbnb in zona Palermo Soho, é costato € 30.
+La destinazione era l'Airbnb in zona Palermo Soho, la corsa é costata € 30.
 
 Per il ritorno, da Palermo zona Las Ca&ntilde;itas, utilizzando DiDi e potendo pagare in valuta locale, il costo della corsa é stato di 2041 ARS, ovvero circa € 9,50.
 
-Quindi cerca di organizzarti prima, in modo da avere internet per utilizzare le app di ridesharing e il contante in peso per pagare.
+Il vantaggio nel pagare in valuta locale é lapalissiano, quindi cerca di organizzarti prima, in modo da avere internet per utilizzare le app di ridesharing e il contante in peso per pagare (*pi&ugrave; avanti trattiamo entrambi gli argomenti*).
 
 ## Assicurazione sanitaria&nbsp;
 
 Non sappiamo se l'assicurazione sanitaria é sempre stata necessaria per accedere in Argentina e se in questo momento esatto in cui stai leggendo questo articolo é ancora richiesto; il 14 gennaio 2022 era un requisito obbligatorio e pensiamo abbia senso condividere le nostre scelte, dato che questo passaggio ci ha fatto perdere parecchio tempo.
 
-In particolare, la richiesta era di un'assicurazione sanitaria con copertura contro il Covid-19. In ogni caso il consiglio é di controllare sempre la pagina ufficiale del Ministero degli Affari Esteri, che [linkiamo qui](https://www.viaggiaresicuri.it/country/ARG){: target="_blank" rel="noopener"}.
+In particolare, la richiesta era di un'assicurazione sanitaria con copertura contro il Covid-19. In ogni caso il consiglio é di **controllare sempre la pagina ufficiale del Ministero degli Affari Esteri**, che [linkiamo qui](https://www.viaggiaresicuri.it/country/ARG){: target="_blank" rel="noopener"}.
 
 *Ma andiamo subito al sodo.*
 
@@ -144,9 +146,9 @@ Il costo della vita, per i nostri standard europei, &egrave; molto basso.
 
 &Eacute; un qualcosa che a noi ha colpito molto:
 
-in una citt&agrave; con i servizi di un paese sviluppato, locali moderni e prodotti ottimi, non ti aspetti di pagare un pranzo con meno di €2 o una corsa in taxi di 20 minuti con €3.
+in una citt&agrave; con i servizi di un paese sviluppato, locali moderni e prodotti ottimi, non ci aspettavamo di poter pagare un pranzo con meno di €2 o una corsa in taxi di 20 minuti con €3.
 
-*Insomma, poter vivere in una grande citt&agrave; come se fossimo in un paese di campagna di uno stato povero.*
+*Insomma, vivere in una grande citt&agrave; con lo stesso costo di vita che si pu&ograve; trovare in una citt&agrave; di provincia di uno stato poco sviluppato.*
 
 Questo &egrave; possibile per via della forte inflazione, un problema molto grave per il popolo argentino.
 
@@ -301,27 +303,27 @@ Il wifi si trova in quasi tutti i locali. Se cerchi posti in cui lavorare con il
 
 Bus, metro, Cabify, Uber, DiDi, taxi, bici, monopattini,&nbsp;
 
-Questa é un'altra di quelle sezioni che avremmo voluto leggere prima di arrivare in citt&agrave;.
+Questo é un altro argomento che avremmo dovuto conoscere prima di arrivare in citt&agrave;.
 
 Infatti, abbiamo passato il primo mese e mezzo spostandoci solamente con Uber e Cabify, le due app pi&ugrave; famose di ridesharing.
 
-Poi, abbiamo scoperto che il trasporto pubblico a Buenos Aires é molto efficiente e tanto economico.
+Poi abbiamo scoperto che il trasporto pubblico a Buenos Aires é molto efficiente e tanto economico.
 
 *Insomma, pure chi non é propenso ad usare il pullman o la metro, a Buenos Aires potrebbe ricredersi.*
 
-##### *Trasporto pubblico a Buenos Aires*
+##### Trasporto pubblico a Buenos Aires
 
 Partiamo dalla terminologia:
 
 * il pullman: colectivo;
 * la metro: subte;
-* la carta per il trasporto pubblico si chiama tarjeta Sube.
+* la carta per il trasporto pubblico: tarjeta Sube.
 
-Con la Sube hai accesso a tutti i mezzi pubblici, ovvero pullman, metro e treno. &Eacute; un sistema integrato, questo significa che, prendendo un pullman e subito dopo il treno, la seconda corsa avr&agrave; uno sconto automatico applicato.
+Con la Sube hai accesso a tutti i mezzi pubblici, ovvero pullman, metro e treno. &Eacute; un sistema integrato, questo significa che, prendendo un pullman e subito dopo il treno, la seconda corsa avr&agrave; uno sconto applicato automaticamente.
 
 La carta Sube la puoi trovare nei Kiosco convenzionati oppure in una dei molteplici Loteria De La Ciudad ([qui il link](https://tarjetasube.sube.gob.ar/SubeWeb/WebForms/admin/views/mapa-sube.aspx?id=1){: target="_blank" rel="noopener"} per trovare il punto vendita pi&ugrave; vicino).
 
-&Eacute; costata 90 ARS (circa €0,4), pochissimo, e il credito si ricarica direttamente dove di acquista.
+&Eacute; costata 90 ARS (circa €0,4), pochissimo, e il credito si ricarica direttamente dove si acquista.
 
 ##### Il pullman (colectivo)
 
@@ -341,7 +343,7 @@ Passano spesso, pi&ugrave; o meno in orario, e si controllano facilmente con Goo
 
 Inaugurata nel 1913, é la prima metropolitana del Latino America e prima anche tra gli stati in lingua spagnola (quella di Madrid é attiva dal 1919).
 
-Sono sette linee che attraversano quasi ogni parte della citt&agrave;, &egrave; davvero comoda ed efficiente.
+Sono sette linee che attraversano quasi ogni parte della citt&agrave;, &egrave; comoda ed efficiente.
 
 Costa 30 ARS e si paga esclusivamente tramite carta Sube.
 
@@ -349,7 +351,7 @@ Costa 30 ARS e si paga esclusivamente tramite carta Sube.
 
 Personalmente l'abbiamo utilizzato solo per raggiungere Tigre, una citt&agrave; nella provincia di Buenos Aires.
 
-Anche questo mezzo costa molto poco, anche per tratte lunghe.&nbsp;
+Anche questo mezzo costa molto poco, anche per tratte lunghe, nonostante siano nuovi e comodi.&nbsp;
 
 *Un'ora di treno &egrave; costato circa 18 ARS.*
 
@@ -357,36 +359,55 @@ Anche questo mezzo costa molto poco, anche per tratte lunghe.&nbsp;
 
 Come anticipato ad inizio sezione, la prima parte della nostra permanenza l'abbiamo passata spostandoci solamente con Cabify prima e DiDi dopo.&nbsp;
 
-Non conoscevamo quanto fosse efficiente il trasporto pubblico e i prezzi di una corsa in ridesharing é davvero molto basso, soprattutto se divisa in due persone.
+Non conoscevamo quanto fosse efficiente il trasporto pubblico e il prezzo di una corsa in ridesharing é davvero molto basso, soprattutto se divisa in due persone.
 
-Per darti un'idea, 4.63 km di percorso, fatti in 21 minuti con Cabify, &nbsp;sono costati 380 ARS, circa €1,8.
+Per farti un'idea, 4.63 km di percorso, fatti in 21 minuti con Cabify, &nbsp;sono costati 380 ARS, circa €1,8.
 
-*Capisci che spesso passa la voglia di prendere un bus affollato.*
+*Di conseguenza succede che spesso passa la voglia di prendere un bus affollato.*
 
 L'app pi&ugrave; economica é DiDi, scaricabile solo cambiando il paese dell'app store su Argentina. Cabify e Uber sono pi&ugrave; o meno simili, anche se la prima é un pelo pi&ugrave; economica della seconda.<br><br>Di seguito vi lasciamo i link per scaricare Cabify con il nostro codice invito incluso, cos&igrave; da guadagnarci qualcosa entrambi:
 
 [CLICCA QUI PER SCARICARE CABIFY](https://cabify.com/i/alessandrt1033){: target="_blank" rel="noopener"}
 
+##### Considerazioni finali sul trasporto&nbsp;
+
+Nonostante sia molto economico il ridesharing, alla fine abbiamo iniziato ad utilizzare la metro per i nostri spostamenti.
+
+Un po' perché non ci pesa fare due passi dopo tutto il tempo che passiamo seduti davanti ai nostri pc, un po' perché ci piace l'idea di vivere la citt&agrave; come le persone del posto.
+
+Detto questo, dopo le undici di notte abbiamo spesso optato per una macchina.
+
 ## <br>Clima
 
 ## <br>Posti un cui lavorare
 
-&nbsp;
+A Buenos Aires sono presenti diversi co-working. Noi, per&ograve;, abbiamo preferito i bar, in parallelo al lavoro da casa.
+
+Ovviamente, dato che non abbiamo provato i cowo non ne parleremo, per&ograve; abbiamo una lista di locali in cui ci siamo ricordati di segnarci la velocit&agrave; di internet e pi&ugrave; o meno i prezzi, ci auguriamo ti sia utile a risparmiare tempo.
+
+In generale, Palermo é la zona in cui si concentrano tutti i posti idonei per stare con un pc per molto tempo.
+
+In zona microcentro (Montserrant ma anche pi&ugrave; a sud, verso San Telmo) abbiamo avuto difficolt&agrave; a trovare un luogo adatto.&nbsp;
+
+Tieni presente che i prezzi sul men&ugrave;, in base all'andamento dell'inflazione, vengono aggiornati. Di conseguenza, ci&ograve; che abbiamo annotato tra gennaio e aprile 2022 potrebbe non essere pi&ugrave; valido nel momento in cui stai leggendo questa guida.
 
 ##### Padre Coffee Roasters
 
 * PING 14 ms,
 * Download 93.38 Mbps,
 * Upload 28.29 Mbps.
-* Prezzi: Espresso 150, T&egrave; 350, Coca Zero 200Particolarit&agrave;:
+* Prezzi: Espresso 150, T&egrave; 350, Coca Zero 200
 
-##### Paris Crepas
+##### Paris Crepas&nbsp;
+
+*(il nostro preferito per via dei prezzi, comodit&agrave; e internet)*
 
 * PING 18 ms,
-* Download 315.92 Mbps,
+* Download 315.92 Mbps
 * Upload 27,77 Mbps.
 * Enchufe: S&igrave;
-* Prezzi: il t&egrave; costa 200 (per il momento),
+* Prezzi: il t&egrave; costa 200&nbsp;
+* Particolarit&agrave;: al piano superiore ha un grande tavolo con prese in cui é molto comodo e piacevole lavorare
 
 ##### BBlue
 
@@ -403,9 +424,9 @@ L'app pi&ugrave; economica é DiDi, scaricabile solo cambiando il paese dell'app
 * Upload 15,66 Mbps.
 * Enchufe: Non presenti nel rooftop
 * Prezzi: 200 un t&egrave;/caff&egrave;
-* Particolarit&agrave;: C’&egrave; un rooftop riparato dal vento e con ombrelli in cui si lavora bene, le sedie di tela non troppo comode ma c’&egrave; di peggio
+* Particolarit&agrave;: C’&egrave; un rooftop riparato dal vento e con ombrelli anti-sole in cui si lavora bene, le sedie di tela non troppo comode ma c’&egrave; di peggio
 
-##### Cafe Martinez
+##### Cafe Martinez QUALE??
 
 * PING 18 ms,
 * Download 100MBps,
@@ -421,7 +442,7 @@ L'app pi&ugrave; economica é DiDi, scaricabile solo cambiando il paese dell'app
 * Upload 23 Mbps
 * Enchufe: Si, in alcuni tavoli attaccati al muro
 * Prezzi: 230 per un americano, medio alti in generale
-* Particolarit&agrave;: posto con design moderno e luci soffuse, carino per lavorare, attenzione che si mangia anche quindi ci potrebbe essere odore di cibo. Durante orario di punta molto affollato.
+* Particolarit&agrave;: posto con design moderno e luci soffuse, carino per lavorare. Durante orario di punta molto affollato.
 
 ##### All Saints Cafe
 
@@ -434,17 +455,29 @@ L'app pi&ugrave; economica é DiDi, scaricabile solo cambiando il paese dell'app
 
 ##### &nbsp;
 
-##### La Viruta Club Tango
+A Buenos Aires c'&egrave; tanto da fare. Tra vari quartieri, musei e locali storici, é molto difficile annoiarsi.
 
-&nbsp;
+Per darti uno spunto e farti risparmiare un po' di tempo nella ricerca, di seguito ti lasciamo una lista di posti consigliati.
 
-##### Bosque de Palermo
+* La Viruta Club Tango
+* Bosque de Palermo
+* El Caminito (La Boca)
+* Puerto Madero
+* MUSEI?? ALTRI POSTI?
 
-&nbsp;
+##### <br>Posti in cui mangiare e piatti tipici
 
-## <br>Posti in cui mangiare
+Fare un pranzo o una cena fuori &egrave; molto economico. L'ultimo mese e mezzo di permanenza abbiamo praticamente smesso di fare la spesa e siamo passati a poké per &nbsp;pranzo e cene fuori (o in delivery, grazie alle app PedidosYA e Rappi).
 
-Fare un pranzo o una cena fuori &egrave; molto economico.
+La pizza argentina é una particolarit&agrave; che devi provare. Nel momento in cui smetti di paragonarla a quella italiana, é buona.&nbsp;
+
+Insomma, é un gusto diverso da ci&ograve; che siamo abituati.
+
+&Eacute; alta, con molto formaggio; non c'&egrave; l'usanza di prendersi una pizza solo per s&egrave;, solitamente si condivide (perché troppo pesante).
+
+I posti storici in cui mangiarla sono da Guerrin, El Cuartito e Banchero. Se vuoi provare la fugazzetta (ovvero la piazza argentina caratterizzata da tanto formaggio e tanta cipolla) pi&ugrave; famosa, devi andare a La Mazzetta.
+
+Tra tutte le pizze argentine che abbiamo provato, a noi é piaciuta molto quella di Picsa (in Nicaragua 4896).&nbsp;
 
 ##### &nbsp;
 
