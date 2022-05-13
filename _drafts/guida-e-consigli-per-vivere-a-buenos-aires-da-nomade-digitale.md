@@ -481,13 +481,15 @@ I posti storici in cui mangiarla sono da Guerrin, El Cuartito e Banchero. Se vuo
 
 Tra tutte le pizze argentine che abbiamo provato, a noi é piaciuta molto quella di Picsa (in Nicaragua 4896).&nbsp;
 
-##### La carne alla griglia, ovvero l'asado
+##### La carne alla griglia, ovvero l'asado, e fast food
 
 La carne argentina é veramente di una qualit&agrave; superiore. In media, persino quella nei supermercati, é proprio buona.
 
 Il ristorante Don Julio pare essere tra i 3 migliori al mondo per la qualit&agrave; di carne, ti consigliamo di passarci.
 
 Per quanto riguarda il fast food, é tipico il choripan, un panino con un chorizo (salsiccia di maiale) e, al massimo, con un po' di salsa chimichurri. Assolutamente da provare.
+
+Anche le empanadas appartengono al fast food tipico di Buenos Aires, costano poco e sono molto buoni.
 
 ##### Mate e Fernet Cola
 
@@ -503,75 +505,38 @@ Il Fernet Cola, ovvero met&agrave; Coca Cola e met&agrave; amaro Fernet Branca, 
 
 Da italiano é strano vedere come il Fernet, un amaro quasi difficile da trovare in Italia perché legato a tradizioni del passato, sia cos&igrave; in voga.
 
-D'altra parte é bello vedere come l'influenza degli immigrati italiani sia ancora cos&igrave; forte nella cultura odierna argentina.
+D'altra parte é bello vedere come l'influenza degli immigrati italiani sia ancora forte nella cultura odierna argentina.
 
-##### Altri prodotti tipici
+##### Dolci: Alfajores e chocotorta
 
-&nbsp;
+Se chiedi ad un argentino l'origine geografica degli alfajores, un dolce di cioccolato e dulce de leche, ti risponder&agrave; l'Argentina.
 
-Alfajores, empanadas
+In realt&agrave; pare siano dolci di origini arabe o comunque spagnole.
 
-##### &nbsp;
+*Se provi a riferirlo ad uno del posto non la prender&agrave; bene.*
 
-##### Street Food a Buenos Aires
+In Argentina, comunque, é un dolce molto celebrato e, per questo motivo, in diverse zone troverai modi diversi di produrlo e gusti particolari.
 
-&nbsp;
+I pi&ugrave; buoni a Buenos Aires pare siano quelli di Havanna e di Cachafaz.
 
-&nbsp;
+La chocotorta, invece, é un dolce delle nuove generazioni, fatto da uno specifico tipo di biscotto, la chocolina, e (tanto) dulce de leche. Negli ultimi anni é diventato un po' l'equivalente del nostro tiramis&ugrave;, si mangia principalmente in casa, in occasione di festeggiamenti per il compleanno.
 
-#### Rooftop e aperitivi a Buenos Aires
+Dato che piace molto, alcuni locali lo hanno aggiunto nel proprio men&ugrave;, soprattutto piccoli bar o birrerie.
 
-&nbsp;
-
-##### Alvear Roof Bar
+#### Lista di ristoranti e locali consigliati Buenos Aires
 
 &nbsp;
 
-##### Mercato Soho
-
-#### &nbsp;
-
-#### Pizzerie a Buenos Aires
-
-&nbsp;
-
-#### Ristoranti a Buenos Aires
-
-##### &nbsp;
-
-##### Chu&igrave;
-
-&nbsp;
-
-##### Artemisia
-
-&nbsp;
-
-##### Club la Milanesa
-
-&nbsp;
-
-##### Bellagamba Bodeg&ograve;n&nbsp;
-
-##### &nbsp;
-
-##### Burger Joint
-
-&nbsp;
-
-##### Encuentro Nativo
-
-&nbsp;
-
-#### Gelaterie a Buenos Aires
-
-## &nbsp;
-
-##### Rapa Nui
-
-&nbsp;
-
-##### Vegan Creamery by Haulani
+* Chu&igrave; (posto particolare)
+* Atis Bar (una delle milanesi pi&ugrave; buone, posto particolare)
+* Alvear Roof Bar (miglior rooftop della citt&agrave;)
+* Sacro (ambiente di lusso e cucina raffinata e di qualit&agrave;)
+* Artemisia (ottimo per i vegani)
+* Bellagamba Bodeg&ograve;n (prezzi bassi e posto caratteristico)
+* Mercato Soho
+* Encuentro Nativo (molto turistico)
+* Rapa Nui (miglior gelateria)
+* Vegan Creamery by Haulani (miglior gelateria vegana)
 
 ## <br>Attivit&agrave; fisica
 
