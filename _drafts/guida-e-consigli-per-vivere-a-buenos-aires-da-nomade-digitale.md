@@ -465,9 +465,11 @@ Per darti uno spunto e farti risparmiare un po' di tempo nella ricerca, di segui
 * Puerto Madero
 * MUSEI?? ALTRI POSTI?
 
-##### <br>Posti in cui mangiare e piatti tipici
+#### <br>Posti in cui mangiare e piatti tipici
 
 Fare un pranzo o una cena fuori &egrave; molto economico. L'ultimo mese e mezzo di permanenza abbiamo praticamente smesso di fare la spesa e siamo passati a poké per &nbsp;pranzo e cene fuori (o in delivery, grazie alle app PedidosYA e Rappi).
+
+##### La piazza argentina
 
 La pizza argentina é una particolarit&agrave; che devi provare. Nel momento in cui smetti di paragonarla a quella italiana, é buona.&nbsp;
 
@@ -479,9 +481,27 @@ I posti storici in cui mangiarla sono da Guerrin, El Cuartito e Banchero. Se vuo
 
 Tra tutte le pizze argentine che abbiamo provato, a noi é piaciuta molto quella di Picsa (in Nicaragua 4896).&nbsp;
 
+##### La carne alla griglia, ovvero l'asado
+
+La carne argentina é veramente di una qualit&agrave; superiore. In media, persino quella nei supermercati, é proprio buona.
+
+Il ristorante Don Julio pare essere tra i 3 migliori al mondo per la qualit&agrave; di carne, ti consigliamo di passarci.
+
+Per quanto riguarda il fast food, é tipico il choripan, un panino con un chorizo (una salsiccia di maiale) e, al massimo, con un po' di salsa chimichurri.
+
+Mate e Fernet Cola
+
+&nbsp;
+
+Altri prodotti tipici
+
+Alfajores, empanadas
+
 ##### &nbsp;
 
-#### Street Food a Buenos Aires
+##### Street Food a Buenos Aires
+
+&nbsp;
 
 &nbsp;
 
