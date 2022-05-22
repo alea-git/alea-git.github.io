@@ -381,7 +381,7 @@ Detto questo, dopo le undici di notte abbiamo spesso optato per una macchina.
 
 Se anche tu, come noi, cerchi di fuggire dall'inverno europeo, sappi che Buenos Aires é un'ottima opzione anche sotto questo punto di vista.
 
-Infatti, gennaio e febbraio sono i mesi estivi, in cui fa molto caldo.
+Infatti, dicembre, gennaio e febbraio sono i mesi estivi, in cui fa molto caldo.
 
 Questo significa che, soprattutto a gennaio, la citt&agrave; é mezza vuota perché tutti i locals si spostano nei paesi di mare, come Mar del Plata o Pinamar.
 
@@ -389,7 +389,9 @@ In effetti fa tanto caldo, anche oltre i 40 gradi.
 
 *Non il massimo per vivere in citt&agrave;.*
 
-Da aprile in poi le temperature si abbassano, con l'arrivo dell'inverno.
+Da aprile in poi le temperature si abbassano, con l'arrivo dell'inverno, sino a giugno/luglio, che sono i mesi pi&ugrave; freddi.
+
+Insomma, se lo scopo é stare al caldo, da dicembre a marzo non puoi sbagliare.
 
 ## <br>Posti un cui lavorare
 
