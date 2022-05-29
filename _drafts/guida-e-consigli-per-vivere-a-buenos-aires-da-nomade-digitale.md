@@ -475,6 +475,10 @@ Per darti uno spunto e farti risparmiare un po' di tempo nella ricerca, di segui
 
 * La Viruta Club Tango
 * Bosque de Palermo
+* Ecoparque
+* Paseo El Rosedal
+* Planetario Galileo Galilei
+* Jard&iacute;n Japonés
 * El Caminito (La Boca)
 * Puerto Madero
 * MUSEI?? ALTRI POSTI?
@@ -544,6 +548,7 @@ Senza dilungarci troppo nella descrizione dei posti, ti lasciamo una lista con i
 * Chu&igrave; (posto suggestivo)
 * Atis Bar (una delle milanesi pi&ugrave; buone, posto suggestivo)
 * Alvear Roof Bar (miglior rooftop della citt&agrave;)
+* Bar Tortoni (bar storico, con spettacolo di tango)
 * Sacro (ambiente di lusso e cucina raffinata e di qualit&agrave;)
 * Artemisia (ottimo per i vegani)
 * Bellagamba Bodeg&ograve;n (prezzi bassi e posto caratteristico)
@@ -554,17 +559,78 @@ Senza dilungarci troppo nella descrizione dei posti, ti lasciamo una lista con i
 
 ## <br>Attivit&agrave; fisica
 
-##### &nbsp;
+Buenos Aires é una grande citt&agrave;, ormai avrai capito che é pieno di attivit&agrave; da fare.
+
+Lo sport non é da meno.
+
+Quando ci spostiamo in un posto nuovo, una delle prime cose che facciamo é interessarci a dove poter fare running e in quale palestra iscriverci.
+
+In questa sezione parleremo anche del tango, caratteristica fondamentale di Buenos Aires di cui abbiamo parecchio da dire (e probabilmente non é ci&ograve; che ti aspetti).
+
+Yoga
 
 ##### Running in Buenos Aires
 
-&nbsp;
+Sono tante le persone che fanno running in citt&agrave; e spesso organizzano anche competizioni amatoriali e non.
+
+*&Eacute; proprio un piacere correre a Buenos Aires.*
+
+Principalmente ci sono due posti in cui praticare le proprie sessioni di corsa, che sono:
+
+* Bosques de Palermo
+* Puerto Madero / Reserva Ecologica Costanera Sur
+
+Tendenzialmente un allenamento di 10 km si riesce a fare senza alcun problema in entrambi i posti.
+
+Volendo, con un po' di fantasia, si riesce a fare anche tragitti pi&ugrave; lunghi.
+
+In particolare per il Bosques de Palermo, partendo dal Jard&iacute;n Bot&aacute;nico Carlos Thays, passando per Plaza Italia e Avenida Sarmiento, si arriva al Paseo del Rosedal, parco molto suggestivo e piacevole.&nbsp;
+
+Da quel punto si raggiunge il Bosques tramite un ponte.
+
+Per facilitarti la vita, ti consiglio di seguire questo tragitto (appurato dopo diversi tentativi, credo sia la soluzione migliore se abiti a sud del Jardin Bot&aacute;nico):
+
+Della Reserva Ecologica devi sapere una curiosit&agrave; fondamentale:
+
+quando piove, per i successivi due/tre giorni almeno é tutto allagato e, di conseguenza, inagibile.&nbsp;
+
+Purtroppo l'unica volta che ho provato questo percorso aveva piovuto da poco, quindi sono riuscito a fare ben poco.
 
 ##### Palestre di Buenos Aires
 
-&nbsp;
+Ci sono molte palestre in citt&agrave;, anche specifiche per CrossFit.&nbsp;
+
+Il costo medio &egrave; sui €25/30 al mese, dipende da quali servizi aggiuntivi scegli.
+
+Ad esempio, noi abbiamo scelto la Well Club Arenales che, per un mese con sala pesi e palestra, é costata 7000 ARS (intorno ai €30).
+
+*Poi la piscina era di 18 metri e profonda 80cm, ma vab&egrave;.*
 
 ##### Tango a Buenos Aires
+
+Dopo anni e anni ad ascoltare i Gotan Project, le aspettative per quanto riguarda il tango erano molto alte.
+
+Nonostante siamo due obiettivamente non portati per il ballo, pur di vivere un'esperienza local, eravamo entrambi pronti a buttarci in questa tradizione del posto.
+
+Poi, frequentando persone porte&ntilde;e (cio&egrave; di Buenos Aires), abbiamo scoperto un fatto amaro:
+
+il tango, dalle nuove generazioni, é visto come qualcosa da vecchi.
+
+*Un po' come noi italiano viviamo la lirica.*
+
+Un vero peccato.
+
+Per&ograve;, se ti interessa comunque scoprire il ballo proibito, abbiamo delle info utili da darti.
+
+San Telmo é il quartiere in cui si respira ancora un po' dell'antica atmosfera dei primi del 900, con locali caratteristici in cui si svolgono gli spettacoli.
+
+Il consiglio principale é quello di lasciare perdere i tango show, fatti per turisti e inutilmente costosi, dei locali pi&ugrave; famosi e buttati in una Milonga, ovvero il luogo in cui si balla il tango. Noi siamo andati al Viruta Club Tango.
+
+*La milonga é anche un tipo di ballo, una sorta di tango pi&ugrave; veloce.*
+
+Tra l'altro, consigliamo il Viruta anche nel caso volessi prendere delle lezioni.
+
+Un altro posto in cui devi andare
 
 ## <br>Dove fare la spesa
 
