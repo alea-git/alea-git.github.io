@@ -475,6 +475,7 @@ Per darti uno spunto e farti risparmiare un po' di tempo nella ricerca, di segui
 
 * La Viruta Club Tango
 * Bosque de Palermo
+* Barrancas de Belgrano
 * Ecoparque
 * Paseo El Rosedal
 * Planetario Galileo Galilei
@@ -630,27 +631,41 @@ Il consiglio principale é quello di lasciare perdere i tango show, fatti per tu
 
 Tra l'altro, consigliamo il Viruta anche nel caso volessi prendere delle lezioni.
 
-Un altro posto in cui devi andare
+Un altro posto in cui dovresti andare é Barrancas de Belgrano, un parco molto bello in cui é presente un gazebo.
+
+Verso il tramonto le persone iniziano a trovarsi per ballare insieme:
+
+davvero molto suggestivo e romantico, super consigliato.
 
 ## <br>Dove fare la spesa
 
-##### D&igrave;a
+Fare la spesa é un'arte.&nbsp;
 
-&nbsp;
+*Perlomeno, a noi piace pensarla cos&igrave;.*
 
-##### Cotu&nbsp;
+Ci sono molti supermercati in giro per la citt&agrave;, sia di catene che di privati.
 
-&nbsp;
+Le pi&ugrave; famose sono:
 
-##### Carrefour
+* D&igrave;a
+* Coto
+* Carrefour
+* Disco
+* Jumbo
 
-&nbsp;
+Ora, dipende tutto dalla posizione in cui abiti.
 
-##### Disco
+Personalmente, ci siamo trovati bene con D&igrave;a e Coto (molto famoso il Coto vicino all'uscita del subte Scalabrini Ortiz, c'&egrave; di tutto).
 
-&nbsp;
+Disco e Jumbo sono spesso molto grandi, ci sono stati consigliati per via di una vasta scelta di prodotti importati dall'Italia (che ovviamente costano tanto).
 
-##### Jumbo
+Una peculiarit&agrave; che abbiamo notato é l'attesa alle casse, é assurdo quanto tempo si perda se sbagli giorno/orario (i fine settimana sono terribili).
+
+*Ci sono sempre poche casse aperte e troppe persone che acquistano.*
+
+&Eacute; molto importante, nel caso volessi risparmiare, acquistare carne, frutta e verdura nei negozietti locali, che si chiamano *carniceria*&nbsp;e *verduleria.*
+
+Anche la frutta secca é consigliata acquistarla nei negozi specifici (si risparmia anche il 25%), che per&ograve; non sappiamo se hanno un particolare nome. Sono diversi comunque, non sar&agrave; difficile imbattersi in uno.
 
 ## <br>Fare amicizie offline e online
 
