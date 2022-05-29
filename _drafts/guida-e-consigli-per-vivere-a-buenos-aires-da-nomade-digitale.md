@@ -158,7 +158,7 @@ Il nostro primo Airbnb &egrave; costato intorno ai €1000 al mese; da considera
 
 Anche il secondo Aibnb é costato sui €1000 per un mese, questa volta in zona San Telmo, vicino alla fermata della metro Belgrano.&nbsp;
 
-La terza e ultima casa, presa per dieci giorni, é costa €275, in zona Las Ca&ntilde;itas.
+La terza e ultima casa, presa per sette giorni, é costata €275, in zona Las Ca&ntilde;itas.
 
 In generale, grazie al cambio Blue, tutto é molto economico (tranne l'abbigliamento) per chi ha uno stipendio in euro/dollari.
 
