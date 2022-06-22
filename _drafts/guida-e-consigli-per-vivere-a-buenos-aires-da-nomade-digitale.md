@@ -675,7 +675,7 @@ In pi&ugrave;, il fascino che emana in tutto il mondo l'ha resa una meta interna
 
 Gi&agrave; questo basterebbe per fare intendere che di certo le persone non sono un problema, essendo tante e di ogni genere.
 
-Gli argentini, comunque, ci sono sembrate persone dirette e aperte, pronte a dare una mano e a coinvolgere sconosciuti alle loro feste/uscite dopo aver scambiato solo qualche parola.
+Gli argentini, comunque, ci sono sembrati diretti e aperti, pronti a dare una mano e a coinvolgere sconosciuti alle loro feste/uscite dopo aver scambiato solo qualche parola.
 
 *Non sono diffidenti.*
 
