@@ -667,7 +667,23 @@ Anche la frutta secca é consigliata acquistarla nei negozi specifici (si rispar
 
 ## <br>Fare amicizie offline e online
 
-&nbsp;
+Con quasi 3 milioni di abitanti, Buenos Aires &egrave; uno dei principali punti di convergenza delle popolazioni latinoamericane.
+
+Questo si traduce in una grande diversit&agrave; culturale.
+
+In pi&ugrave;, il fascino che emana in tutto il mondo l'ha resa una meta internazionale, rendendo facile incontrare altri viaggiatori.
+
+Gi&agrave; questo basterebbe per fare intendere che di certo le persone non sono un problema, essendo tante e di ogni genere.
+
+Gli argentini, comunque, ci sono sembrate persone dirette e aperte, pronte a dare una mano e a coinvolgere sconosciuti alle loro feste/uscite dopo aver scambiato solo qualche parola.
+
+*Non sono diffidenti.*
+
+La conseguenza di questo clima rilassato nel modo di relazionarsi si ripercuote con il dating.
+
+&Egrave; sufficiente utilizzare un'app di dating per entrare in contatto con tantissime persone, &egrave; davvero molto facile che scatti un match dopo aver fatto uno swipe.
+
+*Attenzione alla produttivit&agrave;, entiendes?*
 
 ## <br>Conclusioni
 
