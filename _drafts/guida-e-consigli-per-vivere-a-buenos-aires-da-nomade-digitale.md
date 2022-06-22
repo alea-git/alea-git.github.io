@@ -17,6 +17,8 @@ Dopo i due mesi e mezzo a Las Palmas *(da met&agrave; ottobre a dicembre 2021)*,
 
 Situata nella parte meridionale dell’America Latina, dicembre e gennaio sono i mesi estivi, in cui le temperature arrivano anche oltre i 40 gradi.
 
+![](/uploads/mappa-buenos-aires-dov-è.webp){: width="1684" height="1364"}
+
 Insomma, il tempo di festeggiare Natale in famiglia e siamo partiti verso il caldo, il 14 gennaio 2022.
 
 L'idea era di fare due mesi, alla fine abbiamo prolungato fino ad inizio maggio, praticamente quattro mesi.
@@ -49,9 +51,11 @@ A parte le 11 ore di volo tra Madrid e Santa Cruz &egrave; stata tutta un’atte
 
 *&Eacute; stato comunque piacevole, tra amici il tempo sembra scorrere pi&ugrave; velocemente.*
 
-In tutto il viaggio, degna di nota &egrave; la sala lounge all’aeroporto di Santa Cruz, che, nel caso passassi da quelle parti, consigliamo:
+In tutto il viaggio, degna di nota &egrave; la sala lounge *Mercantil Santa Cruz* all’aeroporto di Santa Cruz, che, nel caso passassi da quelle parti, consigliamo:
 
 il posto é tranquillo, c’&egrave; il wifi e cibo/bevande illimitate, per €15 pagati in contanti per persona.&nbsp;
+
+![](/uploads/lounge-aeroporto-bolivia.webp){: width="768" height="1024"}
 
 Per quanto riguarda il ritorno, abbiamo optato per un volo LATAM con scalo a San Paolo, cos&igrave; da prendere una camera in un hotel vicino all'aeroporto per alleggerire un po' il viaggio prima di prendere un altro LATAM per Milano Malpensa.
 
@@ -93,10 +97,12 @@ Ad essere sinceri, i controlli in dogana sono stati una pura formalit&agrave;; d
 
 Appena si inizia a cercare informazioni sulla sicurezza di Buenos Aires, che sia su internet o da persone che ci sono state, abbiamo notato che due consigli in particolare erano ricorrenti:
 
-* non uscire dal limite segnato dalla Ruta Nationl A001 e Rio Matanza-Riachuelo, ovvero l’autostrada e il fiume che segnano il confine tra Buenos Aires e la provincia;
+* non uscire dal limite segnato dalla Ruta Nationl A001 e Rio Matanza-Riachuelo, ovvero l’autostrada e il fiume che segnano il confine tra Buenos Aires e la provincia;![](/uploads/confine-buenos-aires.webp){: width="1684" height="1364"}
 * non vestirsi in modo troppo appariscente, soprattutto indossando accessori costosi.
 
 Sono consigli validi, anche se, a dire il vero, non ci siamo mai sentiti in pericolo.
+
+In particolare, consigliamo di tenere il discorso del confine come riferimento generico, non come una regola ferrea; noi stessi siamo usciti dalla linea rossa andando a nord, una zona abitata dai facoltosi della citt&agrave;.
 
 Ci sono delle zone in Buenos Aires in cui, semplicemente, non devi andarci, come INSERIRE ZONE PERICOLOSE
 
