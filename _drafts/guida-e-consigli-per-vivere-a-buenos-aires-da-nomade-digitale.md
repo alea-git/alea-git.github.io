@@ -689,8 +689,8 @@ La conseguenza di questo clima rilassato nel modo di relazionarsi si ripercuote 
 
 Abbiamo amato Buenos Aires, ci ha regalato quattro mesi intensi, con una qualit&agrave; di vita davvero alta, tra costo della vita economico, vasta offerta culturale e relazioni personali significative.
 
-Ci torneremo il prossimo gennaio (e probabilmente sar&agrave; l'occasione per arricchire ancora di pi&ugrave; questa guida):
+*Tenore di vita da ricchi, posti fantastici, eventi, belle persone, cos'altro puoi volere?*
 
-ogni altra considerazione &egrave; superflua.
+Ci torneremo il prossimo gennaio *(probabilmente sar&agrave; l'occasione per arricchire ancora di pi&ugrave; questa guida)* e questo pensiamo sia il modo migliore per consigliare un posto a qualcuno.
 
 &nbsp;
