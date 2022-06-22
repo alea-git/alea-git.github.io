@@ -694,7 +694,3 @@ Ci torneremo il prossimo gennaio (e probabilmente sar&agrave; l'occasione per ar
 ogni altra considerazione &egrave; superflua.
 
 &nbsp;
-
-<br>&nbsp;
-
-&nbsp;
