@@ -11,7 +11,7 @@ author: Alessandro Trezza
 
 Buenos Aires é un posto fantastico.
 
-*Ok, con calma ti racconteremo tutto.*
+*Ok, calma, andiamo con ordine.*
 
 Dopo i due mesi e mezzo a Las Palmas *(da met&agrave; ottobre a dicembre 2021)*, abbiamo deciso di trasferirci a Buenos Aires, Argentina.
 
@@ -568,8 +568,6 @@ Quando ci spostiamo in un posto nuovo, una delle prime cose che facciamo é inte
 
 In questa sezione parleremo anche del tango, caratteristica fondamentale di Buenos Aires di cui abbiamo parecchio da dire (e probabilmente non é ci&ograve; che ti aspetti).
 
-Yoga
-
 ##### Running in Buenos Aires
 
 Sono tante le persone che fanno running in citt&agrave; e spesso organizzano anche competizioni amatoriali e non.
@@ -613,11 +611,11 @@ Dopo anni e anni ad ascoltare i Gotan Project, le aspettative per quanto riguard
 
 Nonostante siamo due obiettivamente non portati per il ballo, pur di vivere un'esperienza local, eravamo entrambi pronti a buttarci in questa tradizione del posto.
 
-Poi, frequentando persone porte&ntilde;e (cio&egrave; di Buenos Aires), abbiamo scoperto un fatto amaro:
+Poi, frequentando persone porte&ntilde;e *(cio&egrave; di Buenos Aires)*, abbiamo scoperto l'amara verit&agrave;:
 
 il tango, dalle nuove generazioni, é visto come qualcosa da vecchi.
 
-*Un po' come noi italiano viviamo la lirica.*
+*Un po' come noi italiani viviamo la lirica.*
 
 Un vero peccato.
 
@@ -661,7 +659,7 @@ Disco e Jumbo sono spesso molto grandi, ci sono stati consigliati per via di una
 
 Una peculiarit&agrave; che abbiamo notato é l'attesa alle casse, é assurdo quanto tempo si perda se sbagli giorno/orario (i fine settimana sono terribili).
 
-*Ci sono sempre poche casse aperte e troppe persone che acquistano.*
+*Ci sono sempre poche casse aperte e troppe persone in fila.*
 
 &Eacute; molto importante, nel caso volessi risparmiare, acquistare carne, frutta e verdura nei negozietti locali, che si chiamano *carniceria*&nbsp;e *verduleria.*
 
