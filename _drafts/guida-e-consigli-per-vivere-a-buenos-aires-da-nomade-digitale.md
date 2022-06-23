@@ -31,7 +31,7 @@ Con questa guida vorremmo racchiudere tutto ci&ograve; che abbiamo imparato sull
 
 Se ti stai chiedendo perché abbiamo scelto di vivere a Buenos Aires, la risposta é semplice:
 
-c'&egrave; sembrato il posto pi&ugrave; caldo ed economico in cui lavorare durante i primi dell’anno, senza dover rinunciare ai confort di una citt&agrave; europea.
+c'&egrave; sembrato il posto pi&ugrave; caldo ed economico in cui lavorare durante i primi mesi dell’anno, senza dover rinunciare ai confort di una citt&agrave; europea.
 
 Quindi, se anche tu stai valutando di passare un periodo da nomade digitale a Buenos Aires, continua a leggere, cercheremo di darti tutte le info di cui necessiti per goderti la permanenza al meglio.
 
@@ -55,7 +55,9 @@ In tutto il viaggio, degna di nota &egrave; la sala lounge *Mercantil Santa Cruz
 
 il posto é tranquillo, c’&egrave; il wifi e cibo/bevande illimitate, per €15 pagati in contanti per persona.&nbsp;
 
-![](/uploads/lounge-aeroporto-bolivia.webp){: width="768" height="1024"}
+![](/uploads/lounge-aeroporto-bolivia-1.png){: width="350" height="467"}
+
+&nbsp;
 
 Per quanto riguarda il ritorno, abbiamo optato per un volo LATAM con scalo a San Paolo, cos&igrave; da prendere una camera in un hotel vicino all'aeroporto per alleggerire un po' il viaggio prima di prendere un altro LATAM per Milano Malpensa.
 
