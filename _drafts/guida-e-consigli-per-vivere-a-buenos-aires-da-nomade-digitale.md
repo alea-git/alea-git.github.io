@@ -538,7 +538,7 @@ Il ristorante Don Julio pare essere tra i 3 migliori al mondo per la qualit&agra
 
 Per quanto riguarda il fast food, é tipico il choripan, un panino con un chorizo (salsiccia di maiale) e, al massimo, con un po' di salsa chimichurri. Assolutamente da provare.
 
-<iframe src="https://player.vimeo.com/video/723522152?h=4805a4275b" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/723522152?h=4805a4275b" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
 Anche le empanadas appartengono al fast food tipico di Buenos Aires, costano poco e sono molto buoni.
 
@@ -580,7 +580,7 @@ Senza dilungarci troppo nella descrizione dei posti, ti lasciamo una lista con i
 
 * Patio de los lecheros (posto molto caratteristico e frequentato quasi solo da local, nel video di seguito)
 
-<iframe src="https://player.vimeo.com/video/723522076?h=05c0ba6b99" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/723522076?h=05c0ba6b99" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
 * Chu&igrave; (posto suggestivo)
 * Atis Bar (una delle milanesi pi&ugrave; buone, posto suggestivo)
@@ -594,7 +594,7 @@ Senza dilungarci troppo nella descrizione dei posti, ti lasciamo una lista con i
 * Vegan Creamery by Haulani (miglior gelateria vegana)
 * Alvear Roof Bar (miglior rooftop della citt&agrave;, nel video di seguito al tramonto)
 
-<iframe src="https://player.vimeo.com/video/723522041?h=85e23b4f2b" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/723522041?h=85e23b4f2b" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
 ## <br>Attivit&agrave; fisica
 
@@ -665,17 +665,17 @@ San Telmo é il quartiere in cui si respira ancora un po' dell'antica atmosfera 
 
 Il consiglio principale é quello di lasciare perdere i tango show, fatti per turisti e inutilmente costosi, dei locali pi&ugrave; famosi e buttati in una Milonga, ovvero il luogo in cui si balla il tango. Noi siamo andati al Viruta Club Tango.
 
-<iframe src="https://player.vimeo.com/video/723519316?h=1842aa54cf" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/723519316?h=1842aa54cf" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
 *La milonga é anche un tipo di ballo, una sorta di tango pi&ugrave; veloce.*
 
 Tra l'altro, consigliamo il Viruta anche nel caso volessi prendere delle lezioni.
 
-Un altro posto in cui dovresti andare é Barrancas de Belgrano, un parco molto bello in cui é presente un gazebo.
+Un altro posto in cui dovresti andare é Barrancas de Belgrano, un parco molto bello in cui é presente un gazebo:
 
-Verso il tramonto le persone iniziano a trovarsi per ballare insieme:
+verso il tramonto le persone iniziano a trovarsi per ballare insieme.
 
-davvero molto suggestivo e romantico, super consigliato.
+&Egrave; davvero molto suggestivo e romantico, super consigliato.
 
 ## <br>Dove fare la spesa
 
