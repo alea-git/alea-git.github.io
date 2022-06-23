@@ -729,6 +729,8 @@ La conseguenza di questo clima rilassato nel modo di relazionarsi si ripercuote 
 
 &Egrave; sufficiente utilizzare un'app di dating per entrare in contatto con tantissime persone, &egrave; davvero molto facile che scatti un match dopo aver fatto uno swipe.
 
+![](/uploads/tinder-buenos-aires.webp){: width="216" height="467"}
+
 *Attenzione alla produttivit&agrave;, entiendes?*
 
 ## <br>Conclusioni
