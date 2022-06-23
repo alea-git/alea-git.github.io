@@ -510,10 +510,9 @@ Per darti uno spunto e farti risparmiare un po' di tempo nella ricerca, di segui
 * Puerto Madero
 * MALBA (*museo d'arte moderna molto famoso*)
 * Teatro Colon
-* Bomba de Tiempo (percussioni dal vivo, nel vidoe di seguito)
+* Bomba de Tiempo (percussioni dal vivo, nel video di seguito)
 
-<iframe src="https://player.vimeo.com/video/723522110?h=eee99f50c7" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
+<iframe src="https://player.vimeo.com/video/723522110?h=eee99f50c7" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
 #### <br>Posti in cui mangiare e piatti tipici
 
@@ -557,9 +556,11 @@ Vero simbolo degli argentini, il mate:
 
 Dal gusto amaro, la preparazione e il consumo é un vero e proprio rito.
 
-Il primo assaggio può essere abbastanza difficile; adesso lo beviamo entrambi come abitudine.
+Il primo assaggio pu&ograve; essere abbastanza difficile:
 
-<iframe src="https://player.vimeo.com/video/723536955?h=31b37ff4d6" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/723536955?h=31b37ff4d6" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
+
+*Dopo un po' ci si abitua al gusto forte, lo beviamo tuttora.*
 
 Tantissime persone lo consumano per strada, con la propria borraccia termina per l'acqua calda. Si offre come segno di ospitalit&agrave; esattamente come gli italiani fanno con il caff&egrave;; prima della pandemia, era tradizione condividere lo stesso mate con pi&ugrave; persone.
 
