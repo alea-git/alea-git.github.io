@@ -417,7 +417,7 @@ Insomma, se lo scopo é stare al caldo, da dicembre a marzo non puoi sbagliare.
 
 A Buenos Aires sono presenti diversi co-working. Noi, per&ograve;, abbiamo preferito i bar, in parallelo al lavoro da casa.
 
-<iframe src="https://player.vimeo.com/video/723388328?h=537a366e4f" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/723388328?h=537a366e4f" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 Ovviamente, dato che non abbiamo provato i cowo non ne parleremo, per&ograve; abbiamo una lista di locali in cui ci siamo ricordati di segnarci la velocit&agrave; di internet e pi&ugrave; o meno i prezzi, ci auguriamo ti sia utile a risparmiare tempo.
 
