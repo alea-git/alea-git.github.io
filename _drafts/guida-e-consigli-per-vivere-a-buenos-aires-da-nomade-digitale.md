@@ -584,7 +584,7 @@ Senza dilungarci troppo nella descrizione dei posti, ti lasciamo una lista con i
 * Artemisia (ottimo per i vegani)
 * Bellagamba Bodeg&ograve;n (prezzi bassi e posto caratteristico)
 * Mercato Soho
-* Encuentro Nativo (molto turistico)
+* Encuentro Nativo (molto turistico, con spettacolo di tango)
 * Rapa Nui (miglior gelateria)
 * Vegan Creamery by Haulani (miglior gelateria vegana)
 
