@@ -104,7 +104,7 @@ Appena si inizia a cercare informazioni sulla sicurezza di Buenos Aires, che sia
 
 Sono consigli validi, anche se, a dire il vero, non ci siamo mai sentiti in pericolo.
 
-In particolare, consigliamo di tenere il discorso del confine come riferimento generico, non come una regola ferrea; noi stessi siamo usciti dalla linea rossa andando a nord, una zona abitata dai facoltosi della citt&agrave;.
+In particolare, consigliamo di tenere il discorso del confine come riferimento generico, non come una regola ferrea; noi stessi siamo usciti dalla linea rossa andando a nord, una zona che, peraltro, &egrave; abitata dai facoltosi della citt&agrave;.
 
 Ci sono delle zone in Buenos Aires in cui, semplicemente, non devi andarci, come INSERIRE ZONE PERICOLOSE
 
@@ -155,6 +155,8 @@ Il costo della vita, per i nostri standard europei, &egrave; molto basso.
 &Eacute; un qualcosa che a noi ha colpito molto:
 
 in una citt&agrave; con i servizi di un paese sviluppato, locali moderni e prodotti ottimi, non ci aspettavamo di poter pagare un pranzo con meno di €2 o una corsa in taxi di 20 minuti con €3.
+
+![](/uploads/pasto-buenos-aires-economica.webp){: width="260" height="467"}
 
 *Insomma, vivere in una grande citt&agrave; con lo stesso costo di vita che si pu&ograve; trovare in una citt&agrave; di provincia di uno stato poco sviluppato.*
 
@@ -225,7 +227,9 @@ Non sono i migliori in assoluto, sono i migliori tra quelli che abbiamo potuto p
 * Armenia 2109, Buenos Aires, Argentina
 * QUELLO NEL CARREFOUR
 
-Consiglio: non pensare di andare a ritirare i soldi senza avere uno zaino o borsa in cui mettere i contanti, ti garantiamo che nel portafogli difficilmente riuscirai a mettere pi&ugrave; di €100. Inoltre, é sempre una buona idea andare intorno all'orario di apertura se hai intenzione di ritirare pi&ugrave; di €200.
+Consiglio: non pensare di andare a ritirare i soldi senza avere uno zaino o borsa in cui mettere i contanti, ti garantiamo che nel portafogli difficilmente riuscirai a mettere pi&ugrave; di €100. Inoltre, é sempre una buona idea andare intorno all'orario di apertura se hai intenzione di ritirare pi&ugrave; di €200 *(spesso si formano le code e i contanti finiscono prima dell'ora di pranzo)*.
+
+![](/uploads/coda-wester-union.webp){: width="350" height="467"}
 
 Se pensi di utilizzare Western Union, ti lascio qui il link di affiliazione per creare il tuo account, il questo modo ci guadagneremo qualcosa entrambi:
 
