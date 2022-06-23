@@ -253,7 +253,7 @@ Per la ricerca della scuola di spagnolo a Buenos Aires abbiamo valutato diverse 
 
 alla fine abbiamo scelto Wanderlust perché vicino al nostro primo Airbnb e con prezzi tutto sommato buoni.&nbsp;
 
-[![](/uploads/scuola-spagnolo-buenos-aires-1.webp){: width="307" height="467"}](https://www.instagram.com/p/CZ4VFnNu29d){: target="_blank" rel="noopener"}
+[![](/uploads/scuola-spagnolo-buenos-aires.webp){: width="307" height="467"}](https://www.instagram.com/p/CZ4VFnNu29d){: target="_blank" rel="noopener"}
 
 Un corso medio-intensivo, ovvero due ore ogni mattina per cinque giorni a settimana, per un mese, &egrave; costato 71500 ARS (al cambio di quando abbiamo pagato, circa €300).
 
@@ -359,7 +359,7 @@ Passano spesso, pi&ugrave; o meno in orario, e si controllano facilmente con Goo
 
 Inaugurata nel 1913, é la prima metropolitana del Latino America e prima anche tra gli stati in lingua spagnola (quella di Madrid é attiva dal 1919).
 
-![](/uploads/subte-buenos-aires-1.webp){: width="351" height="467"}
+![](/uploads/subte-buenos-aires-2.webp){: width="351" height="467"}
 
 Sono sette linee che attraversano quasi ogni parte della citt&agrave;, &egrave; comoda ed efficiente.
 
@@ -524,6 +524,8 @@ Insomma, é un gusto diverso da ci&ograve; che siamo abituati.
 
 &Eacute; alta, con molto formaggio; non c'&egrave; l'usanza di prendersi una pizza solo per s&egrave;, solitamente si condivide (perché troppo pesante).
 
+![](/uploads/pizza-argentina.webp){: width="351" height="467"}
+
 I posti storici in cui mangiarla sono da Guerrin, El Cuartito e Banchero. Se vuoi provare la fugazzetta (ovvero la piazza argentina caratterizzata da tanto formaggio e tanta cipolla) pi&ugrave; famosa, devi andare a La Mazzetta.
 
 Tra tutte le pizze argentine che abbiamo provato, a noi é piaciuta molto quella di Picsa (in Nicaragua 4896).&nbsp;
@@ -541,6 +543,8 @@ Per quanto riguarda il fast food, é tipico il choripan, un panino con un choriz
 <iframe src="https://player.vimeo.com/video/723522152?h=4805a4275b" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
 Anche le empanadas appartengono al fast food tipico di Buenos Aires, costano poco e sono molto buoni.
+
+![](/uploads/empanadas.webp){: width="351" height="467"}
 
 ##### Mate e Fernet Cola
 
@@ -625,7 +629,7 @@ In particolare per il Bosques de Palermo, partendo dal Jard&iacute;n Bot&aacute;
 
 Da quel punto si raggiunge il Bosques tramite un ponte.
 
-[![](/uploads/running-buenos-aires.webp){: width="429" height="467"}](https://www.strava.com/athletes/aletrezza){: target="_blank" rel="noopener"}
+[![](/uploads/running-buenos-aires-1.webp){: width="429" height="467"}](https://www.strava.com/athletes/aletrezza){: target="_blank" rel="noopener"}
 
 Per facilitarti la vita, ti consiglio di seguire questo tragitto (appurato dopo diversi tentativi, credo sia la soluzione migliore se abiti a sud del Jardin Bot&aacute;nico).
 
