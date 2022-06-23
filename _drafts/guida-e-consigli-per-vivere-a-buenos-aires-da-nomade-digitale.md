@@ -253,6 +253,8 @@ Per la ricerca della scuola di spagnolo a Buenos Aires abbiamo valutato diverse 
 
 alla fine abbiamo scelto Wanderlust perché vicino al nostro primo Airbnb e con prezzi tutto sommato buoni.&nbsp;
 
+[![](/uploads/scuola-spagnolo-buenos-aires-1.webp){: width="307" height="467"}](https://www.instagram.com/p/CZ4VFnNu29d){: target="_blank" rel="noopener"}
+
 Un corso medio-intensivo, ovvero due ore ogni mattina per cinque giorni a settimana, per un mese, &egrave; costato 71500 ARS (al cambio di quando abbiamo pagato, circa €300).
 
 Il corso é stato sicuramente utile, anche se non ci ha fatto impazzire il metodo applicato.
@@ -295,7 +297,7 @@ Il procedimento é semplice.
 
 Innanzitutto devi sapere che quella che noi chiamiamo sim loro la chiamano *chip mobile*, giusto per capirsi.
 
-Abbiamo trovato la nostra *chip mobile prepago* in uno dei molteplici kiosco che ci sono per le strade di Buenos Aires, ad esempio gli El Javi.
+Abbiamo trovato la nostra *chip mobile prepago* in uno dei molteplici *kiosco* che ci sono per le strade di Buenos Aires, ad esempio gli El Javi.
 
 Quella di Claro &egrave; costata pochissimo, sotto i 100 ARS (purtroppo non ci siamo segnati la cifra esatta).
 
@@ -312,8 +314,6 @@ Il wifi si trova in quasi tutti i locali. Se cerchi posti in cui lavorare con il
 &Eacute; presente la banda larga a Buenos Aires, quindi sia gli Airbnb che i locali potrebbero offrire sia la rete a 2.4 GHz che a 5.8 GHz.
 
 ## Trasporti a Buenos Aires
-
-Bus, metro, Cabify, Uber, DiDi, taxi, bici, monopattini,&nbsp;
 
 Questo é un altro argomento che avremmo dovuto conoscere prima di arrivare in citt&agrave;.
 
@@ -336,6 +336,8 @@ Con la Sube hai accesso a tutti i mezzi pubblici, ovvero pullman, metro e treno.
 La carta Sube la puoi trovare nei Kiosco convenzionati oppure in una dei molteplici Loteria De La Ciudad ([qui il link](https://tarjetasube.sube.gob.ar/SubeWeb/WebForms/admin/views/mapa-sube.aspx?id=1){: target="_blank" rel="noopener"} per trovare il punto vendita pi&ugrave; vicino).
 
 &Eacute; costata 90 ARS (circa €0,4), pochissimo, e il credito si ricarica direttamente dove si acquista.
+
+Se passi pi&ugrave; di tre giorni a Buenos Aires non puoi non avere la tua Sube.
 
 ##### Il pullman (colectivo)
 
