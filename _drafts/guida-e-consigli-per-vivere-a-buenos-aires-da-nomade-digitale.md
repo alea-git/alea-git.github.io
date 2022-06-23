@@ -17,7 +17,7 @@ Dopo i due mesi e mezzo a Las Palmas *(da met&agrave; ottobre a dicembre 2021)*,
 
 Situata nella parte meridionale dell’America Latina, dicembre e gennaio sono i mesi estivi, in cui le temperature arrivano anche oltre i 40 gradi.
 
-![](/uploads/mappa-buenos-aires-dov-è.webp){: width="1684" height="1364"}![](/uploads/mappa-buenos-aires-dov-è.webp){: width="1684" height="1364"}
+![](/uploads/mappa-buenos-aires-dov-è.webp){: width="1684" height="1364"}![](/uploads/mappa-buenos-aires-dov-è.webp){: width="1684" height="1364"}
 
 Insomma, il tempo di festeggiare Natale in famiglia e siamo partiti verso il caldo, il 14 gennaio 2022.
 
@@ -416,6 +416,8 @@ Insomma, se lo scopo é stare al caldo, da dicembre a marzo non puoi sbagliare.
 ## <br>Posti un cui lavorare
 
 A Buenos Aires sono presenti diversi co-working. Noi, per&ograve;, abbiamo preferito i bar, in parallelo al lavoro da casa.
+
+&lt;iframe src="https://player.vimeo.com/video/723388328?h=537a366e4f" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 Ovviamente, dato che non abbiamo provato i cowo non ne parleremo, per&ograve; abbiamo una lista di locali in cui ci siamo ricordati di segnarci la velocit&agrave; di internet e pi&ugrave; o meno i prezzi, ci auguriamo ti sia utile a risparmiare tempo.
 
