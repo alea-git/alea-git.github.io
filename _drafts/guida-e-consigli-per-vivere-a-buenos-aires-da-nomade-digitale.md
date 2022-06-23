@@ -425,13 +425,6 @@ In zona microcentro (Montserrant ma anche pi&ugrave; a sud, verso San Telmo) abb
 
 Tieni presente che i prezzi sul men&ugrave;, in base all'andamento dell'inflazione, vengono aggiornati. Di conseguenza, ci&ograve; che abbiamo annotato tra gennaio e aprile 2022 potrebbe non essere pi&ugrave; valido nel momento in cui stai leggendo questa guida.
 
-##### Padre Coffee Roasters
-
-* PING 14 ms,
-* Download 93.38 Mbps,
-* Upload 28.29 Mbps.
-* Prezzi: Espresso 150, T&egrave; 350, Coca Zero 200
-
 ##### Paris Crepas&nbsp;
 
 *(il nostro preferito per via dei prezzi, comodit&agrave; e internet)*
@@ -442,6 +435,13 @@ Tieni presente che i prezzi sul men&ugrave;, in base all'andamento dell'inflazio
 * Enchufe: S&igrave;
 * Prezzi: il t&egrave; costa 200&nbsp;
 * Particolarit&agrave;: al piano superiore ha un grande tavolo con prese in cui é molto comodo e piacevole lavorare
+
+##### Padre Coffee Roasters
+
+* PING 14 ms,
+* Download 93.38 Mbps,
+* Upload 28.29 Mbps.
+* Prezzi: Espresso 150, T&egrave; 350, Coca Zero 200
 
 ##### BBlue
 
