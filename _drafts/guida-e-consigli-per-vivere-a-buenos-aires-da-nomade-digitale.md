@@ -17,7 +17,7 @@ Dopo i due mesi e mezzo a Las Palmas *(da met&agrave; ottobre a dicembre 2021)*,
 
 Situata nella parte meridionale dell’America Latina, dicembre e gennaio sono i mesi estivi, in cui le temperature arrivano anche oltre i 40 gradi.
 
-![](/uploads/mappa-buenos-aires-dov-è.webp){: width="1684" height="1364"}
+![](/uploads/mappa-buenos-aires-dov-è.webp){: width="1684" height="1364"}![](/uploads/mappa-buenos-aires-dov-è.webp){: width="1684" height="1364"}
 
 Insomma, il tempo di festeggiare Natale in famiglia e siamo partiti verso il caldo, il 14 gennaio 2022.
 
