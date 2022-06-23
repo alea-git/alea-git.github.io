@@ -552,7 +552,7 @@ Anche le empanadas appartengono al fast food tipico di Buenos Aires, costano poc
 
 Vero simbolo degli argentini, il mate:
 
-é una bevanda ricavata dall'infusione dell'erba mate.
+é una bevanda ricavata dall'infusione, all'interno di una zucca, dell'erba mate.
 
 Dal gusto amaro, la preparazione e il consumo é un vero e proprio rito.
 
