@@ -617,7 +617,9 @@ In particolare per il Bosques de Palermo, partendo dal Jard&iacute;n Bot&aacute;
 
 Da quel punto si raggiunge il Bosques tramite un ponte.
 
-Per facilitarti la vita, ti consiglio di seguire questo tragitto (appurato dopo diversi tentativi, credo sia la soluzione migliore se abiti a sud del Jardin Bot&aacute;nico):
+[![](/uploads/running-buenos-aires.webp){: width="429" height="467"}](https://www.strava.com/athletes/aletrezza){: target="_blank" rel="noopener"}
+
+Per facilitarti la vita, ti consiglio di seguire questo tragitto (appurato dopo diversi tentativi, credo sia la soluzione migliore se abiti a sud del Jardin Bot&aacute;nico).
 
 Della Reserva Ecologica devi sapere una curiosit&agrave; fondamentale:
 
