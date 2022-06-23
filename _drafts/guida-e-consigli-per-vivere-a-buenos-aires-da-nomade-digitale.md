@@ -567,7 +567,7 @@ Dato che piace molto, alcuni locali lo hanno aggiunto nel proprio men&ugrave;, s
 
 Senza dilungarci troppo nella descrizione dei posti, ti lasciamo una lista con i luoghi che abbiamo provato e ci sono particolarmente piaciuti.
 
-* Patio de los lecheros (*posto molto caratteristico e frequentato quasi solo da local*)
+* Patio de los lecheros (posto molto caratteristico e frequentato quasi solo da local)
 * Chu&igrave; (posto suggestivo)
 * Atis Bar (una delle milanesi pi&ugrave; buone, posto suggestivo)
 * Alvear Roof Bar (miglior rooftop della citt&agrave;)
