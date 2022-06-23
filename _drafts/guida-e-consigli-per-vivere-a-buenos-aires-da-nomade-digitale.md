@@ -417,7 +417,7 @@ Insomma, se lo scopo é stare al caldo, da dicembre a marzo non puoi sbagliare.
 
 A Buenos Aires sono presenti diversi co-working. Noi, per&ograve;, abbiamo preferito i bar, in parallelo al lavoro da casa.
 
-<iframe src="https://player.vimeo.com/video/723388328?h=537a366e4f" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/723388328?h=537a366e4f" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
 Ovviamente, dato che non abbiamo provato i cowo non ne parleremo, per&ograve; abbiamo una lista di locali in cui ci siamo ricordati di segnarci la velocit&agrave; di internet e pi&ugrave; o meno i prezzi, ci auguriamo ti sia utile a risparmiare tempo.
 
@@ -431,7 +431,7 @@ Tieni presente che i prezzi sul men&ugrave;, in base all'andamento dell'inflazio
 
 *(il nostro preferito per via dei prezzi, comodit&agrave; e internet)*
 
-<iframe src="https://player.vimeo.com/video/723388391?h=03edc7f6d5" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/723388391?h=03edc7f6d5" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
 * PING 18 ms,
 * Download 315.92 Mbps
@@ -456,7 +456,8 @@ Tieni presente che i prezzi sul men&ugrave;, in base all'andamento dell'inflazio
 * Particolarit&agrave;: posto piccolo e molto carino, bella atmosfera. Non so se &egrave; un plus o meno, abbiamo beccato il pomeriggio in cui hanno messo come sottofondo un intero album di Eros Ramazzotti.
 
 ##### El Reloj
-<iframe src="https://player.vimeo.com/video/723388368?h=cab11f570b" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+<iframe src="https://player.vimeo.com/video/723388368?h=cab11f570b" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
 * PING 17 ms,
 * Download 262,97 Mbps,
@@ -526,11 +527,13 @@ I posti storici in cui mangiarla sono da Guerrin, El Cuartito e Banchero. Se vuo
 
 Tra tutte le pizze argentine che abbiamo provato, a noi é piaciuta molto quella di Picsa (in Nicaragua 4896).&nbsp;
 
-##### La carne alla griglia, ovvero l'asado, e fast food
+##### La carne alla griglia, ovvero l'asado
 
 La carne argentina é veramente di una qualit&agrave; superiore. In media, persino quella nei supermercati, é proprio buona.
 
 Il ristorante Don Julio pare essere tra i 3 migliori al mondo per la qualit&agrave; di carne, ti consigliamo di passarci.
+
+##### Fast food argentino
 
 Per quanto riguarda il fast food, é tipico il choripan, un panino con un chorizo (salsiccia di maiale) e, al massimo, con un po' di salsa chimichurri. Assolutamente da provare.
 
