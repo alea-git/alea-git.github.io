@@ -431,6 +431,8 @@ Tieni presente che i prezzi sul men&ugrave;, in base all'andamento dell'inflazio
 
 *(il nostro preferito per via dei prezzi, comodit&agrave; e internet)*
 
+<iframe src="https://player.vimeo.com/video/723388391?h=03edc7f6d5" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 * PING 18 ms,
 * Download 315.92 Mbps
 * Upload 27,77 Mbps.
@@ -454,6 +456,7 @@ Tieni presente che i prezzi sul men&ugrave;, in base all'andamento dell'inflazio
 * Particolarit&agrave;: posto piccolo e molto carino, bella atmosfera. Non so se &egrave; un plus o meno, abbiamo beccato il pomeriggio in cui hanno messo come sottofondo un intero album di Eros Ramazzotti.
 
 ##### El Reloj
+<iframe src="https://player.vimeo.com/video/723388368?h=cab11f570b" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 * PING 17 ms,
 * Download 262,97 Mbps,
