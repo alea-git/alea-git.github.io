@@ -566,6 +566,8 @@ D'altra parte é bello vedere come l'influenza degli immigrati italiani sia anco
 
 Se chiedi ad un argentino l'origine geografica degli alfajores, un dolce di cioccolato e dulce de leche, ti risponder&agrave; l'Argentina.
 
+![](/uploads/alfajres.webp){: width="431" height="467"}
+
 In realt&agrave; pare siano dolci di origini arabe o comunque spagnole.
 
 *Se provi a riferirlo ad uno del posto non la prender&agrave; bene.*
@@ -575,6 +577,8 @@ In Argentina, comunque, é un dolce molto celebrato e, per questo motivo, in div
 I pi&ugrave; buoni a Buenos Aires pare siano quelli di Havanna e di Cachafaz.
 
 La chocotorta, invece, é un dolce delle nuove generazioni, fatto da uno specifico tipo di biscotto, la chocolina, e (tanto) dulce de leche. Negli ultimi anni é diventato un po' l'equivalente del nostro tiramis&ugrave;, si mangia principalmente in casa, in occasione di festeggiamenti per il compleanno.
+
+![](/uploads/chocotorta.webp){: width="388" height="467"}
 
 Dato che piace molto, alcuni locali lo hanno aggiunto nel proprio men&ugrave;, soprattutto piccoli bar o birrerie.
 
