@@ -537,6 +537,8 @@ Il ristorante Don Julio pare essere tra i 3 migliori al mondo per la qualit&agra
 
 Per quanto riguarda il fast food, é tipico il choripan, un panino con un chorizo (salsiccia di maiale) e, al massimo, con un po' di salsa chimichurri. Assolutamente da provare.
 
+<iframe src="https://player.vimeo.com/video/723522152?h=4805a4275b" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 Anche le empanadas appartengono al fast food tipico di Buenos Aires, costano poco e sono molto buoni.
 
 ##### Mate e Fernet Cola
@@ -576,6 +578,9 @@ Dato che piace molto, alcuni locali lo hanno aggiunto nel proprio men&ugrave;, s
 Senza dilungarci troppo nella descrizione dei posti, ti lasciamo una lista con i luoghi che abbiamo provato e ci sono particolarmente piaciuti.
 
 * Patio de los lecheros (posto molto caratteristico e frequentato quasi solo da local)
+
+<iframe src="https://player.vimeo.com/video/723522076?h=05c0ba6b99" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 * Chu&igrave; (posto suggestivo)
 * Atis Bar (una delle milanesi pi&ugrave; buone, posto suggestivo)
 * Alvear Roof Bar (miglior rooftop della citt&agrave;)
@@ -656,6 +661,9 @@ Per&ograve;, se ti interessa comunque scoprire il ballo proibito, abbiamo delle 
 San Telmo é il quartiere in cui si respira ancora un po' dell'antica atmosfera dei primi del 900, con locali caratteristici in cui si svolgono gli spettacoli.
 
 Il consiglio principale é quello di lasciare perdere i tango show, fatti per turisti e inutilmente costosi, dei locali pi&ugrave; famosi e buttati in una Milonga, ovvero il luogo in cui si balla il tango. Noi siamo andati al Viruta Club Tango.
+
+<iframe src="https://player.vimeo.com/video/723519316?h=1842aa54cf" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 
 *La milonga é anche un tipo di ballo, una sorta di tango pi&ugrave; veloce.*
 
