@@ -495,14 +495,16 @@ Per darti uno spunto e farti risparmiare un po' di tempo nella ricerca, di segui
 
 * La Viruta Club Tango
 * Bosque de Palermo
+* Patio de los lecheros (*posto molto caratteristico e frequentato quasi solo da local*)
 * Barrancas de Belgrano
 * Ecoparque
 * Paseo El Rosedal
 * Planetario Galileo Galilei
 * Jard&iacute;n Japonés
-* El Caminito (La Boca)
+* El Caminito (La Boca - *non ci andare con la maglia del River Plate se tieni alla tua vita, sul serio*)
 * Puerto Madero
-* MUSEI?? ALTRI POSTI?
+* MALBA (*museo d'arte moderna molto famoso*)
+* Teatro Colon
 
 #### <br>Posti in cui mangiare e piatti tipici
 
