@@ -333,6 +333,8 @@ Partiamo dalla terminologia:
 
 Con la Sube hai accesso a tutti i mezzi pubblici, ovvero pullman, metro e treno. &Eacute; un sistema integrato, questo significa che, prendendo un pullman e subito dopo il treno, la seconda corsa avr&agrave; uno sconto applicato automaticamente.
 
+![](/uploads/sube.webp){: width="474" height="316"}
+
 La carta Sube la puoi trovare nei Kiosco convenzionati oppure in una dei molteplici Loteria De La Ciudad ([qui il link](https://tarjetasube.sube.gob.ar/SubeWeb/WebForms/admin/views/mapa-sube.aspx?id=1){: target="_blank" rel="noopener"} per trovare il punto vendita pi&ugrave; vicino).
 
 &Eacute; costata 90 ARS (circa €0,4), pochissimo, e il credito si ricarica direttamente dove si acquista.
@@ -356,6 +358,8 @@ Passano spesso, pi&ugrave; o meno in orario, e si controllano facilmente con Goo
 ##### La metro (subte)
 
 Inaugurata nel 1913, é la prima metropolitana del Latino America e prima anche tra gli stati in lingua spagnola (quella di Madrid é attiva dal 1919).
+
+![](/uploads/subte-buenos-aires-1.webp){: width="351" height="467"}
 
 Sono sette linee che attraversano quasi ogni parte della citt&agrave;, &egrave; comoda ed efficiente.
 
@@ -396,6 +400,8 @@ Detto questo, dopo le undici di notte abbiamo spesso optato per una macchina.
 Se anche tu, come noi, cerchi di fuggire dall'inverno europeo, sappi che Buenos Aires é un'ottima opzione anche sotto questo punto di vista.
 
 Infatti, dicembre, gennaio e febbraio sono i mesi estivi, in cui fa molto caldo.
+
+![](/uploads/storico-temperature-meteo-buenos-aires.webp){: width="1066" height="692"}
 
 Questo significa che, soprattutto a gennaio, la citt&agrave; é mezza vuota perché tutti i locals si spostano nei paesi di mare, come Mar del Plata o Pinamar.
 
