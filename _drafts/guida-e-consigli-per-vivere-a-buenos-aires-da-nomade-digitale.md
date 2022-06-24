@@ -731,11 +731,11 @@ Questo si traduce in una grande diversit&agrave; culturale.
 
 In pi&ugrave;, il fascino che emana in tutto il mondo l'ha resa una meta internazionale, rendendo facile incontrare altri viaggiatori.
 
-Gi&agrave; questo basterebbe per fare intendere che di certo le persone non sono un problema, essendo tante e di ogni genere.
+Gi&agrave; questo basterebbe per fare intendere che di certo le persone non sono un problema, essendo tante e di ogni stile immaginabile.
 
 Gli argentini, comunque, ci sono sembrati diretti e aperti, pronti a dare una mano e a coinvolgere sconosciuti alle loro feste/uscite dopo aver scambiato solo qualche parola.
 
-*Non sono diffidenti.*
+*Insomma, non sono diffidenti e amano godersi la vita.*
 
 La conseguenza di questo clima rilassato nel modo di relazionarsi si ripercuote con il dating.
 
