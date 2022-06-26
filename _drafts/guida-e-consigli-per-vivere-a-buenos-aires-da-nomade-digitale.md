@@ -108,6 +108,12 @@ In particolare, consigliamo di tenere il discorso del confine come riferimento g
 
 Ci sono delle zone in Buenos Aires in cui, semplicemente, non devi andarci, come INSERIRE ZONE PERICOLOSE
 
+\- Villa 31 e zone circostanti
+
+\- San Telmo la notte
+
+\- Tigre la notte
+
 Per il resto, sono posti in cui abbiamo avuto la parvenza di vita normale, con molta polizia che gira sia in macchina che a piedi.
 
 In particolare, Palermo é un posto davvero tranquillo in cui difficilmente avrai problemi.
