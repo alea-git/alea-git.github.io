@@ -122,11 +122,25 @@ Palermo si divide in sotto quartieri (Soho, Hollywood, Las Ca&ntilde;itas, Viejo
 
 ##### Villa Crespo
 
-&nbsp;
+\- Parte hippy
+
+\- Piu autentica
+
+\- Costo della vita piu basso
+
+\- Tanti local
+
+\- Tanti posti comida istantanea
+
+\- Lontana dal centro di BA e dai maggiori punti di interesse / raduno
 
 ##### Recoleta
 
-&nbsp;
+\- Zona chic per famiglie ricche
+
+\- Molto tranquilla e piena di locali e ristoranti di lusso
+
+\- In una posizione molto comoda per raggiungere sia Palermo sia il Microcentro
 
 ##### Monserrat
 
@@ -138,15 +152,27 @@ Il centro finanziario della citt&agrave;, ci sono i locali e ristoranti pi&ugrav
 
 ##### San Telmo
 
-&nbsp;
+\- Zona piu economica rispetto al microcentro e con piu local
+
+\- Alcune vie sono abbastanza degradate e non ci si sente sicuri a camminare, sopratutto la notte
+
+\- Tanti locali low cost in cui mangiare
+
+\- Non tanti bar in cui lavorare
 
 ##### Boca
 
-&nbsp;
+\- Zona divisa in 2 parti: Caminito che &egrave; la parte turistica e sembra una via costruita apposta per turisti, con prezzi molto alti e cibo nella media. La seconda zona, che &egrave; la principale di La Boca, &egrave; piu residenziale e tranquilla, alcune vie sono sporche e non sicure, ma altre sono tranquille e pulite, sopratutto la via principale che porta a San Telmo. In generale penso che come quartiere sia meglio di San Telmo.
 
 ##### Belgrano
 
-&nbsp;
+\- Quartiere residenziale pieno di vie alberate, e parchi
+
+\- Principalmente per famiglie ma anche giovani
+
+\- Ha un mood molto rilassato ed un po hippy, ma non troppo da dare fastidio ad alcune persone, come Palermo
+
+\- Un po fuori dal centro di BA e ci si mette un po a raggiungere le zone a sud (come microcentro), ma comunque la metro &egrave; disponibile ed in 20 minuti si arriva davanti alla casa rosada
 
 ## Costo della vita e Airbnb
 
@@ -170,7 +196,7 @@ Anche il secondo Aibnb é costato sui €1000 per un mese, questa volta in zona 
 
 La terza e ultima casa, presa per sette giorni, é costata €275, in zona Las Ca&ntilde;itas.
 
-In generale, grazie al cambio Blue, tutto é molto economico (tranne l'abbigliamento) per chi ha uno stipendio in euro/dollari.
+In generale, grazie al cambio Blue, tutto é molto economico (tranne l'abbigliamento, che abbiamo trovato pi&ugrave; caro rispetto all'Italia) per chi ha uno stipendio in euro/dollari.
 
 ## Moneta locale
 
@@ -466,7 +492,7 @@ Tieni presente che i prezzi sul men&ugrave;, in base all'andamento dell'inflazio
 * Prezzi: 200 un t&egrave;/caff&egrave;
 * Particolarit&agrave;: C’&egrave; un rooftop riparato dal vento e con ombrelli anti-sole in cui si lavora bene, le sedie di tela non troppo comode ma c’&egrave; di peggio
 
-##### Cafe Martinez QUALE??
+##### Cafe Martinez (Villa Crespo)
 
 * PING 18 ms,
 * Download 100MBps,
@@ -659,7 +685,7 @@ Il costo medio &egrave; sui €25/30 al mese, dipende da quali servizi aggiuntiv
 
 Ad esempio, noi abbiamo scelto la Well Club Arenales che, per un mese con sala pesi e palestra, é costata 7000 ARS (intorno ai €30).
 
-*Poi la piscina era di 18 metri e profonda 80cm, ma vab&egrave;.*
+*Poi la piscina era di 18 metri e profonda 80cm, ma vabb&egrave;.*
 
 ##### Tango a Buenos Aires
 
