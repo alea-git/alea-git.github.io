@@ -17,7 +17,7 @@ Dopo i due mesi e mezzo a Las Palmas *(da met&agrave; ottobre a dicembre 2021)*,
 
 Situata nella parte meridionale dell’America Latina, dicembre e gennaio sono i mesi estivi, in cui le temperature arrivano anche oltre i 40 gradi.
 
-![](/uploads/mappa-buenos-aires-dov-è-1.webp){: width="1684" height="1364"}![](/uploads/mappa-buenos-aires-dov-è.webp){: width="1684" height="1364"}
+![](/uploads/mappa-buenos-aires-dov-è-1.webp){: width="1684" height="1364"}![](/uploads/mappa-buenos-aires-dov-è.webp){: width="1684" height="1364"}
 
 Insomma, il tempo di festeggiare Natale in famiglia e siamo partiti verso il caldo, il 14 gennaio 2022.
 
@@ -106,13 +106,9 @@ Sono consigli validi, anche se, a dire il vero, non ci siamo mai sentiti in peri
 
 In particolare, consigliamo di tenere il discorso del confine come riferimento generico, non come una regola ferrea; noi stessi siamo usciti dalla linea rossa andando a nord, una zona che, peraltro, &egrave; abitata dai facoltosi della citt&agrave;.
 
-Ci sono delle zone in Buenos Aires in cui, semplicemente, non devi andarci, come INSERIRE ZONE PERICOLOSE
+Ci sono delle zone in Buenos Aires in cui, semplicemente, non devi andarci, come Villa 31 (nei dintorni di Retiro) e San Telmo/microcentro di notte.
 
-\- Villa 31 e zone circostanti
-
-\- San Telmo la notte
-
-\- Tigre la notte
+Ci sono sicuramente altri posti in cui FINIRE
 
 Per il resto, sono posti in cui abbiamo avuto la parvenza di vita normale, con molta polizia che gira sia in macchina che a piedi.
 
