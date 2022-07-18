@@ -571,7 +571,7 @@ Il primo assaggio pu&ograve; essere abbastanza difficile:
 
 *Dopo un po' ci si abitua al gusto forte, lo beviamo tuttora.*
 
-Tantissime persone lo consumano per strada, con la propria borraccia termina per l'acqua calda. Si offre come segno di ospitalit&agrave; esattamente come gli italiani fanno con il caff&egrave;; prima della pandemia, era tradizione condividere lo stesso mate con pi&ugrave; persone.
+Tantissime persone lo consumano per strada, con la propria borraccia termica per l'acqua calda. Si offre come segno di ospitalit&agrave; esattamente come gli italiani fanno con il caff&egrave;; prima della pandemia, era tradizione condividere lo stesso mate con pi&ugrave; persone.
 
 Il Fernet Cola, ovvero met&agrave; Coca Cola e met&agrave; amaro Fernet Branca, invece, é il cocktail pi&ugrave; diffuso tra i giovani di Buenos Aires.
 
