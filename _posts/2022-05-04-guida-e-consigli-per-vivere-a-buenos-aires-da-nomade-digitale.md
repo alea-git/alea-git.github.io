@@ -720,11 +720,11 @@ Le pi&ugrave; famose sono:
 
 Ora, dipende tutto dalla posizione in cui abiti.
 
-Personalmente, ci siamo trovati bene con D&igrave;a e Coto (molto famoso il Coto vicino all'uscita del subte Scalabrini Ortiz, c'&egrave; di tutto).
+**Personalmente, ci siamo trovati bene con D&igrave;a e Coto** (molto famoso il Coto vicino all'uscita del subte Scalabrini Ortiz, c'&egrave; di tutto).
 
 Disco e Jumbo sono spesso molto grandi, ci sono stati consigliati per via di una vasta scelta di prodotti importati dall'Italia (che ovviamente costano tanto).
 
-Una peculiarit&agrave; che abbiamo notato &egrave; l'attesa alle casse, &egrave; assurdo quanto tempo si perda se sbagli giorno/orario (i fine settimana sono terribili).
+**Una peculiarit&agrave; che abbiamo notato &egrave; l'attesa alle casse**, &egrave; assurdo quanto tempo si perda se sbagli giorno/orario (i fine settimana sono terribili).
 
 *Ci sono sempre poche casse aperte e troppe persone in fila.*
 
