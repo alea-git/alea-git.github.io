@@ -342,7 +342,7 @@ Partiamo dalla terminologia:
 * la metro: subte;
 * la carta per il trasporto pubblico: tarjeta Sube.
 
-Con la Sube hai accesso a tutti i mezzi pubblici, ovvero pullman, metro e treno. &Eacute; un sistema integrato, questo significa che, prendendo un pullman e subito dopo il treno, la seconda corsa avr&agrave; uno sconto applicato automaticamente.
+Con la Sube hai accesso a tutti i mezzi pubblici, ovvero pullman, metro e treno. **&Eacute; un sistema integrato**, questo significa che, prendendo un pullman e subito dopo il treno, la seconda corsa avr&agrave; uno sconto applicato automaticamente.
 
 ![](/uploads/sube.webp){: width="474" height="316"}
 
@@ -356,7 +356,7 @@ Se passi pi&ugrave; di tre giorni a Buenos Aires non puoi non avere la tua Sube.
 
 Oltre ad essere esteticamente molto belli e caratteristici, funzionano bene e sono molto economici.
 
-Devi sapere che, appena entrato sul pullman devi riferire al guidatore dove intendi scendere, in modo tale che possa applicarti la tariffa del viaggio in base alla tua destinazione.
+Devi sapere che, **appena entrato sul pullman devi riferire al guidatore dove intendi scendere**, in modo tale che possa applicarti la tariffa del viaggio in base alla tua destinazione.
 
 Dopodiché dovrai semplicemente appoggiare la tua carta Sube sul lettore per effettuare il pagamento.
 
@@ -390,7 +390,7 @@ Come anticipato ad inizio sezione, la prima parte della nostra permanenza l'abbi
 
 Non conoscevamo quanto fosse efficiente il trasporto pubblico e il prezzo di una corsa in ridesharing é davvero molto basso, soprattutto se divisa in due persone.
 
-Per farti un'idea, 4.63 km di percorso, fatti in 21 minuti con Cabify, sono costati 380 ARS, circa €1,8.
+**Per farti un'idea, 4.63 km di percorso, fatti in 21 minuti con Cabify, sono costati 380 ARS, circa €1,8.**
 
 *Di conseguenza succede che spesso passa la voglia di prendere un bus affollato.*
 
