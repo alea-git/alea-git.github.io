@@ -25,7 +25,7 @@ L'idea era di fare due mesi, alla fine abbiamo prolungato fino ad inizio maggio,
 
 *S&igrave;, ci é piaciuta tanto.*
 
-Con questa guida vorremmo racchiudere tutto ci&ograve; che abbiamo imparato sulla citt&agrave;, offrendo dei consigli sulla base della nostra esperienza diretta.
+**Con questa guida vorremmo racchiudere tutto ci&ograve; che abbiamo imparato sulla citt&agrave;**, offrendo dei consigli sulla base della nostra esperienza diretta.
 
 *Come se stessimo chiacchierando al bar tra amici.*
 
@@ -69,7 +69,7 @@ La destinazione era l'Airbnb in zona Palermo Soho, la corsa é costata € 30.
 
 Per il ritorno, da Palermo zona Las Ca&ntilde;itas, utilizzando DiDi e potendo pagare in valuta locale, il costo della corsa é stato di 2041 ARS, ovvero circa € 9,50.
 
-Il vantaggio nel pagare in valuta locale é lapalissiano, quindi cerca di organizzarti prima, in modo da avere internet per utilizzare le app di ridesharing e il contante in peso per pagare (*pi&ugrave; avanti trattiamo entrambi gli argomenti*).
+Il vantaggio nel pagare in valuta locale é ovvio, quindi cerca di organizzarti prima, in modo da avere internet per utilizzare le app di ridesharing e il contante in peso per pagare (*pi&ugrave; avanti trattiamo entrambi gli argomenti*).
 
 ## Assicurazione sanitaria
 
