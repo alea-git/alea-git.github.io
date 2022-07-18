@@ -248,7 +248,7 @@ Se pensi di utilizzare Western Union, ti lascio qui il link di affiliazione per 
 
 ## Lingua e livello di inglese
 
-La lingua ufficiale é lo spagnolo. Si differenzia da quello parlato in Spagna dall’uso del voseo (l’uso del pronome di seconda persona plurale vos al posto del tu, che causa anche l’uso di differenti forme verbali).
+La lingua ufficiale é lo spagnolo. Si differenzia da quello parlato in Spagna dall’uso del voseo (l’uso del pronome di seconda persona plurale vos al posto del tu, che causa anche l’uso di differenti forme verbali).
 
 Un’altra importante differenza &egrave; sulla fonetica di alcune parole, come la pronuncia della doppia L, quindi parole come *calle* (significa via, viene pronunciato *casce* invece del classico *caglie*) e *parrilla* (significa griglia, pronunciato *parriscia* invece di *parriglia*).
 
@@ -264,7 +264,7 @@ Per la ricerca della scuola di spagnolo a Buenos Aires abbiamo valutato diverse 
 
 alla fine abbiamo scelto Wanderlust perché vicino al nostro primo Airbnb e con prezzi tutto sommato buoni.
 
-[![](/uploads/scuola-spagnolo-buenos-aires.webp){: width="307" height="467"}](https://www.instagram.com/p/CZ4VFnNu29d){: target="_blank" rel="noopener"}
+![](/uploads/scuola-spagnolo-buenos-aires.webp){: width="307" height="467"}
 
 Un corso medio-intensivo, ovvero due ore ogni mattina per cinque giorni a settimana, per un mese, &egrave; costato 71500 ARS (al cambio di quando abbiamo pagato, circa €300).
 
