@@ -168,7 +168,7 @@ Il costo della vita, per i nostri standard europei, &egrave; molto basso.
 
 in una citt&agrave; con i servizi di un paese sviluppato, locali moderni e prodotti ottimi, non ci aspettavamo di poter pagare un pranzo con meno di €2 o una corsa in taxi di 20 minuti con €3.
 
-![](/uploads/pasto-buenos-aires-economica.webp){: width="260" height="467"}
+[![](/uploads/pasto-buenos-aires-economica.webp){: width="260" height="467"}](https://www.instagram.com/alessandro_trezza/){: target="_blank" rel="noopener"}
 
 *Insomma, vivere in una grande citt&agrave; con lo stesso costo di vita che si pu&ograve; trovare in una citt&agrave; di provincia di uno stato poco sviluppato.*
 
