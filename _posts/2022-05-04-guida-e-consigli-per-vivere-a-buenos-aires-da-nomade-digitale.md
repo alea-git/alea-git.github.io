@@ -449,7 +449,7 @@ Tieni presente che i prezzi sul men&ugrave;, in base all'andamento dell'inflazio
 * Upload 27,77 Mbps.
 * Enchufe: S&igrave;
 * Prezzi: il t&egrave; costa 200
-* Particolarit&agrave;: al piano superiore ha un grande tavolo con prese in cui é molto comodo e piacevole lavorare
+* Particolarit&agrave;: al piano superiore c'&egrave; un grande tavolo con prese in cui é molto comodo e piacevole lavorare
 
 ##### Padre Coffee Roasters
 
@@ -503,8 +503,6 @@ Tieni presente che i prezzi sul men&ugrave;, in base all'andamento dell'inflazio
 * Particolarit&agrave;: Bella l’atmosfera, in posizione centrale
 
 ## Cosa visitare
-
-\#\#\#\#\#
 
 A Buenos Aires c'&egrave; tanto da fare. Tra vari quartieri, musei e locali storici, é molto difficile annoiarsi.
 
