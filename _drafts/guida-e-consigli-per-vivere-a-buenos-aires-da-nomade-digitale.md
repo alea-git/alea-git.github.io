@@ -124,29 +124,19 @@ Palermo si divide in sotto quartieri (Soho, Hollywood, Las Ca&ntilde;itas, Viejo
 
 ##### Villa Crespo
 
-\- Parte hippy
+Confinante con Palermo, Villa Crespo &egrave; un quartiere con molti local ed &egrave; conosciuta per la Zona Outlet, situata tra Aguirre e Gurruchaga, in cui poter trovare vestiti a prezzi pi&ugrave; accessibili.
 
-\- Piu autentica
-
-\- Costo della vita piu basso
-
-\- Tanti local
-
-\- Tanti posti comida istantanea
-
-\- Lontana dal centro di BA e dai maggiori punti di interesse / raduno
+&Egrave; lontana dal centro di Buenos Aires, nonostante sia servita dalla linea B della metro, e dai maggiori punti di interesse della citt&agrave;, di conseguenza il costo della vita &egrave; pi&ugrave; basso.
 
 ##### Recoleta
 
-\- Zona chic per famiglie ricche
+Recoleta &egrave; un quartiere chic abitato da famiglie facoltose, famoso per il suo cimitero monumentale. In questa zona sono presenti alcuni dei prezzi pi&ugrave; alti per le case in tutta la citt&agrave;; in effetti &egrave; molto tranquilla e pieni di locali e ristoranti di lusso.
 
-\- Molto tranquilla e piena di locali e ristoranti di lusso
-
-\- In una posizione molto comoda per raggiungere sia Palermo sia il Microcentro
+Se puoi permettertelo, &egrave; sicuramente un bel posto per viverci, essendo anche situata in una posizione comoda sia per raggiungere Palermo che il Microcentro.
 
 ##### Monserrat
 
-Il centro della citt&agrave;, molto trafficata e rumorosa, essendo la zona degli uffici la sera si svuota e diventa anche un po' pi&ugrave; insicura. Ci abbiamo vissuto un mese e non ci sentiamo di consigliarla, nonostante sia stata una permanenza tutto sommato piacevole.
+Il centro della citt&agrave;, di cui fa parte anche il Microcentro, molto trafficata e rumorosa; essendo la zona degli uffici la sera si svuota e diventa anche un po' pi&ugrave; insicura. Ci abbiamo vissuto un mese e non ci sentiamo di consigliarla, nonostante sia stata una permanenza tutto sommato piacevole.&nbsp;
 
 ##### Puerto Madero
 
@@ -154,15 +144,15 @@ Il centro finanziario della citt&agrave;, ci sono i locali e ristoranti pi&ugrav
 
 ##### San Telmo
 
-\- Zona piu economica rispetto al microcentro e con piu local
+San Telmo &egrave; il quartiere del tango, in cui potrai trovare molti locali storici e low-cost in cui mangiare; purtroppo &egrave; difficile trovarne di adatti per lavorare con il pc.&nbsp;
 
-\- Alcune vie sono abbastanza degradate e non ci si sente sicuri a camminare, sopratutto la notte
-
-\- Tanti locali low cost in cui mangiare
-
-\- Non tanti bar in cui lavorare
+&Egrave; una zona pi&ugrave; economica rispetto al confinante Monserrat e con pi&ugrave; local, per&ograve; alcune vie sono abbastanza degradate e non ci si sente sicuri a camminare, soprattutto la notte. Non la consigliamo per viverci da nomade digitale.
 
 ##### Boca
+
+La Boca &egrave; il quartiere di Maradona e della Bombonera, il famoso stadio della squadra di calcio Boca Juniors.&nbsp;<br>Ora, devi sapere due cose fondamentali: moltissimi argentini non sono mai andati in questo quartiere perché lo considerano super turistico; non andarci MAI con qualsiasi indumento o accessorio della squadra rivale, il River Plate, per i residenti sarebbe un affronto gravissimo.
+
+In effetti il Caminito, la via centrale che attraversa la Boca, &egrave; fatta apposta per i turisti. Di conseguenza i prezzi sono molto alti, nonostante il cibo sia nella media. Non consigliamo di viverci.
 
 \- Zona divisa in 2 parti: Caminito che &egrave; la parte turistica e sembra una via costruita apposta per turisti, con prezzi molto alti e cibo nella media. La seconda zona, che &egrave; la principale di La Boca, &egrave; piu residenziale e tranquilla, alcune vie sono sporche e non sicure, ma altre sono tranquille e pulite, sopratutto la via principale che porta a San Telmo. In generale penso che come quartiere sia meglio di San Telmo.
 
