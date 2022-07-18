@@ -9,7 +9,7 @@ author: Alessandro Trezza; Gabriel Gatu
 ---
 > **Disclaimer**<br>Le nostre guide sono pensate per essere utili ad altri nomadi digitali che, come noi, hanno gi&agrave; un proprio lavoro e vogliono vivere in un posto diverso da quello di residenza. Questo significa che non troverai info su come cambiare cittadinanza o trasferirti nel posto.
 
-Buenos Aires é un posto fantastico.
+Buenos Aires &egrave; un posto fantastico.
 
 *Ok, calma, andiamo con ordine.*
 
@@ -23,13 +23,13 @@ Insomma, il tempo di festeggiare Natale in famiglia e siamo partiti verso il cal
 
 L'idea era di fare due mesi, alla fine abbiamo prolungato fino ad inizio maggio, praticamente quattro mesi.
 
-*S&igrave;, ci é piaciuta tanto.*
+*S&igrave;, ci &egrave; piaciuta tanto.*
 
 **Con questa guida vorremmo racchiudere tutto ci&ograve; che abbiamo imparato sulla citt&agrave;**, offrendo dei consigli sulla base della nostra esperienza diretta.
 
 *Come se stessimo chiacchierando al bar tra amici.*
 
-Se ti stai chiedendo perché abbiamo scelto di vivere a Buenos Aires, la risposta é semplice:
+Se ti stai chiedendo perché abbiamo scelto di vivere a Buenos Aires, la risposta &egrave; semplice:
 
 c'&egrave; sembrato il posto pi&ugrave; caldo ed economico in cui lavorare durante i primi mesi dell’anno, senza dover rinunciare ai confort di una citt&agrave; europea.
 
@@ -43,17 +43,17 @@ Diciamocelo in modo schietto:
 
 Abbiamo preso il biglietto di andata a inizio novembre 2021, al costo di €498,79 a persona.
 
-&Eacute; un prezzo molto basso rispetto alla media, che si aggira intorno ai €1000. Come abbiamo fatto? Pagando con il nostro tempo.
+&Egrave; un prezzo molto basso rispetto alla media, che si aggira intorno ai €1000. Come abbiamo fatto? Pagando con il nostro tempo.
 
-&Eacute; stato un viaggio infinito, durato pi&ugrave; o meno 36 ore. Un giorno e mezzo, da Madrid sino a Buenos Aires, con scalo a Santa Cruz (Bolivia).
+&Egrave; stato un viaggio infinito, durato pi&ugrave; o meno 36 ore. Un giorno e mezzo, da Madrid sino a Buenos Aires, con scalo a Santa Cruz (Bolivia).
 
 A parte le 11 ore di volo tra Madrid e Santa Cruz &egrave; stata tutta un’attesa, passata perlopi&ugrave; a lavorare al pc, magiare e dormicchiare su sedie e pavimenti.
 
-*&Eacute; stato comunque piacevole, tra amici il tempo sembra scorrere pi&ugrave; velocemente.*
+*&Egrave; stato comunque piacevole, tra amici il tempo sembra scorrere pi&ugrave; velocemente.*
 
 In tutto il viaggio, degna di nota &egrave; la sala lounge *Mercantil Santa Cruz* all’aeroporto di Santa Cruz, che, nel caso passassi da quelle parti, consigliamo:
 
-il posto é tranquillo, c’&egrave; il wifi e cibo/bevande illimitate, per €15 pagati in contanti per persona.
+il posto &egrave; tranquillo, c’&egrave; il wifi e cibo/bevande illimitate, per €15 pagati in contanti per persona.
 
 ![](/uploads/lounge-aeroporto-bolivia-1.png){: width="350" height="467"}
 
@@ -65,17 +65,17 @@ Costo totale: €419,12.
 
 Appena arrivati in citt&agrave;, senza ARS (la valuta locale, il peso argentino) e senza internet sul telefono, abbiamo chiamato un taxi da uno degli stand presenti in aeroporto, pagando in euro.
 
-La destinazione era l'Airbnb in zona Palermo Soho, la corsa é costata € 30.
+La destinazione era l'Airbnb in zona Palermo Soho, la corsa &egrave; costata € 30.
 
-Per il ritorno, da Palermo zona Las Ca&ntilde;itas, utilizzando DiDi e potendo pagare in valuta locale, il costo della corsa é stato di 2041 ARS, ovvero circa € 9,50.
+Per il ritorno, da Palermo zona Las Ca&ntilde;itas, utilizzando DiDi e potendo pagare in valuta locale, il costo della corsa &egrave; stato di 2041 ARS, ovvero circa € 9,50.
 
-Il vantaggio nel pagare in valuta locale é ovvio, quindi cerca di organizzarti prima, in modo da avere internet per utilizzare le app di ridesharing e il contante in peso per pagare (*pi&ugrave; avanti trattiamo entrambi gli argomenti*).
+Il vantaggio nel pagare in valuta locale &egrave; ovvio, quindi cerca di organizzarti prima, in modo da avere internet per utilizzare le app di ridesharing e il contante in peso per pagare (*pi&ugrave; avanti trattiamo entrambi gli argomenti*).
 
 ## Assicurazione sanitaria
 
-Non sappiamo se l'assicurazione sanitaria é sempre stata necessaria per accedere in Argentina e se in questo momento esatto in cui stai leggendo questo articolo é ancora richiesto; il 14 gennaio 2022 era un requisito obbligatorio e pensiamo abbia senso condividere le nostre scelte, dato che questo passaggio ci ha fatto perdere parecchio tempo.
+Non sappiamo se l'assicurazione sanitaria &egrave; sempre stata necessaria per accedere in Argentina e se in questo momento esatto in cui stai leggendo questo articolo &egrave; ancora richiesto; il 14 gennaio 2022 era un requisito obbligatorio e pensiamo abbia senso condividere le nostre scelte, dato che questo passaggio ci ha fatto perdere parecchio tempo.
 
-In particolare, la richiesta era di un'assicurazione sanitaria con copertura contro il Covid-19. In ogni caso il consiglio é di **controllare sempre la pagina ufficiale del Ministero degli Affari Esteri**, che [linkiamo qui](https://www.viaggiaresicuri.it/country/ARG){: target="_blank" rel="noopener"}.
+In particolare, la richiesta era di un'assicurazione sanitaria con copertura contro il Covid-19. In ogni caso il consiglio &egrave; di **controllare sempre la pagina ufficiale del Ministero degli Affari Esteri**, che [linkiamo qui](https://www.viaggiaresicuri.it/country/ARG){: target="_blank" rel="noopener"}.
 
 *Ma andiamo subito al sodo.*
 
@@ -91,7 +91,7 @@ XME Protezione Salute, con l'aggiunta del modulo che protegge i nostri device da
 
 Safety Wing, forse l'assicurazione pi&ugrave; utilizzata dai nomadi digitali di tutto il mondo, costa $42 al mese.
 
-Ad essere sinceri, i controlli in dogana sono stati una pura formalit&agrave;; d'altronde i fogli di Intesa erano scritti in italiano e, per quanto tempo passassero a sfogliarli, non penso abbiano capito tutti i massimali previsti. Comunque é importante essere coperti da un'assicurazione sanitaria dato che i migliori ospedali argentini sono privati.
+Ad essere sinceri, i controlli in dogana sono stati una pura formalit&agrave;; d'altronde i fogli di Intesa erano scritti in italiano e, per quanto tempo passassero a sfogliarli, non penso abbiano capito tutti i massimali previsti. Comunque &egrave; importante essere coperti da un'assicurazione sanitaria dato che i migliori ospedali argentini sono privati.
 
 ## <br>Sicurezza e dove vivere
 
@@ -110,7 +110,7 @@ Sicuramente sono presenti altri posti in cui non &egrave; consigliato andarci, s
 
 Per il resto, sono posti in cui abbiamo avuto la parvenza di vita normale, con molta polizia che gira sia in macchina che a piedi.
 
-In particolare, Palermo é un posto davvero tranquillo in cui difficilmente avrai problemi.
+In particolare, Palermo &egrave; un posto davvero tranquillo in cui difficilmente avrai problemi.
 
 Scegliere in quale quartiere vivere dipende anche dal tipo di permanenza che si desidera.
 
@@ -118,7 +118,7 @@ Scegliere in quale quartiere vivere dipende anche dal tipo di permanenza che si 
 
 La maggior parte della nostra permanenza l'abbiamo trascorsa in un Airbnb in Palermo Soho.
 
-Palermo si divide in sotto quartieri (Soho, Hollywood, Las Ca&ntilde;itas, Viejo), ognuno dei quali ha delle proprie caratteristiche. In generale, **&egrave; senza ombra di dubbio il miglior quartiere per nomadi digitali**, dato che é pieno di bar in cui poter lavorare, locali per divertirsi e ristoranti.
+Palermo si divide in sotto quartieri (Soho, Hollywood, Las Ca&ntilde;itas, Viejo), ognuno dei quali ha delle proprie caratteristiche. In generale, **&egrave; senza ombra di dubbio il miglior quartiere per nomadi digitali**, dato che &egrave; pieno di bar in cui poter lavorare, locali per divertirsi e ristoranti.
 
 ##### Villa Crespo
 
@@ -164,7 +164,7 @@ Senza dubbio &egrave; uno dei quartieri in cui consigliamo di vivere, soprattutt
 
 Il costo della vita, per i nostri standard europei, &egrave; molto basso.
 
-&Eacute; un qualcosa che a noi ha colpito molto:
+&Egrave; un qualcosa che a noi ha colpito molto:
 
 in una citt&agrave; con i servizi di un paese sviluppato, locali moderni e prodotti ottimi, non ci aspettavamo di poter pagare un pranzo con meno di €2 o una corsa in taxi di 20 minuti con €3.
 
@@ -178,11 +178,11 @@ in una citt&agrave; con i servizi di un paese sviluppato, locali moderni e prodo
 
 Il nostro primo Airbnb &egrave; costato intorno ai €1000 al mese; da considerare, per&ograve;, che era una casa con due camere da letto, due bagni, accessoriata di tutto e situata in Palermo Soho, uno dei migliori quartieri.
 
-Anche il secondo Aibnb é costato sui €1000 per un mese, questa volta in zona San Telmo, vicino alla fermata della metro Belgrano.
+Anche il secondo Aibnb &egrave; costato sui €1000 per un mese, questa volta in zona San Telmo, vicino alla fermata della metro Belgrano.
 
-La terza e ultima casa, presa per sette giorni, é costata €275, in zona Las Ca&ntilde;itas.
+La terza e ultima casa, presa per sette giorni, &egrave; costata €275, in zona Las Ca&ntilde;itas.
 
-In generale, grazie al cambio Blue, tutto é molto economico (tranne l'abbigliamento, che abbiamo trovato pi&ugrave; caro rispetto all'Italia) per chi ha uno stipendio in euro/dollari.
+In generale, grazie al cambio Blue, tutto &egrave; molto economico (tranne l'abbigliamento, che abbiamo trovato pi&ugrave; caro rispetto all'Italia) per chi ha uno stipendio in euro/dollari.
 
 ## Moneta locale
 
@@ -193,9 +193,9 @@ Per via della forte inflazione, ha due tassi di cambio:
 * Banco Naci&oacute;n, il cambio ufficiale;
 * Blue dollar, il cambio alternativo, tollerato dal governo.
 
-Ora, **capire come gestire il cambio é il passaggio pi&ugrave; importante in assoluto**, dato che ti cambier&agrave; in modo sostanziale la qualit&agrave; della tua permanenza.
+Ora, **capire come gestire il cambio &egrave; il passaggio pi&ugrave; importante in assoluto**, dato che ti cambier&agrave; in modo sostanziale la qualit&agrave; della tua permanenza.
 
-Il motivo é semplice:
+Il motivo &egrave; semplice:
 
 Il Blue Dollar, almeno al momento in cui scriviamo, &egrave; quotato praticamente al doppio del cambio ufficiale. $214 contro i $111,94 del Banco Naci&oacute;n.
 
@@ -215,11 +215,11 @@ Il problema &egrave; che le banconote ricevute potrebbero essere false oppure la
 
 *Insomma, non eravamo troppo tranquilli con queste premesse.*
 
-**La soluzione é Western Union:**
+**La soluzione &egrave; Western Union:**
 
 offre di default il cambio Blue, quindi puoi convertire da app o sito web i soldi che hai sulla tua carta europea direttamente in peso argentino e ritirarli in contanti presso uno sportello Western Union.
 
-L’unica pecca é che, nonostante le casse Western Union siano ovunque, sono poche quelle che offrono un servizio professionale.
+L’unica pecca &egrave; che, nonostante le casse Western Union siano ovunque, sono poche quelle che offrono un servizio professionale.
 
 Purtroppo l’abbiamo dovuto scoprire con l’esperienza:
 
@@ -238,7 +238,7 @@ Non sono i migliori in assoluto, sono i migliori tra quelli che abbiamo potuto p
 * Peru, San Nicol&aacute;s 139, 1067 Buenos Aires, Argentina
 * Armenia 2109, Buenos Aires, Argentina
 
-**Consiglio:** non pensare di andare a ritirare i soldi senza avere uno zaino o borsa in cui mettere i contanti, ti garantiamo che nel portafogli difficilmente riuscirai a mettere pi&ugrave; di €100. Inoltre, é sempre una buona idea andare intorno all'orario di apertura se hai intenzione di ritirare pi&ugrave; di €200 *(spesso si formano le code e i contanti finiscono prima dell'ora di pranzo)*.
+**Consiglio:** non pensare di andare a ritirare i soldi senza avere uno zaino o borsa in cui mettere i contanti, ti garantiamo che nel portafogli difficilmente riuscirai a mettere pi&ugrave; di €100. Inoltre, &egrave; sempre una buona idea andare intorno all'orario di apertura se hai intenzione di ritirare pi&ugrave; di €200 *(spesso si formano le code e i contanti finiscono prima dell'ora di pranzo)*.
 
 ![](/uploads/coda-wester-union.webp){: width="350" height="467"}
 
@@ -248,13 +248,13 @@ Se pensi di utilizzare Western Union, ti lascio qui il link di affiliazione per 
 
 ## Lingua e livello di inglese
 
-La lingua ufficiale é lo spagnolo. Si differenzia da quello parlato in Spagna dall’uso del voseo (l’uso del pronome di seconda persona plurale vos al posto del tu, che causa anche l’uso di differenti forme verbali).
+La lingua ufficiale &egrave; lo spagnolo. Si differenzia da quello parlato in Spagna dall’uso del voseo (l’uso del pronome di seconda persona plurale vos al posto del tu, che causa anche l’uso di differenti forme verbali).
 
 Un’altra importante differenza &egrave; sulla fonetica di alcune parole, come la pronuncia della doppia L, quindi parole come *calle* (significa via, viene pronunciato *casce* invece del classico *caglie*) e *parrilla* (significa griglia, pronunciato *parriscia* invece di *parriglia*).
 
 Inoltre, diverse parole italiane si utilizzano anche nel parlato argentino (come gamba in alternativa a pierna, per indicare l'arto inferiore).
 
-Non siamo linguisti, quindi non approfondiamo oltre, é un qualcosa che comunque dovresti sapere prima di arrivare in Argentina.
+Non siamo linguisti, quindi non approfondiamo oltre, &egrave; un qualcosa che comunque dovresti sapere prima di arrivare in Argentina.
 
 Nel caso cercassi una scuola di spagnolo, tieni a mente queste differenze perché ti marchieranno inevitabilmente in tutti i tuoi futuri viaggi in cui si parla spagnolo.
 
@@ -268,7 +268,7 @@ alla fine abbiamo scelto Wanderlust perché vicino al nostro primo Airbnb e con 
 
 Un corso medio-intensivo, ovvero due ore ogni mattina per cinque giorni a settimana, per un mese, &egrave; costato 71500 ARS (al cambio di quando abbiamo pagato, circa €300).
 
-Il corso é stato sicuramente utile, anche se non ci ha fatto impazzire il metodo applicato.
+Il corso &egrave; stato sicuramente utile, anche se non ci ha fatto impazzire il metodo applicato.
 
 Sembrava non esserci un vero programma da seguire, le lezioni iniziavano con delle chiacchiere di circostanza, finché non uscivano richieste o argomenti abbastanza utili da poter approfondire.
 
@@ -288,15 +288,15 @@ Gi&agrave; prima di questo annuncio erano presenti delle agevolazioni per nomadi
 
 In particolare, offrono gratuitamente un kit di benvenuto che comprende (al momento) uno sconto del 40% per lo shuttle che porta dall'aeroporto alla citt&agrave;, sconti per gli appartamenti e, forse la parte pi&ugrave; interessante, una sim prepagata e la carta per utilizzare il trasporto pubblico.
 
-&Eacute; possibile ritirarlo direttamente dall'aeroporto, &egrave; sufficiente prenotarlo dal sito ufficiale che lasciamo di seguito:
+&Egrave; possibile ritirarlo direttamente dall'aeroporto, &egrave; sufficiente prenotarlo dal sito ufficiale che lasciamo di seguito:
 
 [OTTIENI MAGGIORI INFO E PRENOTA IL KIT PER NOMADI DIGITALI](https://baglobal.buenosaires.gob.ar/nomades-digitales){: target="_blank" rel="noopener"}
 
-Purtroppo noi l'abbiamo scoperto dopo qualche tempo dal nostro arrivo e non abbiamo potuto provare il servizio in prima persona; peccato perché avere da subito la sim con numero argentino e la carta per il trasporto pubblico é un bella comodit&agrave;.
+Purtroppo noi l'abbiamo scoperto dopo qualche tempo dal nostro arrivo e non abbiamo potuto provare il servizio in prima persona; peccato perché avere da subito la sim con numero argentino e la carta per il trasporto pubblico &egrave; un bella comodit&agrave;.
 
 ## Telefonia e wifi
 
-Appena dopo aver cambiato i primi euro in ARS, la prima cosa che abbiamo fatto é stata quella di comprarci una sim con numero argentino, cos&igrave; da avere internet sullo smartphone.
+Appena dopo aver cambiato i primi euro in ARS, la prima cosa che abbiamo fatto &egrave; stata quella di comprarci una sim con numero argentino, cos&igrave; da avere internet sullo smartphone.
 
 **Le compagnie pi&ugrave; quotate sono Personal, Movistar e Claro.**
 
@@ -304,7 +304,7 @@ Noi abbiamo optato per Claro:
 
 4 giga per un mese a 850 pesos (al cambio del pagamento circa €4).
 
-Il procedimento é semplice.
+Il procedimento &egrave; semplice.
 
 Innanzitutto devi sapere che quella che noi chiamiamo sim loro la chiamano *chip mobile*, giusto per capirsi.
 
@@ -322,17 +322,17 @@ Il wifi si trova in quasi tutti i locali. Se cerchi posti in cui lavorare con il
 
 *Difficilmente abbiamo avuto problemi di connessione.*
 
-&Eacute; presente la banda larga a Buenos Aires, quindi sia gli Airbnb che i locali potrebbero offrire sia la rete a 2.4 GHz che a 5.8 GHz.
+&Egrave; presente la banda larga a Buenos Aires, quindi sia gli Airbnb che i locali potrebbero offrire sia la rete a 2.4 GHz che a 5.8 GHz.
 
 ## Trasporti a Buenos Aires
 
-Questo é un altro argomento che avremmo dovuto conoscere prima di arrivare in citt&agrave;.
+Questo &egrave; un altro argomento che avremmo dovuto conoscere prima di arrivare in citt&agrave;.
 
 Infatti, abbiamo passato il primo mese e mezzo spostandoci solamente con Uber e Cabify, le due app pi&ugrave; famose di ridesharing.
 
-Poi abbiamo scoperto che **il trasporto pubblico a Buenos Aires é molto efficiente e tanto economico**.
+Poi abbiamo scoperto che **il trasporto pubblico a Buenos Aires &egrave; molto efficiente e tanto economico**.
 
-*Insomma, pure chi non é propenso ad usare il pullman o la metro, a Buenos Aires potrebbe ricredersi.*
+*Insomma, pure chi non &egrave; propenso ad usare il pullman o la metro, a Buenos Aires potrebbe ricredersi.*
 
 ##### Trasporto pubblico a Buenos Aires
 
@@ -342,13 +342,13 @@ Partiamo dalla terminologia:
 * la metro: subte;
 * la carta per il trasporto pubblico: tarjeta Sube.
 
-Con la Sube hai accesso a tutti i mezzi pubblici, ovvero pullman, metro e treno. **&Eacute; un sistema integrato**, questo significa che, prendendo un pullman e subito dopo il treno, la seconda corsa avr&agrave; uno sconto applicato automaticamente.
+Con la Sube hai accesso a tutti i mezzi pubblici, ovvero pullman, metro e treno. &Egrave;**&nbsp;un sistema integrato**, questo significa che, prendendo un pullman e subito dopo il treno, la seconda corsa avr&agrave; uno sconto applicato automaticamente.
 
 ![](/uploads/sube.webp){: width="474" height="316"}
 
 La carta Sube la puoi trovare nei Kiosco convenzionati oppure in una dei molteplici Loteria De La Ciudad ([qui il link](https://tarjetasube.sube.gob.ar/SubeWeb/WebForms/admin/views/mapa-sube.aspx?id=1){: target="_blank" rel="noopener"} per trovare il punto vendita pi&ugrave; vicino).
 
-&Eacute; costata 90 ARS (circa €0,4), pochissimo, e il credito si ricarica direttamente dove si acquista.
+&Egrave; costata 90 ARS (circa €0,4), pochissimo, e il credito si ricarica direttamente dove si acquista.
 
 Se passi pi&ugrave; di tre giorni a Buenos Aires non puoi non avere la tua Sube.
 
@@ -368,7 +368,7 @@ Passano spesso, pi&ugrave; o meno in orario, e si controllano facilmente con Goo
 
 ##### La metro (subte)
 
-Inaugurata nel 1913, é la prima metropolitana del Latino America e prima anche tra gli stati in lingua spagnola (quella di Madrid é attiva dal 1919).
+Inaugurata nel 1913, &egrave; la prima metropolitana del Latino America e prima anche tra gli stati in lingua spagnola (quella di Madrid &egrave; attiva dal 1919).
 
 ![](/uploads/subte-buenos-aires-2.webp){: width="351" height="467"}
 
@@ -388,13 +388,13 @@ Anche questo mezzo costa molto poco, anche per tratte lunghe, nonostante siano n
 
 Come anticipato ad inizio sezione, la prima parte della nostra permanenza l'abbiamo passata spostandoci solamente con Cabify prima e DiDi dopo.
 
-Non conoscevamo quanto fosse efficiente il trasporto pubblico e il prezzo di una corsa in ridesharing é davvero molto basso, soprattutto se divisa in due persone.
+Non conoscevamo quanto fosse efficiente il trasporto pubblico e il prezzo di una corsa in ridesharing &egrave; davvero molto basso, soprattutto se divisa in due persone.
 
 **Per farti un'idea, 4.63 km di percorso, fatti in 21 minuti con Cabify, sono costati 380 ARS, circa €1,8.**
 
 *Di conseguenza succede che spesso passa la voglia di prendere un bus affollato.*
 
-L'app pi&ugrave; economica é DiDi, scaricabile solo cambiando il paese dell'app store su Argentina. Cabify e Uber sono pi&ugrave; o meno simili, anche se la prima é un pelo pi&ugrave; economica della seconda.<br><br>Di seguito vi lasciamo i link per scaricare Cabify con il nostro codice invito incluso, cos&igrave; da guadagnarci qualcosa entrambi:
+L'app pi&ugrave; economica&egrave;é DiDi, scaricabile solo cambiando il paese dell'app store su Argentina. Cabify e Uber sono pi&ugrave; o meno simili, anche se la prima &egrave; un pelo pi&ugrave; economica della seconda.<br><br>Di seguito vi lasciamo i link per scaricare Cabify con il nostro codice invito incluso, cos&igrave; da guadagnarci qualcosa entrambi:
 
 [CLICCA QUI PER SCARICARE CABIFY](https://cabify.com/i/alessandrt1033){: target="_blank" rel="noopener"}
 
@@ -408,13 +408,13 @@ Detto questo, dopo le undici di notte abbiamo spesso optato per una macchina.
 
 ## <br>Clima
 
-Se anche tu, come noi, cerchi di fuggire dall'inverno europeo, sappi che Buenos Aires é un'ottima opzione anche sotto questo punto di vista.
+Se anche tu, come noi, cerchi di fuggire dall'inverno europeo, sappi che Buenos Aires &egrave; un'ottima opzione anche sotto questo punto di vista.
 
 Infatti, dicembre, gennaio e febbraio sono i mesi estivi, in cui fa molto caldo.
 
 ![](/uploads/storico-temperature-meteo-buenos-aires.webp){: width="1066" height="692"}
 
-Questo significa che, soprattutto a gennaio, la citt&agrave; é mezza vuota perché tutti i locals si spostano nei paesi di mare, come Mar del Plata o Pinamar.
+Questo significa che, soprattutto a gennaio, la citt&agrave; &egrave; mezza vuota perché tutti i locals si spostano nei paesi di mare, come Mar del Plata o Pinamar.
 
 In effetti fa tanto caldo, anche oltre i 40 gradi.
 
@@ -422,7 +422,7 @@ In effetti fa tanto caldo, anche oltre i 40 gradi.
 
 Da aprile in poi le temperature si abbassano, con l'arrivo dell'inverno, sino a giugno/luglio, che sono i mesi pi&ugrave; freddi.
 
-Insomma, se lo scopo é stare al caldo, da dicembre a marzo non puoi sbagliare.
+Insomma, se lo scopo &egrave; stare al caldo, da dicembre a marzo non puoi sbagliare.
 
 ## <br>Posti un cui lavorare
 
@@ -432,7 +432,7 @@ A Buenos Aires sono presenti diversi co-working. Noi, per&ograve;, abbiamo prefe
 
 Ovviamente, dato che non abbiamo provato i cowo non ne parleremo, per&ograve; abbiamo una lista di locali in cui ci siamo ricordati di segnarci la velocit&agrave; di internet e pi&ugrave; o meno i prezzi, ci auguriamo ti sia utile a risparmiare tempo.
 
-In generale, Palermo é la zona in cui si concentrano tutti i posti idonei per stare con un pc per molto tempo.
+In generale, Palermo &egrave; la zona in cui si concentrano tutti i posti idonei per stare con un pc per molto tempo.
 
 In zona microcentro (Montserrant ma anche pi&ugrave; a sud, verso San Telmo) abbiamo avuto difficolt&agrave; a trovare un luogo adatto.
 
@@ -449,7 +449,7 @@ Tieni presente che i prezzi sul men&ugrave;, in base all'andamento dell'inflazio
 * Upload 27,77 Mbps.
 * Enchufe: S&igrave;
 * Prezzi: il t&egrave; costa 200
-* Particolarit&agrave;: al piano superiore c'&egrave; un grande tavolo con prese in cui é molto comodo e piacevole lavorare
+* Particolarit&agrave;: al piano superiore c'&egrave; un grande tavolo con prese in cui &egrave; molto comodo e piacevole lavorare
 
 ##### Padre Coffee Roasters
 
@@ -684,19 +684,19 @@ Poi, frequentando persone porte&ntilde;e *(cio&egrave; di Buenos Aires)*, abbiam
 
 Un vero peccato.
 
-Per&ograve;, se ti interessa comunque scoprire il ballo proibito, abbiamo delle info utili da darti.
+Per&ograve;, se ti interessa comunque scoprire *il ballo proibito*, abbiamo delle info utili da darti.
 
-San Telmo é il quartiere in cui si respira ancora un po' dell'antica atmosfera dei primi del 900, con locali caratteristici in cui si svolgono gli spettacoli.
+San Telmo &egrave; il quartiere in cui si respira ancora un po' dell'antica atmosfera dei primi del '900, con locali caratteristici in cui si svolgono gli spettacoli.
 
-Il consiglio principale é quello di lasciare perdere i tango show, fatti per turisti e inutilmente costosi, dei locali pi&ugrave; famosi e buttati in una Milonga, ovvero il luogo in cui si balla il tango. Noi siamo andati al Viruta Club Tango.
+Il consiglio principale &egrave; quello di lasciare perdere i tango show, fatti per turisti e inutilmente costosi, dei locali pi&ugrave; famosi e buttati in una Milonga, ovvero il luogo in cui si balla il tango. Noi siamo andati al Viruta Club Tango.
 
 <iframe src="https://player.vimeo.com/video/723519316?h=1842aa54cf" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
-*La milonga é anche un tipo di ballo, una sorta di tango pi&ugrave; veloce.*
+*La milonga &egrave; anche un tipo di ballo, una sorta di tango pi&ugrave; veloce.*
 
 Tra l'altro, consigliamo il Viruta anche nel caso volessi prendere delle lezioni.
 
-Un altro posto in cui dovresti andare é Barrancas de Belgrano, un parco molto bello in cui é presente un gazebo:
+Un altro posto in cui dovresti andare &egrave; Barrancas de Belgrano, un parco molto bello in cui, nella parte alta, é presente un gazebo:
 
 verso il tramonto le persone iniziano a trovarsi per ballare insieme.
 
