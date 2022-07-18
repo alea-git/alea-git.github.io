@@ -298,7 +298,7 @@ Purtroppo noi l'abbiamo scoperto dopo qualche tempo dal nostro arrivo e non abbi
 
 Appena dopo aver cambiato i primi euro in ARS, la prima cosa che abbiamo fatto é stata quella di comprarci una sim con numero argentino, cos&igrave; da avere internet sullo smartphone.
 
-Le compagnie pi&ugrave; quotate sono Personal, Movistar e Claro.
+**Le compagnie pi&ugrave; quotate sono Personal, Movistar e Claro.**
 
 Noi abbiamo optato per Claro:
 
@@ -330,7 +330,7 @@ Questo é un altro argomento che avremmo dovuto conoscere prima di arrivare in c
 
 Infatti, abbiamo passato il primo mese e mezzo spostandoci solamente con Uber e Cabify, le due app pi&ugrave; famose di ridesharing.
 
-Poi abbiamo scoperto che il trasporto pubblico a Buenos Aires é molto efficiente e tanto economico.
+Poi abbiamo scoperto che **il trasporto pubblico a Buenos Aires é molto efficiente e tanto economico**.
 
 *Insomma, pure chi non é propenso ad usare il pullman o la metro, a Buenos Aires potrebbe ricredersi.*
 
