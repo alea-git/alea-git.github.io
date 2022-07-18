@@ -118,7 +118,7 @@ Scegliere in quale quartiere vivere dipende anche dal tipo di permanenza che si 
 
 La maggior parte della nostra permanenza l'abbiamo trascorsa in un Airbnb in Palermo Soho.
 
-Palermo si divide in sotto quartieri (Soho, Hollywood, Las Ca&ntilde;itas, Viejo), ognuno dei quali ha delle proprie caratteristiche. In generale, &egrave; senza ombra di dubbio il miglior quartiere per nomadi digitali, dato che é pieno di bar in cui poter lavorare, locali per divertirsi e ristoranti.
+Palermo si divide in sotto quartieri (Soho, Hollywood, Las Ca&ntilde;itas, Viejo), ognuno dei quali ha delle proprie caratteristiche. In generale, **&egrave; senza ombra di dubbio il miglior quartiere per nomadi digitali**, dato che é pieno di bar in cui poter lavorare, locali per divertirsi e ristoranti.
 
 ##### Villa Crespo
 
@@ -170,9 +170,9 @@ in una citt&agrave; con i servizi di un paese sviluppato, locali moderni e prodo
 
 ![](/uploads/pasto-buenos-aires-economica.webp){: width="260" height="467"}
 
-*Insomma, vivere in una grande citt&agrave; con lo stesso costo di vita che si pu&ograve; trovare in una citt&agrave; di provincia di uno stato poco sviluppato.*
+*Insomma, la vita costa come se Buenos Aires fosse una citt&agrave; di provincia di uno stato povero.*
 
-Questo &egrave; possibile per via della forte inflazione, un problema molto grave per il popolo argentino.
+**Questo &egrave; possibile per via della forte inflazione**, un problema molto grave per il popolo argentino.
 
 *Approfondiremo il cambio della moneta e come farlo nel prossimo paragrafo.*
 
@@ -193,7 +193,7 @@ Per via della forte inflazione, ha due tassi di cambio:
 * Banco Naci&oacute;n, il cambio ufficiale;
 * Blue dollar, il cambio alternativo, tollerato dal governo.
 
-Ora, capire come gestire il cambio é il passaggio pi&ugrave; importante in assoluto, dato che ti cambier&agrave; in modo sostanziale la qualit&agrave; della tua permanenza.
+Ora, **capire come gestire il cambio é il passaggio pi&ugrave; importante in assoluto**, dato che ti cambier&agrave; in modo sostanziale la qualit&agrave; della tua permanenza.
 
 Il motivo é semplice:
 
@@ -215,7 +215,7 @@ Il problema &egrave; che le banconote ricevute potrebbero essere false oppure la
 
 *Insomma, non eravamo troppo tranquilli con queste premesse.*
 
-La soluzione é Western Union:
+**La soluzione é Western Union:**
 
 offre di default il cambio Blue, quindi puoi convertire da app o sito web i soldi che hai sulla tua carta europea direttamente in peso argentino e ritirarli in contanti presso uno sportello Western Union.
 
@@ -229,7 +229,7 @@ Avevamo bisogno di soldi per fare un minimo di spesa e comprare la sim per il nu
 
 Ovviamente ci ha fatto un tasso parecchio inferiore al Blue.
 
-Detto questo, abbiamo diversi Western union da consigliare.
+Detto questo, abbiamo due Western union da consigliare.
 
 ##### Wester Union consigliati a Buenos Aires
 
@@ -238,7 +238,7 @@ Non sono i migliori in assoluto, sono i migliori tra quelli che abbiamo potuto p
 * Peru, San Nicol&aacute;s 139, 1067 Buenos Aires, Argentina
 * Armenia 2109, Buenos Aires, Argentina
 
-Consiglio: non pensare di andare a ritirare i soldi senza avere uno zaino o borsa in cui mettere i contanti, ti garantiamo che nel portafogli difficilmente riuscirai a mettere pi&ugrave; di €100. Inoltre, é sempre una buona idea andare intorno all'orario di apertura se hai intenzione di ritirare pi&ugrave; di €200 *(spesso si formano le code e i contanti finiscono prima dell'ora di pranzo)*.
+**Consiglio:** non pensare di andare a ritirare i soldi senza avere uno zaino o borsa in cui mettere i contanti, ti garantiamo che nel portafogli difficilmente riuscirai a mettere pi&ugrave; di €100. Inoltre, é sempre una buona idea andare intorno all'orario di apertura se hai intenzione di ritirare pi&ugrave; di €200 *(spesso si formano le code e i contanti finiscono prima dell'ora di pranzo)*.
 
 ![](/uploads/coda-wester-union.webp){: width="350" height="467"}
 
