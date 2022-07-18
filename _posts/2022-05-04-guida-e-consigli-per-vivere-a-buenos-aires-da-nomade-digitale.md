@@ -654,7 +654,7 @@ Da quel punto si raggiunge il Bosques tramite un ponte.
 
 Per facilitarti la vita, ti consiglio di seguire questo tragitto (appurato dopo diversi tentativi, credo sia la soluzione migliore se abiti a sud del Jardin Bot&aacute;nico).
 
-Della Reserva Ecologica devi sapere una curiosit&agrave; fondamentale:
+**Della Reserva Ecologica devi sapere una curiosit&agrave; fondamentale:**
 
 quando piove, per i successivi due/tre giorni almeno é tutto allagato e, di conseguenza, inagibile.
 
@@ -678,7 +678,7 @@ Nonostante siamo due obiettivamente non portati per il ballo, pur di vivere un'e
 
 Poi, frequentando persone porte&ntilde;e *(cio&egrave; di Buenos Aires)*, abbiamo scoperto l'amara verit&agrave;:
 
-il tango, dalle nuove generazioni, é visto come qualcosa da vecchi.
+**il tango, dalle nuove generazioni, é visto come qualcosa da vecchi.**
 
 *Un po' come noi italiani viviamo la lirica.*
 
