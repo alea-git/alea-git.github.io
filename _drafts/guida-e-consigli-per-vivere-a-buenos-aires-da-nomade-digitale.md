@@ -106,9 +106,9 @@ Sono consigli validi, anche se, a dire il vero, non ci siamo mai sentiti in peri
 
 In particolare, consigliamo di tenere il discorso del confine come riferimento generico, non come una regola ferrea; noi stessi siamo usciti dalla linea rossa andando a nord, una zona che, peraltro, &egrave; abitata dai facoltosi della citt&agrave;.
 
-Ci sono delle zone in Buenos Aires in cui, semplicemente, non devi andarci, come Villa 31 (nei dintorni di Retiro) e San Telmo/microcentro di notte.
+Ci sono delle zone in Buenos Aires in cui, semplicemente, non devi andarci, come Villa 31 (nei dintorni di Retiro) e San Telmo/Microcentro di notte.
 
-Ci sono sicuramente altri posti in cui FINIRE
+Ci sono sicuramente altri posti in cui non &egrave; consigliato andarci, sia di giorno che di notte, noi abbiamo segnalato i pi&ugrave; conosciuti; come regola generale, la parte nord-ovest della citt&agrave; &egrave; pi&ugrave; sicura della zona sud-est.
 
 Per il resto, sono posti in cui abbiamo avuto la parvenza di vita normale, con molta polizia che gira sia in macchina che a piedi.
 
@@ -154,17 +154,13 @@ La Boca &egrave; il quartiere di Maradona e della Bombonera, il famoso stadio de
 
 In effetti il Caminito, la via centrale che attraversa la Boca, &egrave; fatta apposta per i turisti. Di conseguenza i prezzi sono molto alti, nonostante il cibo sia nella media. Non consigliamo di viverci.
 
-\- Zona divisa in 2 parti: Caminito che &egrave; la parte turistica e sembra una via costruita apposta per turisti, con prezzi molto alti e cibo nella media. La seconda zona, che &egrave; la principale di La Boca, &egrave; piu residenziale e tranquilla, alcune vie sono sporche e non sicure, ma altre sono tranquille e pulite, sopratutto la via principale che porta a San Telmo. In generale penso che come quartiere sia meglio di San Telmo.
-
 ##### Belgrano
 
-\- Quartiere residenziale pieno di vie alberate, e parchi
+Belgrano &egrave; un bel quartiere residenziale, principalmente abitato da famiglie benestanti del posto. Degno di nota &egrave; il parco Barrancas de Belgrano e il Barrio Chino, una via colonizzata dai cinesi, in cui trovare i loro caratteristici negozi con prodotti low-cost e ristoranti.
 
-\- Principalmente per famiglie ma anche giovani
+&Egrave; un po' distante dal centro di Buenos Aires, non troppo lontano da Palermo; &egrave; comunque ben servita dalla metro, in 20 minuti si raggiunge la Casa Rosada.
 
-\- Ha un mood molto rilassato ed un po hippy, ma non troppo da dare fastidio ad alcune persone, come Palermo
-
-\- Un po fuori dal centro di BA e ci si mette un po a raggiungere le zone a sud (come microcentro), ma comunque la metro &egrave; disponibile ed in 20 minuti si arriva davanti alla casa rosada
+Senza dubbio &egrave; uno dei quartieri in cui consigliamo di vivere, soprattutto se non ami l'eccessivo stile hipster di Palermo.&nbsp;
 
 ## Costo della vita e Airbnb
 
@@ -243,7 +239,6 @@ Non sono i migliori in assoluto, sono i migliori tra quelli che abbiamo potuto p
 
 * Peru, San Nicol&aacute;s 139, 1067 Buenos Aires, Argentina
 * Armenia 2109, Buenos Aires, Argentina
-* QUELLO NEL CARREFOUR
 
 Consiglio: non pensare di andare a ritirare i soldi senza avere uno zaino o borsa in cui mettere i contanti, ti garantiamo che nel portafogli difficilmente riuscirai a mettere pi&ugrave; di €100. Inoltre, é sempre una buona idea andare intorno all'orario di apertura se hai intenzione di ritirare pi&ugrave; di €200 *(spesso si formano le code e i contanti finiscono prima dell'ora di pranzo)*.
 
