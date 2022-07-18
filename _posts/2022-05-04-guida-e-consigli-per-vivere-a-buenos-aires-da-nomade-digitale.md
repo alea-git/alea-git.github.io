@@ -504,7 +504,7 @@ Tieni presente che i prezzi sul men&ugrave;, in base all'andamento dell'inflazio
 
 ## Cosa visitare
 
-A Buenos Aires c'&egrave; tanto da fare. Tra vari quartieri, musei e locali storici, é molto difficile annoiarsi.
+A Buenos Aires c'&egrave; tanto da fare. Tra vari quartieri, musei e locali storici, &egrave; molto difficile annoiarsi.
 
 Per darti uno spunto e farti risparmiare un po' di tempo nella ricerca, di seguito ti lasciamo una lista di posti consigliati.
 
@@ -529,27 +529,27 @@ Fare un pranzo o una cena fuori &egrave; molto economico. L'ultimo mese e mezzo 
 
 ##### La piazza argentina
 
-La pizza argentina é una particolarit&agrave; che devi provare. Nel momento in cui smetti di paragonarla a quella italiana, é buona.
+La pizza argentina &egrave; una particolarit&agrave; che devi provare. Nel momento in cui smetti di paragonarla a quella italiana, &egrave; buona.
 
-Insomma, é un gusto diverso da ci&ograve; che siamo abituati.
+Insomma, &egrave; un gusto diverso da ci&ograve; che siamo abituati.
 
-&Eacute; alta, con molto formaggio; non c'&egrave; l'usanza di prendersi una pizza solo per s&egrave;, solitamente si condivide (perché troppo pesante).
+&Egrave; alta, con molto formaggio; non c'&egrave; l'usanza di prendersi una pizza solo per s&egrave;, solitamente si condivide (perché troppo pesante).
 
 ![](/uploads/pizza-argentina.webp){: width="351" height="467"}
 
 I posti storici in cui mangiarla sono da Guerrin, El Cuartito e Banchero. Se vuoi provare la fugazzetta (ovvero la piazza argentina caratterizzata da tanto formaggio e tanta cipolla) pi&ugrave; famosa, devi andare a La Mazzetta.
 
-Tra tutte le pizze argentine che abbiamo provato, a noi é piaciuta molto quella di Picsa (in Nicaragua 4896).
+Tra tutte le pizze argentine che abbiamo provato, a noi &egrave; piaciuta molto quella di Picsa (in Nicaragua 4896).
 
 ##### La carne alla griglia, ovvero l'asado
 
-La carne argentina é veramente di una qualit&agrave; superiore. In media, persino quella nei supermercati, é proprio buona.
+La carne argentina &egrave; veramente di una qualit&agrave; superiore. In media, persino quella nei supermercati, &egrave; proprio buona.
 
 Il ristorante Don Julio pare essere tra i 3 migliori al mondo per la qualit&agrave; di carne, ti consigliamo di passarci.
 
 ##### Fast food argentino
 
-Per quanto riguarda il fast food, é tipico il choripan, un panino con un chorizo (salsiccia di maiale) e, al massimo, con un po' di salsa chimichurri. Assolutamente da provare.
+Per quanto riguarda il fast food, &egrave; tipico il choripan, un panino con un chorizo (salsiccia di maiale) e, al massimo, con un po' di salsa chimichurri. Assolutamente da provare.
 
 <iframe src="https://player.vimeo.com/video/723522152?h=4805a4275b" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
@@ -561,9 +561,9 @@ Anche le empanadas appartengono al fast food tipico di Buenos Aires, costano poc
 
 Vero simbolo degli argentini, il mate:
 
-é una bevanda ricavata dall'infusione, all'interno di una zucca, dell'erba mate.
+&egrave; una bevanda ricavata dall'infusione, all'interno di una zucca, dell'erba mate.
 
-Dal gusto amaro, la preparazione e il consumo é un vero e proprio rito.
+Dal gusto amaro, la preparazione e il consumo &egrave; un vero e proprio rito.
 
 Il primo assaggio pu&ograve; essere abbastanza difficile:
 
@@ -573,11 +573,11 @@ Il primo assaggio pu&ograve; essere abbastanza difficile:
 
 Tantissime persone lo consumano per strada, con la propria borraccia termica per l'acqua calda. Si offre come segno di ospitalit&agrave; esattamente come gli italiani fanno con il caff&egrave;; prima della pandemia, era tradizione condividere lo stesso mate con pi&ugrave; persone.
 
-Il Fernet Cola, ovvero met&agrave; Coca Cola e met&agrave; amaro Fernet Branca, invece, é il cocktail pi&ugrave; diffuso tra i giovani di Buenos Aires.
+Il Fernet Cola, ovvero met&agrave; Coca Cola e met&agrave; amaro Fernet Branca, invece, &egrave; il cocktail pi&ugrave; diffuso tra i giovani di Buenos Aires.
 
-Da italiano é strano vedere come il Fernet, un amaro quasi difficile da trovare in Italia perché legato a tradizioni del passato, sia cos&igrave; in voga.
+Da italiano &egrave; strano vedere come il Fernet, un amaro quasi difficile da trovare in Italia perché legato a tradizioni del passato, sia cos&igrave; in voga.
 
-D'altra parte é bello vedere come l'influenza degli immigrati italiani sia ancora forte nella cultura odierna argentina.
+D'altra parte &egrave; bello vedere come l'influenza degli immigrati italiani sia ancora forte nella cultura odierna argentina.
 
 ##### Dolci: Alfajores e chocotorta
 
@@ -589,11 +589,11 @@ In realt&agrave; pare siano dolci di origini arabe o comunque spagnole.
 
 *Se provi a riferirlo ad uno del posto non la prender&agrave; bene.*
 
-In Argentina, comunque, é un dolce molto celebrato e, per questo motivo, in diverse zone troverai modi diversi di produrlo con gusti particolari.
+In Argentina, comunque, &egrave; un dolce molto celebrato e, per questo motivo, in diverse zone troverai modi diversi di produrlo con gusti particolari.
 
 I pi&ugrave; buoni a Buenos Aires pare siano quelli di Havanna e di Cachafaz.
 
-La chocotorta, invece, é un dolce delle nuove generazioni, fatto da uno specifico tipo di biscotto, la *chocolina*, e (tanto) *dulce de leche*. Negli ultimi anni é diventato un po' l'equivalente del nostro tiramis&ugrave;, si mangia principalmente in casa, in occasione di festeggiamenti per il compleanno.
+La chocotorta, invece, &egrave; un dolce delle nuove generazioni, fatto da uno specifico tipo di biscotto, la *chocolina*, e (tanto) *dulce de leche*. Negli ultimi anni &egrave; diventato un po' l'equivalente del nostro tiramis&ugrave;, si mangia principalmente in casa, in occasione di festeggiamenti per il compleanno.
 
 ![](/uploads/chocotorta.webp){: width="388" height="467"}
 
@@ -623,11 +623,11 @@ Senza dilungarci troppo nella descrizione dei posti, ti lasciamo una lista con i
 
 ## <br>Attivit&agrave; fisica
 
-Buenos Aires é una grande citt&agrave;, ormai avrai capito che é pieno di attivit&agrave; da fare.
+Buenos Aires &egrave; una grande citt&agrave;, ormai avrai capito che &egrave; pieno di attivit&agrave; da fare.
 
-Lo sport non é da meno.
+Lo sport non &egrave; da meno.
 
-Quando ci spostiamo in un posto nuovo, una delle prime cose che facciamo é interessarci a dove poter fare running e in quale palestra iscriverci.
+Quando ci spostiamo in un posto nuovo, una delle prime cose che facciamo &egrave; interessarci a dove poter fare running e in quale palestra iscriverci.
 
 In questa sezione parleremo anche del tango, caratteristica fondamentale di Buenos Aires di cui abbiamo parecchio da dire.
 
@@ -635,7 +635,7 @@ In questa sezione parleremo anche del tango, caratteristica fondamentale di Buen
 
 Sono tante le persone che fanno running in citt&agrave; e spesso organizzano anche competizioni amatoriali e non.
 
-*&Eacute; proprio un piacere correre a Buenos Aires.*
+*&Egrave; proprio un piacere correre a Buenos Aires.*
 
 Principalmente ci sono due posti in cui praticare le proprie sessioni di corsa, che sono:
 
@@ -656,7 +656,7 @@ Per facilitarti la vita, ti consiglio di seguire questo tragitto (appurato dopo 
 
 **Della Reserva Ecologica devi sapere una curiosit&agrave; fondamentale:**
 
-quando piove, per i successivi due/tre giorni almeno é tutto allagato e, di conseguenza, inagibile.
+quando piove, per i successivi due/tre giorni almeno &egrave; tutto allagato e, di conseguenza, inagibile.
 
 Purtroppo l'unica volta che ho provato questo percorso aveva piovuto da poco, quindi sono riuscito a fare ben poco.
 
@@ -666,7 +666,7 @@ Ci sono molte palestre in citt&agrave;, anche specifiche per CrossFit.
 
 Il costo medio &egrave; sui €25/30 al mese, dipende da quali servizi aggiuntivi scegli.
 
-Ad esempio, noi abbiamo scelto la Well Club Arenales che, per un mese con sala pesi e palestra, é costata 7000 ARS (intorno ai €30).
+Ad esempio, noi abbiamo scelto la Well Club Arenales che, per un mese con sala pesi e palestra, &egrave; costata 7000 ARS (intorno ai €30).
 
 *Poi la piscina era di 18 metri e profonda 80cm, ma vabb&egrave;.*
 
@@ -678,7 +678,7 @@ Nonostante siamo due obiettivamente non portati per il ballo, pur di vivere un'e
 
 Poi, frequentando persone porte&ntilde;e *(cio&egrave; di Buenos Aires)*, abbiamo scoperto l'amara verit&agrave;:
 
-**il tango, dalle nuove generazioni, é visto come qualcosa da vecchi.**
+**il tango, dalle nuove generazioni, &egrave; visto come qualcosa da vecchi.**
 
 *Un po' come noi italiani viviamo la lirica.*
 
@@ -696,7 +696,7 @@ Il consiglio principale &egrave; quello di lasciare perdere i tango show, fatti 
 
 Tra l'altro, consigliamo il Viruta anche nel caso volessi prendere delle lezioni.
 
-Un altro posto in cui dovresti andare &egrave; Barrancas de Belgrano, un parco molto bello in cui, nella parte alta, é presente un gazebo:
+Un altro posto in cui dovresti andare &egrave; Barrancas de Belgrano, un parco molto bello in cui, nella parte alta, &egrave; presente un gazebo:
 
 verso il tramonto le persone iniziano a trovarsi per ballare insieme.
 
@@ -704,7 +704,7 @@ verso il tramonto le persone iniziano a trovarsi per ballare insieme.
 
 ## <br>Dove fare la spesa
 
-Fare la spesa é un'arte.
+Fare la spesa &egrave; un'arte.
 
 *Perlomeno, a noi piace pensarla cos&igrave;.*
 
@@ -724,13 +724,13 @@ Personalmente, ci siamo trovati bene con D&igrave;a e Coto (molto famoso il Coto
 
 Disco e Jumbo sono spesso molto grandi, ci sono stati consigliati per via di una vasta scelta di prodotti importati dall'Italia (che ovviamente costano tanto).
 
-Una peculiarit&agrave; che abbiamo notato é l'attesa alle casse, é assurdo quanto tempo si perda se sbagli giorno/orario (i fine settimana sono terribili).
+Una peculiarit&agrave; che abbiamo notato &egrave; l'attesa alle casse, &egrave; assurdo quanto tempo si perda se sbagli giorno/orario (i fine settimana sono terribili).
 
 *Ci sono sempre poche casse aperte e troppe persone in fila.*
 
-&Eacute; molto importante, nel caso volessi risparmiare, acquistare carne, frutta e verdura nei negozietti locali, che si chiamano *carniceria* e *verduleria.*
+&Egrave; molto importante, nel caso volessi risparmiare, acquistare carne, frutta e verdura nei negozietti locali, che si chiamano *carniceria* e *verduleria.*
 
-Anche la frutta secca é consigliata acquistarla nei negozi specifici (si risparmia anche il 25%), che per&ograve; non sappiamo se hanno un particolare nome. Sono diversi comunque, non sar&agrave; difficile imbattersi in uno.
+Anche la frutta secca &egrave; consigliata acquistarla nei negozi specifici (si risparmia anche il 25%), che per&ograve; non sappiamo se hanno un particolare nome. Sono diversi comunque, non sar&agrave; difficile imbattersi in uno.
 
 ## <br>Fare amicizie offline e online
 
