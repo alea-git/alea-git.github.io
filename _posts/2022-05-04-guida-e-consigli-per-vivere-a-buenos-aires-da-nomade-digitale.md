@@ -344,19 +344,19 @@ Poi abbiamo scoperto che **il trasporto pubblico a Buenos Aires &egrave; molto e
 
 Partiamo dalla terminologia:
 
-* il pullman: colectivo;
-* la metro: subte;
-* la carta per il trasporto pubblico: tarjeta Sube.
+* il pullman: *colectivo*;
+* la metro: *subte*;
+* la carta per il trasporto pubblico: *tarjeta SUBE*.
 
-Con la Sube hai accesso a tutti i mezzi pubblici, ovvero pullman, metro e treno. &Egrave;**&nbsp;un sistema integrato**, questo significa che, prendendo un pullman e subito dopo il treno, la seconda corsa avr&agrave; uno sconto applicato automaticamente.
+Con la SUBE hai accesso a tutti i mezzi pubblici, ovvero pullman, metro e treno. &Egrave;**&nbsp;un sistema integrato**, questo significa che, prendendo un pullman e subito dopo il treno, la seconda corsa avr&agrave; uno sconto applicato automaticamente.
 
 ![](/uploads/sube.webp){: width="474" height="316"}
 
-La carta Sube la puoi trovare nei Kiosco convenzionati oppure in una dei molteplici Loteria De La Ciudad ([qui il link](https://tarjetasube.sube.gob.ar/SubeWeb/WebForms/admin/views/mapa-sube.aspx?id=1){: target="_blank" rel="noopener"} per trovare il punto vendita pi&ugrave; vicino).
+La carta SUBE la puoi trovare nei Kiosco convenzionati oppure in una dei molteplici Loteria De La Ciudad ([qui il link](https://tarjetasube.sube.gob.ar/SubeWeb/WebForms/admin/views/mapa-sube.aspx?id=1){: target="_blank" rel="noopener"} per trovare il punto vendita pi&ugrave; vicino).
 
-&Egrave; costata 90 ARS (circa €0,4), pochissimo, e il credito si ricarica direttamente dove si acquista.
+&Egrave; costata ARS 90 (circa €0,4), pochissimo, e il credito si ricarica direttamente dove si acquista.
 
-Se passi pi&ugrave; di tre giorni a Buenos Aires non puoi non avere la tua Sube.
+Se passi pi&ugrave; di tre giorni a Buenos Aires non puoi non avere la tua SUBE.
 
 ##### Il pullman (colectivo)
 
@@ -364,9 +364,9 @@ Oltre ad essere esteticamente molto belli e caratteristici, funzionano bene e so
 
 Devi sapere che, **appena entrato sul pullman devi riferire al guidatore dove intendi scendere**, in modo tale che possa applicarti la tariffa del viaggio in base alla tua destinazione.
 
-Dopodiché dovrai semplicemente appoggiare la tua carta Sube sul lettore per effettuare il pagamento.
+Dopodiché dovrai semplicemente appoggiare la tua carta SUBE sul lettore per effettuare il pagamento.
 
-In media, una corsa costa 20/30 ARS.
+In media, una corsa costa ARS 20/30.
 
 *Eh si, &egrave; davvero poco.*
 
@@ -380,7 +380,7 @@ Inaugurata nel 1913, &egrave; la prima metropolitana del Latino America e prima 
 
 Sono sette linee che attraversano quasi ogni parte della citt&agrave;, &egrave; comoda ed efficiente.
 
-Costa 30 ARS e si paga esclusivamente tramite carta Sube.
+Costa ARS 30 e si paga esclusivamente tramite carta SUBE.
 
 ##### Il treno
 
@@ -396,11 +396,11 @@ Come anticipato ad inizio sezione, la prima parte della nostra permanenza l'abbi
 
 Non conoscevamo quanto fosse efficiente il trasporto pubblico e il prezzo di una corsa in ridesharing &egrave; davvero molto basso, soprattutto se divisa in due persone.
 
-**Per farti un'idea, 4.63 km di percorso, fatti in 21 minuti con Cabify, sono costati 380 ARS, circa €1,8.**
+**Per farti un'idea, 4.63 km di percorso, fatti in 21 minuti con Cabify, sono costati ARS 380, circa €1,8.**
 
-*Di conseguenza succede che spesso passa la voglia di prendere un bus affollato.*
+*Di conseguenza succede che spesso non vale la pena attendere un bus affollato.*
 
-L'app pi&ugrave; economica&egrave;é DiDi, scaricabile solo cambiando il paese dell'app store su Argentina. Cabify e Uber sono pi&ugrave; o meno simili, anche se la prima &egrave; un pelo pi&ugrave; economica della seconda.<br><br>Di seguito vi lasciamo i link per scaricare Cabify con il nostro codice invito incluso, cos&igrave; da guadagnarci qualcosa entrambi:
+**L'app pi&ugrave; economica &egrave; DiDi**, scaricabile solo cambiando il paese dell'app store su Argentina. Cabify e Uber sono pi&ugrave; o meno simili, anche se la prima &egrave; un pelo pi&ugrave; economica della seconda.<br><br>Di seguito lasciamo i link per scaricare Cabify con il nostro codice invito incluso, cos&igrave; da guadagnarci qualcosa entrambi:
 
 [CLICCA QUI PER SCARICARE CABIFY](https://cabify.com/i/alessandrt1033){: target="_blank" rel="noopener"}
 
@@ -416,11 +416,11 @@ Detto questo, dopo le undici di notte abbiamo spesso optato per una macchina.
 
 Se anche tu, come noi, cerchi di fuggire dall'inverno europeo, sappi che Buenos Aires &egrave; un'ottima opzione anche sotto questo punto di vista.
 
-Infatti, dicembre, gennaio e febbraio sono i mesi estivi, in cui fa molto caldo.
+Infatti, **dicembre, gennaio e febbraio sono i mesi estivi**, in cui fa molto caldo.
 
 ![](/uploads/storico-temperature-meteo-buenos-aires.webp){: width="1066" height="692"}
 
-Questo significa che, soprattutto a gennaio, la citt&agrave; &egrave; mezza vuota perché tutti i locals si spostano nei paesi di mare, come Mar del Plata o Pinamar.
+Questo significa che, soprattutto **a gennaio, la citt&agrave; &egrave; mezza vuota** perché tutti i local si spostano nei paesi di mare, come Mar del Plata o Pinamar.
 
 In effetti fa tanto caldo, anche oltre i 40 gradi.
 
