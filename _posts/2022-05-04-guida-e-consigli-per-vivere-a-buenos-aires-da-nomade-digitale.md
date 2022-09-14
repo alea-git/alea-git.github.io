@@ -302,23 +302,23 @@ Purtroppo noi l'abbiamo scoperto dopo qualche tempo dal nostro arrivo e non abbi
 
 ## Telefonia e wifi
 
-Appena dopo aver cambiato i primi euro in ARS, la prima cosa che abbiamo fatto &egrave; stata quella di comprarci una sim con numero argentino, cos&igrave; da avere internet sullo smartphone.
+Appena dopo aver cambiato i primi euro in ARS, la prima cosa che abbiamo fatto &egrave; stata quella di comprarci una SIM con numero argentino, cos&igrave; da avere internet sullo smartphone.
 
 **Le compagnie pi&ugrave; quotate sono Personal, Movistar e Claro.**
 
 Noi abbiamo optato per Claro:
 
-4 giga per un mese a 850 pesos (al cambio del pagamento circa €4).
+4 giga per un mese a ARS 850 (al cambio del pagamento circa €4).
 
 Il procedimento &egrave; semplice.
 
-Innanzitutto devi sapere che quella che noi chiamiamo sim loro la chiamano *chip mobile*, giusto per capirsi.
+Innanzitutto devi sapere che quella che noi chiamiamo SIM loro la chiamano *chip mobile*, giusto per capirsi.
 
 Abbiamo trovato la nostra *chip mobile prepago* in uno dei molteplici *kiosco* che ci sono per le strade di Buenos Aires, ad esempio gli El Javi.
 
-Quella di Claro &egrave; costata pochissimo, sotto i 100 ARS (purtroppo non ci siamo segnati la cifra esatta).
+Quella di Claro &egrave; costata pochissimo, sotto i ARS 100 (purtroppo non ci siamo segnati la cifra esatta).
 
-Dopodiché devi semplicemente seguire la procedura indicata sulla carta per attivarla.
+Dopodiché devi semplicemente seguire la procedura indicata sulla carta per attivarla, si svolge tutto in pochi minuti sul loro sito.
 
 Per quanto riguarda la copertura del segnale, con Claro non ci possiamo lamentare. Non ci ha mai lasciato senza internet e sempre in 4G.
 
