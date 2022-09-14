@@ -744,13 +744,13 @@ Anche la frutta secca &egrave; consigliata acquistarla nei negozi specifici (si 
 
 Con quasi 3 milioni di abitanti, Buenos Aires &egrave; uno dei principali punti di convergenza delle popolazioni latinoamericane.
 
-Questo si traduce in una grande diversit&agrave; culturale.
+Questo si traduce in una **grande diversit&agrave; culturale**.
 
-In pi&ugrave;, il fascino che emana in tutto il mondo l'ha resa una meta internazionale, rendendo facile incontrare altri viaggiatori.
+In pi&ugrave;, il fascino che emana in tutto il mondo l'ha resa **una meta internazionale**, rendendo facile incontrare altri viaggiatori.
 
 Gi&agrave; questo basterebbe per fare intendere che di certo le persone non sono un problema, essendo tante e di ogni stile immaginabile.
 
-Gli argentini, comunque, ci sono sembrati diretti e aperti, pronti a dare una mano e a coinvolgere sconosciuti alle loro feste/uscite dopo aver scambiato solo qualche parola.
+**Gli argentini, comunque, ci sono sembrati diretti e aperti**, pronti a dare una mano e a coinvolgere sconosciuti alle loro feste/uscite dopo aver scambiato solo qualche parola.
 
 *Insomma, non sono diffidenti e amano godersi la vita.*
 
@@ -764,8 +764,12 @@ La conseguenza di questo clima rilassato nel modo di relazionarsi si ripercuote 
 
 ## <br>Conclusioni
 
-Abbiamo amato Buenos Aires, ci ha regalato quattro mesi intensi, con una qualit&agrave; di vita davvero alta, tra costo della vita economico, vasta offerta culturale e relazioni personali significative.
+Abbiamo amato Buenos Aires, ci ha regalato quattro mesi intensi, con **una qualit&agrave; di vita davvero alta**, tra costo della vita economico, vasta offerta culturale e relazioni personali significative.
 
 *Tenore di vita da ricchi, posti fantastici, eventi, belle persone, cos'altro puoi volere?*
 
-Ci torneremo il prossimo gennaio *(probabilmente sar&agrave; l'occasione per arricchire ancora di pi&ugrave; questa guida)* e questo pensiamo sia il modo migliore per consigliare un posto a qualcuno.
+Ci torneremo il prossimo gennaio, probabilmente sar&agrave; l'occasione per arricchire ancora di pi&ugrave; questa guida.
+
+Intanto, per qualsiasi dubbio o richiesta, contattaci via email, &egrave; sempre bello conoscere altri viaggiatori.
+
+*Diviértete, &iexcl;hasta la pr&oacute;xima\!*
