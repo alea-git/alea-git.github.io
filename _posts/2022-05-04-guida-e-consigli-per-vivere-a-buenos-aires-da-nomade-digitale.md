@@ -229,7 +229,7 @@ Purtroppo l’abbiamo dovuto scoprire con l’esperienza:
 
 il giorno stesso in cui siamo arrivati in citt&agrave; siamo andati nel WU pi&ugrave; vicino; la ragazza che ci ha servito diceva di non avere cos&igrave; tanti contati, ovvero l’equivalente di €200, per&ograve; poteva cambiarci una cifra minore se pagavamo in euro contanti.
 
-Avevamo bisogno di soldi per fare un minimo di spesa e comprare la sim per il numero argentino, quindi siamo stati costretti ad accettare.
+Avevamo bisogno di soldi per fare un minimo di spesa e comprare la SIM per il numero argentino, quindi siamo stati costretti ad accettare.
 
 Ovviamente ci ha fatto un tasso parecchio inferiore al Blue.
 
@@ -252,17 +252,19 @@ Se pensi di utilizzare Western Union, ti lascio qui il link di affiliazione per 
 
 ## Lingua e livello di inglese
 
-La lingua ufficiale &egrave; lo spagnolo. Si differenzia da quello parlato in Spagna dall’uso del voseo (l’uso del pronome di seconda persona plurale vos al posto del tu, che causa anche l’uso di differenti forme verbali).
+La lingua ufficiale &egrave; lo spagnolo. **Si differenzia da quello parlato in Spagna dall’uso del voseo** (l’uso del pronome di seconda persona plurale *vos* al posto del *tu*, che causa anche l’uso di differenti forme verbali).
 
-Un’altra importante differenza &egrave; sulla fonetica di alcune parole, come la pronuncia della doppia L, quindi parole come *calle* (significa via, viene pronunciato *casce* invece del classico *caglie*) e *parrilla* (significa griglia, pronunciato *parriscia* invece di *parriglia*).
+Un’altra importante differenza &egrave; sulla fonetica di alcune parole, come la pronuncia della doppia L:
 
-Inoltre, diverse parole italiane si utilizzano anche nel parlato argentino (come gamba in alternativa a pierna, per indicare l'arto inferiore).
+ad esempio,&nbsp;*calle,* che*&nbsp;*significa via, viene pronunciato *casce* invece del classico *caglie*&nbsp;e *parrilla,&nbsp;*significa griglia, viene pronunciato *parriscia* invece di *parriglia*.
+
+Inoltre, diverse parole italiane si utilizzano anche nel parlato argentino (come *gamba* in alternativa a *pierna*, per indicare l'arto inferiore).
 
 Non siamo linguisti, quindi non approfondiamo oltre, &egrave; un qualcosa che comunque dovresti sapere prima di arrivare in Argentina.
 
-Nel caso cercassi una scuola di spagnolo, tieni a mente queste differenze perché ti marchieranno inevitabilmente in tutti i tuoi futuri viaggi in cui si parla spagnolo.
+Nel caso cercassi una scuola di spagnolo, tieni a mente queste differenze perché **ti marchieranno inevitabilmente in tutti i tuoi futuri viaggi in cui si parla spagnolo**.
 
-Noi abbiamo deciso di frequentarne una, l’idea di imparare con l’accento argentino non ci disturbava, anzi.
+Noi abbiamo deciso di frequentarne una, l’idea di imparare lo spagnolo con l’accento argentino non ci disturbava, anzi.
 
 Per la ricerca della scuola di spagnolo a Buenos Aires abbiamo valutato diverse opzioni:
 
