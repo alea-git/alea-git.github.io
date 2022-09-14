@@ -692,11 +692,11 @@ Poi, frequentando persone porte&ntilde;e *(cio&egrave; di Buenos Aires)*, abbiam
 
 Un vero peccato.
 
-Per&ograve;, se ti interessa comunque scoprire *il ballo proibito*, abbiamo delle info utili da darti.
+Per&ograve;, se ti interessa comunque scoprire il *ballo proibito*, abbiamo delle info utili da darti.
 
 San Telmo &egrave; il quartiere in cui si respira ancora un po' dell'antica atmosfera dei primi del '900, con locali caratteristici in cui si svolgono gli spettacoli.
 
-Il consiglio principale &egrave; quello di lasciare perdere i tango show, fatti per turisti e inutilmente costosi, dei locali pi&ugrave; famosi e buttati in una Milonga, ovvero il luogo in cui si balla il tango. Noi siamo andati al Viruta Club Tango.
+Il consiglio principale &egrave; quello di **lasciare perdere i tango show**, fatti per turisti e inutilmente costosi, dei locali pi&ugrave; famosi e **buttati in una Milonga**, ovvero il luogo in cui si balla il tango. Noi siamo andati al Viruta Club Tango.
 
 <iframe src="https://player.vimeo.com/video/723519316?h=1842aa54cf" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
@@ -706,7 +706,7 @@ Tra l'altro, consigliamo il Viruta anche nel caso volessi prendere delle lezioni
 
 Un altro posto in cui dovresti andare &egrave; Barrancas de Belgrano, un parco molto bello in cui, nella parte alta, &egrave; presente un gazebo:
 
-verso il tramonto le persone iniziano a trovarsi per ballare insieme.
+**verso il tramonto le persone iniziano a trovarsi per ballare insieme.**
 
 &Egrave; davvero molto suggestivo e romantico, super consigliato.
 
@@ -716,9 +716,9 @@ Fare la spesa &egrave; un'arte.
 
 *Perlomeno, a noi piace pensarla cos&igrave;.*
 
-Ci sono molti supermercati in giro per la citt&agrave;, sia di catene che di privati.
+Ci sono molti supermercati in giro per la citt&agrave;, sia di catene che di piccoli commercianti.
 
-Le pi&ugrave; famose sono:
+Le pi&ugrave; famose e grandi sono:
 
 * D&igrave;a
 * Coto
@@ -728,7 +728,7 @@ Le pi&ugrave; famose sono:
 
 Ora, dipende tutto dalla posizione in cui abiti.
 
-**Personalmente, ci siamo trovati bene con D&igrave;a e Coto** (molto famoso il Coto vicino all'uscita del subte Scalabrini Ortiz, c'&egrave; di tutto).
+**Personalmente, ci siamo trovati bene con D&igrave;a e Coto** (molto famoso il Coto vicino all'uscita del *subte Scalabrini Ortiz*, c'&egrave; di tutto).
 
 Disco e Jumbo sono spesso molto grandi, ci sono stati consigliati per via di una vasta scelta di prodotti importati dall'Italia (che ovviamente costano tanto).
 
