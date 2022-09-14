@@ -272,19 +272,19 @@ alla fine abbiamo scelto Wanderlust perché vicino al nostro primo Airbnb e con 
 
 ![](/uploads/scuola-spagnolo-buenos-aires.webp){: width="307" height="467"}
 
-Un corso medio-intensivo, ovvero due ore ogni mattina per cinque giorni a settimana, per un mese, &egrave; costato 71500 ARS (al cambio di quando abbiamo pagato, circa €300).
+Un corso medio-intensivo, ovvero due ore ogni mattina per cinque giorni a settimana, per un mese, &egrave; costato ARS 71500 (al cambio di quando abbiamo pagato, circa €300).
 
 Il corso &egrave; stato sicuramente utile, anche se non ci ha fatto impazzire il metodo applicato.
 
 Sembrava non esserci un vero programma da seguire, le lezioni iniziavano con delle chiacchiere di circostanza, finché non uscivano richieste o argomenti abbastanza utili da poter approfondire.
 
-Per quanto riguarda la lingua inglese, non aspettarti di parlarlo nei negozi, supermercati e locali. Anzi, non aspettarti di parlarlo.
+**Per quanto riguarda la lingua inglese, non aspettarti di parlarlo nei negozi, supermercati e locali.** Anzi, non aspettarti di parlarlo.
 
-## Kit di benvenuto per nomadi digitali
+## Visa e kit di benvenuto per nomadi digitali
 
 L'amministrazione di Buenos Aires ha iniziato ad incentivare il lavoro da remoto nella propria citt&agrave;, offrendo sconti e agevolazioni a chiunque ne faccia richiesta.
 
-Proprio appena dopo essere tornati dall'Argentina, il Ministero del Turismo ha annunciato l'attivazione di una visa specifica per i nomadi digitali, che permette una permanenza su tutto il suolo argentino per sei mesi invece dei tre previsti dalla visa turistica.
+Proprio appena dopo essere tornati dall'Argentina, il Ministero del Turismo ha annunciato l'attivazione di una **visa specifica per i nomadi digitali**, che permette una permanenza su tutto il suolo argentino per **sei mesi invece dei tre** previsti dalla visa turistica.
 
 Inoltre sono presenti una serie di agevolazioni che, non avendo avuto modo di provare in prima persona, non possiamo raccontare.
 
@@ -292,13 +292,13 @@ Inoltre sono presenti una serie di agevolazioni che, non avendo avuto modo di pr
 
 Gi&agrave; prima di questo annuncio erano presenti delle agevolazioni per nomadi.
 
-In particolare, offrono gratuitamente un kit di benvenuto che comprende (al momento) uno sconto del 40% per lo shuttle che porta dall'aeroporto alla citt&agrave;, sconti per gli appartamenti e, forse la parte pi&ugrave; interessante, una sim prepagata e la carta per utilizzare il trasporto pubblico.
+In particolare, **offrono gratuitamente un kit di benvenuto** che comprende (al momento) uno sconto del 40% per lo shuttle che porta dall'aeroporto alla citt&agrave;, sconti per gli appartamenti e, forse la parte pi&ugrave; interessante, una sim prepagata e la carta per utilizzare il trasporto pubblico.
 
-&Egrave; possibile ritirarlo direttamente dall'aeroporto, &egrave; sufficiente prenotarlo dal sito ufficiale che lasciamo di seguito:
+**&Egrave; possibile ritirarlo direttamente dall'aeroporto**, &egrave; sufficiente prenotarlo dal sito ufficiale che lasciamo di seguito:
 
 [OTTIENI MAGGIORI INFO E PRENOTA IL KIT PER NOMADI DIGITALI](https://baglobal.buenosaires.gob.ar/nomades-digitales){: target="_blank" rel="noopener"}
 
-Purtroppo noi l'abbiamo scoperto dopo qualche tempo dal nostro arrivo e non abbiamo potuto provare il servizio in prima persona; peccato perché avere da subito la sim con numero argentino e la carta per il trasporto pubblico &egrave; un bella comodit&agrave;.
+Purtroppo noi l'abbiamo scoperto dopo qualche tempo dal nostro arrivo e non abbiamo potuto provare il servizio in prima persona; peccato perché **avere da subito la SIM con numero argentino e la carta per il trasporto pubblico &egrave; un bella comodit&agrave;.**
 
 ## Telefonia e wifi
 
