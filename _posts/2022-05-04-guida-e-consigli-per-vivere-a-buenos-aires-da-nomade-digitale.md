@@ -128,13 +128,13 @@ Confinante con Palermo, Villa Crespo &egrave; un quartiere con molti local ed &e
 
 *Comprare vestiti a Buenos Aires &egrave; un problema, costano molto.*
 
-&Egrave; lontana dal centro di Buenos Aires, nonostante sia servita dalla linea B della metro, e dai maggiori punti di interesse della citt&agrave;, di conseguenza il costo della vita &egrave; pi&ugrave; basso.
+&Egrave; lontana dal centro di Buenos Aires e dai maggiori punti di interesse della citt&agrave;, nonostante sia servita dalla linea B della metro, di conseguenza il costo della vita &egrave; pi&ugrave; basso.
 
 ##### Recoleta
 
 Recoleta &egrave; un quartiere chic abitato da famiglie facoltose, famoso per il suo cimitero monumentale. In questa zona sono presenti alcuni dei prezzi pi&ugrave; alti per le case in tutta la citt&agrave;; in effetti &egrave; molto tranquilla e pieni di locali e ristoranti di lusso.
 
-Se puoi permettertelo, &egrave; sicuramente un bel posto per viverci, essendo anche situata in una posizione comoda sia per raggiungere Palermo che il Microcentro.
+**Se puoi permettertelo, &egrave; sicuramente un bel posto per viverci**, essendo anche situata in una posizione comoda sia per raggiungere Palermo che il Microcentro.
 
 ##### Monserrat
 
@@ -142,7 +142,7 @@ Il centro della citt&agrave;, di cui fa parte anche il Microcentro, molto traffi
 
 ##### Puerto Madero
 
-Il centro finanziario della citt&agrave;, ci sono i locali e ristoranti pi&ugrave; costosi. Mal servita dalla metro, non la consigliamo per viverci.
+Il centro finanziario della citt&agrave;, ci sono i locali e ristoranti pi&ugrave; costosi. **Mal servita dalla metro**, non la consigliamo per viverci.
 
 ##### San Telmo
 
@@ -152,7 +152,7 @@ San Telmo &egrave; il quartiere del tango, in cui potrai trovare molti locali st
 
 ##### Boca
 
-La Boca &egrave; il quartiere di Maradona e della Bombonera, il famoso stadio della squadra di calcio Boca Juniors.<br>Ora, devi sapere due cose fondamentali: moltissimi argentini non sono mai andati in questo quartiere perché lo considerano super turistico; non andarci MAI con qualsiasi indumento o accessorio della squadra rivale, il River Plate, per i residenti sarebbe un affronto gravissimo.
+La Boca &egrave; il quartiere di Maradona e della Bombonera, il famoso stadio della squadra di calcio Boca Juniors.<br>**Ora, devi sapere due cose fondamentali:** moltissimi argentini non sono mai andati in questo quartiere perché lo considerano super turistico; non andarci MAI con qualsiasi indumento o accessorio della squadra rivale, il River Plate, per i residenti sarebbe un affronto gravissimo.
 
 In effetti il Caminito, la via centrale che attraversa la Boca, &egrave; fatta apposta per i turisti. Di conseguenza i prezzi sono molto alti, nonostante il cibo sia nella media. Non consigliamo di viverci.
 
@@ -162,7 +162,7 @@ Belgrano &egrave; un bel quartiere residenziale, principalmente abitato da famig
 
 &Egrave; un po' distante dal centro di Buenos Aires, non troppo lontano da Palermo; &egrave; comunque ben servita dalla metro, in 20 minuti si raggiunge la Casa Rosada.
 
-Senza dubbio &egrave; uno dei quartieri in cui consigliamo di vivere, soprattutto se non ami l'eccessivo stile hipster di Palermo.
+**Senza dubbio &egrave; uno dei quartieri in cui consigliamo di vivere**, soprattutto se non ami l'eccessivo stile hipster di Palermo.
 
 ## Costo della vita e Airbnb
 
@@ -186,7 +186,7 @@ Anche il secondo Aibnb &egrave; costato sui €1000 per un mese, questa volta in
 
 La terza e ultima casa, presa per sette giorni, &egrave; costata €275, in zona Las Ca&ntilde;itas.
 
-In generale, grazie al cambio Blue, tutto &egrave; molto economico (tranne l'abbigliamento, che abbiamo trovato pi&ugrave; caro rispetto all'Italia) per chi ha uno stipendio in euro/dollari.
+In generale, grazie al cambio Blue, tutto &egrave; molto economico *(tranne l'abbigliamento, che, come gi&agrave; anticipato, abbiamo trovato pi&ugrave; caro rispetto all'Italia)* per chi ha uno stipendio in euro/dollari.
 
 ## Moneta locale
 
@@ -201,15 +201,15 @@ Ora, **capire come gestire il cambio &egrave; il passaggio pi&ugrave; importante
 
 Il motivo &egrave; semplice:
 
-Il Blue Dollar, almeno al momento in cui scriviamo, &egrave; quotato praticamente al doppio del cambio ufficiale. $214 contro i $111,94 del Banco Naci&oacute;n.
+Il Blue Dollar, almeno al momento in cui scriviamo, &egrave; quotato praticamente al doppio del cambio ufficiale. ARS 214 contro i ARS 111 del Banco Naci&oacute;n *(USD/ARS)*.
 
-E cambia anche in fretta. Il primo cambio l’abbiamo fatto a €236, dopo una settimana e mezzo ne abbiamo fatto un altro e un peso valeva €255, per poi scendere sino a €204.
+E cambia anche in fretta. Il primo cambio l’abbiamo fatto a ARS 236 *(EUR/ARS)*, dopo una settimana e mezzo ne abbiamo fatto un altro e un euro valeva ARS 255, per poi scendere sino a ARS 204.
 
 Per essere pratici, questo significa che per i €400 cambiati a fine aprile ci hanno dato €50 in meno rispetto al cambio effettuato a gennaio.
 
 *Se ti sembra poco, ti assicuro che €50 a Buenos Aires fanno la differenza.*
 
-Prima di arrivare in Argentina abbiamo faticato parecchio per capire come accedere al cambio Blue, fortunatamente non ci siamo fermati alle prime risposte e abbiamo trovato un modo sicuro.
+Prima di arrivare in Argentina abbiamo faticato parecchio per capire **come accedere al cambio Blue**, fortunatamente non ci siamo fermati alle prime risposte e **abbiamo trovato un modo sicuro**.
 
 Essendo una sorta di mercato nero, spesso i cambi si fanno per la strada.
 
