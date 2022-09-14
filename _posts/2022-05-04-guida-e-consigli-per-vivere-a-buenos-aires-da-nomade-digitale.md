@@ -436,9 +436,9 @@ A Buenos Aires sono presenti diversi co-working. Noi, per&ograve;, abbiamo prefe
 
 <iframe src="https://player.vimeo.com/video/723388328?h=537a366e4f" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
-Ovviamente, dato che non abbiamo provato i cowo non ne parleremo, per&ograve; abbiamo una lista di locali in cui ci siamo ricordati di segnarci la velocit&agrave; di internet e pi&ugrave; o meno i prezzi, ci auguriamo ti sia utile a risparmiare tempo.
+Dato che non abbiamo provato i cowo non ne parleremo, per&ograve; abbiamo una lista di locali in cui ci siamo ricordati di segnarci la velocit&agrave; di internet e pi&ugrave; o meno i prezzi, ci auguriamo ti sia utile a risparmiare tempo.
 
-In generale, Palermo &egrave; la zona in cui si concentrano tutti i posti idonei per stare con un pc per molto tempo.
+In generale, **Palermo &egrave; la zona in cui si concentrano tutti i posti idonei per stare con un pc per molto tempo.**
 
 In zona microcentro (Montserrant ma anche pi&ugrave; a sud, verso San Telmo) abbiamo avuto difficolt&agrave; a trovare un luogo adatto.
 
@@ -454,7 +454,7 @@ Tieni presente che i prezzi sul men&ugrave;, in base all'andamento dell'inflazio
 * Download 315.92 Mbps
 * Upload 27,77 Mbps.
 * Enchufe: S&igrave;
-* Prezzi: il t&egrave; costa 200
+* Prezzi: il t&egrave; costa ARS 200
 * Particolarit&agrave;: al piano superiore c'&egrave; un grande tavolo con prese in cui &egrave; molto comodo e piacevole lavorare
 
 ##### Padre Coffee Roasters
@@ -462,7 +462,7 @@ Tieni presente che i prezzi sul men&ugrave;, in base all'andamento dell'inflazio
 * PING 14 ms,
 * Download 93.38 Mbps,
 * Upload 28.29 Mbps.
-* Prezzi: Espresso 150, T&egrave; 350, Coca Zero 200
+* Prezzi: Espresso ARS 150, T&egrave; ARS 350, Coca Zero ARS 200
 
 ##### BBlue
 
@@ -480,7 +480,7 @@ Tieni presente che i prezzi sul men&ugrave;, in base all'andamento dell'inflazio
 * Download 262,97 Mbps,
 * Upload 15,66 Mbps.
 * Enchufe: Non presenti nel rooftop
-* Prezzi: 200 un t&egrave;/caff&egrave;
+* Prezzi: ARS 200 un t&egrave;/caff&egrave;
 * Particolarit&agrave;: C’&egrave; un rooftop riparato dal vento e con ombrelli anti-sole in cui si lavora bene, le sedie di tela non troppo comode ma c’&egrave; di peggio
 
 ##### Cafe Martinez (Villa Crespo)
@@ -489,8 +489,8 @@ Tieni presente che i prezzi sul men&ugrave;, in base all'andamento dell'inflazio
 * Download 100MBps,
 * Upload 20 Mbps
 * Enchufe: Si nei tavoli piccoli attaccati al muro
-* Prezzi: 300/400 per un americano
-* Particolarit&agrave;: posto abbastanza grande (quindi non hai la pressione di andare via), tavolo in legno molto grande per lavorare, ben illuminato con illuminazione artificiale e tranquillo
+* Prezzi: ARS 300/400 per un americano
+* Particolarit&agrave;: posto abbastanza grande (quindi non hai la pressione di andare via), tavolo in legno molto grande per lavorare, ben illuminato con luce artificiale e atmosfera tranquilla
 
 ##### Birkin
 
@@ -498,14 +498,14 @@ Tieni presente che i prezzi sul men&ugrave;, in base all'andamento dell'inflazio
 * Download 27Mbps,
 * Upload 23 Mbps
 * Enchufe: Si, in alcuni tavoli attaccati al muro
-* Prezzi: 230 per un americano, medio alti in generale
+* Prezzi: ARS 230 per un americano, medio alti in generale
 * Particolarit&agrave;: posto con design moderno e luci soffuse, carino per lavorare. Durante orario di punta molto affollato.
 
 ##### All Saints Cafe
 
 * Velocit&agrave; Internet: PING 20 ms, Download 109,92 Mbps, Upload 18,14 Mbps.
 * Enchufe: No
-* Prezzi: 300 pesos un te, 290 un espresso
+* Prezzi: t&egrave; ARS 300, espresso ARS 290&nbsp;
 * Particolarit&agrave;: Bella l’atmosfera, in posizione centrale
 
 ## Cosa visitare
@@ -521,11 +521,11 @@ Per darti uno spunto e farti risparmiare un po' di tempo nella ricerca, di segui
 * Paseo El Rosedal
 * Planetario Galileo Galilei
 * Jard&iacute;n Japonés
-* El Caminito (La Boca - *non ci andare con la maglia del River Plate se tieni alla tua vita, sul serio*)
+* El Caminito (*La Boca - meglio ripetersi, non ci andare con la maglia del River Plate se tieni alla tua vita, sul serio*)
 * Puerto Madero
 * MALBA (*museo d'arte moderna molto famoso*)
 * Teatro Colon
-* Bomba de Tiempo (percussioni dal vivo, nel video di seguito)
+* Bomba de Tiempo (*percussioni dal vivo, nel video di seguito*)
 
 <iframe src="https://player.vimeo.com/video/723522110?h=eee99f50c7" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
