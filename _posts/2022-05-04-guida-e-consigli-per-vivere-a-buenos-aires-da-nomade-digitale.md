@@ -104,7 +104,7 @@ In particolare, consigliamo di tenere il discorso del confine come riferimento g
 
 **Ci sono comunque delle zone in Buenos Aires in cui, semplicemente, non devi andarci**, come Villa 31 (nei dintorni di Retiro) e San Telmo/Microcentro di notte.
 
-Sicuramente sono presenti altri posti in cui non &egrave; consigliato andarci, sia di giorno che di notte; i luoghi sopracitati sono solo i pi&ugrave; conosciuti. come regola generale, **la parte nord-ovest della citt&agrave; &egrave; pi&ugrave; sicura della zona sud-est.**
+Sicuramente sono presenti altri posti in cui non &egrave; consigliato andarci, sia di giorno che di notte; i luoghi sopracitati sono solo i pi&ugrave; conosciuti. Come regola generale, **la parte nord-ovest della citt&agrave; &egrave; pi&ugrave; sicura della zona sud-est.**
 
 Per il resto, sono posti in cui abbiamo avuto la parvenza di vita normale, con molta polizia che gira sia in macchina che a piedi.
 
