@@ -11,11 +11,9 @@ author: Alessandro Trezza; Gabriel Gatu
 
 Buenos Aires &egrave; un posto fantastico.
 
-*Ok, calma, andiamo con ordine.*
-
 Dopo i due mesi e mezzo a Las Palmas *(da met&agrave; ottobre a dicembre 2021)*, abbiamo deciso di trasferirci a Buenos Aires, Argentina.
 
-Situata nella parte meridionale dell’America Latina, dicembre e gennaio sono i mesi estivi, in cui le temperature arrivano anche oltre i 40 gradi.
+Situata nella parte meridionale dell’America Latina, **dicembre e gennaio sono i mesi estivi**, in cui le temperature arrivano anche oltre i 40 gradi.
 
 ![](/uploads/mappa-buenos-aires.webp){: width="1684" height="1364"}![](/uploads/mappa-buenos-aires-dov-è-1.webp){: width="1684" height="1364"}![](/uploads/mappa-buenos-aires-dov-è.webp){: width="1684" height="1364"}
 
@@ -31,7 +29,7 @@ L'idea era di fare due mesi, alla fine abbiamo prolungato fino ad inizio maggio,
 
 Se ti stai chiedendo perché abbiamo scelto di vivere a Buenos Aires, la risposta &egrave; semplice:
 
-c'&egrave; sembrato il posto pi&ugrave; caldo ed economico in cui lavorare durante i primi mesi dell’anno, senza dover rinunciare ai confort di una citt&agrave; europea.
+c'&egrave; sembrato **il posto pi&ugrave; caldo ed economico in cui lavorare durante i primi mesi dell’anno**, senza dover rinunciare ai confort di una citt&agrave; europea.
 
 Quindi, se anche tu stai valutando di passare un periodo da nomade digitale a Buenos Aires, continua a leggere, cercheremo di darti tutte le info di cui necessiti per goderti la permanenza al meglio.
 
@@ -67,9 +65,9 @@ Appena arrivati in citt&agrave;, senza ARS (la valuta locale, il peso argentino)
 
 La destinazione era l'Airbnb in zona Palermo Soho, la corsa &egrave; costata € 30.
 
-Per il ritorno, da Palermo zona Las Ca&ntilde;itas, utilizzando DiDi e potendo pagare in valuta locale, il costo della corsa &egrave; stato di 2041 ARS, ovvero circa € 9,50.
+Per il ritorno, da Palermo zona Las Ca&ntilde;itas, utilizzando l'app di ridesharing DiDi e potendo pagare in valuta locale, il costo della corsa &egrave; stato di 2041 ARS, ovvero circa € 9,50.
 
-Il vantaggio nel pagare in valuta locale &egrave; ovvio, quindi cerca di organizzarti prima, in modo da avere internet per utilizzare le app di ridesharing e il contante in peso per pagare (*pi&ugrave; avanti trattiamo entrambi gli argomenti*).
+Il vantaggio nel pagare in valuta locale &egrave; ovvio, quindi **cerca di organizzarti prima**, in modo da avere internet per utilizzare le app di ridesharing e il contante in ARS per pagare (*pi&ugrave; avanti trattiamo entrambi gli argomenti*).
 
 ## Assicurazione sanitaria
 
@@ -83,7 +81,7 @@ Abbiamo optato per due assicurazioni mediche, XME Protezione della banca Intesa 
 
 In realt&agrave; sarebbe stata sufficiente anche solo la prima, peccato che, a una settimana dalla partenza non avevamo ancora stipulato nessun contratto e quella di Intesa ha un periodo di decorrenza di 30 giorni, dunque saremmo stati scoperti.
 
-Abbiamo chiesto un preventivo alle maggiori compagnie assicurative e tutte quante erano allineate con prezzi intorno ai €500/annui, spesso con limiti sui giorni di permanenza accettati in uno stesso stato.
+Abbiamo chiesto un preventivo alle maggiori compagnie assicurative e tutte quante erano allineate con prezzi intorno ai €500/annui, spesso con limitazioni sui giorni di permanenza spendibili all'interno di una nazione.
 
 XME Protezione Salute, con l'aggiunta del modulo che protegge i nostri device dai furti, ci costa €19,07 al mese.
 
@@ -91,7 +89,7 @@ XME Protezione Salute, con l'aggiunta del modulo che protegge i nostri device da
 
 Safety Wing, forse l'assicurazione pi&ugrave; utilizzata dai nomadi digitali di tutto il mondo, costa $42 al mese.
 
-Ad essere sinceri, i controlli in dogana sono stati una pura formalit&agrave;; d'altronde i fogli di Intesa erano scritti in italiano e, per quanto tempo passassero a sfogliarli, non penso abbiano capito tutti i massimali previsti. Comunque &egrave; importante essere coperti da un'assicurazione sanitaria dato che i migliori ospedali argentini sono privati.
+Ad essere sinceri, i controlli in dogana sono stati una pura formalit&agrave;; d'altronde i fogli di Intesa erano scritti in italiano e, per quanto tempo passassero a sfogliarli, non penso abbiano capito tutti i massimali previsti. Comunque **&egrave; importante essere coperti da un'assicurazione sanitaria dato che i migliori ospedali argentini sono privati.**
 
 ## <br>Sicurezza e dove vivere
 
