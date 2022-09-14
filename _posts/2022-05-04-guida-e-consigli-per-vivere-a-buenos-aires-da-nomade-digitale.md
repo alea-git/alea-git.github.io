@@ -93,22 +93,22 @@ Ad essere sinceri, i controlli in dogana sono stati una pura formalit&agrave;; d
 
 ## <br>Sicurezza e dove vivere
 
-Appena si inizia a cercare informazioni sulla sicurezza di Buenos Aires, che sia su internet o da persone che ci sono state, abbiamo notato che due consigli in particolare erano ricorrenti:
+Appena si comincia a informarsi sulla sicurezza di Buenos Aires, che sia su internet o da persone che ci sono state, abbiamo notato che due consigli in particolare sono ricorrenti:
 
 * non uscire dal limite segnato dalla Ruta Nationl A001 e Rio Matanza-Riachuelo, ovvero l’autostrada e il fiume che segnano il confine tra Buenos Aires e la provincia;![](/uploads/confine-buenos-aires.webp){: width="1684" height="1364"}
 * non vestirsi in modo troppo appariscente, soprattutto indossando accessori costosi.
 
-Sono consigli validi, anche se, a dire il vero, non ci siamo mai sentiti in pericolo.
+**Sono consigli validi, anche se, a dire il vero, non ci siamo mai sentiti in pericolo.**
 
 In particolare, consigliamo di tenere il discorso del confine come riferimento generico, non come una regola ferrea; noi stessi siamo usciti dalla linea rossa andando a nord, una zona che, peraltro, &egrave; abitata dai facoltosi della citt&agrave;.
 
-Ci sono comunque delle zone in Buenos Aires in cui, semplicemente, non devi andarci, come Villa 31 (nei dintorni di Retiro) e San Telmo/Microcentro di notte.
+**Ci sono comunque delle zone in Buenos Aires in cui, semplicemente, non devi andarci**, come Villa 31 (nei dintorni di Retiro) e San Telmo/Microcentro di notte.
 
-Sicuramente sono presenti altri posti in cui non &egrave; consigliato andarci, sia di giorno che di notte, noi abbiamo segnalato i pi&ugrave; conosciuti; come regola generale, la parte nord-ovest della citt&agrave; &egrave; pi&ugrave; sicura della zona sud-est.
+Sicuramente sono presenti altri posti in cui non &egrave; consigliato andarci, sia di giorno che di notte; i luoghi sopracitati sono solo i pi&ugrave; conosciuti. come regola generale, **la parte nord-ovest della citt&agrave; &egrave; pi&ugrave; sicura della zona sud-est.**
 
 Per il resto, sono posti in cui abbiamo avuto la parvenza di vita normale, con molta polizia che gira sia in macchina che a piedi.
 
-In particolare, Palermo &egrave; un posto davvero tranquillo in cui difficilmente avrai problemi.
+In particolare, **Palermo &egrave; un posto tranquillo in cui solitamente non si hanno problemi.**
 
 Scegliere in quale quartiere vivere dipende anche dal tipo di permanenza che si desidera.
 
@@ -125,6 +125,8 @@ In generale, **&egrave; senza ombra di dubbio il miglior quartiere per nomadi di
 ##### Villa Crespo
 
 Confinante con Palermo, Villa Crespo &egrave; un quartiere con molti local ed &egrave; conosciuta per la Zona Outlet, situata tra Aguirre e Gurruchaga, in cui poter trovare vestiti a prezzi pi&ugrave; accessibili.
+
+*Comprare vestiti a Buenos Aires &egrave; un problema, costano molto.*
 
 &Egrave; lontana dal centro di Buenos Aires, nonostante sia servita dalla linea B della metro, e dai maggiori punti di interesse della citt&agrave;, di conseguenza il costo della vita &egrave; pi&ugrave; basso.
 
