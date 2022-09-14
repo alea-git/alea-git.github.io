@@ -65,7 +65,7 @@ Appena arrivati in citt&agrave;, senza ARS (la valuta locale, il peso argentino)
 
 La destinazione era l'Airbnb in zona Palermo Soho, la corsa &egrave; costata € 30.
 
-Per il ritorno, da Palermo zona Las Ca&ntilde;itas, utilizzando l'app di ridesharing DiDi e potendo pagare in valuta locale, il costo della corsa &egrave; stato di 2041 ARS, ovvero circa € 9,50.
+Per il ritorno, da Palermo zona Las Ca&ntilde;itas, utilizzando l'app di ridesharing DiDi e potendo pagare in valuta locale, il costo della corsa &egrave; stato di ARS 2041, circa € 9,50.
 
 Il vantaggio nel pagare in valuta locale &egrave; ovvio, quindi **cerca di organizzarti prima**, in modo da avere internet per utilizzare le app di ridesharing e il contante in ARS per pagare (*pi&ugrave; avanti trattiamo entrambi gli argomenti*).
 
