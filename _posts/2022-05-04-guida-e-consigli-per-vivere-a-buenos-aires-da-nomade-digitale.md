@@ -650,23 +650,23 @@ Principalmente ci sono due posti in cui praticare le proprie sessioni di corsa, 
 * Bosques de Palermo
 * Puerto Madero / Reserva Ecologica Costanera Sur
 
-Tendenzialmente un allenamento di 10 km si riesce a fare senza alcun problema in entrambi i posti.
+Tendenzialmente **un allenamento di 10 km si riesce a fare senza alcun problema** in entrambi i posti.
 
 Volendo, con un po' di fantasia, si riesce a fare anche tragitti pi&ugrave; lunghi.
 
-In particolare per il Bosques de Palermo, partendo dal Jard&iacute;n Bot&aacute;nico Carlos Thays, passando per Plaza Italia e Avenida Sarmiento, si arriva al Paseo del Rosedal, parco molto suggestivo e piacevole.
+In particolare per il *Bosques de Palermo*, partendo dal *Jard&iacute;n Bot&aacute;nico Carlos Thays*, passando per *Plaza Italia* e *Avenida Sarmiento*, si arriva al *Paseo del Rosedal*, parco molto suggestivo e piacevole.
 
-Da quel punto si raggiunge il Bosques tramite un ponte.
+Da quel punto si raggiunge il *Bosques* tramite un ponte.
 
 ![](/uploads/running-buenos-aires-1.webp){: width="429" height="467"}
 
-Per facilitarti la vita, ti consiglio di seguire questo tragitto (appurato dopo diversi tentativi, credo sia la soluzione migliore se abiti a sud del Jardin Bot&aacute;nico).
+Per facilitarti la vita, ti consiglio di seguire questo tragitto (appurato dopo diversi tentativi, credo sia la soluzione migliore se abiti a sud del *Jardin Bot&aacute;nico*).
 
 **Della Reserva Ecologica devi sapere una curiosit&agrave; fondamentale:**
 
 quando piove, per i successivi due/tre giorni almeno &egrave; tutto allagato e, di conseguenza, inagibile.
 
-Purtroppo l'unica volta che ho provato questo percorso aveva piovuto da poco, quindi sono riuscito a fare ben poco.
+Purtroppo l'unica volta che ho provato questo percorso aveva piovuto da poco, quindi non sono riuscito a visitarlo.
 
 ##### Palestre di Buenos Aires
 
@@ -674,7 +674,7 @@ Ci sono molte palestre in citt&agrave;, anche specifiche per CrossFit.
 
 Il costo medio &egrave; sui €25/30 al mese, dipende da quali servizi aggiuntivi scegli.
 
-Ad esempio, noi abbiamo scelto la Well Club Arenales che, per un mese con sala pesi e palestra, &egrave; costata 7000 ARS (intorno ai €30).
+Ad esempio, noi abbiamo scelto la Well Club Arenales che, per un mese con sala pesi e piscina, &egrave; costata ARS 7000 (intorno ai €30).
 
 *Poi la piscina era di 18 metri e profonda 80cm, ma vabb&egrave;.*
 
