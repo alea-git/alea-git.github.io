@@ -551,21 +551,23 @@ Tra tutte le pizze argentine che abbiamo provato, a noi &egrave; piaciuta molto 
 
 La carne argentina &egrave; veramente di una qualit&agrave; superiore. In media, persino quella nei supermercati, &egrave; proprio buona.
 
-Il ristorante Don Julio pare essere tra i 3 migliori al mondo per la qualit&agrave; di carne, ti consigliamo di passarci.
+**Il ristorante Don Julio pare essere tra i 3 migliori al mondo per la qualit&agrave; di carne,** ti consigliamo di passarci.
+
+A proposito di carne, un altro piatto tipo della cucina argentina &egrave; *la milanesa*, ovvero la nostra classica cotoletta alla milanese.
 
 ##### Fast food argentino
 
-Per quanto riguarda il fast food, &egrave; tipico il choripan, un panino con un chorizo (salsiccia di maiale) e, al massimo, con un po' di salsa chimichurri. Assolutamente da provare.
+Per quanto riguarda il fast food, &egrave; tipico il *choripan*, un panino con un *chorizo* (salsiccia di maiale) e, al massimo, con un po' di salsa *chimichurri*. Assolutamente da provare.
 
 <iframe src="https://player.vimeo.com/video/723522152?h=4805a4275b" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
-Anche le empanadas appartengono al fast food tipico di Buenos Aires, costano poco e sono molto buoni.
+Anche le *empanadas* appartengono al fast food tipico di Buenos Aires, costano poco e sono molto buoni.
 
 ![](/uploads/empanadas.webp){: width="351" height="467"}
 
 ##### Mate e Fernet Cola
 
-Vero simbolo degli argentini, il mate:
+**Vero simbolo degli argentini, il mate:**
 
 &egrave; una bevanda ricavata dall'infusione, all'interno di una zucca, dell'erba mate.
 
@@ -575,15 +577,15 @@ Il primo assaggio pu&ograve; essere abbastanza difficile:
 
 <iframe src="https://player.vimeo.com/video/723536955?h=31b37ff4d6" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
-*Dopo un po' ci si abitua al gusto forte, lo beviamo tuttora.*
+*Dopo un po' ci si abitua al gusto forte, noi lo beviamo tuttora.*
 
-Tantissime persone lo consumano per strada, con la propria borraccia termica per l'acqua calda. Si offre come segno di ospitalit&agrave; esattamente come gli italiani fanno con il caff&egrave;; prima della pandemia, era tradizione condividere lo stesso mate con pi&ugrave; persone.
+Tantissime persone lo consumano per strada, con la propria borraccia termica per l'acqua calda. **Si offre come segno di ospitalit&agrave;** esattamente come gli italiani fanno con il caff&egrave;; prima della pandemia, era tradizione condividere lo stesso mate con pi&ugrave; persone.
 
-Il Fernet Cola, ovvero met&agrave; Coca Cola e met&agrave; amaro Fernet Branca, invece, &egrave; il cocktail pi&ugrave; diffuso tra i giovani di Buenos Aires.
+**Il Fernet Cola**, ovvero met&agrave; Coca Cola e met&agrave; amaro Fernet Branca, invece, **&egrave; il cocktail pi&ugrave; diffuso tra i giovani** di Buenos Aires.
 
 Da italiano &egrave; strano vedere come il Fernet, un amaro quasi difficile da trovare in Italia perché legato a tradizioni del passato, sia cos&igrave; in voga.
 
-D'altra parte &egrave; bello vedere come l'influenza degli immigrati italiani sia ancora forte nella cultura odierna argentina.
+D'altra parte &egrave; bello constatare con i propri occhi come l'influenza degli immigrati italiani sia ancora forte nella cultura odierna argentina.
 
 ##### Dolci: Alfajores e chocotorta
 
@@ -595,11 +597,11 @@ In realt&agrave; pare siano dolci di origini arabe o comunque spagnole.
 
 *Se provi a riferirlo ad uno del posto non la prender&agrave; bene.*
 
-In Argentina, comunque, &egrave; un dolce molto celebrato e, per questo motivo, in diverse zone troverai modi diversi di produrlo con gusti particolari.
+In Argentina, comunque, **&egrave; un dolce molto celebrato** e, per questo motivo, in diverse zone troverai modi diversi di produrlo con gusti particolari.
 
-I pi&ugrave; buoni a Buenos Aires pare siano quelli di Havanna e di Cachafaz.
+**I pi&ugrave; buoni a Buenos Aires pare siano quelli di Havanna e di Cachafaz.**
 
-La chocotorta, invece, &egrave; un dolce delle nuove generazioni, fatto da uno specifico tipo di biscotto, la *chocolina*, e (tanto) *dulce de leche*. Negli ultimi anni &egrave; diventato un po' l'equivalente del nostro tiramis&ugrave;, si mangia principalmente in casa, in occasione di festeggiamenti per il compleanno.
+La *chocotorta*, invece, &egrave; un dolce delle nuove generazioni, fatto da uno specifico tipo di biscotto, la *chocolina*, e (tanto) *dulce de leche*. Negli ultimi anni &egrave; diventato un po' l'equivalente del nostro tiramis&ugrave;, **si mangia principalmente in casa**, in occasione di festeggiamenti per il compleanno.
 
 ![](/uploads/chocotorta.webp){: width="388" height="467"}
 
@@ -609,21 +611,21 @@ Dato che piace molto, alcuni locali lo hanno aggiunto nel proprio men&ugrave;, s
 
 Senza dilungarci troppo nella descrizione dei posti, ti lasciamo una lista con i luoghi che abbiamo provato e ci sono particolarmente piaciuti.
 
-* Patio de los lecheros (posto molto caratteristico e frequentato quasi solo da local, nel video di seguito)
+* Patio de los lecheros (*posto molto caratteristico e frequentato quasi solo da local, nel video di seguito*)
 
 <iframe src="https://player.vimeo.com/video/723522076?h=05c0ba6b99" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
-* Chu&igrave; (posto suggestivo)
-* Atis Bar (una delle milanesi pi&ugrave; buone, posto suggestivo)
-* Bar Tortoni (bar storico, con spettacolo di tango)
-* Sacro (ambiente di lusso e cucina raffinata e di qualit&agrave;)
-* Artemisia (ottimo per i vegani)
-* Bellagamba Bodeg&ograve;n (prezzi bassi e posto caratteristico)
+* Chu&igrave; (*posto suggestivo*)
+* Atis Bar (*una delle milanesi pi&ugrave; buone, posto suggestivo*)
+* Bar Tortoni (*bar storico, con spettacolo di tango*)
+* Sacro (*ambiente di lusso e cucina raffinata e di qualit&agrave;*)
+* Artemisia (*ottimo per i vegani*)
+* Bellagamba Bodeg&ograve;n (*prezzi bassi e posto caratteristico*)
 * Mercato Soho
-* Encuentro Nativo (molto turistico, con spettacolo di tango)
-* Rapa Nui (miglior gelateria)
-* Vegan Creamery by Haulani (miglior gelateria vegana)
-* Alvear Roof Bar (miglior rooftop della citt&agrave;, nel video di seguito al tramonto)
+* Encuentro Nativo (*molto turistico, con spettacolo di tango*)
+* Rapa Nui (*miglior gelateria*)
+* Vegan Creamery by Haulani (*miglior gelateria vegana*)
+* Alvear Roof Bar (*miglior rooftop della citt&agrave;, nel video di seguito al tramonto*)
 
 <iframe src="https://player.vimeo.com/video/723522041?h=85e23b4f2b" width="320" height="569" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
