@@ -531,19 +531,19 @@ Per darti uno spunto e farti risparmiare un po' di tempo nella ricerca, di segui
 
 #### <br>Posti in cui mangiare e piatti tipici
 
-Fare un pranzo o una cena fuori &egrave; molto economico. L'ultimo mese e mezzo di permanenza abbiamo praticamente smesso di fare la spesa e siamo passati a poké per pranzo e cene fuori (o in delivery, grazie alle app PedidosYA e Rappi).
+Fare un pranzo o una cena fuori &egrave; molto economico. L'ultimo mese e mezzo di permanenza **abbiamo praticamente smesso di fare la spesa** e siamo passati a poké per pranzo e cene fuori (o in delivery, grazie alle app PedidosYA e Rappi).
 
 ##### La piazza argentina
 
 La pizza argentina &egrave; una particolarit&agrave; che devi provare. Nel momento in cui smetti di paragonarla a quella italiana, &egrave; buona.
 
-Insomma, &egrave; un gusto diverso da ci&ograve; che siamo abituati.
+*Insomma, &egrave; un gusto diverso da ci&ograve; che siamo abituati quando mangiamo una pizza.*
 
-&Egrave; alta, con molto formaggio; non c'&egrave; l'usanza di prendersi una pizza solo per s&egrave;, solitamente si condivide (perché troppo pesante).
+&Egrave; alta, con molto formaggio. Proprio perché &egrave; molto pesante, non c'&egrave; l'usanza di prendersi una pizza solo per sé, solitamente si condivide.
 
 ![](/uploads/pizza-argentina.webp){: width="351" height="467"}
 
-I posti storici in cui mangiarla sono da Guerrin, El Cuartito e Banchero. Se vuoi provare la fugazzetta (ovvero la piazza argentina caratterizzata da tanto formaggio e tanta cipolla) pi&ugrave; famosa, devi andare a La Mazzetta.
+I posti storici in cui mangiarla sono da Guerrin, El Cuartito e Banchero. Se vuoi provare la *fugazzetta* (ovvero la piazza argentina caratterizzata da tanto formaggio e tanta cipolla) pi&ugrave; famosa, devi andare a La Mazzetta.
 
 Tra tutte le pizze argentine che abbiamo provato, a noi &egrave; piaciuta molto quella di Picsa (in Nicaragua 4896).
 
